@@ -20,7 +20,7 @@ Stephen Few created a bar graph version called a bullet chart. The bullet graph 
 
 Metrics- At Least 2 metrics are required for this visualization to be meaningful. A base Metric M1, a target M2. Additional target metrics M3, M4, etc can be added as shown below. Attributes - 1 or more attributes can be included. Use as Filter Option - Available
 
-<figure><img src="../../.gitbook/assets/image66.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image66.png" alt=""><figcaption></figcaption></figure>
 
 ## Plot Bands <a href="#plot-bands" id="plot-bands"></a>
 
@@ -30,24 +30,24 @@ Bullet chart plot bands can be defined based on metric aggregations, similar to 
 
 We can edit these default bands and can apply different aggregation functions for different bands. As shown in the below screenshot hover the cursor on the chart, click on the ‘Edit’ button to get a properties popup window.
 
-<figure><img src="../../.gitbook/assets/DefaultBands.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DefaultBands.png" alt=""><figcaption></figcaption></figure>
 
 By default, all bands are plotted based on the ‘percentile’ value of the metric. We can also make the bands plot using fixed values. In the property editor, go to bullet tab and select ‘Fixed Value’ from the Metric dropdown. Set some value in the ‘Fixed Value’ textbox. Repeat this process for whichever bands should have the ‘fixed value’. See the screenshot below.
 
-<figure><img src="../../.gitbook/assets/FixedValue.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FixedValue.png" alt=""><figcaption></figcaption></figure>
 
 And the bands should look like this:\
 
 
-<figure><img src="../../.gitbook/assets/FV1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FV1.png" alt=""><figcaption></figcaption></figure>
 
 ## Customization of bands <a href="#customization-of-bands" id="customization-of-bands"></a>
 
 From version 5.1, we’ve included new features for band customization under the Bullets property option, allowing us to add more than four bands.
 
-<figure><img src="../../.gitbook/assets/BandZero1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BandZero1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Bullet1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bullet1.png" alt=""><figcaption></figcaption></figure>
 
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 
@@ -59,11 +59,11 @@ To apply thresholds in vitara charts, hover the cursor on the chart. Vitara char
 
 **Note:** From 4.6 version we can apply thresholds using attributes. The source drop down box in the threshold editor window will list all the attributes and metrics in the chart. we can select an attribute as source and define a threshold condition.
 
-<figure><img src="../../.gitbook/assets/image512.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image512.png" alt=""><figcaption></figcaption></figure>
 
 In the threshold editor window apply source, target, threshold condition and the other related information to set a threshold on the chart.
 
-<figure><img src="../../.gitbook/assets/image513.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image513.png" alt=""><figcaption></figcaption></figure>
 
 After giving all the inputs click on ‘Apply’ button.
 
@@ -83,6 +83,6 @@ The zero value bar feature in a bullet chart ensures that even when there is no 
 
 This feature can be enabled under the “Bullet” tabs, where it can be used to display metrics, whose values are zero.
 
-<figure><img src="../../.gitbook/assets/BandZero1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BandZero1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/BandZero2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BandZero2.png" alt=""><figcaption></figcaption></figure>
