@@ -12,3 +12,22 @@
 * [Combination Chart](charts-user-guide/combination-chart.md)
 * [Dumbbell Chart](charts-user-guide/dumbbell-chart.md)
 * [Filter Chart](charts-user-guide/filter-chart.md)
+
+## Grid/MicroChart Guide
+
+* [Appearance](grid-microchart-guide/appearance.md)
+
+## MAPS USER GUIDE
+
+* [Creating New Maps](maps-user-guide/creating-new-maps.md)
+
+## IBCS USER GUIDE
+
+* [IBCS](ibcs-user-guide/ibcs/README.md)
+  * [Why IBCS](ibcs-user-guide/ibcs/why-ibcs.md)
+* [SMALL MULTIPLE](ibcs-user-guide/small-multiple/README.md)
+  * [Multi-tier Bar chart](ibcs-user-guide/small-multiple/multi-tier-bar-chart.md)
+
+## CUSTOMIZATION GUIDE
+
+* [Creating New Maps](customization-guide/creating-new-maps.md)
