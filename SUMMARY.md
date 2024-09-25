@@ -38,4 +38,3 @@
   * [HOME](download/home.md)
   * [MICROSTRATEGY](download/microstrategy.md)
   * [THOUGHTSPOT](download/thoughtspot.md)
-* [Download](https://vitaracharts.gitbook.io/vitaracharts-documentation-1/\~/changes/2Fo5TIPkTK9KXPzyseRv/download?r=mzOE1XmsplPqUwcIrEnh)
