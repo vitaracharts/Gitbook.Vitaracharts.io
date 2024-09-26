@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Installing on MicroStrategy Desktop/Workstation
 
 
