@@ -32,14 +32,14 @@
 
 * [Creating New Maps](customization-guide/creating-new-maps.md)
 
-***
+## SUPPORT
 
-* [DOWNLOAD](download/README.md)
-  * [HOME](download/home.md)
-  * [MICROSTRATEGY](download/microstrategy.md)
-  * [THOUGHTSPOT](download/thoughtspot.md)
-* [INSTALL DOCS](install-docs/README.md)
-  * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
-  * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
-* [FAQ](faq/README.md)
-  * [Contact Us](faq/contact-us.md)
+* [DOWNLOAD](support/download/README.md)
+  * [HOME](support/download/home.md)
+  * [MICROSTRATEGY](support/download/microstrategy.md)
+  * [THOUGHTSPOT](support/download/thoughtspot.md)
+* [INSTALL DOCS](support/install-docs/README.md)
+  * [Installing on MicroStrategy Web](support/install-docs/installing-on-microstrategy-web.md)
+  * [Installing on MicroStrategy Desktop/Workstation](support/install-docs/installing-on-microstrategy-desktop-workstation.md)
+* [FAQ](support/faq/README.md)
+  * [Contact Us](support/faq/contact-us.md)
