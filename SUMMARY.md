@@ -38,5 +38,8 @@
   * [HOME](download/home.md)
   * [MICROSTRATEGY](download/microstrategy.md)
   * [THOUGHTSPOT](download/thoughtspot.md)
-
-## Group 1
+* [INSTALL DOCS](install-docs/README.md)
+  * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
+  * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
+* [FAQ](faq/README.md)
+  * [Contact Us](faq/contact-us.md)
