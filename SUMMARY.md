@@ -24,6 +24,18 @@
 * [Pie Chart](charts-user-guide/pie-chart.md)
 * [Polar Charts](charts-user-guide/polar-charts.md)
 * [Sankey Chart](charts-user-guide/sankey-chart.md)
+* [Simple KPI Chart](charts-user-guide/simple-kpi-chart.md)
+* [Slope Chart](charts-user-guide/slope-chart.md)
+* [Sparkline Chart](charts-user-guide/sparkline-chart.md)
+* [Stacked Column/Bar](charts-user-guide/stacked-column-bar.md)
+* [Text Node](charts-user-guide/text-node.md)
+* [Tornado Chart](charts-user-guide/tornado-chart.md)
+* [Trellis Chart](charts-user-guide/trellis-chart.md)
+* [Variwide Chart](charts-user-guide/variwide-chart.md)
+* [Waffle Chart](charts-user-guide/waffle-chart.md)
+* [Waterfall Chart](charts-user-guide/waterfall-chart.md)
+* [Wordcloud Chart](charts-user-guide/wordcloud-chart.md)
+* [Workstation](charts-user-guide/workstation.md)
 
 ## Grid/MicroChart Guide
 
