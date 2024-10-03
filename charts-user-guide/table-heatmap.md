@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Table heatmap
 
 A heatmap is a graphical representation of data that shows a metric at the intersection of two attribute values. The custom table heatmap in VitaraCharts allows you to insert numerous attributes on the columns (axis and y-axis) and illustrate the differences in the measures at a glance. Below is an example table heatmap.
@@ -12,7 +26,9 @@ Use as Filter Option - Available
 
 Thresholds Option - Available
 
-#### Heatmap <a href="#heatmap-1" id="heatmap-1"></a>
+<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+
+## Heatmap <a href="#heatmap-1" id="heatmap-1"></a>
 
 From the 4.5 version of Vitara charts, the cell border properties are added to the heatmap chart. Border width, Border radius and Border color are the three options added in the cell border properties.
 
@@ -22,9 +38,13 @@ The “border width” feature in a heatmap chart lets users adjust the thicknes
 
 The “border color” feature in a heatmap chart enables users to customize the color of the lines or borders that separate individual cells or squares in the heatmap grid. This feature enhances visual distinction and allows for further customization of the heatmap’s appearance, aiding data interpretation and analysis.
 
+<figure><img src="../.gitbook/assets/heatMap1.png" alt=""><figcaption></figcaption></figure>
+
 Below is the example where the applied border properties are shown Border width - 3 Border radius - 15 Border color - Sky blue
 
-#### Thresholds <a href="#thresholds" id="thresholds"></a>
+<figure><img src="../.gitbook/assets/heatMap.png" alt=""><figcaption></figcaption></figure>
+
+## Thresholds <a href="#thresholds" id="thresholds"></a>
 
 In the business point of view, certain part of the chart needs to be highlighted to draw more attention from the desicion makers. For example, highlight the stores where total sales is greater than a specific value or highlight the top 10 products whose sales is high during last year’s winter. Thresholds are very useful objects in these use cases.
 
@@ -36,10 +56,16 @@ Note: As of version 4.6, we can use characteristics to impose thresholds. All th
 
 By default, Heatmap establishes a threshold (Gradient threshold) and bases the plot colours on it. The heatmap’s threshold editor is seen in the screenshot below. The chart’s default threshold is displayed by the threshold editor. By selecting the ‘Add’ option, we can modify this threshold, delete it, and add a new one.
 
-#### Total Labels <a href="#total-labels" id="total-labels"></a>
+<figure><img src="../.gitbook/assets/image514.png" alt=""><figcaption></figcaption></figure>
+
+## Total Labels <a href="#total-labels" id="total-labels"></a>
 
 As of Vitara charts version 4.9.2, the heatmap chart by default shows vertical and horizontal totals.The data labels menu has an option for this feature. The data labels menu’s ‘Total Labels’ option can be enabled or disabled independently of the ‘All’ selection for the heatmap chart.
 
-#### Background Image <a href="#background-image" id="background-image"></a>
+<figure><img src="../.gitbook/assets/heatmap_totallabels.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/heatmap_totallabels1.png" alt=""><figcaption></figcaption></figure>
+
+## Background Image <a href="#background-image" id="background-image"></a>
 
 The steps to set a background image for all Vitara charts are explained in backgroundImage.
