@@ -99,10 +99,6 @@
   * [Disable Edit button](customization-guide/disable-edit-button.md)
   * [Grid Custom CSS](customization-guide/grid-custom-css.md)
 
-## CUSTOMIZATION GUIDE
-
-* [Creating New Maps](customization-guide-1/creating-new-maps.md)
-
 ## SUPPORT
 
 * [DOWNLOAD](download/README.md)
