@@ -37,21 +37,71 @@
   * [Workstation](charts-user-guide/workstation.md)
 * [GRID/MICROCHART GUIDE](grid-microchart-guide/README.md)
   * [Appearance](grid-microchart-guide/appearance.md)
+  * [Auto Size](grid-microchart-guide/auto-size.md)
+  * [Column Totals](grid-microchart-guide/column-totals.md)
+  * [Context Menu](grid-microchart-guide/context-menu.md)
+  * [Creating a micro chart](grid-microchart-guide/creating-a-micro-chart.md)
+  * [Custom markers](grid-microchart-guide/custom-markers.md)
+  * [Custom Editor](grid-microchart-guide/custom-editor.md)
+  * [Filter Data](grid-microchart-guide/filter-data.md)
+  * [Format/Clear Format](grid-microchart-guide/format-clear-format.md)
+  * [Grand Total](grid-microchart-guide/grand-total.md)
+  * [Pivoting and Row Grouping](grid-microchart-guide/pivoting-and-row-grouping.md)
+  * [Horizontal Bars/Pins](grid-microchart-guide/horizontal-bars-pins.md)
+  * [Embed Images](grid-microchart-guide/embed-images.md)
+  * [Manage Scaling Grouping](grid-microchart-guide/manage-scaling-grouping.md)
+  * [Manage Column Grouping](grid-microchart-guide/manage-column-grouping.md)
+  * [Manage Metric Grouping](grid-microchart-guide/manage-metric-grouping.md)
+  * [Pin Column](grid-microchart-guide/pin-column.md)
+  * [Reset Columns](grid-microchart-guide/reset-columns.md)
+  * [Show/Hide Column](grid-microchart-guide/show-hide-column.md)
+  * [Sorting](grid-microchart-guide/sorting.md)
+  * [Subtotals](grid-microchart-guide/subtotals.md)
+  * [Thresholds](grid-microchart-guide/thresholds.md)
+  * [Tooltip](grid-microchart-guide/tooltip.md)
+  * [Transparency](grid-microchart-guide/transparency.md)
+  * [Trend Lines](grid-microchart-guide/trend-lines.md)
+  * [Value Aggregation](grid-microchart-guide/value-aggregation.md)
+  * [Variance](grid-microchart-guide/variance.md)
 
 ## MAPS USER GUIDE
 
 * [Creating New Maps](maps-user-guide/creating-new-maps.md)
+* [Custom Layouts](maps-user-guide/custom-layouts.md)
+* [Customization of the Map chart](maps-user-guide/customization-of-the-map-chart.md)
+* [Default Maps](maps-user-guide/default-maps.md)
+* [Formatting Options](maps-user-guide/formatting-options.md)
+* [Generic Merge tool](maps-user-guide/generic-merge-tool.md)
+* [US map using counties data](maps-user-guide/us-map-using-counties-data.md)
+* [US Map using ZIP Codes](maps-user-guide/us-map-using-zip-codes.md)
 
 ## IBCS USER GUIDE
 
 * [IBCS](ibcs-user-guide/ibcs/README.md)
   * [Why IBCS](ibcs-user-guide/ibcs/why-ibcs.md)
-* [SMALL MULTIPLE](ibcs-user-guide/small-multiple/README.md)
-  * [Multi-tier Bar chart](ibcs-user-guide/small-multiple/multi-tier-bar-chart.md)
+  * [Mapping IBCS Scenarios](ibcs-user-guide/ibcs/mapping-ibcs-scenarios.md)
+  * [Negative Metrics](ibcs-user-guide/ibcs/negative-metrics.md)
+  * [Scaling Multiple Charts](ibcs-user-guide/ibcs/scaling-multiple-charts.md)
+* [CERTIFIED CHARTS](ibcs-user-guide/certified-charts/README.md)
+  * [Multi-tier Bar chart](ibcs-user-guide/certified-charts/multi-tier-bar-chart.md)
+  * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart.md)
+  * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart-1.md)
+  * [Vertical Waterfall](ibcs-user-guide/certified-charts/vertical-waterfall.md)
+
+***
+
+* [CUSTOMIZATION GUIDE](customization-guide/README.md)
+  * [Custom CSS](customization-guide/custom-css.md)
+  * [Custom CSS Samples](customization-guide/custom-css-samples.md)
+  * [Custom Color Palette](customization-guide/custom-color-palette.md)
+  * [Custom Fonts](customization-guide/custom-fonts.md)
+  * [Condensed Metric Format](customization-guide/condensed-metric-format.md)
+  * [Disable Edit button](customization-guide/disable-edit-button.md)
+  * [Grid Custom CSS](customization-guide/grid-custom-css.md)
 
 ## CUSTOMIZATION GUIDE
 
-* [Creating New Maps](customization-guide/creating-new-maps.md)
+* [Creating New Maps](customization-guide-1/creating-new-maps.md)
 
 ## SUPPORT
 
