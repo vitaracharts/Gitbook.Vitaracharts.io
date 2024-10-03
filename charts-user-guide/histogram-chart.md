@@ -16,13 +16,13 @@ layout:
 
 To categorise values of a metric into predetermined bins, a histogram is utilized. Data is shown graphically using bars of various heights. A histogram groups metric values into ranges (bin size), similar to a bar chart, but you may choose which ranges to use. You can adjust the bin size to meet your needs. The values under each bin’s cumulative sum line can also be displayed.
 
-#### Inputs <a href="#inputs" id="inputs"></a>
+## Inputs <a href="#inputs" id="inputs"></a>
 
 Metrics: 1 metric Attributes: 1 attribute. Use as Filter Option - Not Available
 
 <figure><img src="../.gitbook/assets/image75.png" alt=""><figcaption></figcaption></figure>
 
-#### Data labels <a href="#data-labels" id="data-labels"></a>
+## Data labels <a href="#data-labels" id="data-labels"></a>
 
 Data labels in a histogram chart show the count of data points in each bar. They help viewers understand data distribution and make comparisons, aiding in statistical analysis and data presentations.
 
@@ -30,27 +30,29 @@ We can format the data labels and bin total also. You can see the attached scree
 
 <figure><img src="../.gitbook/assets/Histogram1.png" alt=""><figcaption></figcaption></figure>
 
-#### Bin Size and Cumulative Sum <a href="#bin-size-and-cumulative-sum" id="bin-size-and-cumulative-sum"></a>
+## Bin Size and Cumulative Sum <a href="#bin-size-and-cumulative-sum" id="bin-size-and-cumulative-sum"></a>
 
-Bin Size:
+### Bin Size:
 
 Bins are the towers or bars that make up a histogram. Each bin’s height indicates how many values from the data fall within that range. Below is the screenshot of the property to modify the bin size.
 
 <figure><img src="../.gitbook/assets/HistogramZero1.png" alt=""><figcaption></figcaption></figure>
 
-**Default bin size:**&#x20;
+### **Default bin size:**&#x20;
 
 <figure><img src="../.gitbook/assets/histogramb.png" alt=""><figcaption></figcaption></figure>
 
-**Modified bin size:**&#x20;
+### **Modified bin size:**&#x20;
 
 <figure><img src="../.gitbook/assets/histograma (1).png" alt=""><figcaption></figcaption></figure>
 
-**Cumulative Sum:** A cumulative histogram is a mapping that counts the total number of observations in all bins up to the chosen bin.&#x20;
+## **Cumulative Sum:**
+
+&#x20;A cumulative histogram is a mapping that counts the total number of observations in all bins up to the chosen bin.&#x20;
 
 <figure><img src="../.gitbook/assets/histogramc.png" alt=""><figcaption></figcaption></figure>
 
-#### Markers <a href="#markers" id="markers"></a>
+## Markers <a href="#markers" id="markers"></a>
 
 When the Vitara histogram chart shows the cumulative sum line, we can make a chart to show a marker at each intersection of each bin and the cumulative sum line. The type and size of the marker customizable.
 
@@ -62,11 +64,11 @@ Below is the example of histogram chart shows the cumulative sum line with marke
 
 <figure><img src="../.gitbook/assets/Histogram3.png" alt=""><figcaption></figcaption></figure>
 
-#### Background Image <a href="#background-image" id="background-image"></a>
+## Background Image <a href="#background-image" id="background-image"></a>
 
 The steps to set a background image for all Vitara charts are explained in backgroundImage.
 
-#### Zero Value Bar <a href="#zero-value-bar" id="zero-value-bar"></a>
+## Zero Value Bar <a href="#zero-value-bar" id="zero-value-bar"></a>
 
 In Version 5.1.1.010, we included a new feature that allows users to show zero value bars.
 
