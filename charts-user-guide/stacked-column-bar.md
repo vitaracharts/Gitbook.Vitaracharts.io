@@ -120,7 +120,9 @@ Vertical polar mode in stacked column charts arranges data points in a circular 
 
 Below are the steps to enable it. Go to the Stacked Column/Bar tab in the property editor and turn on polar mode to observe that the columns are now vertically aligned in polar mode.
 
-**Polar Mode settings**\
+## **Polar Mode settings**
+
+\
 Polar mode comes up four settings which include Start angle, end angle, Outer Pane Size, Inner Pane Size.\
 The default settings of Polar mode are\
 Start Angle: 90, End Angle: 360, Outer Pane Size: 85, Inner Pane Size:20.\
