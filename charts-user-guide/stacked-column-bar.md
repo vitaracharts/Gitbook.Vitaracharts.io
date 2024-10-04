@@ -50,50 +50,69 @@ To utilize metric series, the chart must have two attributes \[one as a category
 
 Create a stacked bar/column chart with 2 attributes and metrics. Stack by attribute values \[i.e drag an attribute into ‘break by’ dropzone]. See the sample screenshot below.
 
-**Step 2**
+<figure><img src="../.gitbook/assets/stackedStep1.png" alt=""><figcaption></figcaption></figure>
+
+## **Step 2**
 
 Open the property editor and go to series tab
 
-**Step 3**
+## **Step 3**
 
 Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.\
 
+
+<figure><img src="../.gitbook/assets/stackedStep3.png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**
 
 Select all required options for that series and click on ‘Apply’ See the screenshot below.\
 
 
+<figure><img src="../.gitbook/assets/stackedStep4.png" alt=""><figcaption></figcaption></figure>
+
 Then metric series will be applied on the chart in the form of ‘line graph’. See the screenshot below.\
 
 
-**Remove the Metric Series**
+<figure><img src="../.gitbook/assets/stackedFinal.png" alt=""><figcaption></figcaption></figure>
+
+## **Remove the Metric Series**
 
 The applied series can be removed if the metric respective to that series is removed from the metric dropzone.
 
-#### Pattern Fill in Series <a href="#pattern-fill-in-series" id="pattern-fill-in-series"></a>
+## Pattern Fill in Series <a href="#pattern-fill-in-series" id="pattern-fill-in-series"></a>
 
 Pattern fill feature in a stacked bar/column chart is utilized to enhance data differentiation. By applying unique patterns to each segment of the bars/columns, it aids in distinguishing individual components or categories within the chart. This visual enhancement is particularly helpful when dealing with multiple data series or to highlight specific data elements.
 
 From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double Square/Slash) in the Series tab, which allows us to display data in a more presentable manner.
 
+<figure><img src="../.gitbook/assets/stackColumnSeries.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/stackColumnSeries1.png" alt=""><figcaption></figcaption></figure>
+
 #### Polar Mode <a href="#polar-mode" id="polar-mode"></a>
 
 From the 4.6 version of VitaraCharts, a new feature is added in the Stacked charts where users can enable ‘Polar mode’ i.e, Stacked bar/column chart with a radial value axis. This way of using axes is called Polar coordinate system.
 
-Let’s see how to enable ‘polar mode’ in simple steps.\
+Let’s see how to enable ‘polar mode’ in simple steps.
+
 **Step 1:**\
 Create a Stacked Bar/Column chart with a minimum of one attribute and one metric. See the sample screenshot below.\
 
+
+<figure><img src="../.gitbook/assets/stackedPolar1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:**\
 Open the property editor and go to the ‘Stacked Bar/Column’ tab. Enable the checkbox ‘Enable Polar Mode’. See the screenshot.\
 
 
+<figure><img src="../.gitbook/assets/stackedPolar2.png" alt=""><figcaption></figcaption></figure>
+
 Then the value axis of the chart will be converted into Polar coordinates. Below screenshot shows the default behaviour of the chart with Polar coordinates.\
 
 
-#### Vertical Polar Mode <a href="#vertical-polar-mode" id="vertical-polar-mode"></a>
+<figure><img src="../.gitbook/assets/stackedPolar3.png" alt=""><figcaption></figcaption></figure>
+
+## Vertical Polar Mode <a href="#vertical-polar-mode" id="vertical-polar-mode"></a>
 
 From Version 5.2, we have introduced the new feature of Vertical Stacked Column.
 
