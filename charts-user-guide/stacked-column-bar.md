@@ -46,24 +46,24 @@ With the 4.5 edition of the Vitara charts, a new feature in the Stacked bar/colu
 
 To utilize metric series, the chart must have two attributes \[one as a category and the other as a break by] and at least two metrics \[the first metric is always used to establish the value of the bars/columns, and other metrics can be used to make the metric series]. Let’s look at how to make a metric series in the basic steps below.
 
-## **Step 1**
+### **Step 1**
 
 Create a stacked bar/column chart with 2 attributes and metrics. Stack by attribute values \[i.e drag an attribute into ‘break by’ dropzone]. See the sample screenshot below.
 
 <figure><img src="../.gitbook/assets/stackedStep1.png" alt=""><figcaption></figcaption></figure>
 
-## **Step 2**
+### **Step 2**
 
 Open the property editor and go to series tab
 
-## **Step 3**
+### **Step 3**
 
 Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.\
 
 
 <figure><img src="../.gitbook/assets/stackedStep3.png" alt=""><figcaption></figcaption></figure>
 
-**Step 4**
+### **Step 4**
 
 Select all required options for that series and click on ‘Apply’ See the screenshot below.\
 
@@ -122,6 +122,8 @@ Below are the steps to enable it. Go to the Stacked Column/Bar tab in the proper
 
 <figure><img src="../.gitbook/assets/Stackpolar1.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Stackpolar2.png" alt="" width="563"><figcaption></figcaption></figure>
+
 **Polar Mode settings**\
 Polar mode comes up four settings which include Start angle, end angle, Outer Pane Size, Inner Pane Size.\
 The default settings of Polar mode are\
@@ -134,11 +136,15 @@ Inner Pane Size : 15\
 Then chart looks like the below screenshot\
 
 
+<figure><img src="../.gitbook/assets/stackedPolar4.png" alt=""><figcaption></figcaption></figure>
+
 All the axes settings available for normal Bar chart are also applicable to Polar coordinate system.
 
-#### Data labels <a href="#data-labels" id="data-labels"></a>
+## Data labels <a href="#data-labels" id="data-labels"></a>
 
 We can format the data labels and Stack totals indepently. Below is the screenshots of this option.
+
+<figure><img src="../.gitbook/assets/S.Column.png" alt=""><figcaption></figcaption></figure>
 
 From 4.6.1 version of Vitara charts, a new option ‘Identify format across the metrics’ is introduced in Data labels tab.
 
@@ -149,6 +155,16 @@ To get over this limitation, we need to enable the ‘Identify format across met
 Example:\
 In the below example, all the metrics in the a stacked chart are formated to a number format to show all numbers in Millions, and everything below the million should be ‘0’.
 
+<div>
+
+<figure><img src="../.gitbook/assets/stackedChartFormat4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/stackedChartFormat3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 In this example, the values of Profit metric are below 1 Million, so all the values of the profit metric become zeros. As a result, stacked chart fails in indentifying the number format that should be applied to the stack totals.\
 Hence chart will display stack total in default number format.
 
@@ -156,7 +172,11 @@ Below is the screenshot when the option ‘Identify format across the metrics’
 
 In this use scenario, the chart should take into account not just the first metric but also the number format of other metrics in the chart to establish the number format of the stack totals. The screenshots that demonstrate how to enable the “Identify format across the metrics” option and the stacked chart that results from doing so are shown below.
 
-#### Thresholds <a href="#thresholds" id="thresholds"></a>
+<figure><img src="../.gitbook/assets/stackedChartFormat.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/stackedChartFormat1.png" alt=""><figcaption></figcaption></figure>
+
+## Thresholds <a href="#thresholds" id="thresholds"></a>
 
 In the business point of view, certain part of the chart needs to be highlighted to draw more attention from the desicion makers. For example, highlight the stores where total sales is greater than a specific value or highlight the top 10 products whose sales is high during last year’s winter. Thresholds are very useful objects in these use cases.
 
@@ -166,21 +186,29 @@ To apply thresholds in vitara charts, hover the cursor on the chart. Vitara char
 
 Note: From 4.6 version we can apply thresholds using attributes. The source drop down box in the threshold editor window will list all the attributes and metrics in the chart. we can select an attribute as source and define a threshold condition. The target of the threshold depends on the series of the chart. This means, if the chart series is created using metrics then target drop down box will display the metrics. If we enabled ‘color by’ mode, by adding an attribute to the ‘color by’ drop zone in the dossier’s editor panel, the chart series will be created using attributes. In this case the threshold target drop down box will show all the elements of attribute used in the color by drop zone. In this case we can set threshold target using attribute.
 
+<figure><img src="../.gitbook/assets/image506 (1).png" alt=""><figcaption></figcaption></figure>
+
 In the threshold editor window apply source, target, threshold condition and the other related information to set a threshold on the chart.
+
+<figure><img src="../.gitbook/assets/image507 (1).png" alt=""><figcaption></figcaption></figure>
 
 After giving all the inputs click on ‘Apply’ button.
 
 From version 4.9.0, we can use pattern fill in thresholds, certain part of the chart can be filled with a pattern.
 
-#### Background Image <a href="#background-image" id="background-image"></a>
+<figure><img src="../.gitbook/assets/stackColumnThreshold.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/stackColumnThreshold1.png" alt=""><figcaption></figcaption></figure>
+
+## Background Image <a href="#background-image" id="background-image"></a>
 
 The steps to set a background image for all Vitara charts are explained in backgroundImage.
 
-#### Small Multiples <a href="#small-multiples" id="small-multiples"></a>
+## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
 Stacked bar/column chart supports small multiples feature. Small multiples feature is explained in smallMultiples.
 
-#### Gradient Color <a href="#gradient-color" id="gradient-color"></a>
+## Gradient Color <a href="#gradient-color" id="gradient-color"></a>
 
 A stacked bar/column chart’s gradient color feature lets you to apply a gradual transition of colors to the segments within each stacked bar or column. This results in a smooth transition of color from one end of the section to the other. Gradient colors can be utilized to provide the chart depth, style, and visual interest. They can also help convey additional information by highlighting key segments or data points within the chart. Gradient colors can improve the chart’s looks and make it more appealing to viewers.
 
@@ -188,42 +216,72 @@ From version 5.0, Gradient color fill can be added where the series property is 
 
 It can be enabled by selecting options from the series tab for individual series.
 
+<figure><img src="../.gitbook/assets/Gradient1 (4).png" alt=""><figcaption></figcaption></figure>
+
 It will show the color palette, which will have two selection handles to choose two colors that will render from beginning to end on the series. (From left to right)
 
-#### Zero Value Bar <a href="#zero-value-bar" id="zero-value-bar"></a>
+<figure><img src="../.gitbook/assets/StackedGradient1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/StackedBarG (1).png" alt=""><figcaption></figcaption></figure>
+
+## Zero Value Bar <a href="#zero-value-bar" id="zero-value-bar"></a>
 
 The “zero value bar” feature in a stacked bar/column chart helps represent categories or data points with zero values. While these segments have no height, they are included in the chart to maintain proper category alignment, ensuring a complete and accurate visualization of the data.
 
 In Version 5.1.1.010, we included a new feature that allows users to show zero value bars. This feature can be enabled under the “Stacked Bar/Column” tabs, where it can be used to display metrics, whose values are zero.
 
-#### Play Axis <a href="#play-axis" id="play-axis"></a>
+<figure><img src="../.gitbook/assets/StackedZero.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/StackedZero1.png" alt=""><figcaption></figcaption></figure>
+
+## Play Axis <a href="#play-axis" id="play-axis"></a>
 
 In stacked bar/column charts, we have added the “play axis” option as of version 5.2.4. This feature enables dynamic presentation of data changes across time or categories. This interactive tool illustrates the contributions made by data series to each category or time period. This is excellent for displaying dynamic insights and comprehending trends.
 
 The play axis feature will be accessible/enabled from ‘Play axis’ tab as well as the dropzone available.User can access this when editing staked bar/column chart.Within the tab user can enable/disable data label and apply text style accordingly.User can also set speed of the cog setting available on the play axis.
 
-#### Series based Tooltip and Datalabels <a href="#series-based-tooltip-and-datalabels" id="series-based-tooltip-and-datalabels"></a>
+<figure><img src="../.gitbook/assets/StackedBarPlay.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/StackedBarPlayAxis.png" alt=""><figcaption></figcaption></figure>
+
+## Series based Tooltip and Datalabels <a href="#series-based-tooltip-and-datalabels" id="series-based-tooltip-and-datalabels"></a>
 
 We introduced in version 5.2.4 ,the “Series-based Tooltip” and “Data Labels” features enhance chart data display. When you hover over a data series, series-based tooltips appear, revealing insights into individual data points. Data Labels, on the other hand, allow you to directly display data values on chart elements, which improves data comprehension. These characteristics are useful for expressing precise information and promoting a deeper comprehension of plotted data, making charts more informative and user-friendly.
 
 This feature will be accessible from the “Series” tab in the chart editor menu. Users can access this tab when editing a bar/column chart. Within the “Series” tab, under the metrics two new option named “Data label and Tooltip “ is added, accompanied by a dropdown menu that allows users to select the desired formatting , by default it will be none.In the below screenshots ,I have made changes for the ‘Cost’ series.
 
-#### Reorder or Reverse <a href="#reorder-or-reverse" id="reorder-or-reverse"></a>
+<figure><img src="../.gitbook/assets/Series1 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Series2 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Reorder or Reverse <a href="#reorder-or-reverse" id="reorder-or-reverse"></a>
 
 From version 5.2.4 we have added new feature of the “reorder” or “reverse” functionality in stacked column and bar charts allows users to change the order in which data series are displayed. Reordering helps emphasize specific data categories, making it easier to focus on critical information. It is a useful feature for customization and improving the clarity of data presentation.
 
 This feature will be accessible from the “Stacked Bar/Column” tab in the chart editor menu. Users can access this tab when want to reverse stack order in chart.
 
-#### Removing Spaces between Stacked Column <a href="#removing-spaces-between--stacked-column" id="removing-spaces-between--stacked-column"></a>
+<figure><img src="../.gitbook/assets/Reverse1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Reverse2.png" alt=""><figcaption></figcaption></figure>
+
+## Removing Spaces between Stacked Column <a href="#removing-spaces-between--stacked-column" id="removing-spaces-between--stacked-column"></a>
 
 From Version 5.2.5, removing spaces between columns in a chart is feasible through adjusting the “gap width” or “distance” parameter. By adjusting this feature, one can create a more compact visual representation with a seamless alignment of columns , allowing for a clearer and more impactful presentation of the data.
 
 This option is available in the property editor under the ‘Stacked Bar/Column’ tab and is titled Bar/Column Spacing.
 
+<figure><img src="../.gitbook/assets/stackedcolumn1.png" alt=""><figcaption></figcaption></figure>
+
 In the screenshot below, the spacing of columns is clearly visible in the before and after shots, however in the after image, the spacing is adjusted to ‘0’ among the columns.
 
-#### Adding Grid lines over Stacked Columns/Bars <a href="#adding-grid-lines-over-stacked-columnsbars" id="adding-grid-lines-over-stacked-columnsbars"></a>
+<figure><img src="../.gitbook/assets/stackedbarcolumn.png" alt=""><figcaption></figcaption></figure>
+
+## Adding Grid lines over Stacked Columns/Bars <a href="#adding-grid-lines-over-stacked-columnsbars" id="adding-grid-lines-over-stacked-columnsbars"></a>
 
 From veraion 5.2.5, we have introdcued a new feature of adding grid lines over bar/column ,stacked bar/column chart,this feature enhances clarity by aligning gridlines with the bars, aiding in precise data interpretation. Adjust the gridline appearance to suit preferences. By overlaying gridlines over the bars in polar mode, it facilitates a clearer representation of data and assists in analysis within the circular chart structure.
 
 You may enable this functionality in the property editor by going to the ‘Axes’ tab, then ‘Value Axis’ under the ‘Other’ option and checking the ‘Show Grid Lines over Bar’ checkbox.
+
+<figure><img src="../.gitbook/assets/stackedbarcolumn1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/stackedbarcolumn2.png" alt=""><figcaption></figcaption></figure>
