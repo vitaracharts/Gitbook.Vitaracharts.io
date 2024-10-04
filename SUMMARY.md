@@ -63,33 +63,26 @@
   * [Trend Lines](grid-microchart-guide/trend-lines.md)
   * [Value Aggregation](grid-microchart-guide/value-aggregation.md)
   * [Variance](grid-microchart-guide/variance.md)
-
-## MAPS USER GUIDE
-
-* [Creating New Maps](maps-user-guide/creating-new-maps.md)
-* [Custom Layouts](maps-user-guide/custom-layouts.md)
-* [Customization of the Map chart](maps-user-guide/customization-of-the-map-chart.md)
-* [Default Maps](maps-user-guide/default-maps.md)
-* [Formatting Options](maps-user-guide/formatting-options.md)
-* [Generic Merge tool](maps-user-guide/generic-merge-tool.md)
-* [US map using counties data](maps-user-guide/us-map-using-counties-data.md)
-* [US Map using ZIP Codes](maps-user-guide/us-map-using-zip-codes.md)
-
-## IBCS USER GUIDE
-
-* [IBCS](ibcs-user-guide/ibcs/README.md)
-  * [Why IBCS](ibcs-user-guide/ibcs/why-ibcs.md)
-  * [Mapping IBCS Scenarios](ibcs-user-guide/ibcs/mapping-ibcs-scenarios.md)
-  * [Negative Metrics](ibcs-user-guide/ibcs/negative-metrics.md)
-  * [Scaling Multiple Charts](ibcs-user-guide/ibcs/scaling-multiple-charts.md)
-* [CERTIFIED CHARTS](ibcs-user-guide/certified-charts/README.md)
-  * [Multi-tier Bar chart](ibcs-user-guide/certified-charts/multi-tier-bar-chart.md)
-  * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart.md)
-  * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart-1.md)
-  * [Vertical Waterfall](ibcs-user-guide/certified-charts/vertical-waterfall.md)
-
-***
-
+* [MAPS USER GUIDE](maps-user-guide/README.md)
+  * [Creating New Maps](maps-user-guide/creating-new-maps.md)
+  * [Custom Layouts](maps-user-guide/custom-layouts.md)
+  * [Customization of the Map chart](maps-user-guide/customization-of-the-map-chart.md)
+  * [Default Maps](maps-user-guide/default-maps.md)
+  * [Formatting Options](maps-user-guide/formatting-options.md)
+  * [Generic Merge tool](maps-user-guide/generic-merge-tool.md)
+  * [US map using counties data](maps-user-guide/us-map-using-counties-data.md)
+  * [US Map using ZIP Codes](maps-user-guide/us-map-using-zip-codes.md)
+* [IBCS USER GUIDE](ibcs-user-guide/README.md)
+  * [IBCS](ibcs-user-guide/ibcs/README.md)
+    * [Why IBCS](ibcs-user-guide/ibcs/why-ibcs.md)
+    * [Mapping IBCS Scenarios](ibcs-user-guide/ibcs/mapping-ibcs-scenarios.md)
+    * [Negative Metrics](ibcs-user-guide/ibcs/negative-metrics.md)
+    * [Scaling Multiple Charts](ibcs-user-guide/ibcs/scaling-multiple-charts.md)
+  * [CERTIFIED CHARTS](ibcs-user-guide/certified-charts/README.md)
+    * [Multi-tier Bar chart](ibcs-user-guide/certified-charts/multi-tier-bar-chart.md)
+    * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart.md)
+    * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart-1.md)
+    * [Vertical Waterfall](ibcs-user-guide/certified-charts/vertical-waterfall.md)
 * [CUSTOMIZATION GUIDE](customization-guide/README.md)
   * [Custom CSS](customization-guide/custom-css.md)
   * [Custom CSS Samples](customization-guide/custom-css-samples.md)
