@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Stacked Column/Bar
 
 A stacked bar/column chart is a graphical representation where individual data values are segmented into sections, and each section is stacked on top of another, making up the total value for a specific category. It’s used to illustrate the composition and comparison of data categories while showing their cumulative total.
@@ -10,24 +24,31 @@ Metric inputs: 1 metric Attribute: A minimum of two attributes. Available Use as
 
 Inputs Metrics: 1 metric Attribute: At least 2 attributes. Use as Filter Option - Available
 
-#### Stack by Percentage <a href="#stack-by-percentage" id="stack-by-percentage"></a>
+<figure><img src="../.gitbook/assets/image73.png" alt=""><figcaption></figcaption></figure>
+
+## Stack by Percentage <a href="#stack-by-percentage" id="stack-by-percentage"></a>
 
 By default, stacked bar/column charts stack the bars based on their values. Using the ‘Stack by %’ option, we can adjust the height of the stacked bars based on their % contribution to the total stack value.
 
-#### Stack by Metrics <a href="#stack-by-metrics" id="stack-by-metrics"></a>
+<figure><img src="../.gitbook/assets/image664.png" alt=""><figcaption></figcaption></figure>
+
+## Stack by Metrics <a href="#stack-by-metrics" id="stack-by-metrics"></a>
 
 In 4.2 release the major change in stacked bar/column is, in web documents now we can stack using metrics. Please refer the below screenshot to enable this feature.
 
-#### Adding a line series along with stacked bars/columns <a href="#adding-a-line-series-along-with-stacked-barscolumns" id="adding-a-line-series-along-with-stacked-barscolumns"></a>
+<figure><img src="../.gitbook/assets/image665.png" alt=""><figcaption></figcaption></figure>
+
+## Adding a line series along with stacked bars/columns <a href="#adding-a-line-series-along-with-stacked-barscolumns" id="adding-a-line-series-along-with-stacked-barscolumns"></a>
 
 With the 4.5 edition of the Vitara charts, a new feature in the Stacked bar/column charts allows the user to build a metric series by stacking the attribute values on the same or separate axes. Metric series can be created in three ways: line, area, and data markers. The screenshot below shows a layered Column chart with attributes layered on one axis and a metric series \[line] produced on the other.&#x20;
 
+<figure><img src="../.gitbook/assets/stackedSample.png" alt=""><figcaption></figcaption></figure>
+
 To utilize metric series, the chart must have two attributes \[one as a category and the other as a break by] and at least two metrics \[the first metric is always used to establish the value of the bars/columns, and other metrics can be used to make the metric series]. Let’s look at how to make a metric series in the basic steps below.
 
-**Step 1**
+## **Step 1**
 
-Create a stacked bar/column chart with 2 attributes and metrics. Stack by attribute values \[i.e drag an attribute into ‘break by’ dropzone]. See the sample screenshot below.\
-
+Create a stacked bar/column chart with 2 attributes and metrics. Stack by attribute values \[i.e drag an attribute into ‘break by’ dropzone]. See the sample screenshot below.
 
 **Step 2**
 
