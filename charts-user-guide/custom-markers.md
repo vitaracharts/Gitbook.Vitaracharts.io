@@ -3,13 +3,13 @@
 \
 
 
-### The Power of Custom Markers in Charts <a href="#the-power-of-custom-markers-in-charts" id="the-power-of-custom-markers-in-charts"></a>
+## The Power of Custom Markers in Charts <a href="#the-power-of-custom-markers-in-charts" id="the-power-of-custom-markers-in-charts"></a>
 
 Welcome to the fascinating world of charts, where numbers transform into vibrant stories! Imagine your chart as a canvas waiting to be painted with colorful insights. In this enchanting journey, we’ll dive into the secret ingredient that makes charts come alive: custom markers.
 
 You know those little symbols or icons that add flair to your charts? Those are custom markers! They’re like tiny magicians, bringing a touch of magic to every data point. Today, we’ll explore how these markers work their wonders, starting with the familiar bar and column charts.
 
-#### Bar and Column Chart Magic: Custom Markers Enchanting Category Axis Labels, Datalabels, and Tooltips in a Dance of Colorful Data <a href="#bar-and-column-chart-magic-custom-markers-enchanting-category-axis-labels-datalabels-and-tooltips-in" id="bar-and-column-chart-magic-custom-markers-enchanting-category-axis-labels-datalabels-and-tooltips-in"></a>
+## Bar and Column Chart Magic: Custom Markers Enchanting Category Axis Labels, Datalabels, and Tooltips in a Dance of Colorful Data <a href="#bar-and-column-chart-magic-custom-markers-enchanting-category-axis-labels-datalabels-and-tooltips-in" id="bar-and-column-chart-magic-custom-markers-enchanting-category-axis-labels-datalabels-and-tooltips-in"></a>
 
 Imagine bar and column charts as vibrant dance floors where labels and data come to life, thanks to our special guests – custom markers. These markers are like the dance partners for our category labels. Every label gets its own unique symbol or icon, turning our chart into a visual feast that’s exciting to look at. But the fun doesn’t stop there! These markers sprinkle a bit of charm on our datalabels too, making the numbers look cool and friendly. And guess what? When you hover over a bar or column, it’s like lifting the curtain on a surprise party – tooltips pop up with extra secrets, adding an interactive spark to our chart.
 
@@ -19,7 +19,7 @@ And here’s where the chart becomes even more exciting. When you hover over a b
 
 So, in our bar and column chart party, custom markers are the cool dancers making labels and data look awesome. They turn our chart into a colorful, interactive dance floor where every move tells a story, and every detail is a surprise waiting to be uncovered. Cool, right? That’s the magic of custom markers in our chart dance party!
 
-**Exploring Custom Markers in Bar and Column Charts: A Step-by-Step Guide**
+### **Exploring Custom Markers in Bar and Column Charts: A Step-by-Step Guide**
 
 Follow these simple steps in the property editor to infuse your charts with a personalized touch:
 
@@ -30,13 +30,13 @@ Follow these simple steps in the property editor to infuse your charts with a pe
 * Identify the ‘Label’ dropzone under the ‘Category Axis.’
 * Add your chosen custom markers to infuse visual appeal into category axis labels.
 
-1. Tooltip Customization: Adding Insights to Data Points
+2. Tooltip Customization: Adding Insights to Data Points
 
 * In the Property Editor, locate the ‘Tooltip’ section specific to your chart type.
 * Find the dropzone designated for custom markers within the ‘Tooltip’ section.
 * Seamlessly integrate custom markers to provide additional insights when users hover over data points.
 
-1. Datalabels Enhancement: Bringing Numbers to Life
+3. Datalabels Enhancement: Bringing Numbers to Life
 
 * Navigate to the ‘Datalabels’ section in the Property Editor.
 * Identify the dropzone dedicated to custom markers under ‘Datalabels.’
