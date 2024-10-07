@@ -20,6 +20,8 @@ Open edit popup window, goto background tab, click on “Enable background image
 
 Enter the name of the image with the extension (.png or .jpg) into the text box. Example:
 
+<figure><img src="../.gitbook/assets/BG1.png" alt=""><figcaption></figcaption></figure>
+
 Note: Image name is case sensitive.
 
 #### Using Image URL or full path <a href="#using-image-url-or-full-path" id="using-image-url-or-full-path"></a>
@@ -27,4 +29,8 @@ Note: Image name is case sensitive.
 We can directly copy the image web URL or full path in the text box.\
 Examples:
 
+<figure><img src="../.gitbook/assets/image67.png" alt=""><figcaption></figcaption></figure>
+
 We have options like - original/fit to chart/fill chart/custom, to make the image to fit with the Vitara chart. The opacity option can reduce the intensity of the background image on the Vitara chart. Below we can see a screenshot of Stacked Column Chart with a background image.
+
+<figure><img src="../.gitbook/assets/image26.png" alt=""><figcaption></figcaption></figure>
