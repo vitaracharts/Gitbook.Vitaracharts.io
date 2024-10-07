@@ -10,6 +10,8 @@ Metrics: 1 metric Attributes: 2 attributes Use as Filter Option - Available
 
 <figure><img src="../.gitbook/assets/Trellis1.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Trellis1 (1).png" alt=""><figcaption></figcaption></figure>
+
 Option to set chart type - line, column, bar or scatter. We can set a number of columns to show the subgraph for each element of the first attribute.
 
 #### Markers <a href="#markers" id="markers"></a>
