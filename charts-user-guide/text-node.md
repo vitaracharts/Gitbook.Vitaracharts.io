@@ -30,57 +30,86 @@ To acquire the desired appearance and feel for the VI dashboard, add to dossier 
 
 <figure><img src="../.gitbook/assets/spacer1.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Show Filter Selection Elements <a href="#id-2-show-filter-selection-elements" id="id-2-show-filter-selection-elements"></a>
+### 2. Show Filter Selection Elements <a href="#id-2-show-filter-selection-elements" id="id-2-show-filter-selection-elements"></a>
 
 Vitara text node chart can be used to display the filter selection when we utilize the filter panel to filter the data in the dossier. Drag and drag the identical property that you used in the filter panel into the Vitara text node chart’s “Editor” panel. When you move the cursor over the chart, a “Edit” button will appear. When you click the “Edit” button, a pop-up window appears. In the macro editor window, enter “&” in the “Text Properties” menu. All potential macros, or the properties applied to the text node, will be displayed in the popup window.
 
 \
 
 
+<figure><img src="../.gitbook/assets/textNode14.png" alt=""><figcaption></figcaption></figure>
+
 In the below screenshot vitara text node chart is showing the filter selection used in the dossier.\
 
 
-#### 3. Tittles and Background Images <a href="#id-3-tittles-and-background-images" id="id-3-tittles-and-background-images"></a>
+<figure><img src="../.gitbook/assets/textNode13.png" alt=""><figcaption></figcaption></figure>
 
-Text node chart can be used to show an image in the dossier. The steps to set a background image for all Vitara charts are explained in the following document backgroundImage.
+### 3. Tittles and Background Images <a href="#id-3-tittles-and-background-images" id="id-3-tittles-and-background-images"></a>
+
+Text node chart can be used to show an image in the dossier. The steps to set a background image for all Vitara charts are explained in the following document background Image.
 
 To display the title of the dossier or document, we can utilize the Vitara text node chart as a text container. Using the Vitara text node chart, we can add a stunning title to our dossier or paper in addition to the background image feature.
 
-#### 4. IBCS Specific Usage <a href="#id-4-ibcs-specific-usage" id="id-4-ibcs-specific-usage"></a>
+### 4. IBCS Specific Usage <a href="#id-4-ibcs-specific-usage" id="id-4-ibcs-specific-usage"></a>
 
 _Note: To know the IBCS features and functionalities please refer to the_ [_IBCS user guide_](https://docs.vitaracharts.com/guideIBCSCommonFeatures/about.html)_._
 
 To display certain details in the IBCS enabled chart, we can utilize the following macros in the text node chart together with the IBCS enabled Vitara chart. We require at least one IBCS enabled chart in the dossier/document to set IBCS macros in the text node chart. If the dossier contains multiple IBCS-enabled charts, we must select the chart on which we want to display the macro information. When you move your mouse over the chart, the “Edit” button will appear. When you click the “Edit” button, a popup window will appear. Select the chart to which you wish to apply the macro from the “Text Properties” menu’s “Select Chart Type” drop down box.
 
+<figure><img src="../.gitbook/assets/textNode12.png" alt=""><figcaption></figcaption></figure>
+
 \
 
 
-**&\[chart.list]:**
+#### **&\[chart.list]:**
 
 This macro lists the sub graphs used to display series data types in the selected chart.\
 Data Types: Actual data (AC), Planned data (PL), Delta planned data, Percentage delta planned data.\
 \
 
 
-**&\[chart.count]:**
+<figure><img src="../.gitbook/assets/textNode4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/textNode9.png" alt=""><figcaption></figcaption></figure>
+
+#### **&\[chart.count]:**
 
 This macro will display number of sub graphs used in the IBCS mode.\
 \
 
 
-**&\[chart.dataTypes]:**
+<figure><img src="../.gitbook/assets/textNode6 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/textNode7.png" alt=""><figcaption></figcaption></figure>
+
+#### **&\[chart.dataTypes]:**
 
 This macro will display the data types used in the chart: AC, PL, Delta PL, Percentage Delta PL.\
 \
 
 
-**&\[chart.sortBy]:**
+<figure><img src="../.gitbook/assets/textNode8.png" alt=""><figcaption></figcaption></figure>
 
-This macro provides information about the series used to Sort the IBCS enabled chart.\
+<figure><img src="../.gitbook/assets/textNode5.png" alt=""><figcaption></figcaption></figure>
+
+#### **&\[chart.sortBy]:**
+
+This macro provides information about the series used to Sort the IBCS enabled chart.
+
+<figure><img src="../.gitbook/assets/textNode2.png" alt=""><figcaption></figcaption></figure>
+
+\
 \
 
 
-**&\[category.range]:**
+<figure><img src="../.gitbook/assets/textNode3.png" alt=""><figcaption></figcaption></figure>
+
+#### **&\[category.range]:**
 
 This macro will list starting and ending element in the category axis and the series used to draw those category elements.\
 \
+
+
+<figure><img src="../.gitbook/assets/textNode10.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/textNode11.png" alt=""><figcaption></figcaption></figure>
