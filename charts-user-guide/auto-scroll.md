@@ -26,6 +26,8 @@ Users can now view charts that expand the category axis according to the density
 
 The Auto Scroll option will be available in the Chart Scroll menu under the Appearance tab.
 
+<figure><img src="../.gitbook/assets/autoscroll1.png" alt=""><figcaption></figcaption></figure>
+
 **Options:**
 
 1. Enable Auto Scroll :To enable or disable auto scroll, check the box placed under the Appearance tab’s menu.
@@ -33,8 +35,16 @@ The Auto Scroll option will be available in the Chart Scroll menu under the Appe
 
 A screenshot of the chart with the scroll area opacity set to “0” is shown below, displaying that when you move the scroll bar, the chart will appear behind the value axis.
 
+<figure><img src="../.gitbook/assets/autoscroll2.png" alt=""><figcaption></figcaption></figure>
+
 **Below is the screenshot of charts with Auto scroll feature**
 
 This auto scroll bar can be moved along the category axis and appears horizontally or vertically, depending on how the chart is configured.
 
+<figure><img src="../.gitbook/assets/autoscroll3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/autoscroll4.png" alt=""><figcaption></figcaption></figure>
+
 Invert axes are supported for the column range, waterfall, dumbbell, and bullet charts. When the invert axes option is disabled, the scroll bar automatically moves to the bottom of the chart and scrolls along the category axis.
+
+<figure><img src="../.gitbook/assets/autoScroll0.png" alt=""><figcaption></figcaption></figure>
