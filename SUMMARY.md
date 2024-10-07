@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CHARTS USER GUIDE](README.md)
-  * [Introduction](<README (1).md>)
+  * [Introduction](readme/introduction.md)
   * [Angular Gauge Chart](charts-user-guide/angular-gauge-chart.md)
   * [Bar/Column Chart](charts-user-guide/bar-column-chart.md)
   * [Bubble Chart](charts-user-guide/bubble-chart.md)

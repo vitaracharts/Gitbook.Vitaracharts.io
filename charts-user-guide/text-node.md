@@ -14,19 +14,21 @@ layout:
 
 # Text Node
 
-### Vitara Text Node <a href="#vitara-text-node" id="vitara-text-node"></a>
+## Vitara Text Node <a href="#vitara-text-node" id="vitara-text-node"></a>
 
 Vitara’s text node chart can be used to provide space between visualisations, show tittles, display images, or present IBCS chart specific features.
 
-#### Inputs <a href="#inputs" id="inputs"></a>
+## Inputs <a href="#inputs" id="inputs"></a>
 
 Attributes - At Least one attribute needs to be provided for the visualization.\
 Metrics - No metrics needed.\
 Use as Filter Option - Not Available
 
-#### 1. Space Between Visualizations <a href="#id-1-space-between-visualizations" id="id-1-space-between-visualizations"></a>
+### 1. Space Between Visualizations <a href="#id-1-space-between-visualizations" id="id-1-space-between-visualizations"></a>
 
 To acquire the desired appearance and feel for the VI dashboard, add to dossier to make space between visualisations and adjust for size.The dashboard example below features a spacer between each visualisation and at the title area.
+
+<figure><img src="../.gitbook/assets/spacer1.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Show Filter Selection Elements <a href="#id-2-show-filter-selection-elements" id="id-2-show-filter-selection-elements"></a>
 
@@ -35,7 +37,7 @@ Vitara text node chart can be used to display the filter selection when we utili
 \
 
 
-In the below screenshot vitara text node chart is showing the filter selction used in the dossier.\
+In the below screenshot vitara text node chart is showing the filter selection used in the dossier.\
 
 
 #### 3. Tittles and Background Images <a href="#id-3-tittles-and-background-images" id="id-3-tittles-and-background-images"></a>
