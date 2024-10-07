@@ -59,6 +59,8 @@ Row Animations
 3. Expanding / Collapsing Row Groups
 4. Resizing height of rows Each of these animations is turned OFF by default. The example below shows the animation how it works
 
+<figure><img src="../.gitbook/assets/toggleAnimation2.gif" alt=""><figcaption></figcaption></figure>
+
 ### Show/Hide Dropzones <a href="#show-hide-dropzones" id="show-hide-dropzones"></a>
 
 In the Appearance theme you can see a property named Grid Dropzones, where you can Hide/Show the Grouping/ Pivot dropzones in the Grid chart. By default, the drop zones are shown in the grid chart. You can hide the drop zones if needed.
