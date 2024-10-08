@@ -129,6 +129,6 @@ Plotline orientation will be displayed in both horizontal and vertical direction
 
 The chart editor menu’s “Plot line” tab will provide access to this capability. When adding slope, horizontal or vertical orientation to the bubble chart’s plot line, users can access this tab. The ‘Source’ and ‘Target condition’ become constrained when we add orientation directly as ‘Slope’ under the “Plot line” tab.
 
-<figure><img src="../.gitbook/assets/bubbleSlope1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bubbleSlope1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/bubbleSlope.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bubbleSlope (1).png" alt=""><figcaption></figcaption></figure>

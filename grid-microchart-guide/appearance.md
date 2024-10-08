@@ -42,7 +42,7 @@ There is an option to view the layout from the right to left format from the bui
 
 See the screenshot below when we enable the right to left layout in the grid chart
 
-<figure><img src="../.gitbook/assets/image18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image18 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Toggle Animation <a href="#toggle-animation" id="toggle-animation"></a>
 
@@ -107,4 +107,4 @@ Below is the example where Hide children count is disabled.
 
 Vitara grid chart offers you all the text formatting options; font family, font size, bold, italic, underline, text color, font alignment and background color. Below is the screenshot of theme properties showing header style options and body style options.
 
-<figure><img src="../.gitbook/assets/image57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image57 (1).png" alt=""><figcaption></figcaption></figure>

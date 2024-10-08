@@ -20,7 +20,7 @@ You can apply colors to plot line, change the plot line width, change the style 
 
 The bubble chart now supports plotlines on the vertical axis in version 3.8. Please see the screenshot below, which displays plot lines and reference lines on the horizontal and vertical axes.
 
-<figure><img src="../.gitbook/assets/image18 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image18.png" alt=""><figcaption></figcaption></figure>
 
 #### Thresholds based on ‘Plot Lines/Reference Lines’: <a href="#thresholds-based-on-plot-linesreference-lines" id="thresholds-based-on-plot-linesreference-lines"></a>
 
@@ -34,7 +34,7 @@ When we set the plot line in any Vitara chart, the name of the plot line appears
 
 A screenshot of a bubble chart with two thresholds applied based on the storyline “Plot line1: Avg of Revenue” is shown below. The first threshold is based on the criterion ‘above the plotline, set bubble color as green,’ and the second threshold is based on the condition ‘below the plotline, set bubble color as red.’
 
-<figure><img src="../.gitbook/assets/image57 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image57.png" alt=""><figcaption></figcaption></figure>
 
 #### Slope Plotline <a href="#slope-plotline" id="slope-plotline"></a>
 
@@ -44,6 +44,6 @@ Plotline orientation will be displayed in both horizontal and vertical direction
 
 The chart editor menu’s “Plot line” tab will provide access to this capability. When adding slope, horizontal or vertical orientation to the bubble chart’s plot line, users can access this tab. The ‘Source’ and ‘Target condition’ become constrained when we add orientation directly as ‘Slope’ under the “Plot line” tab.
 
-<figure><img src="../.gitbook/assets/bubbleSlope1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bubbleSlope1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/bubbleSlope (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bubbleSlope.png" alt=""><figcaption></figcaption></figure>
