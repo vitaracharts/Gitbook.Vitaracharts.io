@@ -9,14 +9,20 @@ Most font properties in Vitara Charts’ Property editor are set to ‘Auto’ b
 
 #### 1. Font family <a href="#id-1-font-family" id="id-1-font-family"></a>
 
-Font family can be applied to Axes, Data labels, Tooltip text, Legend labels, and other elements. Assume we change the font family of some text in a chart to ‘Times New Roman’, as shown in the screenshot below:\
+Font family can be applied to Axes, Data labels, Tooltip text, Legend labels, and other elements. Assume we change the font family of some text in a chart to ‘Times New Roman’, as shown in the screenshot below:
 
+<figure><img src="../.gitbook/assets/autoProp101.png" alt=""><figcaption></figcaption></figure>
 
-Now to set back this font family property to ‘Auto’, then just set it to Select from the Labels dropdown as shown in the screenshot below:\
+Now to set back this font family property to ‘Auto’, then just set it to Select from the Labels dropdown as shown in the screenshot below:
 
+<figure><img src="../.gitbook/assets/autoProp102.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Font size <a href="#id-2-font-size" id="id-2-font-size"></a>
+2\. Font size
 
 Almost all labels in a chart, including axes, data labels, tooltip text, legend labels, and series width, can have the font size property set. Assume we set the Data labels size in a chart to ‘14’, as shown in the screenshot below:&#x20;
 
-Now to reset the data labels size to ‘Auto’, just make the font size textbox empty\[select and clear the font size number using backspace]. See the screenshot below:\
+<figure><img src="../.gitbook/assets/autoProp201.png" alt=""><figcaption></figcaption></figure>
+
+Now to reset the data labels size to ‘Auto’, just make the font size textbox empty\[select and clear the font size number using backspace]. See the screenshot below:
+
+<figure><img src="../.gitbook/assets/autoProp202.png" alt=""><figcaption></figcaption></figure>
