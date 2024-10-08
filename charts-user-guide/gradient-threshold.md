@@ -9,4 +9,9 @@ Click on the Edit Button→ Thresholds Button→ We can set Gradient Thresholds 
 Examples for Gradient Threshold:
 
 1. In the below screenshot, for the Angular Gauge Chart, we applied the Gradient threshold on Background Bar, and Red as Start color and Yellow as End color, with 5 Stops.
+
+<figure><img src="../.gitbook/assets/image61.png" alt=""><figcaption></figcaption></figure>
+
 2. In the below screenshot, in the Dumbbell chart, we applied Target and Source as Cost, and applied Gradient threshold condition, with alias name and number of stops at 4.
+
+<figure><img src="../.gitbook/assets/image71.png" alt=""><figcaption></figcaption></figure>

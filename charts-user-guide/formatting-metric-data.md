@@ -5,8 +5,9 @@
 
 * Use the _**Number Format**_ option under the right click menu on a metric name (from the dossier’s dataset panel) to define the desired format.
 * All formats available under the _**Number Format**_ menu are supported (except aggregated values are not formatted in fraction)
-* Red color coding for negative numbers is not supported (in any format). But use of minus (-) sign or parentheses () is retained in the vitara charts.\
+* Red color coding for negative numbers is not supported (in any format). But use of minus (-) sign or parentheses () is retained in the vitara charts.
 
+<figure><img src="../.gitbook/assets/formatting_Metric_Data_1.png" alt=""><figcaption></figcaption></figure>
 
 #### Usage of Metric Formatting: <a href="#usage-of-metric-formatting" id="usage-of-metric-formatting"></a>
 
@@ -24,6 +25,8 @@ There are two types of numbers in Vitara Charts
 * The identified metric format is used to format the aggregated value.
 * Fractional formatting is not supported.
 
+<figure><img src="../.gitbook/assets/formatting_Metric_Data_2.png" alt=""><figcaption></figcaption></figure>
+
 #### Vitara charts Identifying Metric Format: <a href="#vitara-charts-identifying-metric-format" id="vitara-charts-identifying-metric-format"></a>
 
 Microstrategy delivers metrics with metadata that includes the format string and metric type.
@@ -34,7 +37,13 @@ The metric type is used to identify data values such as dates and percentages. C
 
 **Existing Functionality:** MicroStrategy format string is used to identify percentage data. This is done regardless of the number format chosen in Microstrategy. When the % format string is specified, all data from the metric is assumed to be in percentage form. Aggregations made to metric data (through VitaraCharts menus) are updated as needed. All labels (data labels, axis labels, totals) and tooltips are properly formatted. Vitara Bar Chart Formatting (Formatted Values are shown in Microstrategy Grid Chart):&#x20;
 
+
+
+<figure><img src="../.gitbook/assets/formatting_Metric_Data_5.png" alt=""><figcaption></figcaption></figure>
+
 In all of the above instances, regardless of the metric’s Number Format, a formatted number (as seen in the Grid Chart) is utilised to denote the percentage data. Metric values are expressed as percentages in Data labels, Axis labels, and Tooltips.
+
+
 
 **Limitation:**
 
