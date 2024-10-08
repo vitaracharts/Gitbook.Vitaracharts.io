@@ -72,3 +72,5 @@ Once this mapping is done, in all of the charts, whenever this pattern is recogn
 **Manual mapping in the properties editor**
 
 In addition to the ability to configure scenarios globally, you can also reconfigure measurements into scenarios in each particular graphic. This is done in the specific chart’s properties editor. For example, here’s a multi-tier bar chart with scenario mapping that may be altered.
+
+<figure><img src="../../.gitbook/assets/multi-tierBarConfiguration.jpeg" alt=""><figcaption></figcaption></figure>

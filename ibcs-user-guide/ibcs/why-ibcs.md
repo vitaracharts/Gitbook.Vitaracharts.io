@@ -7,6 +7,8 @@
 
 VitarCharts is now IBCS certified. All IBCS features are available as a separate add-on to VitaraCharts starting with version 4.3
 
+<figure><img src="../../.gitbook/assets/Seal_VitaraCharts_4-2_2019-07_1500.png" alt=""><figcaption></figcaption></figure>
+
 \
 per the [IBCS website](https://www.ibcs.com/standards)
 
