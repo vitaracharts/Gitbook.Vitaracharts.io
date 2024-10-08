@@ -3,7 +3,8 @@
 ## VitaraCharts 5.2.7 ChangeLog
 
 * [Download Links](README.md)
-  * [Web Install](vitaracharts-5.2.7-changelog/download-links/web-install.md)
+  * [Web Install](vitaracharts-5.2.7-changelog/download-links/web-install/README.md)
+    * [Download Link](https://vitarachartsdownloads.azureedge.net/distributions/5.3.0.159/VitaraCharts.zip)
   * [Workstation](vitaracharts-5.2.7-changelog/download-links/workstation.md)
   * [Mobile Guide](vitaracharts-5.2.7-changelog/download-links/mobile-guide.md)
   * [Library](vitaracharts-5.2.7-changelog/download-links/library.md)

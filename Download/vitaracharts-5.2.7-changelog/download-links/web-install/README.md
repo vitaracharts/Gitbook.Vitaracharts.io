@@ -15,6 +15,10 @@ layout:
 
 # Web Install
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ## Download <a href="#download" id="download"></a>
 
 * Download the **web version** of VitaraCharts.

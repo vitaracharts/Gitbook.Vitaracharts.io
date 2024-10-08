@@ -14,12 +14,8 @@ layout:
 
 # Download Links
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/web-install/" %}
+[web-install](vitaracharts-5.2.7-changelog/download-links/web-install/)
 {% endcontent-ref %}
 
 {% content-ref url="vitaracharts-5.2.7-changelog/download-links/mobile-guide.md" %}
