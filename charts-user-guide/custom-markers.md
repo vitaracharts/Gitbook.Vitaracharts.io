@@ -14,6 +14,11 @@ layout:
 
 # Custom Markers
 
+\
+
+
+
+
 ## The Power of Custom Markers in Charts <a href="#the-power-of-custom-markers-in-charts" id="the-power-of-custom-markers-in-charts"></a>
 
 Welcome to the fascinating world of charts, where numbers transform into vibrant stories! Imagine your chart as a canvas waiting to be painted with colorful insights. In this enchanting journey, we’ll dive into the secret ingredient that makes charts come alive: custom markers.
@@ -39,19 +44,42 @@ Follow these simple steps in the property editor to infuse your charts with a pe
 * Open the Property Editor for your bar or column chart.
 * Navigate to the ‘Axes’ tab and select the ‘Category Axis’ section.
 * Identify the ‘Label’ dropzone under the ‘Category Axis.’
+
+<figure><img src="../.gitbook/assets/customMarker1.png" alt=""><figcaption></figcaption></figure>
+
 * Add your chosen custom markers to infuse visual appeal into category axis labels.
+
+<figure><img src="../.gitbook/assets/customMarker2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/customMarker3.png" alt=""><figcaption></figcaption></figure>
 
 2. Tooltip Customization: Adding Insights to Data Points
 
 * In the Property Editor, locate the ‘Tooltip’ section specific to your chart type.
 * Find the dropzone designated for custom markers within the ‘Tooltip’ section.
-* Seamlessly integrate custom markers to provide additional insights when users hover over data points.
 
 3. Datalabels Enhancement: Bringing Numbers to Life
 
+<figure><img src="../.gitbook/assets/customMarker4.png" alt=""><figcaption></figcaption></figure>
+
+* Seamlessly integrate custom markers to provide additional insights when users hover over data points.
+
+<figure><img src="../.gitbook/assets/customMarker5.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/customMarker6.png" alt=""><figcaption></figcaption></figure>
+
+1.Datalabels Enhancement: Bringing Numbers to Life
+
 * Navigate to the ‘Datalabels’ section in the Property Editor.
 * Identify the dropzone dedicated to custom markers under ‘Datalabels.’
+
+<figure><img src="../.gitbook/assets/customMarker7.png" alt=""><figcaption></figcaption></figure>
+
 * Add custom markers to turn plain numbers into visually enriched elements, enhancing the storytelling aspect of your chart.
+
+<figure><img src="../.gitbook/assets/customMarker8.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/customMarker9.png" alt=""><figcaption></figcaption></figure>
 
 #### The Symphony Continues: Unveiling the Versatility of Custom Markers Across Various Chart Types <a href="#the-symphony-continues-unveiling-the-versatility-of-custom-markers-across-various-chart-types" id="the-symphony-continues-unveiling-the-versatility-of-custom-markers-across-various-chart-types"></a>
 
@@ -65,25 +93,37 @@ This distinction helps us understand how custom markers play out across various 
 
 In the realm of line charts, custom markers act as guiding beacons along plotted trends. Each marker becomes a visual milestone, adding a layer of depth and engagement to the interpretation of data points.
 
+<figure><img src="../.gitbook/assets/customMarkerLine.png" alt=""><figcaption></figcaption></figure>
+
 **Stacked Column Chart: Visual Signposts Through Layered Data**
 
 Navigating through the layers of stacked column charts becomes more intuitive with custom markers. They act as visual signposts, guiding viewers through the intricate layers and enhancing the clarity of data interpretation in tooltips and datalabels.
+
+<figure><img src="../.gitbook/assets/customMarkerStacked.png" alt=""><figcaption></figcaption></figure>
 
 **Waterfall Chart: Adding Splash to Data Narratives**
 
 In waterfall charts, custom markers contribute to the narrative by adding a splash of distinction to data points. They transform tooltips and datalabels into expressive elements, turning the chart into a visual story of changing values.
 
+<figure><img src="../.gitbook/assets/cmW.png" alt=""><figcaption></figcaption></figure>
+
 **Simple KPI: Custom Markers as Dynamic Storytellers**
 
 Even in simple KPI charts, custom markers play a dynamic role in storytelling. They turn tooltips and datalabels into visual narratives, making key performance indicators more engaging and insightful.
+
+<figure><img src="../.gitbook/assets/cmSimple.png" alt=""><figcaption></figcaption></figure>
 
 **Histogram: Infusing Patterns with Visual Flair**
 
 Custom markers in histograms go beyond traditional representations. They infuse patterns with visual flair, creating an engaging experience in tooltips and datalabels, making data distributions more accessible.
 
+<figure><img src="../.gitbook/assets/cmHisto.png" alt=""><figcaption></figcaption></figure>
+
 **Trellis: Custom Markers Across Multiple Charts**
 
 In trellis charts, custom markers traverse multiple charts, providing consistency and visual appeal. The tooltips and datalabels in each trellis benefit from the expressive touch of these markers, creating a seamless visual experience.
+
+<figure><img src="../.gitbook/assets/cmTrellis.png" alt=""><figcaption></figcaption></figure>
 
 **Calendar Heat Map: Time-Driven Insights**
 
