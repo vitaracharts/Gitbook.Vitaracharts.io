@@ -18,12 +18,16 @@ layout:
 [web-install](vitaracharts-5.2.7-changelog/download-links/web-install/)
 {% endcontent-ref %}
 
-{% content-ref url="vitaracharts-5.2.7-changelog/download-links/mobile-guide.md" %}
-[mobile-guide.md](vitaracharts-5.2.7-changelog/download-links/mobile-guide.md)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/workstation/" %}
+[workstation](vitaracharts-5.2.7-changelog/download-links/workstation/)
 {% endcontent-ref %}
 
-{% content-ref url="vitaracharts-5.2.7-changelog/download-links/library.md" %}
-[library.md](vitaracharts-5.2.7-changelog/download-links/library.md)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/mobile/" %}
+[mobile](vitaracharts-5.2.7-changelog/download-links/mobile/)
+{% endcontent-ref %}
+
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/library/" %}
+[library](vitaracharts-5.2.7-changelog/download-links/library/)
 {% endcontent-ref %}
 
 ## What's new

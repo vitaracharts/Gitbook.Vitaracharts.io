@@ -1,5 +1,6 @@
 ---
 hidden: true
+icon: globe-wifi
 layout:
   title:
     visible: true

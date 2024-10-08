@@ -1,5 +1,6 @@
 ---
 hidden: true
+icon: artstation
 layout:
   title:
     visible: true
@@ -14,6 +15,10 @@ layout:
 ---
 
 # Workstation
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ## Download <a href="#download" id="download"></a>
 
