@@ -12,7 +12,7 @@ Option to use as a filter - not available.
 
 The group by and break by features are described using the following data in the example below.
 
-<figure><img src="../.gitbook/assets/image12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image12 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Break by:** If we drop the quarter property in the ‘break by’ drop zone, the chart will default to using the first value of the first measure as the start value. We can also alter it to total or last value if we like. The second metric will be displayed in the break by the quarter attribute format. In our example, the quarterly Delta metric values are added/subtracted in four steps: Q1, Q2, Q3, and Q4. The third metric will be a total of the first and second metrics. Total is the default function for the third metric. We can also apply a break to individual indicators.
 

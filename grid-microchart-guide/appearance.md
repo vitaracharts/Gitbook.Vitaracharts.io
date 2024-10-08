@@ -30,7 +30,7 @@ Grid theme from edit property window:
 
 Grid theme from right click property window:
 
-<figure><img src="../.gitbook/assets/image31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image31 (1).png" alt=""><figcaption></figcaption></figure>
 
 From 4.5 version of VitaraCharts, grid chart supports custom themes. To know more about Custom themes, click [here](https://about/customization/GridCustomCSS#custom-themes.html).
 

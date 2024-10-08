@@ -8,4 +8,4 @@ Drilling target is done subcategory wise, where category movies is selected, and
 
 <figure><img src="../.gitbook/assets/Drilling1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image28 (1).png" alt=""><figcaption></figcaption></figure>

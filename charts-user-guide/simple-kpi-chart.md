@@ -56,7 +56,7 @@ Open the property editor by clicking on the ‘Edit’ button and select the ‘
 
 <figure><img src="../.gitbook/assets/image530.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image49 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 

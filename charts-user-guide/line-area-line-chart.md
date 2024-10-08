@@ -26,7 +26,7 @@ Use as Filter Option - Available
 
 <figure><img src="../.gitbook/assets/Line1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image32 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Markers <a href="#markers" id="markers"></a>
 

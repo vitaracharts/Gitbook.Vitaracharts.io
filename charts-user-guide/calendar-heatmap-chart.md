@@ -28,7 +28,7 @@ In the example below, the data is at the day level and shown by the grain Month.
 
 The level of display in the calendar can be changed to show year-week, month-day, year-month, etc as needed.
 
-<figure><img src="../.gitbook/assets/image14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image14 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Custom date formats <a href="#built-in-date-formats" id="built-in-date-formats"></a>
 
@@ -169,7 +169,7 @@ The Hijri calendar, often known as the Islamic or lunar calendar, is largely uti
 
 The following screen demonstrates the process of enabling the ’Hijri’ format in the calendar heatmap.
 
-<figure><img src="../.gitbook/assets/image53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image53 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Elimination of Grey Cells <a href="#elimination-of-grey-cells" id="elimination-of-grey-cells"></a>
 
