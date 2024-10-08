@@ -24,11 +24,15 @@ The table below compares and contrasts Dossier and Report Services Documents. Th
 
 When we apply a Vitara chart to a visualization in dossiers, the editor panel is updated to reflect the chart. The standard editing panel will appear as shown in the screenshot below. In the editor panel, new drop zones such as Category Axis, Color by, Value, Tooltip, Play axis, Small multiple, and drilling will be visible.
 
+<figure><img src="../.gitbook/assets/image608.png" alt=""><figcaption></figcaption></figure>
+
 To display traits and metrics on the chart, simply drag and drop them into the appropriate drop zone.
 
 The metrics that we place in the ‘Value’ drop zone appear on the graphic.
 
 The metrics we placed in the ‘Tooltip’ drop zone did not appear in the chart, however their values are visible in the tooltip. We can also use the metrics in the ‘Tooltip’ drop zone to establish thresholds in the chart.
+
+<figure><img src="../.gitbook/assets/image609.png" alt=""><figcaption></figcaption></figure>
 
 **Documents**
 
@@ -41,9 +45,13 @@ This feature is not present in the report services documents. Chart will display
 
 Example: Vitara Area Chart In Documents and Dossiers
 
+<figure><img src="../.gitbook/assets/image600.png" alt=""><figcaption></figcaption></figure>
+
 **Small Multiples:**
 
 **Dossiers:** Drag and drop any attribute into the ‘Small Multiples’ drop zone to use the small multiples capability in dossiers. **Documents:** To activate Small Multiples in documents, launch the vitara property editor window and navigate to the ‘Small Multiples’ option. The screenshot below shows a modest numerous feature in dossiers and documents. The below screenshot demonstrates small multiple feature in dossiers and in documents.&#x20;
+
+<figure><img src="../.gitbook/assets/image601.png" alt=""><figcaption></figcaption></figure>
 
 **Drill Target:**
 
@@ -52,6 +60,12 @@ The drill feature is available in bar, column, line, and pie charts.
 **Dossiers:** In dossiers, drag and drop an attribute into the ‘Drill Target’ drop zone to enable the chart’s drilling capability. When we place an attribute in the ‘Drill Target’ drop zone, the vitara property editor will display the drilling tab.
 
 **Documents:** Place at least two attributes in the grid to enable the drill functionality in the documents. The ‘Drillin’ tab in the docs vitara property editor allows us to enable/disable the drilling feature.
+
+<figure><img src="../.gitbook/assets/image610.png" alt=""><figcaption></figcaption></figure>
+
+#### &#x20;<a href="#chart-wise-differences" id="chart-wise-differences"></a>
+
+<figure><img src="../.gitbook/assets/image611.png" alt=""><figcaption></figcaption></figure>
 
 #### Chart-wise differences <a href="#chart-wise-differences" id="chart-wise-differences"></a>
 
@@ -67,6 +81,10 @@ Stacked Bar/Column charts in dossiers will display two drop zones for attributes
 
 In docs charts, series are always drawn using characteristics. This means that we can only stack attributes. In report services documents, metrics cannot be stacked in stacked bar/column charts. Please see the screenshots below.
 
+<figure><img src="../.gitbook/assets/image606.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image607.png" alt=""><figcaption></figcaption></figure>
+
 **2. Vitara Simple KPI chart**
 
 **Dossiers**: Use Top Label and Sub Label drop zones in dossiers to display KPI metrics. Use the Threshold metrics drop zone to place more than two metrics in the chart and to define thresholds on Top Label and Sub Label metrics. A Small Multiples attribute in the drop zone will enable the Small Multiple functionality.
@@ -76,6 +94,8 @@ In docs charts, series are always drawn using characteristics. This means that w
 **3. Vitara KPI Ring Chart**
 
 It is simple to categorise metrics in Dossiers as Ring 1 Value, Ring 2 Value, and Ring 3 Value. We have a property editor option in Documents to show the number of rings to display in the chart. You can see a clear example in the screenshot below.
+
+<figure><img src="../.gitbook/assets/image605.png" alt=""><figcaption></figcaption></figure>
 
 In Dossiers just drop an attribute in Small Multiples drop zone to enable Small Multiples feature. In documents Small Multiples feature can be enabled using property editor window.
 
@@ -111,6 +131,8 @@ In Dossiers we have **Slice by** drop zone, for each combination of attribute el
 
 For clear idea you can look at the screenshot below. Below is the screenshot of property editor window of Column Range, Bubble, Funnel and Pie chart.
 
+<figure><img src="../.gitbook/assets/image602.png" alt=""><figcaption></figcaption></figure>
+
 **E. Pie chart**
 
 In Dossiers you will have Slice by option where, it creates each combination of attribute elements one slice will be created. Attributes can be added to Play Axis and Small Multiples Drop Zone In Documents the Play By First Attribute and Small Multiples is to enabled in the property editor.
@@ -123,6 +145,8 @@ Colour can be selected for the Vitara Histogram and Trellis charts. You can easi
 
 You can see a clear example in the screenshot below.
 
+<figure><img src="../.gitbook/assets/image603.png" alt=""><figcaption></figcaption></figure>
+
 **B. Dumbbell Chart**
 
 Colour by and Small Multiples options are available on the Vitara Dumbbell chart. You can easily drop down from the data set in the Colour By Drop Zones in Dossiers. Colour By Last Attribute and Small Multiples must be enabled in the Documents property editor.
@@ -132,6 +156,8 @@ Colour by and Small Multiples options are available on the Vitara Dumbbell chart
 We can easily drop down the qualities in Dossiers into the Group by and Break by options.
 
 In Documents, if we supply two attributes, the chart will treat one as Group by attribute and the other as Break by attribute, but we don’t have the opportunity to pick only the Break by choice on attribute, although it is simply applicable in Dossier. You can see a clear example in the screenshot below.
+
+<figure><img src="../.gitbook/assets/image604.png" alt=""><figcaption></figcaption></figure>
 
 **8. Vitara Spacer Chart**
 

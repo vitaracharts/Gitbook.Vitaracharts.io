@@ -1,8 +1,5 @@
 # Pattern Fill
 
-\
-
-
 ## Pattern Fill Option in the ‘Series’ tab. <a href="#pattern-fill-option-in-the-series-tab" id="pattern-fill-option-in-the-series-tab"></a>
 
 From version 4.9.0, pattern fill feature is available in the following charts: area/line , tornado, bar/column, stacked column/bar, trellis, pie and sparkline.These charts have the Pattern fill option (Grid/Square/Double Square/Slash) in the Series tab, which allows us to display data in a more presentable manner.
