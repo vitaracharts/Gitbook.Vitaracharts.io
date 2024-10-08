@@ -18,8 +18,8 @@ layout:
 [web-install](vitaracharts-5.2.7-changelog/download-links/web-install/)
 {% endcontent-ref %}
 
-{% content-ref url="vitaracharts-5.2.7-changelog/download-links/workstation/" %}
-[workstation](vitaracharts-5.2.7-changelog/download-links/workstation/)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/workstation.md" %}
+[workstation.md](vitaracharts-5.2.7-changelog/download-links/workstation.md)
 {% endcontent-ref %}
 
 {% content-ref url="vitaracharts-5.2.7-changelog/download-links/mobile/" %}
