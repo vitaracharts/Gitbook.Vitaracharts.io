@@ -17,6 +17,8 @@ To access the tool, follow this link:
 
 The below screenshot is from vitara zip code grouping tool web page.
 
+<figure><img src="../.gitbook/assets/maps2 (1).png" alt=""><figcaption></figcaption></figure>
+
 #### Example of zip code aggregation: <a href="#example-of-zip-code-aggregation" id="example-of-zip-code-aggregation"></a>
 
 Consider that there are ten zip codes. Now I want to create a US map chart with all of these zip codes divided into two regions and data at the region level. It is possible to create a map that depicts regions by grouping these zip codes into relevant regions. The table below contains ten zip codes and their related regions.
@@ -56,4 +58,8 @@ We want to group zip codes, fill the “Apply Grouping To” field with column n
 
 Click “Merge & Export” and json file will be downloaded.
 
+<figure><img src="../.gitbook/assets/maps4.png" alt=""><figcaption></figcaption></figure>
+
 The next steps will be the same as we covered while demonstrating how to create a the world continents map. The screenshot below is of a Vitara map chart made from zip codes in the United States, sorted by state.
+
+<figure><img src="../.gitbook/assets/image46.png" alt=""><figcaption></figcaption></figure>
