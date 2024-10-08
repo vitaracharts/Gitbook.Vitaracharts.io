@@ -5,3 +5,7 @@ You can now drill down to another attribute level in the chart. We have a drill 
 Drilling is available for Bar, Column, Pie, Line, and Sparkline charts (web documents).
 
 Drilling target is done subcategory wise, where category movies is selected, and you can view subcategories of movies in Line chart, Column chart, Bar chart, and Pie chart, as shown in the screenshot below.
+
+<figure><img src="../.gitbook/assets/Drilling1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image28.png" alt=""><figcaption></figcaption></figure>
