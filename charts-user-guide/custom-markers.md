@@ -14,11 +14,6 @@ layout:
 
 # Custom Markers
 
-\
-
-
-
-
 ## The Power of Custom Markers in Charts <a href="#the-power-of-custom-markers-in-charts" id="the-power-of-custom-markers-in-charts"></a>
 
 Welcome to the fascinating world of charts, where numbers transform into vibrant stories! Imagine your chart as a canvas waiting to be painted with colorful insights. In this enchanting journey, we’ll dive into the secret ingredient that makes charts come alive: custom markers.
