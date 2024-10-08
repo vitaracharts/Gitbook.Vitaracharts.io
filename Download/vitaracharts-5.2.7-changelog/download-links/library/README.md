@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: book-open-cover
+hidden: true
 layout:
   title:
     visible: true
@@ -15,6 +15,10 @@ layout:
 ---
 
 # Library
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 Starting with version 4.7 the following steps are **always** required.
 
