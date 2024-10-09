@@ -2,7 +2,7 @@
 
 These features are supported in the release 4.2 (or newer)
 
-### Custom CSS in Vitara Charts <a href="#custom-css-in-vitara-charts" id="custom-css-in-vitara-charts"></a>
+## Custom CSS in Vitara Charts <a href="#custom-css-in-vitara-charts" id="custom-css-in-vitara-charts"></a>
 
 If you use custom CSS styles in Vitara Charts, no presentational characteristics (such as fill, stroke, font styles, and so on) are applied to the chart SVG. Instead, CSS is used to apply the design.
 
@@ -16,7 +16,7 @@ tomcat/webapps/MicroStrategy/plugins/VitaraCharts/custom
 
 The following is an overview of the CSS rules which are internally set on the VitaraCharts.
 
-#### CSS Rules <a href="#css-rules" id="css-rules"></a>
+## CSS Rules <a href="#css-rules" id="css-rules"></a>
 
 ```
 .vitara-chart-background

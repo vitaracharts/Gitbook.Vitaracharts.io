@@ -124,6 +124,7 @@
   * [Condensed Metric Format](customization-guide/condensed-metric-format.md)
   * [Disable Edit button](customization-guide/disable-edit-button.md)
   * [Grid Custom CSS](customization-guide/grid-custom-css.md)
+  * [Localization](customization-guide/localization.md)
 
 ## SUPPORT
 

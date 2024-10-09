@@ -17,9 +17,9 @@ Each row in the grid can be commonly styled using the below class.
 }
 ```
 
-Below is the screenshot with the above custom styles applied.\
-\
+Below is the screenshot with the above custom styles applied.
 
+<figure><img src="../.gitbook/assets/Grid_row.png" alt=""><figcaption></figcaption></figure>
 
 **1.2 Styling Even/Odd rows**
 
@@ -45,11 +45,11 @@ All the odd rows in the grid can be styled using the below class
 }
 ```
 
-Below is the screenshot which shows the applied styles for even and odd rows.\
-\
+Below is the screenshot which shows the applied styles for even and odd rows.
 
+<figure><img src="../.gitbook/assets/Grid_row_eo.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Grouped Row Styles <a href="#id-2-grouped-row-styles" id="id-2-grouped-row-styles"></a>
+2\. Grouped Row Styles
 
 **2.1 Styling all the grouped rows**
 
@@ -61,9 +61,9 @@ To style all the grouped rows in the chart, use the below class.
 }
 ```
 
-Below screenshot shows the above styles applied for the grouped rows.\
-\
+Below screenshot shows the above styles applied for the grouped rows.
 
+<figure><img src="../.gitbook/assets/Grid_row_grouped.png" alt=""><figcaption></figcaption></figure>
 
 **2.2 Styling Even/Odd grouped rows**
 
@@ -90,9 +90,13 @@ All the odd grouped rows in the grid can be styled using the below class
 }
 ```
 
-Below is the screenshot that shows the styles applied on odd and even grouped rows.\
-\
+Below is the screenshot that shows the styles applied on odd and even grouped rows.
 
+<figure><img src="../.gitbook/assets/Grid_row_grouped_eo.png" alt=""><figcaption></figcaption></figure>
+
+#### 3.Styling the Headers <a href="#id-3styling-the-headers" id="id-3styling-the-headers"></a>
+
+**3.1 Styling the normal header**
 
 The headers in the grid can be styled using the below class.
 
@@ -106,10 +110,13 @@ The headers in the grid can be styled using the below class.
 }
 ```
 
-Below screenshot shows the above styles applied on the header cell in the normal grid.\
-\
+Below screenshot shows the above styles applied on the header cell in the normal grid.
 
 
+
+<figure><img src="../.gitbook/assets/Grid_header.png" alt=""><figcaption></figcaption></figure>
+
+**3.2 Styling the grouped header**\
 Grouped header cells are formed by either pivoting or column grouping. These headers can be styled by using the below class. These styles will not be applied to the header cell in a normal(neither pivoted nor column grouped) grid.
 
 ```
@@ -119,11 +126,13 @@ Grouped header cells are formed by either pivoting or column grouping. These hea
 }
 ```
 
-Below screenshot shows the above styles applied on the grouped header cell.\
-\
 
 
-#### 4. Styling the Subtotals <a href="#id-4-styling-the-subtotals" id="id-4-styling-the-subtotals"></a>
+Below screenshot shows the above styles applied on the grouped header cell.
+
+<figure><img src="../.gitbook/assets/Grid_header_grouped.png" alt=""><figcaption></figcaption></figure>
+
+4\. Styling the Subtotals
 
 Subtotal headers can be styled using the below class.
 
@@ -134,9 +143,9 @@ Subtotal headers can be styled using the below class.
 }
 ```
 
-Below screenshot shows the above styles applied for the subtotal header.\
-\
+Below screenshot shows the above styles applied for the subtotal header.
 
+<figure><img src="../.gitbook/assets/Grid_subtotal_header.png" alt=""><figcaption></figcaption></figure>
 
 **4.2 Styling the Subtotal values**
 
@@ -149,9 +158,9 @@ Subtotal values can be styled using the below class.
 }
 ```
 
-Below screenshot shows the above styles applied for the subtotal values.\
-\
+Below screenshot shows the above styles applied for the subtotal values.
 
+<figure><img src="../.gitbook/assets/Grid_subtotal_value.png" alt=""><figcaption></figcaption></figure>
 
 #### 5. Column Styles <a href="#id-5-column-styles" id="id-5-column-styles"></a>
 
@@ -178,8 +187,9 @@ Every odd column can be styled using the below class.
 }
 ```
 
-Below is the screenshot that shows the applied styles for odd and even columns.\
+Below is the screenshot that shows the applied styles for odd and even columns.
 
+<figure><img src="../.gitbook/assets/Grid_col_eo.png" alt=""><figcaption></figcaption></figure>
 
 The styles applied for columns will also be reflected for Grand totals, to overcome those we will style grand totals using the below classes
 
@@ -195,9 +205,9 @@ The styles applied for columns will also be reflected for Grand totals, to overc
 }
 ```
 
-See the screenshot below which shows the grand total styles that overcomes the column styles applied on it\
-\
+See the screenshot below which shows the grand total styles that overcomes the column styles applied on it
 
+<figure><img src="../.gitbook/assets/Grid_col_grand_totals.png" alt=""><figcaption></figcaption></figure>
 
 #### 6. Grand Totals <a href="#id-6-grand-totals" id="id-6-grand-totals"></a>
 
@@ -214,9 +224,9 @@ The entire grand totals row can be styled using the below class
 }
 ```
 
-See the below screenshot with the above properties applied.\
-\
+See the below screenshot with the above properties applied.
 
+<figure><img src="../.gitbook/assets/Grid_grand_totals.png" alt=""><figcaption></figcaption></figure>
 
 **6.2 Grand totals title**
 
@@ -232,9 +242,9 @@ To style only the grand totals title, use the below class
 }
 ```
 
-See the screenshot with the above properties applied only to the grand totals title.\
-\
+See the screenshot with the above properties applied only to the grand totals title.
 
+<figure><img src="../.gitbook/assets/Grid_grand_totals_title.png" alt=""><figcaption></figcaption></figure>
 
 **6.3 Grand totals values**
 
@@ -249,9 +259,9 @@ To style only the grand totals’ values, use the below class.
 }
 ```
 
-See the below screenshot with the above properties applied only to the grand totals values\
-\
+See the below screenshot with the above properties applied only to the grand totals values
 
+<figure><img src="../.gitbook/assets/Grid_grand_totals_values.png" alt=""><figcaption></figcaption></figure>
 
 #### Custom themes <a href="#custom-themes" id="custom-themes"></a>
 
@@ -317,18 +327,23 @@ gridThemes.themes=Theme1,Theme2
 
 The themes will then be listed in the grid chart. This can be verified in two ways: one using the property editor and the other through the context menu \[2020]. Please see the screenshots below.
 
-1. Property Editor\
+1. Property Editor
 
-2. Context menu\
+<figure><img src="../.gitbook/assets/customThemes1.png" alt=""><figcaption></figcaption></figure>
 
+1. Context menu
+
+<figure><img src="../.gitbook/assets/customThemes2.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:**
 
-Now, apply Theme1 from either the property editor or context menu. Then the charts like below screenshot.\
+Now, apply Theme1 from either the property editor or context menu. Then the charts like below screenshot.
 
+<figure><img src="../.gitbook/assets/customThemes3.png" alt=""><figcaption></figcaption></figure>
 
-And apply Theme2. Then the chart looks like the screenshot below.\
+And apply Theme2. Then the chart looks like the screenshot below.
 
+<figure><img src="../.gitbook/assets/customThemes4 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Base Themes**
 
@@ -336,8 +351,11 @@ The base theme is the one to which custom theme styles are applied. A custom the
 
 The grid chart saved with the ‘Blue’ theme is shown below in a screenshot.&#x20;
 
-After applying the custom theme ‘theme1’, the base theme gets changed to white. See the colors of headers and group dropzones in the below screenshot.\
+<figure><img src="../.gitbook/assets/customThemes5.png" alt=""><figcaption></figcaption></figure>
 
+After applying the custom theme ‘theme1’, the base theme gets changed to white. See the colors of headers and group dropzones in the below screenshot.
+
+<figure><img src="../.gitbook/assets/customThemes6.png" alt=""><figcaption></figcaption></figure>
 
 **Changing the base theme:**
 
@@ -348,6 +366,8 @@ gridThemes.baseThemes=Dark
 ```
 
 Apply the custom theme ‘Theme1’ now, and the styles will be applied to the ‘Dark’ base theme. Compare the screenshot below to the previous screenshot.&#x20;
+
+<figure><img src="../.gitbook/assets/customThemes7.png" alt=""><figcaption></figcaption></figure>
 
 **Setting default theme**
 

@@ -3,9 +3,11 @@
 \
 
 
-### Metric suffixes used to shorten high numbers in axis labels and data labels <a href="#metric-suffixes-used-to-shorten-high-numbers-in-axis-labels-and-data-labels" id="metric-suffixes-used-to-shorten-high-numbers-in-axis-labels-and-data-labels"></a>
+## Metric suffixes used to shorten high numbers in axis labels and data labels <a href="#metric-suffixes-used-to-shorten-high-numbers-in-axis-labels-and-data-labels" id="metric-suffixes-used-to-shorten-high-numbers-in-axis-labels-and-data-labels"></a>
 
 Vitara charts will minimize the number in axis and data labels. The shortened metric suffixes can be changed to meet the needs of the user.
+
+<figure><img src="../.gitbook/assets/image33 (1).png" alt=""><figcaption></figcaption></figure>
 
 This can be accomplished by including the following code in the ‘global.txt’ file. The ‘global.txt’ file will be found in the Vitara charts plugin folder. Vitara charts → Custom folder → global.txt.
 
@@ -24,5 +26,7 @@ shortFormatSymbols=k, M, G, T, P, E
 ```
 
 Save the ‘global.txt’ file and reopen your document. The below screenshot shows the new suffix ‘G’.
+
+<figure><img src="../.gitbook/assets/image79.png" alt=""><figcaption></figcaption></figure>
 
 Note: If you still see the older suffix after reloading the dashboard, clear your browser’s cache and reload the dashboard.

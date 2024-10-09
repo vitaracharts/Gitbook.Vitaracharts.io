@@ -1,6 +1,6 @@
 # Custom CSS Samples
 
-#### Chart Area Background
+## Chart Area Background
 
 Applied chart area background color to be rgb(117, 245, 66)
 
@@ -11,7 +11,11 @@ Applied chart area background color to be rgb(117, 245, 66)
 }
 ```
 
-#### Plot Area Background
+####
+
+<figure><img src="../.gitbook/assets/image1 (2).png" alt=""><figcaption></figcaption></figure>
+
+## Plot Area Background
 
 Applied plot area background color to be #f5ad42
 
@@ -22,7 +26,11 @@ Applied plot area background color to be #f5ad42
 }
 ```
 
-#### Axes Labels and Data Labels
+####
+
+<figure><img src="../.gitbook/assets/image2 (2).png" alt=""><figcaption></figcaption></figure>
+
+## Axes Labels and Data Labels
 
 Applied the ChartArea background color to be rgb(117, 245, 66)
 
@@ -58,7 +66,11 @@ For datalabels, the font-size to be 25px, color fill to be green and font-family
 }
 ```
 
-#### Tooltip
+####
+
+<figure><img src="../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
+
+## Tooltip
 
 Applied the background color to be aqua , font family to be Comic Sans MS, Comic Sans, cursive and font size to be 35px
 
@@ -70,7 +82,11 @@ Applied the background color to be aqua , font family to be Comic Sans MS, Comic
 }
 ```
 
-#### Category Axis with title style different from the label style
+####
+
+<figure><img src="../.gitbook/assets/image4 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Category Axis with title style different from the label style
 
 For labels, the color fill was rgb(197, 66, 245), the font family was Impact, the text decoration was underline, and the font size was 18px. The color fill for the title was #f56c42, the font family was Helvetica, the text decoration was underline, the font size was 25px, and the font style was italic.
 
@@ -90,9 +106,11 @@ font-size: 25px
 }
 ```
 
-\</p>
+####
 
-#### Border around bars/columns with border styling
+<figure><img src="../.gitbook/assets/image5 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Border around bars/columns with border styling
 
 Applied border to the column, stroke-width to be 2, stroke to be red and stroke-dasharray to be 5,5
 
@@ -104,7 +122,11 @@ Applied border to the column, stroke-width to be 2, stroke to be red and stroke-
 }
 ```
 
-#### Line Chart with different line style set
+####
+
+<figure><img src="../.gitbook/assets/image6 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Line Chart with different line style set
 
 Applied stroke-width to be 2 and the stroke-dasharray to be 4,5,2
 
@@ -115,7 +137,11 @@ Applied stroke-width to be 2 and the stroke-dasharray to be 4,5,2
 }
 ```
 
-#### Legend Styling
+####
+
+<figure><img src="../.gitbook/assets/image7 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Legend Styling
 
 Applied font-size to be 20px, the font-family to be Impact and fill to be red
 
@@ -127,7 +153,11 @@ Applied font-size to be 20px, the font-family to be Impact and fill to be red
 }
 ```
 
-#### Customising Markers
+####
+
+<figure><img src="../.gitbook/assets/image9 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Customising Markers
 
 Applied font-size to be 14px, fill to be teal , stroke to be red , stroke-width to be 2
 
@@ -140,9 +170,13 @@ Applied font-size to be 14px, fill to be teal , stroke to be red , stroke-width 
 }
 ```
 
-#### Customising Grid lines
+####
 
-Applied stroke to be black , opacity to be 0.2, stroke-dasharray to be 6,6
+<figure><img src="../.gitbook/assets/image13 (1).png" alt=""><figcaption></figcaption></figure>
+
+## Customising Grid lines
+
+### Applied stroke to be black , opacity to be 0.2, stroke-dasharray to be 6,6
 
 ```
 .vitara-grid-line{
@@ -152,7 +186,11 @@ Applied stroke to be black , opacity to be 0.2, stroke-dasharray to be 6,6
 }
 ```
 
-#### Customising a property specific to one or more charts
+####
+
+<figure><img src="../.gitbook/assets/image14 (2).png" alt=""><figcaption></figcaption></figure>
+
+## Customising a property specific to one or more charts
 
 Applied fill to be palegreen for Pie chart background color
 
@@ -161,3 +199,5 @@ Applied fill to be palegreen for Pie chart background color
 	fill: palegreen;
 }
 ```
+
+<figure><img src="../.gitbook/assets/image15.png" alt=""><figcaption></figcaption></figure>
