@@ -1,10 +1,13 @@
 # Trend Lines
 
+## Properties Menu - Trend Lines <a href="#properties-menu---trend-lines" id="properties-menu---trend-lines"></a>
+
 From the 4.1 version of Vitara Charts, trendlines are introduced in Grid Chart. This feature helps in converting the grid chart to micro chart.\
-Below is the screenshot of trendlines in the grid chart.\
+Below is the screenshot of trendlines in the grid chart.
 
+<figure><img src="../.gitbook/assets/trendlinesSample.png" alt=""><figcaption></figcaption></figure>
 
-#### Inputs <a href="#inputs" id="inputs"></a>
+### Inputs <a href="#inputs" id="inputs"></a>
 
 Attributes: 2 or more\
 Metrics: 1 or more\
@@ -18,27 +21,32 @@ There are **three types of trendlines** in the Vitara Grid chart. They are
 2. Bar Chart
 3. Bullet Chart
 
-#### Steps to apply trendlines <a href="#steps-to-apply-trendlines" id="steps-to-apply-trendlines"></a>
+### Steps to apply trendlines <a href="#steps-to-apply-trendlines" id="steps-to-apply-trendlines"></a>
 
-**Step 1**
+#### **Step 1**
 
 Create a Grid chart with a minimum of 2 attributes and 1 metric. Drag an attribute with which you have to create groups into the Group dropzone.\
-Below is the screenshot of a grid chart with 3 attributes and 2 metrics and the groups are created using the ‘year’ attribute.\
+Below is the screenshot of a grid chart with 3 attributes and 2 metrics and the groups are created using the ‘year’ attribute.
 
+<figure><img src="../.gitbook/assets/trendlines1.png" alt=""><figcaption></figcaption></figure>
 
-**Step 2**
+#### **Step 2**
 
 Hover onto a metric \[Revenue metric in this case] for which the trendlines need to be applied so that the hamburger button will be displayed. Click on the hamburger button, then a menu will be opened.\
-Hover the mouse onto ‘Display as’, then a submenu will be opened which has the trendline charts. See the screenshot below:\
+Hover the mouse onto ‘Display as’, then a submenu will be opened which has the trendline charts. See the screenshot below:
 
+<figure><img src="../.gitbook/assets/trendlines2.png" alt=""><figcaption></figcaption></figure>
 
-**Step 3**
+#### **Step 3**
 
-Click on the trendline of your choice on that menu. For example, we will click on the ‘Line chart’ here. Then the trendlines for the ‘Revenue’ metric looks the below way. See the screenshot.\
+Click on the trendline of your choice on that menu. For example, we will click on the ‘Line chart’ here. Then the trendlines for the ‘Revenue’ metric looks the below way. See the screenshot.
+
+<figure><img src="../.gitbook/assets/trendlines3.png" alt=""><figcaption></figcaption></figure>
+
 \
 If you have noticed the above screenshot, the ‘Category’ attribute got grouped automatically after applying trendlines for a metric. This is because the trendlines are always applied for the second attribute in the chart.
 
-#### Unsetting the Trendlines: <a href="#unset-trendlines" id="unset-trendlines"></a>
+### Unsetting the Trendlines: <a href="#unset-trendlines" id="unset-trendlines"></a>
 
 After applying trendlines for metrics, we can remove them using the below steps.
 
@@ -46,41 +54,49 @@ After applying trendlines for metrics, we can remove them using the below steps.
 2. Hover onto ‘Display as’ and wait for the submenu to open.
 3. Click on the list item ‘value’. See the screenshot below.
 
+![trendlines4](https://docs.vitaracharts.com/assets/img/gridMicro/trendlines4.png)
+
 \
 Then the trendlines will be removed for that metric and value will be shown as in the screenshot attached in Step 1.
 
-#### Formatting the Trendlines: <a href="#format-trendlines" id="format-trendlines"></a>
+### Formatting the Trendlines: <a href="#format-trendlines" id="format-trendlines"></a>
 
 In Grid chart, we cannot simply apply trendlines but we can also format them. We can format the trendlines according to the type of chart applied.
 
 To go to the trendlines format window, apply trendlines for a metric and open its hamburger menu. Hover on to ‘Display as’ and wait for the submenu to open up. Click on ‘more options’.\
-See the screenshot.\
+See the screenshot.
 
+<figure><img src="../.gitbook/assets/trendlines5.png" alt=""><figcaption></figcaption></figure>
 
-When you click on ‘more options’, the below window will be opened.\
+When you click on ‘more options’, the below window will be opened.
 
+<figure><img src="../.gitbook/assets/trendlines6.png" alt=""><figcaption></figcaption></figure>
 
 In the above screenshot, Trend Line Options for dropdown allows you to select a metric on which you need to apply trendlines.\
 And Chart Type dropdown allows you to select a trendline chart for a particular metric selected in the above dropdown.
 
-**Let us look into chart-wise formattings**
+### **Let us look into chart-wise formattings**
 
 **1. Line Chart**\
 For Line charts, we can format the line color and the final spot color.\
 To start with, first apply the ‘Line Chart’ trendline for a metric and open the format window. Then set line color (e.g, red) and also the final spot color (e.g, blue). Click on ‘Apply’.\
-See the screenshot below with applied formattings.\
+See the screenshot below with applied formattings.
 
+<figure><img src="../.gitbook/assets/trendlines7.png" alt=""><figcaption></figcaption></figure>
 
 **2. Bar Chart**\
 For Bar charts, we can format the bar colors and negative bar colors. To start with, first apply the ‘Bar Chart’ trendline for a metric and open the format window. Then set Bar color (e.g, green) and negative color (e.g, red). Click on ‘Apply’.\
-See the screenshot below with applied formattings.\
+See the screenshot below with applied formattings.
 
+<figure><img src="../.gitbook/assets/trendlines8.png" alt=""><figcaption></figcaption></figure>
 
 **3. Bullet Chart**\
 For Bar charts, we can format the bar colors and negative bar colors. To start with, first apply the ‘Bullet Chart’ trendline for a metric and open the format window. Then set Actual color (e.g, green), Target color (e.g, red) and 3 band colors (e.g, blue, yellow and aqua). Click on ‘Apply’. See the screenshot below with applied formattings.\
 
 
-**Axis Specificity**
+<figure><img src="../.gitbook/assets/trendlines9.png" alt=""><figcaption></figcaption></figure>
+
+### **Axis Specificity**
 
 From the 4.5.4 release, for the line chart and bar chart as trend lines, user can select the specificity of the axis for the same.\
 Earlier we default to using the same scale across all the rows for the same metric. Of course with this any large outliers are a problem. In the 4.5.4 release we added an optional setting to not use the same scale and show each row’s trends independently.\
@@ -97,13 +113,23 @@ As stated above, by defalut for each metric the bars hieght is set by considerin
 In the below screenshot, the category - Electronics has biggest numbers when compared to the other other categories. Therefore the hieght of the bars for other categories - Books, Movies, and Music are too small and not visible properly.\
 The below screenshot is the vitara grid chart in which bars are set as trendlines.
 
+<figure><img src="../.gitbook/assets/axisSpecificity_1.png" alt=""><figcaption></figcaption></figure>
+
 \
 If we want to make hieghts of the bar in each cell (group element) independent with other cell we have to choose the option - Apply at each cell. Click on hamburger button of the metric on which you want to enable this feature.
 
+<figure><img src="../.gitbook/assets/axisSpecificity_2.png" alt=""><figcaption></figcaption></figure>
+
 Expand the _“Display Style”_ menu and select _“More Options”_.
 
+<figure><img src="../.gitbook/assets/axisSpecificity_3.png" alt=""><figcaption></figcaption></figure>
+
 Expand the **Scale** dropdown box and select the option - **Apply at each cell** and click on **Apply** button.
+
+<figure><img src="../.gitbook/assets/axisSpecificity_4.png" alt=""><figcaption></figcaption></figure>
 
 By selecting this option Vitara Grid chart will consider the maximum and minimum values with in the cell (group element) of that particular metric.\
 For example, if we consider the _Cost_ metric, from all the bars of _Books_ category the least value is given smallest bar hieght and the maximum value is given the biggest bar hieght.\
 Likewise the minimum and maximum values are calculated for each category of the metric instead of whole metric’s minimum and maximum values.
+
+<figure><img src="../.gitbook/assets/axisSpecificity_5.png" alt=""><figcaption></figcaption></figure>
