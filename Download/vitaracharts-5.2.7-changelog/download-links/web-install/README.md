@@ -18,10 +18,6 @@ layout:
 
 ### Download Here
 
-{% content-ref url="download.md" %}
-[download.md](download.md)
-{% endcontent-ref %}
-
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
