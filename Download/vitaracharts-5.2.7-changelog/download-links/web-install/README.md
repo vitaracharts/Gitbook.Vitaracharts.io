@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: globe-wifi
+hidden: true
 layout:
   title:
     visible: true
@@ -15,6 +15,8 @@ layout:
 ---
 
 # Web Install
+
+### Download Here
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
