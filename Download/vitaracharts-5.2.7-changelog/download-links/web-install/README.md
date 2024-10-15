@@ -16,7 +16,7 @@ layout:
 
 # Web Install
 
-### Download Here
+### Download Here <a href="#https-mail.google.com-mail-u-0" id="https-mail.google.com-mail-u-0"></a>
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
