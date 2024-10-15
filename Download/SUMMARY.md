@@ -10,7 +10,8 @@
 
 ## VitaraMaps 5.2
 
-* [Web Install](vitaramaps-5.2/web-install.md)
-* [Workstation](vitaramaps-5.2/workstation.md)
-* [Mobile](vitaramaps-5.2/mobile.md)
-* [Library](vitaramaps-5.2/library.md)
+* [Download Link](vitaramaps-5.2/download-link/README.md)
+  * [Web Install](vitaramaps-5.2/download-link/web-install.md)
+  * [Workstation](vitaramaps-5.2/download-link/workstation.md)
+  * [Mobile](vitaramaps-5.2/download-link/mobile.md)
+  * [Library](vitaramaps-5.2/download-link/library.md)
