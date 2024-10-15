@@ -16,9 +16,7 @@ layout:
 
 # Library
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## [Click Here](https://vitarachartsdownloads.azureedge.net/distributions/5.3.0.159/VitaraChartsLibrary.zip)
 
 Starting with version 4.7 the following steps are **always** required.
 

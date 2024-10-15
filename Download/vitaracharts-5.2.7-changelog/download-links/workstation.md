@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: artstation
+hidden: true
 layout:
   title:
     visible: true
@@ -16,9 +16,7 @@ layout:
 
 # Workstation
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## [Click Here](https://vitarachartsdownloads.azureedge.net/distributions/5.3.0.159/VitaraCharts.zip)
 
 ## Download <a href="#download" id="download"></a>
 

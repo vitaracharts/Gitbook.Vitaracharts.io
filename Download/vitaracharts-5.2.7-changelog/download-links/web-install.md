@@ -16,11 +16,7 @@ layout:
 
 # Web Install
 
-### Download Here <a href="#https-mail.google.com-mail-u-0" id="https-mail.google.com-mail-u-0"></a>
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+### [Click Here](https://vitarachartsdownloads.azureedge.net/distributions/5.3.0.159/VitaraCharts.zip) <a href="#https-mail.google.com-mail-u-0" id="https-mail.google.com-mail-u-0"></a>
 
 ## Download <a href="#download" id="download"></a>
 

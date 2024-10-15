@@ -14,20 +14,20 @@ layout:
 
 # Download Links
 
-{% content-ref url="vitaracharts-5.2.7-changelog/download-links/web-install/" %}
-[web-install](vitaracharts-5.2.7-changelog/download-links/web-install/)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/web-install.md" %}
+[web-install.md](vitaracharts-5.2.7-changelog/download-links/web-install.md)
 {% endcontent-ref %}
 
 {% content-ref url="vitaracharts-5.2.7-changelog/download-links/workstation.md" %}
 [workstation.md](vitaracharts-5.2.7-changelog/download-links/workstation.md)
 {% endcontent-ref %}
 
-{% content-ref url="vitaracharts-5.2.7-changelog/download-links/mobile/" %}
-[mobile](vitaracharts-5.2.7-changelog/download-links/mobile/)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/mobile.md" %}
+[mobile.md](vitaracharts-5.2.7-changelog/download-links/mobile.md)
 {% endcontent-ref %}
 
-{% content-ref url="vitaracharts-5.2.7-changelog/download-links/library/" %}
-[library](vitaracharts-5.2.7-changelog/download-links/library/)
+{% content-ref url="vitaracharts-5.2.7-changelog/download-links/library.md" %}
+[library.md](vitaracharts-5.2.7-changelog/download-links/library.md)
 {% endcontent-ref %}
 
 ## What's new

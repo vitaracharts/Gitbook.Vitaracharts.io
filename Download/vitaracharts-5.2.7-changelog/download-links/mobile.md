@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: mobile
+hidden: true
 layout:
   title:
     visible: true
@@ -16,9 +16,7 @@ layout:
 
 # Mobile
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## [Click Here](https://vitarachartsdownloads.azureedge.net/distributions/5.3.0.159/VitaraChartsMobile.zip)
 
 The downloaded file will be different from the web version and is called “VitaraChartsMobile.zip”
 
