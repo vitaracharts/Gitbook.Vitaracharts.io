@@ -1,13 +1,30 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Export to PDF
-
-\
-
 
 #### Set up and installtion: <a href="#set-up-and-installtion" id="set-up-and-installtion"></a>
 
 With **MicroStrategy 2019 update 2**, modifications have been made to the way that custom plugins are configured for PDF export. Details are available at the following link.
 
 [Export engine local resource set up](https://www2.microstrategy.com/producthelp/Current/InstallConfig/en-us/Content/export\_engine\_local\_resource\_loading.htm)
+
+[Button](https://www2.microstrategy.com/producthelp/Current/InstallConfig/en-us/Content/export\_engine\_local\_resource\_loading.htm)
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 [Troubleshooting PDF export issues](https://community.microstrategy.com/s/article/Troubleshooting-the-New-Export-Engine-in-2019-Update-2?language=en\_US)
 

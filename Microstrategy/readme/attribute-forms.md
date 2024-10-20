@@ -42,8 +42,8 @@ If we need the attribute forms to be enabled for the chart and not to display th
 #### Attribute forms in Data labels and Tooltip <a href="#attribute-forms-in-data-labels-and-tooltip" id="attribute-forms-in-data-labels-and-tooltip"></a>
 
 Attribute forms can also be used in data labels and tooltip\
-To know more about attribute forms in data labels, go to [Data labels](https://about/guideCommonFeatures/datalabelCustomization.html#attribute-forms-in-data-labels)\
-To know more about attribute forms in tooltip, go to [Tooltip](https://about/guideCommonFeatures/tooltipCustomization.html#attribute-forms-in-tooltip)\
+To know more about attribute forms in data labels, go to [Data labels](data-label-customization.md)\
+To know more about attribute forms in tooltip, go to [Tooltip](tooltip-customization.md)\
 
 
 #### Attribute forms in Grid and Micro Charts: <a href="#attribute-forms-in-grid-and-micro-charts" id="attribute-forms-in-grid-and-micro-charts"></a>

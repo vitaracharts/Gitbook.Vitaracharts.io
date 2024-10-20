@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Axes
 
 \
@@ -11,7 +25,7 @@ Under Category axis settings, we can format the axis labels, axis title, axis li
 
 When we enable attribute forms for an attribute in the chart, then by default attribute form \[id in particular] will be enabled on the chart as well.\
 In case if we want to turn off the attribute form for axis label, then disable ‘show attribute id’ checkbox in the property editor here: Axis > Category Axis > Label\
-To know more about attribute forms in axis labels click [here](https://about/guideCommonFeatures/attributeForms.html#choose-specific-attribute-forms-to-display-on-the-chart)
+To know more about attribute forms in axis labels click [here](attribute-forms.md)
 
 #### Multi level Axis rotation <a href="#multi-level-axis-rotation" id="multi-level-axis-rotation"></a>
 

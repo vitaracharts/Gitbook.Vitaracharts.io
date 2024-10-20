@@ -83,6 +83,8 @@ From 4.1 version, all vitara charts are added with the support to show the overl
 
 For example, in line chart when you enable data labels, only few labels are shown on the chart respective to the space available between the datapoints. See the screenshot below:
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 Now, the new feature allows to forcefully show all the data labels. To do this, go to data labels tab and enable the ‘Show Overlapping Labels’ checkbox. See the screenshot below:
 
 <figure><img src="../.gitbook/assets/Overlap_labels3.png" alt=""><figcaption></figcaption></figure>

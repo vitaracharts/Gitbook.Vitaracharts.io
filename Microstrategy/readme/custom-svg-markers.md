@@ -70,7 +70,7 @@ In the configuration page, enter the MicroStrategy web application URL.
 Example: ​http://example.com/MicroStrategy/   <br/>Click the **Submit** button.
 ```
 
-## **Configuration steps for mobile application:**
+### **Configuration steps for mobile application:**
 
 ### **Step1:**
 
