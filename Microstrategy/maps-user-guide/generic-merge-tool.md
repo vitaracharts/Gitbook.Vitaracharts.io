@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Generic Merge tool
+
+## Unleashing Custom Grouped Regions with Vitara’s Dynamic Merge Tool
 
 Vitara’s Generic Merge Tool offers a powerful solution for creating custom grouped regions on geographical maps, allowing users to merge individual regions based on specified criteria. This guide walks you through the process of using the tool to generate CBSA (Core-Based Statistical Areas) regions using a geojson collection of US counties.
 
@@ -25,7 +41,7 @@ After downloading, open the file to verify that it encompasses the requisite dat
 * Begin by visiting Mapshaper[ a powerful tool for transforming geojson files into the Topojson format.](https://mapshaper.org/\))
 * Use the platform to upload your geojson file and seamlessly convert it to Topojson. Below screenshot shows mapshaper webpage.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2:**
 

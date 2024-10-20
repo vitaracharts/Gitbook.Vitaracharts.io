@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Right Click Menu
+
+## Right Click Menu in MicroStrategy 2020 Presentation Mode <a href="#right-click-menu-in-microstrategy-2020-presentation-mode" id="right-click-menu-in-microstrategy-2020-presentation-mode"></a>
 
 When we run a dossier in the presentation mode, by default vitara charts will not show the right click menu options.
 

@@ -20,17 +20,13 @@ With **MicroStrategy 2019 update 2**, modifications have been made to the way th
 
 [Export engine local resource set up](https://www2.microstrategy.com/producthelp/Current/InstallConfig/en-us/Content/export\_engine\_local\_resource\_loading.htm)
 
-[Button](https://www2.microstrategy.com/producthelp/Current/InstallConfig/en-us/Content/export\_engine\_local\_resource\_loading.htm)
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 [Troubleshooting PDF export issues](https://community.microstrategy.com/s/article/Troubleshooting-the-New-Export-Engine-in-2019-Update-2?language=en\_US)
 
 Please use the **web version of Vitara Charts** to deploy to the local resource folder (as specified in the above link’s setup). Please use Vitara Charts version 4.4.4 (or newer) to ensure full support for the use of the local resource folder.
 
-**We are getting the following error when we export vitara charts to PDF, **_**Failed due to NetworkError: Failed to execute ‘send’ on ‘XMLHttpRequest’: Failed to load**_**. How do you resolve this?**
+## Other FAQs related to export to PDF: <a href="#other-faqs-related-to-export-to-pdf" id="other-faqs-related-to-export-to-pdf"></a>
+
+### **We are getting the following error when we export vitara charts to PDF, **_**Failed due to NetworkError: Failed to execute ‘send’ on ‘XMLHttpRequest’: Failed to load**_**. How do you resolve this?**
 
 This has happened in a few other customer environments, and it is a network/configuration issue. You can quickly verify this by exporting any other chart from the gallery (not just VitaraChart). They will fail in the same manner. To export, the pdf engine must be able to connect to the Web server and have access to all plugin files. Connecting from the system where the pdf server is installed may cause access concerns. The type of user and authentication used on both devices may cause access concerns. Here are a couple of important MicroStrategy links that outline the issue and provide potential remedies.\
 [Error while exporting](https://community.microstrategy.com/s/question/0D544000077J4yxCAC/error-when-exporting-to-pdf-a-dossier-with-geospatial-visualization?language=en\_US)

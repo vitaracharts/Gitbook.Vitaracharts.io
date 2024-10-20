@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # US map using counties data
+
+## Creating US map using US Counties data
 
 US Counties can be used to build a US Map with any custom grouping of Counties using VitaraMap tools.
 

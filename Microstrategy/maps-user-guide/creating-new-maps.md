@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Creating New Maps
 
 ### Creating New Maps other than US <a href="#creating-new-maps-other-than-us" id="creating-new-maps-other-than-us"></a>
@@ -31,6 +45,8 @@ Now the geojson content will be displayed in json tree structure.
 <figure><img src="../.gitbook/assets/image35.png" alt=""><figcaption></figcaption></figure>
 
 One of the objects in the JSON tree structure is the ‘features’ array. We will have objects for each segment of the chart if we enlarge the ‘features’ array. As there are four partitions in the chart representing each country (England, Scotland, Wales, and Northern Ireland) in our United Kingdom countries example, there are objects named from 0 to 3.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 It is clear that the shape we downloaded is exactly what we require. Our data and the coordinates in the shapefile are exactly the same.
 

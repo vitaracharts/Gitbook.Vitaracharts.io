@@ -1,7 +1,18 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Right-to-left Support
-
-\
-
 
 ### Right to Left (RTL) Language Support <a href="#right-to-left-rtl-language-support" id="right-to-left-rtl-language-support"></a>
 
@@ -10,6 +21,10 @@ Vitara Charts supports scripts written from right to left. Arabic, Hebrew, Persi
 #### Controlling the option <a href="#controlling-the-option" id="controlling-the-option"></a>
 
 The use of RTL is a system-wide option. It will be reflected on all Vitara charts once we activate it. Take note of the following line in the ‘global.txt’ file:
+
+```
+#rtlSupport=true
+```
 
 By default, the option is commented out. Simply remove the ‘#’ character from the preceding line to enable RTL data display.
 

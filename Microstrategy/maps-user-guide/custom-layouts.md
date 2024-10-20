@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Custom Layouts
 
 ### Creating Custom Map chart from Images <a href="#creating-custom-map-chart-from-images" id="creating-custom-map-chart-from-images"></a>
@@ -117,15 +131,19 @@ If everything goes as planned, the finished result will look like this.
 
 <figure><img src="../.gitbook/assets/layout_Tool17.png" alt=""><figcaption></figcaption></figure>
 
-**Integration of Background Images (Version 4.9.2.477 and Beyond)**
+## Integrating Background Images and Advanced Features with Vitara Map Tool
+
+### **Integration of Background Images (Version 4.9.2.477 and Beyond)**
 
 In an exciting development, starting from version 4.9.2.477, the Vitara Map Tool introduced a game-changing functionality – the ability to seamlessly integrate background images. Let’s take the example of a “Stadium” to illustrate this breakthrough. Previously, when you uploaded a picture and drew shapes in the Vitara Map Tool([ Vitara Map Tool ](https://cloud.vitaracharts.com/maptools/layoutCreator)), you could only see the shapes on the picture. However, with the latest version, the complete background image becomes part of the Vitara map chart, enhancing the overall visualization.
 
-<figure><img src="../.gitbook/assets/FootballTrans.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Color Picker with Opacity (Version 5.0.0.484 and Beyond) <a href="#color-picker-with-opacity-version-500484-and-beyond" id="color-picker-with-opacity-version-500484-and-beyond"></a>
 
 Moving forward to version 5.0.0.484, another exciting feature was introduced – the Color Picker with Opacity. This option empowers users to fine-tune the transparency of a selected class by adjusting a slider. This brings a new level of customization, allowing you to control the visual intensity of specific map elements.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Edit Custom SVG Map <a href="#edit-custom-svg-map" id="edit-custom-svg-map"></a>
 

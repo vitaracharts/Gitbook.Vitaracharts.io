@@ -1,13 +1,24 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Series using Attribute
 
-\
-
-
-### Draw Chart Series Using Attribute <a href="#draw-chart-series-using-attribute" id="draw-chart-series-using-attribute"></a>
+## Draw Chart Series Using Attribute <a href="#draw-chart-series-using-attribute" id="draw-chart-series-using-attribute"></a>
 
 By default, all Vitara charts are formed as series utilizing metrics. However, we can use attributes to draw series on the Vitara chart.
 
-#### Dossiers <a href="#dossiers" id="dossiers"></a>
+## Dossiers <a href="#dossiers" id="dossiers"></a>
 
 The attribute that we want to generate a series in the chart must be placed in the “Color Drop” zone in dossiers. In the screenshot below, a line chart displays the details of the Revenue metric over month and year dimensions. That is, the series is created using the Revenue metric.
 
@@ -19,7 +30,7 @@ The similar graph can be used to show yearly income figures. We must draw the se
 
 Now chart series is drawn using Year attribute.
 
-#### Report Services Documents <a href="#documents" id="documents"></a>
+## Report Services Documents <a href="#documents" id="documents"></a>
 
 The following steps will explain how to form series using attributes in RSD.
 
