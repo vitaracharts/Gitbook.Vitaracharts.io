@@ -1,10 +1,24 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Waterfall Chart
 
 A waterfall chart is a type of data visualisation that shows the cumulative effect of consecutively added positive or negative numbers. If the values are not predefined or flexible, such as starting budget, quarterly spend (YTD), and remaining budget, the number of quarters elapsed cannot be predetermined at build time. Vitara provides a waterfall widget version that includes a starting metric and the cumulative sum of all successive metrics, which results in a total bar. The chart provides plot possibilities depending on certain metrics. The property editor provides a list of metrics; each statistic can be extended to select plot settings.We have the Non-Additive option, which means that we cannot include the starting value in the total value, and the Auto compute total option, which means that we can disable the total value in the chart.
 
 ## Inputs <a href="#inputs" id="inputs"></a>
 
-**Attributes:** Optional. For the attribute, there are two drop zones. The ‘group by’ and ‘break by’ drop zones. Attributes are only required if we wish to establish groups based on attribute values or divide metrics based on attribute values. We can also use both properties together. If you wish to see the metric break up over attribute elements, place an attribute in the ‘break by’ drop zone. The metric values for each attribute element will be displayed in incremental order. To make small multiples, drag an attribute into the ‘group by’ zone. Click here to learn more about small multiples. here
+**Attributes:** Optional. For the attribute, there are two drop zones. The ‘group by’ and ‘break by’ drop zones. Attributes are only required if we wish to establish groups based on attribute values or divide metrics based on attribute values. We can also use both properties together. If you wish to see the metric break up over attribute elements, place an attribute in the ‘break by’ drop zone. The metric values for each attribute element will be displayed in incremental order. To make small multiples, drag an attribute into the ‘group by’ zone. Click here to learn more about small multiples. [here](small-multiples.md)
 
 **Metrics:** A minimum of two metrics must be used. The first metric, M1, is used as the starting value, while the second metric, M2, is utilized to add or remove from the starting value. The final bar (Total) represents the total of metric M1 and metric M2.
 
