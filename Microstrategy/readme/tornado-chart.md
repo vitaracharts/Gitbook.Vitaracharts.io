@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Tornado Chart
 
 Tornado diagrams or charts are a subset of Bar charts in which the data categories are listed vertically rather than horizontally, and the categories are ordered so that the largest bar appears at the top of the chart, the second largest appears second from the top, and so on when sorted descendingly. They are so named because the final chart looks like one half of a complete tornado. They are excellent for representing two values that must be compared across any dimension.
@@ -50,7 +64,7 @@ From version 4.9.0, we can use pattern fill in thresholds, certain part of the c
 
 #### Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 
-Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to play-by.
+Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to [play-by](play-animation.md).
 
 #### Background Image <a href="#background-image" id="background-image"></a>
 

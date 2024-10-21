@@ -46,7 +46,7 @@ In the below screenshot vitara text node chart is showing the filter selection u
 
 ### 3. Tittles and Background Images <a href="#id-3-tittles-and-background-images" id="id-3-tittles-and-background-images"></a>
 
-Text node chart can be used to show an image in the dossier. The steps to set a background image for all Vitara charts are explained in the following document background Image.
+Text node chart can be used to show an image in the dossier. The steps to set a background image for all Vitara charts are explained in the following document [backgroundImage](background-images.md).
 
 To display the title of the dossier or document, we can utilize the Vitara text node chart as a text container. Using the Vitara text node chart, we can add a stunning title to our dossier or paper in addition to the background image feature.
 

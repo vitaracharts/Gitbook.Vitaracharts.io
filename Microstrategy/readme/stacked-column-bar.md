@@ -170,11 +170,13 @@ Hence chart will display stack total in default number format.
 
 Below is the screenshot when the option ‘Identify format across the metrics’ is not enabled.
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 In this use scenario, the chart should take into account not just the first metric but also the number format of other metrics in the chart to establish the number format of the stack totals. The screenshots that demonstrate how to enable the “Identify format across the metrics” option and the stacked chart that results from doing so are shown below.
 
 <figure><img src="../.gitbook/assets/stackedChartFormat.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/stackedChartFormat1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 
@@ -202,11 +204,11 @@ From version 4.9.0, we can use pattern fill in thresholds, certain part of the c
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-Stacked bar/column chart supports small multiples feature. Small multiples feature is explained in smallMultiples.
+Stacked bar/column chart supports small multiples feature. Small multiples feature is explained in [smallMultiples](small-multiples.md).
 
 ## Gradient Color <a href="#gradient-color" id="gradient-color"></a>
 

@@ -1,20 +1,32 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Trellis Chart
 
-Please use the Small Multiples feature instead. Trellis chart will continue to work for existing use cases but will no longer be enhanced
+Please use the [Small Multiples](small-multiples.md) feature instead. Trellis chart will continue to work for existing use cases but will no longer be enhanced
 
 The trellis chart shows a graph for each element of the first attribute. We can change the graph type to line or bar or column or scatter.
 
-#### Inputs <a href="#inputs" id="inputs"></a>
+## Inputs <a href="#inputs" id="inputs"></a>
 
 Metrics: 1 metric Attributes: 2 attributes Use as Filter Option - Available
 
 <figure><img src="../.gitbook/assets/Trellis1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Trellis1 (1).png" alt=""><figcaption></figcaption></figure>
-
 Option to set chart type - line, column, bar or scatter. We can set a number of columns to show the subgraph for each element of the first attribute.
 
-#### Markers <a href="#markers" id="markers"></a>
+## Markers <a href="#markers" id="markers"></a>
 
 Marker properties have been moved to Series properties in Vitara charts since version 4.6. The modified marker characteristics are used by all charts that support Series as Line/Area. By selecting the Series tab and clicking the ‘Edit’ button, you can see the Enable marker, Marker type, and Marker size options to Enable marker properties. There are numerous markers to choose from. Navigate to the marker tab, choose the marker type, and then select the marker. The size of the markings can also be changed. Simply type a number into the ‘Marker Size’ text input box, or use the increase/decrease buttons.
 

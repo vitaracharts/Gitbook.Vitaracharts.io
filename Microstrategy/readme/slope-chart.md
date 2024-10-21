@@ -86,14 +86,12 @@ The marker feature in a slope chart is employed to highlight specific data point
 
 ## Plot lines / Reference Lines <a href="#plot-lines--reference-lines" id="plot-lines--reference-lines"></a>
 
-We can set reference lines in slope chart. The steps to set plot lines /reference lines are explained in plotlines
+We can set reference lines in slope chart. The steps to set plot lines /reference lines are explained in [plotlines](plot-lines-reference-lines.md)
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
-#### Small Multiples <a href="#small-multiples" id="small-multiples"></a>
+## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-##
-
-Slope chart supports small multiples feature. Small multiples is explained in smallMultiples.
+Slope chart supports small multiples feature. Small multiples is explained in [smallMultiples](small-multiples.md).
