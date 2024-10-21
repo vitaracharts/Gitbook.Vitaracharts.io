@@ -118,6 +118,7 @@
     * [Small Multiples](ibcs-user-guide/certified-charts/small-multiples.md)
     * [Vertical Waterfall](ibcs-user-guide/certified-charts/vertical-waterfall.md)
 * [CUSTOMIZATION GUIDE](customization-guide/README.md)
+  * [Introduction](customization-guide/introduction.md)
   * [Custom CSS](customization-guide/custom-css.md)
   * [Custom CSS Samples](customization-guide/custom-css-samples.md)
   * [Custom Color Palette](customization-guide/custom-color-palette.md)

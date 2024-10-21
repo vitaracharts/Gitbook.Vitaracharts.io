@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Custom Color Palette
 
 These features are supported in the release 4.2 (or newer)
@@ -67,6 +81,9 @@ palette.defaultPalette=Corporate3
 ## **Note:**
 
 * Palette will be shown as **Misconfigured** in the list of color palettes, on failed to parse user-defined palette from **global.txt**. For example,
+* ```
+  Vitara {Misconfigured}
+  ```
 * If the default palette set in the **global.txt** is **misconfigured**, the color palette is defaulted to the chart’s default palette.
 * Users can define any number of colors in a given palette.
 * After adding any new color, refresh the dossier/document to reflect the new color in Vitara charts.

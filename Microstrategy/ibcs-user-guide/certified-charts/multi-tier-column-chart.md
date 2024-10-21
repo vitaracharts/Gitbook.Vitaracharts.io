@@ -1,17 +1,30 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Multi-tier Column chart
 
-\
+## Multi-tier column chart <a href="#multi-tier-column-chart" id="multi-tier-column-chart"></a>
 
-
-#### Multi-tier column chart <a href="#multi-tier-column-chart" id="multi-tier-column-chart"></a>
-
-**Description**
+### **Description**
 
 A multi-tier column chart can be used to compare different situations (actual, planned, anticipated, etc.) over a specified time period (months in a year, several years, etc.).
 
-**Demo video**
+### **Demo video**
 
-**Scenario planning**
+{% embed url="https://youtu.be/dPL4uh1ieJU" %}
+
+## **Scenario planning**
 
 Please review mapping scenarios for a better understanding of how scenario planning in VitaraCharts.
 

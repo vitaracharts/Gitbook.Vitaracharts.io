@@ -153,11 +153,11 @@ After giving all the inputs click on ‘Apply’ button.
 
 ## Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 
-Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to play-by.
+Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to [play-by](play-animation.md).
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Calendar format: Gregorian/Hijri <a href="#calendar-format-gregorianhijri" id="calendar-format-gregorianhijri"></a>
 

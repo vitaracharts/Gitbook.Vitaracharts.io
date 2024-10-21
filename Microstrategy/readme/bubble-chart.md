@@ -85,11 +85,11 @@ For a specific category axis attribute element, a line will be created between t
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in[ backgroundImage](background-images.md).
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-Bubble chart supports small multiples feature. Small multiples feature is explained in smallMultiples
+Bubble chart supports small multiples feature. Small multiples feature is explained in [smallMultiples](small-multiples.md)
 
 ## Series <a href="#series" id="series"></a>
 

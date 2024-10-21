@@ -60,7 +60,7 @@ Open the property editor by clicking on the ‘Edit’ button and select the ‘
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 When used in combination with small multiples, the basic kpi chart enables for the insertion of a distinct background image based on attribute in addition to the usual background image.
 
@@ -79,7 +79,7 @@ Steps
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-Simple KPI chart supports small multiples feature. Small multiples feature is explained in smallMultiples.
+Simple KPI chart supports small multiples feature. Small multiples feature is explained in [smallMultiples](small-multiples.md).
 
 ## Tooltip <a href="#tooltip" id="tooltip"></a>
 

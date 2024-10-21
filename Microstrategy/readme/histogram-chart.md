@@ -36,7 +36,7 @@ We can format the data labels and bin total also. You can see the attached scree
 
 Bins are the towers or bars that make up a histogram. Each bin’s height indicates how many values from the data fall within that range. Below is the screenshot of the property to modify the bin size.
 
-<figure><img src="../.gitbook/assets/HistogramZero1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Default bin size:**&#x20;
 
@@ -66,7 +66,7 @@ Below is the example of histogram chart shows the cumulative sum line with marke
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Zero Value Bar <a href="#zero-value-bar" id="zero-value-bar"></a>
 

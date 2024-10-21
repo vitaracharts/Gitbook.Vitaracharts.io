@@ -1,8 +1,12 @@
+---
+description: These features are supported in the release 4.2 (or newer)
+---
+
 # Custom CSS Samples
 
 ## Chart Area Background
 
-Applied chart area background color to be rgb(117, 245, 66)
+Applied chart area background color to be rgb(117, 245, 66)&#x20;
 
 ```
 .vitara-chart-background{

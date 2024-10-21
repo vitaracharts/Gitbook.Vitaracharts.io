@@ -114,15 +114,15 @@ Pattern fill in the threshold feature of a line or area chart is employed to emp
 
 ## Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 
-Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to play-by.
+Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to [play-by](play-animation.md).
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-Line chart supports small multiples feature. Small multiples feature is explained in smallMultiples.
+Line chart supports small multiples feature. Small multiples feature is explained in [smallMultiples](small-multiples.md).
 
 ## Data Markers <a href="#data-markers" id="data-markers"></a>
 

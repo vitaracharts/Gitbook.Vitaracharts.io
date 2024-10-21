@@ -62,4 +62,4 @@ Below screenshot is the example where all the dial and grid line properties are 
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in [backgroundImage](https://docs.vitaracharts.com/guideCommonFeatures/backgroundImage.html).
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).

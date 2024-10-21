@@ -28,9 +28,7 @@ Example: Mekko chart with Sales by Customer Segment & Province values. The width
 
 <figure><img src="../.gitbook/assets/image16.png" alt=""><figcaption></figcaption></figure>
 
-### \&point.percentage macro <a href="#pointpercentage-macro" id="pointpercentage-macro"></a>
-
-##
+## \&point.percentage macro <a href="#pointpercentage-macro" id="pointpercentage-macro"></a>
 
 We now have the ability to incorporate a new macro in version 5.2 that displays the % value of the specified category as well as the overall percentage of the specific element in that chart.
 
@@ -60,4 +58,4 @@ Finally click on ‘Apply’ button.
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).

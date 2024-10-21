@@ -58,6 +58,8 @@ By default, Heatmap establishes a threshold (Gradient threshold) and bases the p
 
 <figure><img src="../.gitbook/assets/image514.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Total Labels <a href="#total-labels" id="total-labels"></a>
 
 As of Vitara charts version 4.9.2, the heatmap chart by default shows vertical and horizontal totals.The data labels menu has an option for this feature. The data labels menu’s ‘Total Labels’ option can be enabled or disabled independently of the ‘All’ selection for the heatmap chart.

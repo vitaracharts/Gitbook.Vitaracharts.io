@@ -1,19 +1,32 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Vertical Waterfall
 
-\
+## Vertical Waterfall chart <a href="#vertical-waterfall-chart" id="vertical-waterfall-chart"></a>
 
-
-#### Vertical Waterfall chart <a href="#vertical-waterfall-chart" id="vertical-waterfall-chart"></a>
-
-**Description**
+### **Description**
 
 This sort of chart is commonly used to display financial data over time. To compare performance, we allow you to create up to two of these waterfall charts (for two separate scenarios).
 
-**Demo video**
+### **Demo video**
 
-**Scenario planning**
+{% embed url="https://youtu.be/NWjvF8L3t50" %}
 
-Please review mapping scenarios for a better understanding of how scenario planning in VitaraCharts.
+## **Scenario planning**
+
+Please review [mapping scenarios](../ibcs/mapping-ibcs-scenarios.md) for a better understanding of how scenario planning in VitaraCharts.
 
 For this type of chart, the scenarios are mapped using **attribute elements**. So the user will need to define metric values (for a set of metrics) for attribute elements representing different scenarios. For instance, if the user is looking to draw waterfalls for comparison for the years 2019 and 2018 where 2019 represents the actual data and 2018 represents the previous data, then
 

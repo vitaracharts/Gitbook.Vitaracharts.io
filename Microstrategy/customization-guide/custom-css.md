@@ -1,6 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Custom CSS
 
 These features are supported in the release 4.2 (or newer)
+
+**Important Note:** **After making any changes, you must clear your browser’s cache to ensure the updates are reflected in Vitara Charts.**
 
 ## Custom CSS in Vitara Charts <a href="#custom-css-in-vitara-charts" id="custom-css-in-vitara-charts"></a>
 
@@ -92,4 +108,4 @@ The datalabel. Use this to change the text style of datalabels. Can change text 
 * For example, in bar chart a bar is a data element and in a bubble chart a bubble is a data element.
 * Use this to change the text style of datalabels. Can change text properties like font-family, font-style, color, text-decoration, text-transform, letter-spacing.
 
-\### CSS Class Names of charts | Chart Name | Class Name | | :--------------- | :------------------- | | Vitara Bar Chart | .VitaraHCBarChart | | Vitara Stacked Bar Chart | .VitaraHCStackedBarChart | | Vitara Column Chart | .VitaraHCColumnChart | | Vitara Stacked Column Chart | .VitaraHCStackedColumnChart | | Vitara Pie Chart | .VitaraHCPieChart | | Vitara KPI Ring Chart | .VitaraHCKPIRingChart | | Vitara Line Chart | .VitaraHCLineChart | | Vitara Area Chart | .VitaraHCAreaChart | | Vitara Bubble Chart | .VitaraHCBubbleChart | | Vitara Tornado Chart | .VitaraHCTornadoChart | | Vitara Sparkline Chart | .VitaraHCSparklineChart | | Vitara Heatmap Chart | .VitaraHCHeatmapChart | | Vitara Funnel Chart | .VitaraHCFunnelChart | | Vitara Column Range Chart | .VitaraHCColumnRangeChart | | Vitara Bullet Chart | .VitaraHCBulletChart | | Vitara Waterfall Chart | .VitaraHCWaterfallChart | | Vitara KPI Animation Chart | .VitaraKPIAnimationChart | | Vitara Calendar Heatmap | .VitaraD3CalHeatMapChart | | Vitara Simple KPI Chart | .VitaraSimpleKPIChart | | Vitara Mekko Chart | .VitaraMekkoChart | | Vitara Word Cloud | .VitaraHCWordCloud | | Vitara Waffle Chart | .VitaraD3WaffleChart | | Vitara Histogram Chart | .VitaraHistogramChart | | Vitara Dumbbell Chart | .VitaraHCDumbbellChart | | Vitara Slope Chart | .VitaraHCSlopeChart | | Vitara Circle Packing Chart | .VitaraD3CirclePackingChart | | Vitara Angular Gauge Chart | .VitaraHCAngularGaugeChart | | Vitara Sankey Chart | .VitaraHCSankeyChart | View sample implementations
+\### CSS Class Names of charts | Chart Name | Class Name | | :--------------- | :------------------- | | Vitara Bar Chart | .VitaraHCBarChart | | Vitara Stacked Bar Chart | .VitaraHCStackedBarChart | | Vitara Column Chart | .VitaraHCColumnChart | | Vitara Stacked Column Chart | .VitaraHCStackedColumnChart | | Vitara Pie Chart | .VitaraHCPieChart | | Vitara KPI Ring Chart | .VitaraHCKPIRingChart | | Vitara Line Chart | .VitaraHCLineChart | | Vitara Area Chart | .VitaraHCAreaChart | | Vitara Bubble Chart | .VitaraHCBubbleChart | | Vitara Tornado Chart | .VitaraHCTornadoChart | | Vitara Sparkline Chart | .VitaraHCSparklineChart | | Vitara Heatmap Chart | .VitaraHCHeatmapChart | | Vitara Funnel Chart | .VitaraHCFunnelChart | | Vitara Column Range Chart | .VitaraHCColumnRangeChart | | Vitara Bullet Chart | .VitaraHCBulletChart | | Vitara Waterfall Chart | .VitaraHCWaterfallChart | | Vitara KPI Animation Chart | .VitaraKPIAnimationChart | | Vitara Calendar Heatmap | .VitaraD3CalHeatMapChart | | Vitara Simple KPI Chart | .VitaraSimpleKPIChart | | Vitara Mekko Chart | .VitaraMekkoChart | | Vitara Word Cloud | .VitaraHCWordCloud | | Vitara Waffle Chart | .VitaraD3WaffleChart | | Vitara Histogram Chart | .VitaraHistogramChart | | Vitara Dumbbell Chart | .VitaraHCDumbbellChart | | Vitara Slope Chart | .VitaraHCSlopeChart | | Vitara Circle Packing Chart | .VitaraD3CirclePackingChart | | Vitara Angular Gauge Chart | .VitaraHCAngularGaugeChart | | Vitara Sankey Chart | .VitaraHCSankeyChart | [View sample implementations](custom-css-samples.md)

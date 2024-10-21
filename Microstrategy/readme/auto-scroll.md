@@ -61,4 +61,4 @@ This auto scroll bar can be moved along the category axis and appears horizontal
 
 Invert axes are supported for the column range, waterfall, dumbbell, and bullet charts. When the invert axes option is disabled, the scroll bar automatically moves to the bottom of the chart and scrolls along the category axis.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

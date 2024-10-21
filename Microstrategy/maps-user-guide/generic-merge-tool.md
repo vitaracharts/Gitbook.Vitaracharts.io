@@ -41,7 +41,7 @@ After downloading, open the file to verify that it encompasses the requisite dat
 * Begin by visiting Mapshaper[ a powerful tool for transforming geojson files into the Topojson format.](https://mapshaper.org/\))
 * Use the platform to upload your geojson file and seamlessly convert it to Topojson. Below screenshot shows mapshaper webpage.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2:**
 

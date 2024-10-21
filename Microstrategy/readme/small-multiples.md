@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Small Multiples
 
 Small Multiples displays data from numerous small, interconnected graphs in a single display. Because they use the same axes and scales, the user may compare trends across dimensions in a single view. This property is now available in the following charts: Bar, Column, Area, Line, Bubble, Bullet, KPI Ring, Stacked Bar, Stacked Column, Slope, Pie, Simple KPI, Waterfall, Tornado, Dumbbell, and Sparkline.

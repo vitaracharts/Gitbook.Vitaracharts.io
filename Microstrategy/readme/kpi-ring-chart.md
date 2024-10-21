@@ -78,15 +78,13 @@ Below is the screenshot of a KPI Ring chart with unfilled color applied as “re
 
 <figure><img src="../.gitbook/assets/KPIRing9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/KPIRing9.png" alt=""><figcaption></figcaption></figure>
-
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-KPI Ring chart supports small multiples feature.Small multiples is explained in smallMultiples.
+KPI Ring chart supports small multiples feature.Small multiples is explained in [smallMultiples](small-multiples.md).
 
 Below are the screenshots where Small multiples is applied.
 

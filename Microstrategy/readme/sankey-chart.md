@@ -88,7 +88,7 @@ Navigate to the Sankey tab in the property editor and enter the desired range in
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](bar-column-chart.md).
 
 ## New data model - Introduced in 4.5 release <a href="#new-data-model---introduced-in-45-release" id="new-data-model---introduced-in-45-release"></a>
 
@@ -241,7 +241,7 @@ From the version 5.0, Sankey chart now stands an ability to use the charts in ve
 
 <figure><img src="../.gitbook/assets/Sankey1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Series <a href="#series" id="series"></a>
+## Series <a href="#series" id="series"></a>
 
 **Horizontal and Vertical Offset**
 

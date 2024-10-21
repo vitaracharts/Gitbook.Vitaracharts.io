@@ -64,8 +64,8 @@ It’s the ability to fill the area between the two data points (typically repre
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-Dumbbell chart supports small multiples feature. Small multiples feature is explained in smallMultiples.
+Dumbbell chart supports small multiples feature. Small multiples feature is explained in [smallMultiples](small-multiples.md).

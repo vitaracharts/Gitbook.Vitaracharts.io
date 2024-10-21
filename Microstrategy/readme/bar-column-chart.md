@@ -240,11 +240,11 @@ Play by - animation shows the chart for each element of the first attribute. For
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Small Multiples <a href="#small-multiples" id="small-multiples"></a>
 
-Bar/Column chart supports small multiples feature. Small multiples feature is explained in smallMultiples.
+Bar/Column chart supports small multiples feature. Small multiples feature is explained in [smallMultiples](small-multiples.md).
 
 ## Data Markers <a href="#data-markers" id="data-markers"></a>
 

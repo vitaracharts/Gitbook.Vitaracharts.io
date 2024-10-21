@@ -50,7 +50,7 @@ After giving all the inputs click on ‘Apply’ button.
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).
 
 ## Bubble Type <a href="#bubble-type" id="bubble-type"></a>
 
