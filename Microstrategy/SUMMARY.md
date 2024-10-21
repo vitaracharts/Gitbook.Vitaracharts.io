@@ -115,7 +115,7 @@
   * [CERTIFIED CHARTS](ibcs-user-guide/certified-charts/README.md)
     * [Multi-tier Bar chart](ibcs-user-guide/certified-charts/multi-tier-bar-chart.md)
     * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart.md)
-    * [Multi-tier Column chart](ibcs-user-guide/certified-charts/multi-tier-column-chart-1.md)
+    * [Small Multiples](ibcs-user-guide/certified-charts/small-multiples.md)
     * [Vertical Waterfall](ibcs-user-guide/certified-charts/vertical-waterfall.md)
 * [CUSTOMIZATION GUIDE](customization-guide/README.md)
   * [Custom CSS](customization-guide/custom-css.md)

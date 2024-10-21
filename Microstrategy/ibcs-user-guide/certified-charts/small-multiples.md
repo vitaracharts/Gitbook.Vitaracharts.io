@@ -1,13 +1,13 @@
-# Multi-tier Column chart
+# Small Multiples
 
 \
 
 
-#### Multi-tier column chart <a href="#multi-tier-column-chart" id="multi-tier-column-chart"></a>
+#### Small Multiples (column) chart <a href="#small-multiples-column-chart" id="small-multiples-column-chart"></a>
 
 **Description**
 
-A multi-tier column chart can be used to compare different situations (actual, planned, anticipated, etc.) over a specified time period (months in a year, several years, etc.).
+A small multiples (column) chart is useful for comparing distinct metric values for different category elements across (usually) a timeline in a single view. To display the metric value, all charts in the tiny multiples will use the same scale. The chart can also show absolute and relative variations from the average across all category elements.
 
 **Demo video**
 

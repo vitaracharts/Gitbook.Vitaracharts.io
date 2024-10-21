@@ -1,7 +1,18 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Why IBCS
-
-\
-
 
 #### Why IBCS and what is it used for <a href="#why-ibcs-and-what-is-it-used-for" id="why-ibcs-and-what-is-it-used-for"></a>
 
@@ -20,12 +31,12 @@ As offered in VitaraCharts for MicroStrategy, IBCS compliance ensures that an or
 
 As part of the compliance certification, VitaraCharts currently enabled the following five charts with IBCS semantics (more will be added in the near future)
 
-* Vertical Waterfall
-* Small multiples
-* Multi-tier Bar
-* Multi-tier Column
+* [Vertical Waterfall](../certified-charts/vertical-waterfall.md)
+* [Small multiples](../../readme/small-multiples.md)
+* [Multi-tier Bar](../certified-charts/multi-tier-bar-chart.md)
+* [Multi-tier Column](../certified-charts/multi-tier-column-chart.md)
 * Scattergram
 
 Key features in these charts is the notion of scenarios. Scenarios represent a certain perspective or flavor of data. For instance, the data can be actual or can be planned (yet to be realized as actual). These are two scenarios. Similarly you could be looking at past data (Previous) or Forecast. So for the same measure or metric, you can easily represent data in each of these scenarios and compare performance across scenarios.
 
-Please review Mapping Scenarios to understand how to achieve this with VitaraCharts in MicroStrategy.
+Please review [Mapping Scenarios](mapping-ibcs-scenarios.md) to understand how to achieve this with VitaraCharts in MicroStrategy.
