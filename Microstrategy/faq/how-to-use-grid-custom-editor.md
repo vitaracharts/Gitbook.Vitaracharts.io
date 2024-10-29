@@ -30,4 +30,4 @@ hidden: true
 * Hold “Ctrl” and left-click on headers to group.
 * Use the “Column Grouping” button in the editor.
 
-For detailed instructions, visit the full documentation.[https://docs.vitaracharts.com/guideGridFeatures/customeditor.html](https://docs.vitaracharts.com/guideGridFeatures/customeditor.html)
+For detailed instructions, visit the full documentation.[https://docs.vitaracharts.com/guideGridFeatures/customeditor.html](../grid-microchart-guide/custom-editor.md)

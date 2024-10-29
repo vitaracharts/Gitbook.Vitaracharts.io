@@ -29,7 +29,9 @@ Please follow the installation instructions below if this is your first time usi
 * Delete VitaraCharts folder under plugins directory if one exists.
 * **Please ​do not**​ keep any backup copies of VitaraCharts in the plugins directory
 * Copy over the new version of the VitaraCharts folder into the plugins folder of your MicroStrategyweb installation. For instance if Web is installed under ​_**c:\tomcat\webapps\MicroStrategy**_​, you will place VitaraCharts under ​_**c:\tomcat\webapps\MicroStrategy​\​plugins**_
-* If you had done the installation correctly, the folders will loook as shown below.\
+* If you had done the installation correctly, the folders will loook as shown below.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * REPLACE the license.txt file in the VitaraCharts folder with the license file provided to you
 * Start WebServer.
@@ -56,7 +58,7 @@ If you are upgrading an existing installation, then please follow the below inst
 * Start WebServer.
 * Flush any browser caches and access the dossier/documents from a new browser window (to avoid any issues with a previously used license file)
 
-### **Important : Set up info for the MicroStrategy export server**
+## **Important : Set up info for the MicroStrategy export server**
 
 If you are using the new export engine on MicroStrategy (available starting 2019 update 2) you have the option of deploying VitaraCharts locally on the export server. The procedure is detailed here [Export engine set up](https://community.microstrategy.com/s/article/New-Customization-Property-for-the-Export-Engine-Service?language=en\_US)
 

@@ -62,8 +62,8 @@ layout:
 [secure-vitara-license-file.md](secure-vitara-license-file.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-the-impact-of-the-log-security-issue.md" %}
-[what-is-the-impact-of-the-log-security-issue.md](what-is-the-impact-of-the-log-security-issue.md)
+{% content-ref url="what-is-the-impact-of-the-log4j-security-issue.md" %}
+[what-is-the-impact-of-the-log4j-security-issue.md](what-is-the-impact-of-the-log4j-security-issue.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-increase-the-series-limit.md" %}

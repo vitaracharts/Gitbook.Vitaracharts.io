@@ -12,4 +12,4 @@ Open customStyles.css located in **VitaraCharts/custom** folder. As shown below 
 
 You’ll have to just uncomment this section. For uncommenting, remove the leading /\* mark and the last \*/ mark as shown below.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

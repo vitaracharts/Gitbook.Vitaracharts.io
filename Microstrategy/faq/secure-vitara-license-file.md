@@ -41,3 +41,5 @@ At this point, the file is not accessible to any user. Now you need to make sure
 Save and close the **web.xml** file and restart the webserver.
 
 For your reference, below is the screenshot of the **web.xml** file after adding the above security constraint code.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

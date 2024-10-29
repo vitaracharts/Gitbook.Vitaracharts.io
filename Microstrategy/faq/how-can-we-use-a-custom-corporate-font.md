@@ -17,4 +17,4 @@ layout:
 
 ## Please refer to our customization guide
 
-[Customization Guide - Custom Fonts](https://docs.vitaracharts.com/customization/customFonts.html)
+[Customization Guide - Custom Fonts](../customization-guide/custom-fonts.md)

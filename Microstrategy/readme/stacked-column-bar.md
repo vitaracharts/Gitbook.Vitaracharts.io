@@ -170,13 +170,13 @@ Hence chart will display stack total in default number format.
 
 Below is the screenshot when the option ‘Identify format across the metrics’ is not enabled.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In this use scenario, the chart should take into account not just the first metric but also the number format of other metrics in the chart to establish the number format of the stack totals. The screenshots that demonstrate how to enable the “Identify format across the metrics” option and the stacked chart that results from doing so are shown below.
 
 <figure><img src="../.gitbook/assets/stackedChartFormat.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 

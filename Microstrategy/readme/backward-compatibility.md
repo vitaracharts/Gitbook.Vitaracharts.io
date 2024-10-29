@@ -93,7 +93,7 @@ Below is the example of column chart, where the attribute forms are enabled in t
 
 The same dossier when opened in 4.4 version will show the attribute ID enabled form by default.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Pie chart - Show Total in Center Label <a href="#pie-chart---show-total-in-center-label" id="pie-chart---show-total-in-center-label"></a>
 
@@ -103,7 +103,7 @@ The examples in the 3.9 and 4.0 builds are shown below.
 
 The highlighted element ‘Electronics 2015 Q4’ has an 8.6% value in the Pie chart below.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 In the below Pie chart, the center text is showing the element ‘Books 2015 Q1’ 0.6% value and the show total is in disabled state.

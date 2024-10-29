@@ -44,4 +44,4 @@ If neither the global.txt file nor individual chart settings are configured, all
 
 For XSS protection, ensure relative URLs in href or src attributes start with a forward slash (/). This is required for proper encoding.
 
-For more details, please refer to the Vitara Charts URL Security Documentation[https://docs.vitaracharts.com/guideCommonFeatures/allowURLs.html](https://docs.vitaracharts.com/guideCommonFeatures/allowURLs.html)
+For more details, please refer to the Vitara Charts URL Security Documentation[https://docs.vitaracharts.com/guideCommonFeatures/allowURLs.html](../readme/allow-block-urls.md)
