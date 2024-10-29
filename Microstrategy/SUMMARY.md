@@ -150,6 +150,11 @@
   * [How to use Grid Custom Editor?](faq/how-to-use-grid-custom-editor.md)
   * [How can we install subset of charts](faq/how-can-we-install-subset-of-charts.md)
   * [How can we use a custom corporate font](faq/how-can-we-use-a-custom-corporate-font.md)
+* [INSTALL DOCS](install-docs/README.md)
+  * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
+  * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
+  * [Installing on MicroStrategy Library](install-docs/installing-on-microstrategy-library.md)
+  * [Installing on MicroStrategy Mobile](install-docs/installing-on-microstrategy-mobile.md)
 
 ## SUPPORT
 
@@ -157,9 +162,6 @@
   * [HOME](support/download/home.md)
   * [MICROSTRATEGY](support/download/microstrategy.md)
   * [THOUGHTSPOT](support/download/thoughtspot.md)
-* [INSTALL DOCS](support/install-docs/README.md)
-  * [Installing on MicroStrategy Web](support/install-docs/installing-on-microstrategy-web.md)
-  * [Installing on MicroStrategy Desktop/Workstation](support/install-docs/installing-on-microstrategy-desktop-workstation.md)
 * [FAQ](support/faq/README.md)
   * [Contact Us](support/faq/contact-us.md)
 * [FAQ](https://app.gitbook.com/o/CnYUIaXHw5mgIbmyak2F/s/hgLLrN497EMs7pLJQvTm/)

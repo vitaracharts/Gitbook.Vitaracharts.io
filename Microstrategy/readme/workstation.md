@@ -26,5 +26,5 @@ https://docs.vitaracharts.com/changeLog/revisionHistory.html
 #### Known issues in the 5.1.4.047 version: <a href="#known-issues-in-the-514047-version" id="known-issues-in-the-514047-version"></a>
 
 1. When we connect the workstation to the environment, and try to create a new VitaraChart, the chart will show an error message - _“Warning: Javascript class not found.”_ To overcome this issue please deploy the build locally in your machine.\
-   For deployment of VitaraCharts into the MicroStrategy Workstation, please refer to the Workstation [installation guide](../support/install-docs/).
+   For deployment of VitaraCharts into the MicroStrategy Workstation, please refer to the Workstation [installation guide](../install-docs/).
 2. VitaraCharts icons are not working in the connected mode.

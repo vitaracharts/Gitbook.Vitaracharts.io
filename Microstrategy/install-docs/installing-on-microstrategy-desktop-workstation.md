@@ -1,15 +1,18 @@
 ---
-hidden: true
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Installing on MicroStrategy Desktop/Workstation
-
-
-
-***
-
-Web Install [Desktop/Workstation Install](broken-reference) Library Install Mobile Install\
-
 
 ### Download <a href="#download" id="download"></a>
 

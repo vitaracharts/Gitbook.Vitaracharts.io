@@ -1,22 +1,25 @@
 ---
-hidden: true
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Installing on MicroStrategy Web
 
-
-
-***
-
-[Web Install](broken-reference) Desktop/Workstation Install Library Install Mobile Install\
-
-
-### Download <a href="#download" id="download"></a>
+## Download <a href="#download" id="download"></a>
 
 * Download the **web version** of VitaraCharts.
 * You can find the latest links for download from our download site at Main page
 
-### New Installation <a href="#new-installation" id="new-installation"></a>
+## New Installation <a href="#new-installation" id="new-installation"></a>
 
 Please follow the installation instructions below if this is your first time using VitaraCharts.
 
@@ -32,7 +35,7 @@ Please follow the installation instructions below if this is your first time usi
 * Start WebServer.
 * Flush any browser caches and access the dossier/documents from a new browser window (to avoid any issues with a previously used license file)
 
-### Upgrading existing installation <a href="#upgrading-existing-installation" id="upgrading-existing-installation"></a>
+## Upgrading existing installation <a href="#upgrading-existing-installation" id="upgrading-existing-installation"></a>
 
 If you are upgrading an existing installation, then please follow the below installation steps.
 
@@ -53,7 +56,7 @@ If you are upgrading an existing installation, then please follow the below inst
 * Start WebServer.
 * Flush any browser caches and access the dossier/documents from a new browser window (to avoid any issues with a previously used license file)
 
-**Important : Set up info for the MicroStrategy export server**
+### **Important : Set up info for the MicroStrategy export server**
 
 If you are using the new export engine on MicroStrategy (available starting 2019 update 2) you have the option of deploying VitaraCharts locally on the export server. The procedure is detailed here [Export engine set up](https://community.microstrategy.com/s/article/New-Customization-Property-for-the-Export-Engine-Service?language=en\_US)
 
