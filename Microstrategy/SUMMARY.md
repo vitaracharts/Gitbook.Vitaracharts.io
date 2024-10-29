@@ -130,6 +130,9 @@
 * [FAQ](faq/README.md)
   * [Contact Us](faq/contact-us.md)
   * [FAQS](faq/faqs.md)
+  * [How do I link a Vitara Chart to an information window?](faq/how-do-i-link-a-vitara-chart-to-an-information-window.md)
+  * [How can I handle URLs in Vitara Charts globally?](faq/how-can-i-handle-urls-in-vitara-charts-globally.md)
+  * [Reset button in Web Libraries](faq/reset-button-in-web-libraries.md)
   * [I have trouble with installation](faq/i-have-trouble-with-installation.md)
   * [How can we define a custom color palette](faq/how-can-we-define-a-custom-color-palette.md)
   * [How do we get technical support?](faq/how-do-we-get-technical-support.md)
@@ -146,6 +149,7 @@
   * [Workstation import visualization error](faq/workstation-import-visualization-error.md)
   * [How to use Grid Custom Editor?](faq/how-to-use-grid-custom-editor.md)
   * [How can we install subset of charts](faq/how-can-we-install-subset-of-charts.md)
+  * [How can we use a custom corporate font](faq/how-can-we-use-a-custom-corporate-font.md)
 
 ## SUPPORT
 
@@ -158,3 +162,4 @@
   * [Installing on MicroStrategy Desktop/Workstation](support/install-docs/installing-on-microstrategy-desktop-workstation.md)
 * [FAQ](support/faq/README.md)
   * [Contact Us](support/faq/contact-us.md)
+* [FAQ](https://app.gitbook.com/o/CnYUIaXHw5mgIbmyak2F/s/hgLLrN497EMs7pLJQvTm/)

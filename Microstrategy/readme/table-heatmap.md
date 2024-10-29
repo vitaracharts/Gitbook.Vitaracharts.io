@@ -58,7 +58,7 @@ By default, Heatmap establishes a threshold (Gradient threshold) and bases the p
 
 <figure><img src="../.gitbook/assets/image514.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Total Labels <a href="#total-labels" id="total-labels"></a>
 

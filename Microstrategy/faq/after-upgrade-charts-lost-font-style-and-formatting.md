@@ -4,8 +4,12 @@ hidden: true
 
 # After upgrade charts lost font style and formatting
 
-[❓FAQ](broken-reference)
+Prior to 4.2 font sizing was a little inconsistent and too small to be readable in most circumstances. In the 4.2 release version the styling in vitara charts is modified. Due to this the charts created 4.1 or prior version does not look the same when we open in 4.2 or above versions.
 
-FAQ
+However, there is an easy way to revert to the old defaults.
 
-[FAQ](broken-reference)[VitaraCharts Documentation](<../.gitbook/assets/after upgrade charts lost font style and formatting>)
+Open customStyles.css located in **VitaraCharts/custom** folder. As shown below there is a section specifically available to revert to 4.1 styles.
+
+You’ll have to just uncomment this section. For uncommenting, remove the leading /\* mark and the last \*/ mark as shown below.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

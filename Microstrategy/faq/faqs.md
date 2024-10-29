@@ -22,6 +22,10 @@ layout:
 [how-can-we-define-a-custom-color-palette.md](how-can-we-define-a-custom-color-palette.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-can-we-use-a-custom-corporate-font.md" %}
+[how-can-we-use-a-custom-corporate-font.md](how-can-we-use-a-custom-corporate-font.md)
+{% endcontent-ref %}
+
 {% content-ref url="how-do-we-get-technical-support.md" %}
 [how-do-we-get-technical-support.md](how-do-we-get-technical-support.md)
 {% endcontent-ref %}
@@ -76,5 +80,17 @@ layout:
 
 {% content-ref url="how-can-we-install-subset-of-charts.md" %}
 [how-can-we-install-subset-of-charts.md](how-can-we-install-subset-of-charts.md)
+{% endcontent-ref %}
+
+{% content-ref url="reset-button-in-web-libraries.md" %}
+[reset-button-in-web-libraries.md](reset-button-in-web-libraries.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-can-i-handle-urls-in-vitara-charts-globally.md" %}
+[how-can-i-handle-urls-in-vitara-charts-globally.md](how-can-i-handle-urls-in-vitara-charts-globally.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-do-i-link-a-vitara-chart-to-an-information-window.md" %}
+[how-do-i-link-a-vitara-chart-to-an-information-window.md](how-do-i-link-a-vitara-chart-to-an-information-window.md)
 {% endcontent-ref %}
 
