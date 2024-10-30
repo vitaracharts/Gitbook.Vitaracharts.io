@@ -151,7 +151,6 @@
   * [How can we install subset of charts](faq/how-can-we-install-subset-of-charts.md)
   * [Error while trying to export charts to PDF](faq/error-while-trying-to-export-charts-to-pdf.md)
   * [How to Customize the Value Axis in Your Chart](faq/how-to-customize-the-value-axis-in-your-chart.md)
-  * [Page](faq/page.md)
 * [INSTALL DOCS](install-docs/README.md)
   * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
   * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
