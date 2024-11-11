@@ -4,6 +4,10 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.1
+
+* Bug Fix - Edit button Issue in MicroStrategy Library: The edit button was not showing up in the edit mode in Library. This was only an issue while working with the latest Sept 2024 release of MicroStrategy. This has now been fixed
+
 ### **5.3.0**
 
 
@@ -333,7 +337,7 @@ description: Here's the list of all changes in each release (latest release firs
 
 
 
-### New Features/Enhancements:
+#### New Features/Enhancements:
 
 
 
@@ -343,7 +347,7 @@ description: Here's the list of all changes in each release (latest release firs
 * Enhancement: Added “Play Axis” tab in Property Editor for play-axis supported charts (column chart, pie chart, line chart, area chart, bubble chart, tornado chart, sparkline chart, funnel chart, column range chart, and bullet chart).
 * Enhancement: Custom data markers support in the data labels applied from thresholds.
 
-### Bug fixes:
+#### Bug fixes:
 
 
 
@@ -424,7 +428,7 @@ description: Here's the list of all changes in each release (latest release firs
 
 
 
-### New Features/Enhancements:
+#### New Features/Enhancements:
 
 
 
@@ -438,7 +442,7 @@ description: Here's the list of all changes in each release (latest release firs
 * Enhancement: Transparency to area chart based on overlapping. Series will be transparent if it overlaps with others, else opaque.
 * Enhancement: Waterfall chart: Ability to display value axis line at 0 value. Currently, there is no option to add 0 line.
 
-### Bug fixes:
+#### Bug fixes:
 
 
 
