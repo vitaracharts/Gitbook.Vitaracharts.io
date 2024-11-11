@@ -156,6 +156,7 @@
   * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
   * [Installing on MicroStrategy Library](install-docs/installing-on-microstrategy-library.md)
   * [Installing on MicroStrategy Mobile](install-docs/installing-on-microstrategy-mobile.md)
+  * [Release Notes](install-docs/release-notes.md)
 
 ## SUPPORT
 
