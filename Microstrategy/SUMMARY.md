@@ -157,6 +157,7 @@
   * [Installing on MicroStrategy Library](install-docs/installing-on-microstrategy-library.md)
   * [Installing on MicroStrategy Mobile](install-docs/installing-on-microstrategy-mobile.md)
   * [Release Notes](install-docs/release-notes.md)
+  * [Release Notes Maps](install-docs/release-notes-maps.md)
 
 ## SUPPORT
 
