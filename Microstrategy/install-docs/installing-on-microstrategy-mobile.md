@@ -17,7 +17,7 @@ layout:
 ## Download <a href="#download" id="download"></a>
 
 * Download the **mobile version** of VitaraCharts.
-* You can find the latest links for download from our download site at [Main page](https://vitaracharts.github.io/)
+* You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
 ## Steps <a href="#steps" id="steps"></a>
 
