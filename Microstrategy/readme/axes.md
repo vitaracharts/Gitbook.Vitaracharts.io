@@ -60,6 +60,22 @@ As you can see in the screenshot above, the datalabels and axis labels formats a
 
 <figure><img src="../.gitbook/assets/valueAxisLabelsMetricFormat.png" alt=""><figcaption></figcaption></figure>
 
+#### Flexible Metric Selection for Value Axis Label Formatting
+
+In version 5.3.2, the "Use Metric Formatting" option, located in Axes -> Value Axis -> Label, has been enhanced for greater flexibility across multiple chart types, including: column, sparkline, column range-stacked bar, bubble, dumbbell, bullet, area, tornado, line, bar, and stacked column charts.
+
+This option enables users to apply metric-based formatting (such as currency, date, time, percentage, etc.) to various labels, including Y-axis labels, data labels, and tooltips. Previously, when multiple metrics with distinct number formats were present, only the first metric in the dropzone would dictate the format, requiring manual reordering to apply a different metric's format.
+
+#### **New Feature Improvement:**
+
+To simplify this process, a dropdown menu has been added, listing all available metrics for selection. Users can now easily choose which metric's number formatting to apply, without altering the dropzone order. By default, the first metric is selected to maintain backward compatibility with prior versions.
+
+* Example : Consider a dataset containing multiple metrics, each with distinct number formats: one formatted as a percentage,and another as currency. In the "Use Metric Formatting" option, you can leverage the new dropdown to select any of these metrics to define the number formatting applied to your chart's Y-axis labels, data labels, and tooltips.
+
+<figure><img src="../.gitbook/assets/metricFormatting.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/metricFormatting1.png" alt=""><figcaption></figcaption></figure>
+
 #### Tick interval <a href="#tick-interval" id="tick-interval"></a>
 
 The ‘Tick interval’ setting is now available in the Axes tab as of version 4.3. This feature allows you to change the scale of the value axis. This option may be found in Axes > Value axis > Other. This option is available for both the major and secondary axes. See the image below.&#x20;
