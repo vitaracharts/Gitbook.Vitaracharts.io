@@ -4,13 +4,25 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.2
+
+* Improvement - Support Multiple Metrics in Funnel Chart.
+* Improvement - Flexible Metric Selection for Value Axis Label Formatting.
+* Improvement - revert to default Colour Customization in Data labels  macros.
+* BugFix - GRID /Customer issue/Error Message in Vitara Grid Chart with Time Month Filte .
+* BugFix - Customer issue- Column range doesn’t work with start/ end metric values.
+* BugFix - MSTR(Customer Reported Issue): Arabic axis labels.
+* BugFix - Grid chart : Right-click menu now have option for the contextual link.
+* BugFix - Grid (MSTR) :Information window and target filter doesn't work when row grouped & drop zone attributes don't follow the same order.
+* BugFix - Customer Reported Issue : Export from library shows error on last page.
+
 ### 5.3.1
+
+
 
 * Bug Fix - Edit button Issue in MicroStrategy Library: The edit button was not showing up in the edit mode in Library. This was only an issue while working with the latest Sept 2024 release of MicroStrategy. This has now been fixed
 
 ### **5.3.0**
-
-
 
 * Enhancement - Vitara KPI Animation Chart.
 * Enhancement - Grid : Ability to hide the pivot column groups totals while column totals are enabled.
