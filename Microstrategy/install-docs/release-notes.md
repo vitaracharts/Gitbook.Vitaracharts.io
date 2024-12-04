@@ -4,6 +4,10 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.3
+
+* BugFix - Customer Reported Issue: Documents showing edit button for all users
+
 ### 5.3.2
 
 * Improvement - Support Multiple Metrics in Funnel Chart.
