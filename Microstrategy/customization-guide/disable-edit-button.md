@@ -23,7 +23,7 @@ The privilege and permission settings in Vitara Charts are configured in the ‘
 Tomcat 8.0\webapps\MicroStrategy\plugins\VitaraCharts\custom.
 ```
 
-In the ‘global.txt’ file, the code “#checkPrivilegeForPropertiesEditor=125” will handle user privileges. In this line, we must specify the DSSXML Privilege value of the privilege on which we want to impose a security requirement. The DSSXML Privilege value of ‘Web Document Design’ is 125 by default. Uncomment this line by removing the ‘#’ to establish the criteria ‘Web Document Design’ using user privilege. Only users with the ‘Web Document Design’ privilege will now be able to edit all Vitara charts. You can also use additional privileges to set this requirement. The DSSXML permission value for the ‘Web Print Mode’ permission, for example, is 27. In the privilege settings line, enter these values.
+In the ‘global.txt’ file, the code “#checkPrivilegeForPropertiesEditor=125” will handle user privileges. In this line, we must specify the DSSXML Privilege value of the privilege on which we want to impose a security requirement. The DSSXML Privilege value of ‘Web Document Design’ is 125 by default. Uncomment this line by removing the ‘#’ to establish the criteria ‘Web Document Design’ using user privilege. Only users with the ‘Web Document Design’ privilege will be able to edit all Vitara charts. You can also use additional privileges to set this requirement. The DSSXML permission value for the ‘Web Print Mode’ permission, for example, is 27. In the privilege settings line, enter these values.
 
 ```
 checkPrivilegeForPropertiesEditor=27 
