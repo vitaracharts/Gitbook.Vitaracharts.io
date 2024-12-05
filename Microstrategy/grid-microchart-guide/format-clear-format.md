@@ -6,7 +6,7 @@ The text styles we apply using the ‘Grid Theme’ tab will reflect the entire 
 
 We can open column formatting menu in two ways.
 
-### **1. Using column header hamburger button.**
+## **1. Using column header hamburger button.**
 
 Hover the cursor on the header of any column, at the right side corner you will find hamburger button.
 
@@ -24,7 +24,9 @@ When we click on “Format” tab, Vitara charts properies window will be opened
 
 <figure><img src="../.gitbook/assets/formatColumn.png" alt=""><figcaption></figcaption></figure>
 
-**2. Using Edit button.**\
+## **2. Using Edit button.**
+
+\
 Hover the cursor on the grid chart to display “Edit” button. Click on the “Edit” button to open vitara properties window. Open the “Format Column” menu.
 
 <figure><img src="../.gitbook/assets/formatColumn (1).png" alt=""><figcaption></figcaption></figure>
