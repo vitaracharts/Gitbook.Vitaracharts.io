@@ -164,7 +164,7 @@ In the current example, the attribute ‘Navigation Source’ represents the sou
 The Sankey chart will appear in the row data flow model as soon as we choose the source and target properties. The Sankey chart with source and target attributes configured is shown in the screenshot below.
 
 In the Sankey chart, we can see the branch that was previously mentioned.\
-_Online Order → Order Submitted → Payment Verification → Credit approved/Credit Denied/Credit Review/Order Prepaid/Payment Denied/Processing Payment_
+&#xNAN;_&#x4F;nline Order → Order Submitted → Payment Verification → Credit approved/Credit Denied/Credit Review/Order Prepaid/Payment Denied/Processing Payment_
 
 <figure><img src="../.gitbook/assets/sankeyNewModel7.png" alt=""><figcaption></figcaption></figure>
 
@@ -308,15 +308,7 @@ In the Sankey diagram, negative values are shown with red links. These red links
 
 In the latest release 5.2.7, a new feature has been introduced in the tooltip section for Sankey charts: the addition of two new macros, node.source and node.target. These macros provide valuable information about the source and target nodes of the flows displayed in the Sankey diagram tooltips.When using node.source in a tooltip , it will dynamically populate with the name or label of the source node from which the flow originates. Similarly, node.target will display the name or label of the target node to which the flow leads.For example, when adding a tooltip for a Sankey chart, you can include these macros to enhance the tooltip’s formatting. Here’s a basic illustration of how you might use these macros:
 
-<div>
-
-<figure><img src="../.gitbook/assets/sankeyL.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/sankeyL1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/sankeyL.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sankeyL1.png" alt=""><figcaption></figcaption></figure></div>
 
 This enhancement adds granularity and clarity to the tooltips, offering users more detailed insights into the flow paths within the Sankey chart visualization.
 

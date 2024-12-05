@@ -28,7 +28,7 @@ Please follow the installation instructions below if this is your first time usi
 * Stop WebServer (IIS/Tomcat or equivalent)
 * Delete VitaraCharts folder under plugins directory if one exists.
 * **Please ​do not**​ keep any backup copies of VitaraCharts in the plugins directory
-* Copy over the new version of the VitaraCharts folder into the plugins folder of your MicroStrategyweb installation. For instance if Web is installed under ​_**c:\tomcat\webapps\MicroStrategy**_​, you will place VitaraCharts under ​_**c:\tomcat\webapps\MicroStrategy​\​plugins**_
+* Copy over the new version of the VitaraCharts folder into the plugins folder of your MicroStrategyweb installation. For instance if Web is installed under &#x200B;_**c:\tomcat\webapps\MicroStrategy**_&#x200B;, you will place VitaraCharts under &#x200B;_**c:\tomcat\webapps\MicroStrategy​\​plugins**_
 * If you had done the installation correctly, the folders will loook as shown below.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -45,8 +45,8 @@ If you are upgrading an existing installation, then please follow the below inst
   The _**global.txt**_ file can be used to define custom color palettes, custom fonts, etc. And the _**customStyles.css**_ file can be used to add your own individual styles to the charts.\
   So, take a backup of these two files before starting the deployment process.\
   The location of these files would be as shown below:\
-  _/webapps/MicroStrategy/plugins/VitaraCharts/custom/global.txt_\
-  _/webapps/MicroStrategy/plugins/VitaraCharts/custom/customStyles.css_\
+  &#xNAN;_/webapps/MicroStrategy/plugins/VitaraCharts/custom/global.txt_\
+  &#xNAN;_/webapps/MicroStrategy/plugins/VitaraCharts/custom/customStyles.css_\
   **Note:** The plugins directory should contain only one folder with the name VitaraCharts. So, please ​do not​ keep any backup copies of the VitaraCharts folder in the plugins directory.
 * Download the web version from the link above.
 * Extract the VitaraCharts folder from the zip.
@@ -60,6 +60,6 @@ If you are upgrading an existing installation, then please follow the below inst
 
 ## **Important : Set up info for the MicroStrategy export server**
 
-If you are using the new export engine on MicroStrategy (available starting 2019 update 2) you have the option of deploying VitaraCharts locally on the export server. The procedure is detailed here [Export engine set up](https://community.microstrategy.com/s/article/New-Customization-Property-for-the-Export-Engine-Service?language=en\_US)
+If you are using the new export engine on MicroStrategy (available starting 2019 update 2) you have the option of deploying VitaraCharts locally on the export server. The procedure is detailed here [Export engine set up](https://community.microstrategy.com/s/article/New-Customization-Property-for-the-Export-Engine-Service?language=en_US)
 
 Use this web version of VitaraCharts to copy them to the resources folder on the export server. Please do not use the library or mobile version.

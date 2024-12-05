@@ -65,7 +65,7 @@ There are two ways to deploy in Offline Mode:
 * In order to use the workstation in “connected to environment” mode, you must install the ViaraCharts plugin on the MicroStrategyLibrary server to which workstation is connected. Please follow the MicroStrategyLibrary installation steps here https://docs.vitaracharts.com/installation/libraryInstallSteps.html
 * In addition to this, you have to deploy the VitaraCharts plugin locally on your machine. Go to the MicroStrategy Workstation installation folder in your local machine. Navigate to _**\Code\plugins**_\ folder and unzip downloaded VitaraCharts.zip file here.\
   For example, in the windows machine below is the path of the folder where you have to deploy the VitaraCharts plugin.\
-  _C:\Program Files\MicroStrategy\Workstation\Code\plugins\*_
+  &#xNAN;_&#x43;:\Program Files\MicroStrategy\Workstation\Code\plugins\*_
 *   **Configure MobileLibrary Server Path:** In any web browser navigate to the library configuration page. Below is the example URL to open the configuration web page.\
 
 

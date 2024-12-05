@@ -14,7 +14,7 @@ A property is included in the global.txt file. By using this property you can en
 <figure><img src="../.gitbook/assets/allowURLs1.png" alt=""><figcaption></figcaption></figure>
 
 For the MSTR web application, the global.txt file can be located at the below path\
-**\*webapps\MicroStrategy\plugins\VitaraCharts\custom\***
+&#xNAN;**\*webapps\MicroStrategy\plugins\VitaraCharts\custom\***
 
 For the MSTR Library application, the global.txt file can be located at the below path **\*webapps\MicroStrategyLibrary\plugins\VitaraCharts\custom\***
 
