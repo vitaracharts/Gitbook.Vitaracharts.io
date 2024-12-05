@@ -37,7 +37,7 @@ There are two ways to deploy in Offline Mode:
 * Open an existing MicroStrategy dossier or create a new one.
 * You will see a ​+​ sign to add visualizations.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the ‘+’ sign, and a small import visualization window will open. Select the downloaded zip file.
 

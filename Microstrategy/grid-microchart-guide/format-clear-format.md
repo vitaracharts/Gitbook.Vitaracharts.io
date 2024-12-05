@@ -29,6 +29,9 @@ When we click on “Format” tab, Vitara charts properies window will be opened
 \
 Hover the cursor on the grid chart to display “Edit” button. Click on the “Edit” button to open vitara properties window. Open the “Format Column” menu.
 
+\
+Hover the cursor on the grid chart to display “Edit” button. Click on the “Edit” button to open vitara properties window. Open the “Format Column” menu.
+
 <figure><img src="../.gitbook/assets/formatColumn (1).png" alt=""><figcaption></figcaption></figure>
 
 From 5.2 version User can now an ability to access the custom editor from the hamburger menu by clicking the format button.For more details please refer to the [Custom Editor](https://docs.vitaracharts.com/guideGridFeatures/customeditor.html)
@@ -69,7 +72,6 @@ The user can now apply formatting to horizontal bars and pins as of Version 5.1.
 
 <figure><img src="../.gitbook/assets/Formatting2.png" alt=""><figcaption></figcaption></figure>
 
-\
+To remove applied formatting, user can access the 'Clear Formatting' option from the hamburger menu.
 
-
-\
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
