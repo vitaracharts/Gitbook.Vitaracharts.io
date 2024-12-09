@@ -17,6 +17,9 @@ layout:
 ## Download <a href="#download" id="download"></a>
 
 * For both desktop and workstation applications, download the **desktop version** of VitaraCharts.
+
+<figure><img src="../.gitbook/assets/workstation1.PNG" alt=""><figcaption></figcaption></figure>
+
 * You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
 ## License <a href="#license" id="license"></a>

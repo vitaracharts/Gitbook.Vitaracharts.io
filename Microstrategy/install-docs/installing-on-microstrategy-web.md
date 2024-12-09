@@ -17,6 +17,9 @@ layout:
 ## Download <a href="#download" id="download"></a>
 
 * Download the **web version** of VitaraCharts.
+
+<figure><img src="../.gitbook/assets/web.PNG" alt=""><figcaption></figcaption></figure>
+
 * You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
 ## New Installation <a href="#new-installation" id="new-installation"></a>

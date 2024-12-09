@@ -17,6 +17,9 @@ layout:
 ## Download <a href="#download" id="download"></a>
 
 * Download the **mobile version** of VitaraCharts.
+
+<figure><img src="../.gitbook/assets/Mobile.PNG" alt=""><figcaption></figcaption></figure>
+
 * You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
 ## Steps <a href="#steps" id="steps"></a>
@@ -61,4 +64,5 @@ Below is the screenshot of the mobile configuration page. On this page enter the
 ![mobile install directory](https://vitaracharts.github.io/assets/img/mobileconfig.png)
 
 * Setting mobile configuration url to Vitara Charts config also helps to render Vitara Charts without internet access to the ipad/iphone..
-* Clear cache in the MicroStrategy mobile application and restart the MicroStrategy mobile application on your iPad/iPhone to see the changes.
+* **Note** : _Clear cache in the MicroStrategy mobile application and restart the MicroStrategy mobile application on your iPad/iPhone to see the changes._
+* &#x20;For detailed instructions on clearing the cach&#x65;**, click here.**
