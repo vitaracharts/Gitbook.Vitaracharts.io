@@ -64,5 +64,5 @@ Below is the screenshot of the library configuration page. On this page enter th
 
 * Setting web configuration url also helps to render Vitara Charts without internet access in the ipad/iphone.
 * &#x20;**Note** : _Clear cache in the MicroStrategy library mobile application and restart the MicroStrategy library mobile application on your iPad/iPhone to see the changes._
-* &#x20;For detailed instructions on clearing the cach&#x65;**, click here.**
+* &#x20;For detailed instructions on clearing the cach&#x65;**,**[ **click here.**](https://docs.vitaracharts.com/faq/how-to-fix-mobile-rendering-issues)
 
