@@ -78,6 +78,8 @@ There is a key in **global.txt** named **palette.defaultPalette**. So, you need 
 palette.defaultPalette=Corporate3
 ```
 
+<figure><img src="../.gitbook/assets/Default color.png" alt=""><figcaption></figcaption></figure>
+
 ## **Note:**
 
 * Palette will be shown as **Misconfigured** in the list of color palettes, on failed to parse user-defined palette from **global.txt**. For example,
