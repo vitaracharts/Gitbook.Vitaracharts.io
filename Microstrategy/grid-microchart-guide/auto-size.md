@@ -62,3 +62,5 @@ Below is a sample gif file that shows how to resize the columns.&#x20;
 <figure><img src="../.gitbook/assets/columnDragging.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Resizing.gif" alt=""><figcaption></figcaption></figure>
+
+For information about reordering the columns, click here.

@@ -88,6 +88,7 @@
   * [Manage Column Grouping](grid-microchart-guide/manage-column-grouping.md)
   * [Manage Metric Grouping](grid-microchart-guide/manage-metric-grouping.md)
   * [Pin Column](grid-microchart-guide/pin-column.md)
+  * [Reorder columns](grid-microchart-guide/reorder-columns.md)
   * [Reset Columns](grid-microchart-guide/reset-columns.md)
   * [Show/Hide Column](grid-microchart-guide/show-hide-column.md)
   * [Sorting](grid-microchart-guide/sorting.md)
