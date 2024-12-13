@@ -63,4 +63,4 @@ Below is a sample gif file that shows how to resize the columns.&#x20;
 
 <figure><img src="../.gitbook/assets/Resizing.gif" alt=""><figcaption></figcaption></figure>
 
-For information about reordering the columns, click here.
+For information about reordering the columns, [click here.](https://docs.vitaracharts.com/grid-microchart-guide/reorder-columns)
