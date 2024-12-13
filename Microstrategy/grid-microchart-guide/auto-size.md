@@ -16,14 +16,14 @@ layout:
 
 Auto size property is adjusting the size of the columns in the Grid chart. In Vitara Grid chart there are two kinds of auto size options.
 
-1. Fit to Grid width
-2. Fit to content
+1. **Fit to Grid width**
+2. **Fit to content**
 
 By default, when you open the Vitara grid chart, it will adjust all the column contents to ‘Fit to Grid Width’.
 
-‘Fit to Grid Width’ will adjust all columns in equal size, within the visualization area in the horizontal direction. Visualization doesn’t show scrollbar in the horizontal direction. ‘Fit to Grid Width’ state will dynamically adjust the size of the window even after we modify, i.e. maximizing or minimizing the visualization, visualization shrinks its area when we add other visualization, visualization area increases when we delete other visualizations etc.
+‘**Fit to Grid Width**’ will adjust all columns in equal size, within the visualization area in the horizontal direction. Visualization doesn’t show scrollbar in the horizontal direction. ‘Fit to Grid Width’ state will dynamically adjust the size of the window even after we modify, i.e. maximizing or minimizing the visualization, visualization shrinks its area when we add other visualization, visualization area increases when we delete other visualizations etc.
 
-‘Fit to Content’ will adjust the grid chart columns to their content width. We can also manually adjust the column size by dragging the column separator line at the column headers. After adjusting you need to save the dossier or document to retain the changes. We can apply ‘Fit to Grid Width’ or Fit to Content’ properties by opening properties windows in any of the three ways.
+‘**Fit to Content**’ will adjust the grid chart columns to their content width. We can also manually adjust the column size by dragging the column separator line at the column headers. After adjusting you need to save the dossier or document to retain the changes. We can apply ‘Fit to Grid Width’ or Fit to Content’ properties by opening properties windows in any of the three ways.
 
 Each column can be resized by dragging to the right or left side of it’s header in the grid chart.
 
