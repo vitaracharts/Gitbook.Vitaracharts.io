@@ -18,4 +18,13 @@ Additionally, users can customize the animation duration for individual series o
 
 <figure><img src="../.gitbook/assets/Animation.gif" alt=""><figcaption></figcaption></figure>
 
-\
+### Introducing Animation Duration in Angular Gauge Chart
+
+Starting from version **5.3.4**, an **Animation Duration** option has been introduced in the **Angular Gauge** Chart. This feature allows users to customize the duration of the animation, providing flexibility to tailor the chart's visual experience based on specific requirements.&#x20;
+
+This option is available in the Gauge tab of the Property Editor. Please refer to the screenshot below for more details.
+
+&#x20;\
+
+
+<figure><img src="../.gitbook/assets/Guage.png" alt=""><figcaption></figcaption></figure>
