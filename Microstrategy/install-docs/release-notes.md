@@ -4,6 +4,18 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.4
+
+* Improvement - Enhancement for Vitara Angular Gauge animation.
+* BugFIx - Bar, Column chart Animation Duration resetting to (1001)ms.
+* BugFix -  Legend on-off functionality .
+* BugFix - Export issue with Auto scroll enable
+* BugFix - Customer reported issue : IBCS bar chart / data labels are cutting off.
+* BugFix -  Stacked column chart- Dataset with star sign is not displaying in chart with small multiple.
+* BugFix -  All charts (Arabic), axis labels Ellipsis(dots) alignment issue.
+* BugFix - Issue with Size Consistency in Vitara Pie Chart with Small Multiples and Data Labels Enabled.
+* BugFix - Value axis formatting issue ,values are missing from the value axis, only the "$" sign is displayed.
+
 ### 5.3.3
 
 * BugFix - Customer Reported Issue: Documents showing edit button for all users
