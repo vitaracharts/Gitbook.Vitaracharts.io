@@ -15,6 +15,15 @@ layout:
 
 # Release Notes Maps
 
+## 5.3.0
+
+* BugFix: Threshold edit/creation doesn’t work with custom maps.
+* BugFix: Incorrect 'Play by Attribute' Option Displayed in Map's Appearance Tab.
+* BugFix: Missing 'Enable Layout Selector' Option in Map's Tab.
+* BugFix: US Physical Map incorrectly display as "&\[Name]" instead of their actual names.
+* BugFix: When we use a custom svg map which has background image and try to zoom it stays in same space.
+* BugFix : Zoom Issue: Shapes Clipped, Background Unaffected.
+
 ## **5.1.1**
 
 ***
