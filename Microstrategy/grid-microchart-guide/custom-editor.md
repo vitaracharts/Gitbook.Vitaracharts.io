@@ -141,6 +141,35 @@ In the custom editor, you’ll find the “Column Grouping” button. Clicking i
 
 <figure><img src="../.gitbook/assets/griddoc7.gif" alt=""><figcaption></figcaption></figure>
 
+## Using Macros in the URL Link of the Custom Editor
 
+The Grid Chart allows users to define custom links using macros, enabling dynamic URL generation based on attribute elements. This feature enhances interactivity by allowing seamless navigation to web pages.
+
+### Why Use Macros in URL Links?
+
+In today's data-driven world, effective visualization is essential for informed decision-making. The Grid Chart provides a structured way to display data, but integrating macros into the URL link within the custom editor enhances interactivity and usability.
+
+### Key Benefits:
+
+**Dynamic Content:** Macros allow the URL to change based on the data being displayed, ensuring that each user interacts with content that is relevant to them.By incorporating macros, you can customize URL links using specific data points from the Grid Chart.
+
+**Improved User Experience**: By linking to customized URLs, users can access specific information or actions with a single click, saving time.
+
+**Enhanced Tracking:** Incorporating macros can help in tracking user interactions more effectively, providing valuable insights into user behavior.
+
+### Implementing Macros in URL Links
+
+**Syntax and Structure:** To use a macro, you need to follow a specific syntax. Typically, this involves enclosing the macro name in  braces
+
+.For example, &\[macroName].\
+**Example Usage:** For instance, if you want to link to a web page, your URL might look like :”https://www.google.com/search?q=&\[Category]”
+
+To add this URL link to an attribute or metric, select the “Insert” property tab. This brings up a new pop-up menu where we can choose the link we want to add, give it a name using the title property, and choose whether to open the link in a new tab or the same window as it is currently open.
+
+Please refer to the attached GIF file for reference.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0l4Hq1f78R9Shpdi2xM0lfPboOZZQ-B-RBNW2gVj2-E9bkziGDPJ2Hz-bmYB13tAOoxZqolG916MUoIS8p1k7FD5yIl94wKRIqW80_Rbwz3O6DTNaFLBCav8W8BBRc5hfEiBuaw?key=HG8zy91NAlh2msPjWJsC0g)
+
+.Incorporating macros enhances the functionality of your custom editor and improves user experience in navigating the Grid Chart.
 
 With these instructions, you’re ready to dive into the exciting new world of version 5.2’s grid chart customization. Enjoy tailoring your charts to perfection!
