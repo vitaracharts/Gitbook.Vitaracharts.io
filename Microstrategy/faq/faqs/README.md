@@ -94,3 +94,7 @@ layout:
 [how-do-i-link-a-vitara-chart-to-an-information-window.md](../how-do-i-link-a-vitara-chart-to-an-information-window.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-to-add-logos-as-axes-labels-in-vitaracharts.md" %}
+[how-to-add-logos-as-axes-labels-in-vitaracharts.md](how-to-add-logos-as-axes-labels-in-vitaracharts.md)
+{% endcontent-ref %}
+

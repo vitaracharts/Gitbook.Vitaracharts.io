@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Add Logos as Axes Labels in VitaraCharts?
 
 To add logos as axes labels in VitaraCharts, the dataset must include a column containing tags or links, as these SVG images (logos) will be triggered by the HTML tags or links specified in the attribute. The logos will automatically display on the chart once this column is included in the attribute.\
