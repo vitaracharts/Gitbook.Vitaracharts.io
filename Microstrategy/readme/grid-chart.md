@@ -14,7 +14,7 @@ layout:
 
 # Grid Chart
 
-Note: A separate detailed ‘Grid and MicroChart usage document’ is available
+**Note**: A separate detailed ‘Grid and MicroChart usage document’ is available.[Click here](https://docs.vitaracharts.com/grid-microchart-guide) to access it
 
 The Vitara grid is the easiest to use grid. With a single click, we can access an infinite number of options. Grid formatting is provided at both the column and row levels, as well as appealing grid themes, the ability to group (Page by) at many levels, metric aggregations (Subtotals) at various grouping levels, column grouping, thresholds with custom icons, and many other features.
 
