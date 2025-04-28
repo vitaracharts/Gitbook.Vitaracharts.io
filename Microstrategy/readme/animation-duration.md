@@ -28,3 +28,62 @@ This option is available in the Gauge tab of the Property Editor. Please refer t
 
 
 <figure><img src="../.gitbook/assets/Guage.png" alt=""><figcaption></figcaption></figure>
+
+## Chart Animation Configuration (Introduced in Version 5.3.5)
+
+Starting from version 5.3.5, the animation option for charts can now be toggled on or off, providing greater flexibility for customizing chart behavior. This allows users to control the visual transition effects, improving the overall presentation of data.
+
+To configure the animation, navigate to the specific tab for each chart. The animation setting is available for the following chart types:
+
+* **Angular Gauge**: Available under the Gauge tab.
+* **Column/Bar Chart**: Available under the Column/bar tab.
+* **Stacked Column/Bar** Chart: Available under the Stacked Bar/Column tab.
+* **Sparkline/Line/Area** : Available under the Line tab
+* **Tornado:** Available under theTornado tab.
+
+_**Note**_: Starting from version 5.3.5, the animation option has been removed from the Series tab and is now only configurable through the respective chart tabs listed above.
+
+Please refer to the screenshots below for references to the Column and Angular Gauge Charts.
+
+![](../.gitbook/assets/image.png)\
+\
+
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf15mC1wPLluEBiexuou5fnGAbCjFTLyVJfjNbCF2sfCRK9td7_LBzGL7xfpRYZaACfPs5ETOER2hNBd4UD_56CRJCm9_WfheC8coacATLjv-wAUA-SZdJfRMs1K21EUb7sik1dvw?key=HG8zy91NAlh2msPjWJsC0g)
+
+### Enable/Disable Animation in Vitara Charts Globally
+
+In the Vitara Charts 5.3.5 release, we have introduced an enhancement that allows users to enable or disable animation across all visualizations.
+
+#### An option in the ‘global.txt’ file:
+
+A property is included in the global.txt file. By using this property, you can enable/disable the “animation” in all the dossiers/documents where Vitara Charts are used.&#x20;
+
+Below is the screenshot of this property from the global.txt file.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXefkYjRmbdUwi_cbzItTkEoi2UqXwOm1TZ3oi-VFZILmx8V0u4MNJJfNTveGvum4_VJn5G8gbmpRmi2mZ8l_AR6rp9kv4NjuFundG4p-ZkX8Awac1AJOm6HFzoyclSrV45EdhPv?key=HG8zy91NAlh2msPjWJsC0g)
+
+### &#x20;**File Location:**
+
+#### **The  global.txt file can be found in the following locations:**
+
+* For **MSTR Web** Application:\
+  webapps\MicroStrategy\plugins\VitaraCharts\custom
+* For **MSTR Library** Application:\
+  webapps\MicroStrategyLibrary\plugins\VitaraCharts\custom\
+
+
+📌 **Note**: The respective global.txt file must be configured separately for both web and library applications.
+
+### **How to Configure Animation**
+
+In the global.txt file, set the following property:
+
+**Default Setting:** chart.animation=1 (Animation is enabled by default.)
+
+* This ensures that all charts display animation automatically, without requiring manual activation in each chart’s editor menu.\
+
+
+**To Disable Animation**: Set chart.animation=0 to turn off animation globally.
+
+\

@@ -93,7 +93,7 @@ Below is the example of column chart, where the attribute forms are enabled in t
 
 The same dossier when opened in 4.4 version will show the attribute ID enabled form by default.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Pie chart - Show Total in Center Label <a href="#pie-chart---show-total-in-center-label" id="pie-chart---show-total-in-center-label"></a>
 

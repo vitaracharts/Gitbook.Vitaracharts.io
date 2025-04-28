@@ -44,7 +44,7 @@ There are two ways to deploy in Offline Mode:
 
 * Click on the ‘+’ sign, and a small import visualization window will open. Select the downloaded zip file.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once the Vitara visualization is successfully imported, you will see a message stating that all custom visualizations have been imported successfully.
 
@@ -65,18 +65,20 @@ There are two ways to deploy in Offline Mode:
 
 ## Connected to MicroStrategyLibrary Server <a href="#connected-to-microstrategylibrary-server" id="connected-to-microstrategylibrary-server"></a>
 
-* In order to use the workstation in “connected to environment” mode, you must install the ViaraCharts plugin on the MicroStrategyLibrary server to which workstation is connected. Please follow the MicroStrategyLibrary installation steps here https://docs.vitaracharts.com/installation/libraryInstallSteps.html
+* In order to use the workstation in “connected to environment” mode, you must install the ViaraCharts plugin on the MicroStrategyLibrary server to which workstation is connected. Please follow the MicroStrategyLibrary installation steps here [https://docs.vitaracharts.com/installation/libraryInstallSteps.html](https://docs.vitaracharts.com/install-docs/installing-on-microstrategy-library)
 * In addition to this, you have to deploy the VitaraCharts plugin locally on your machine. Go to the MicroStrategy Workstation installation folder in your local machine. Navigate to _**\Code\plugins**_\ folder and unzip downloaded VitaraCharts.zip file here.\
-  For example, in the windows machine below is the path of the folder where you have to deploy the VitaraCharts plugin.\
-  &#xNAN;_&#x43;:\Program Files\MicroStrategy\Workstation\Code\plugins\*_
-*   **Configure MobileLibrary Server Path:** In any web browser navigate to the library configuration page. Below is the example URL to open the configuration web page.\
+  For example, in the Windows machine below is the path of the folder where you have to deploy the VitaraCharts plugin.\
+  &#xNAN;**"**_**C:\Program Files\MicroStrategy\Workstation\Code\plugins\***_
+* **Configure MobileLibrary Server Path**: In any web browser, navigate to the library configuration page. Below is the example URL to open the configuration web page.
+
+http:///MicroStrategyLibrary/plugins/VitaraCharts/config.jsp\
+(Example: ​http://example.com/MicroStrategyLibrary/plugins/VitaraCharts/config.jsp)
+
+* Below is a screenshot of the library configuration page. On this page, enter the path to the MicroStrategy Web application (not the library) and click submit.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVW5OYXL_qiUU0dZi3QhQrsyol0HCBoRmRsYNEwt4TUsZdnI-x1exySaavgsWJC6sheNGjI-AQ8NrdViq3Jd2G1uMslCKYiSuw_7GeR0FOp8t1itLe3LSXxs49cE3lD2IatIEHgg?key=HG8zy91NAlh2msPjWJsC0g)
+
+\
 
 
-    ```
-    https://<MicroStrategyLibraryServer>/plugins/VitaraCharts/config.jsp 
-    (Example: ​http://example.com/MicroStrategyLibrary/plugins/VitaraCharts/config.jsp)
-    ```
-
-    Below is a screenshot of the library configuration page. On this page, enter the path to the MicroStrategy Web application (not the library) and click submit.
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+\
