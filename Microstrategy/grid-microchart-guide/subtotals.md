@@ -50,7 +50,7 @@ Starting with version 5.2.8, the option “Show Pivot Metric Totals” has been 
 
 Version 5.2.8 introduces two powerful new options within the Subtotal tab: Pivot Row Total and Pivot Group Total. These features significantly elevate the data analysis capabilities, offering users greater flexibility and precision in how subtotals are calculated and presented.
 
-![subtotal](https://docs.vitaracharts.com/assets/img/gridMicro/pv1.png)
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### **Pivot Row Total**
 
