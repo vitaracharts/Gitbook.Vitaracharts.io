@@ -106,6 +106,39 @@ The datalabel. Use this to change the text style of datalabels. Can change text 
 
 * The default class for any data element on the chart.
 * For example, in bar chart a bar is a data element and in a bubble chart a bubble is a data element.
-* Use this to change the text style of datalabels. Can change text properties like font-family, font-style, color, text-decoration, text-transform, letter-spacing.
+* Use this to change the text style of datalabels. Can change text properties like font-family, font-style, color, text-decoration, text-transform, and letter-spacing.
 
-\### CSS Class Names of charts | Chart Name | Class Name | | :--------------- | :------------------- | | Vitara Bar Chart | .VitaraHCBarChart | | Vitara Stacked Bar Chart | .VitaraHCStackedBarChart | | Vitara Column Chart | .VitaraHCColumnChart | | Vitara Stacked Column Chart | .VitaraHCStackedColumnChart | | Vitara Pie Chart | .VitaraHCPieChart | | Vitara KPI Ring Chart | .VitaraHCKPIRingChart | | Vitara Line Chart | .VitaraHCLineChart | | Vitara Area Chart | .VitaraHCAreaChart | | Vitara Bubble Chart | .VitaraHCBubbleChart | | Vitara Tornado Chart | .VitaraHCTornadoChart | | Vitara Sparkline Chart | .VitaraHCSparklineChart | | Vitara Heatmap Chart | .VitaraHCHeatmapChart | | Vitara Funnel Chart | .VitaraHCFunnelChart | | Vitara Column Range Chart | .VitaraHCColumnRangeChart | | Vitara Bullet Chart | .VitaraHCBulletChart | | Vitara Waterfall Chart | .VitaraHCWaterfallChart | | Vitara KPI Animation Chart | .VitaraKPIAnimationChart | | Vitara Calendar Heatmap | .VitaraD3CalHeatMapChart | | Vitara Simple KPI Chart | .VitaraSimpleKPIChart | | Vitara Mekko Chart | .VitaraMekkoChart | | Vitara Word Cloud | .VitaraHCWordCloud | | Vitara Waffle Chart | .VitaraD3WaffleChart | | Vitara Histogram Chart | .VitaraHistogramChart | | Vitara Dumbbell Chart | .VitaraHCDumbbellChart | | Vitara Slope Chart | .VitaraHCSlopeChart | | Vitara Circle Packing Chart | .VitaraD3CirclePackingChart | | Vitara Angular Gauge Chart | .VitaraHCAngularGaugeChart | | Vitara Sankey Chart | .VitaraHCSankeyChart | [View sample implementations](custom-css-samples.md)
+#### ### CSS Class Names of charts
+
+| **Chart Name**               | **Class Name**              |
+| ---------------------------- | --------------------------- |
+| Vitara Bar Chart             | .VitaraHCBarChart           |
+| Vitara Stacked Bar Chart     | .VitaraHCStackedBarChart    |
+| Vitara Column Chart          | .VitaraHCColumnChart        |
+| Vitara Stacked Column Chart  | .VitaraHCStackedColumnChart |
+| Vitara Pie Chart             | .VitaraHCPieChart           |
+| Vitara KPI Ring Chart        | .VitaraHCKPIRingChart       |
+| Vitara Line Chart            | .VitaraHCLineChart          |
+| Vitara Area Chart            | .VitaraHCAreaChart          |
+| Vitara Bubble Chart          | .VitaraHCBubbleChart        |
+| Vitara Tornado Chart         | .VitaraHCTornadoChart       |
+| Vitara Sparkline Chart       | .VitaraHCSparklineChart     |
+| Vitara Heatmap Chart         | .VitaraHCHeatmapChart       |
+| Vitara Funnel Chart          | .VitaraHCFunnelChart        |
+| Vitara Column Range Chart    | .VitaraHCColumnRangeChart   |
+| Vitara Bullet Chart          | .VitaraHCBulletChart        |
+| Vitara Waterfall Chart       | .VitaraHCWaterfallChart     |
+| Vitara KPI Animation Chart   | .VitaraD3KPIAnimationChart  |
+| Vitara Calendar Heatmap      | .VitaraD3CalHeatMapChart    |
+| Vitara Simple KPI Chart      | .VitaraSimpleKPIChart       |
+| Vitara Mekko Chart           | .VitaraHCMekkoChart         |
+| Vitara Word Cloud            | .VitaraHCWordCloud          |
+| Vitara Waffle Chart          | .VitaraD3WaffleChart        |
+| Vitara Histogram Chart       | .VitaraHCHistogramChart     |
+| Vitara Dumbbell Chart        | .VitaraHCDumbbellChart      |
+| Vitara Slope Chart           | .VitaraHCSlopeChart         |
+| Vitara Circle Packing Chart  | .VitaraD3CirclePackingChart |
+| Vitara Angular Gauge Chart   | .VitaraHCAngularGaugeChart  |
+| Vitara Sankey Chart          | .VitaraHCSankeyChart        |
+
+Click here to  [View sample implementations](custom-css-samples.md)

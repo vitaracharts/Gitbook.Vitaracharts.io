@@ -20,10 +20,6 @@ layout:
 [custom-css.md](custom-css.md)
 {% endcontent-ref %}
 
-{% content-ref url="custom-css.md" %}
-[custom-css.md](custom-css.md)
-{% endcontent-ref %}
-
 {% content-ref url="custom-css-samples.md" %}
 [custom-css-samples.md](custom-css-samples.md)
 {% endcontent-ref %}
