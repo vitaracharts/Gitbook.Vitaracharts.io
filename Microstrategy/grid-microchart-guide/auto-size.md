@@ -74,4 +74,6 @@ With the introduction of version 5.3.5, users can now easily adjust the height o
 1. Hover Over Row /Header Border: Move your cursor over the boundary between two rows. A resizing cursor (usually a double arrow) will appear.
 2. Click and Drag: Hold down the “Alt” key on your keyboard and hold the boundary, then drag it up or down to adjust the height of the row. Once the desired height is reached, release the mouse button to set the row height.
 
-Below is a sample GIF file that shows how to adjust the rows and headers height. \
+Below is a sample GIF file that shows how to adjust the rows and headers height.&#x20;
+
+![](<../.gitbook/assets/Grid altspacing.gif>)\
