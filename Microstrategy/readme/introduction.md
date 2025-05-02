@@ -14,7 +14,7 @@ layout:
 
 # Introduction
 
-If you need help with installation, please refer to the [install guides](../support/download/)
+If you need help with installation, please refer to the [install guides](https://docs.vitaracharts.com/install-docs)
 
 \
 You can use the left navigation bar to see details of each individual chart.\

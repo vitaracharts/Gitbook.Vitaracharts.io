@@ -71,7 +71,7 @@ The pattern fill feature in a bubble chart employs different patterns or texture
 
 ## Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 
-Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to play-by.
+Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to [play-by](https://docs.vitaracharts.com/readme/play-animation).
 
 From version 4.9.3, we’ve included the option to switch on Transition lines between the trail and current sequences in the bubble chart.
 

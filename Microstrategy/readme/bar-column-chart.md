@@ -236,7 +236,7 @@ We can also enable both the absolute and relative variances at once. And the cha
 
 ## Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 
-Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to play-by.
+Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to [play-by](https://docs.vitaracharts.com/readme/play-animation).
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
@@ -248,7 +248,7 @@ Bar/Column chart supports small multiples feature. Small multiples feature is ex
 
 ## Data Markers <a href="#data-markers" id="data-markers"></a>
 
-From the version 4.4, data markers feature is introduced in the Bar/Column charts. To know about **Data Markers** feature please click Here.
+From the version 4.4, data markers feature is introduced in the Bar/Column charts. To know about **Data Markers** feature please [click Here](https://docs.vitaracharts.com/readme/data-markers).
 
 ## Bar Fill <a href="#bar-fill" id="bar-fill"></a>
 
@@ -298,7 +298,7 @@ The image below shows how the Profit of the financial years 2020 and 2021 will b
 
 This feature is also available with small multiples and bar variance properties.
 
-DeltaBar has been disabled for Bar Fill, Polarmode, Dynamic width, Overlay, IBCS view & Play-Axis, and color by.
+**Note** : DeltaBar has been disabled for Bar Fill, Polarmode, Dynamic width, Overlay, IBCS view & Play-Axis, and color by.
 
 ## **Secondary Delta Feature**
 
