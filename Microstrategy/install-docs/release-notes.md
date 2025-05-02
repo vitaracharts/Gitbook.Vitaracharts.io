@@ -4,6 +4,22 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.5
+
+* Improvement - Grid Chart: Allow direct resizing of rows and headers using the mouse
+* Improvement - Animation option added  now be toggled on or off for supported charts Angular Gauge, Column/Bar Chart ,Stacked Column/Bar, Sparkline/Line/Area and Tornado.
+* Bug Fix - Customer reported issue: Column range chart -Tooltip is reflecting outside of chart. &#x20;
+* Bug Fix - Customer reported issue: Issue with total labels in Vitara Stacked Bar /Stacked Column Chart with Reversed Direction of the Data.&#x20;
+* BugFix - Customer reported issue: Turning off animation in editor doesn’t turn off animation for Gauge chart.
+* BugFix - Customer Reported issue : Sankey chart Tooltip Border Colour Mismatch
+* BugFix - Customer reported issue : IBCS bar chart animation duration is not working.
+* BugFix  - Customer reported issue : Sankey chart Metric Formatting in Data Labels.
+* BugFix - Customer reported issue : Getting Maximum Call Stack Size Exceeded error message when running a Dashboard non-stop for 10+ hrs .
+* BugFix - Customer issue : Vitara Sankey Chart Popup Issue: Incorrect Data Filtering.
+* BugFix - Grid Chart: No Grouping Thresholds are not working when attributes are moved to pivot.
+* BugFix - Grid Column Order not saving in Pivot Mode.
+* BugFix - Auto-scroll default opacity shows incorrect value in editor.
+
 ### 5.3.4
 
 * Improvement - Enhancement for Vitara Angular Gauge animation.
