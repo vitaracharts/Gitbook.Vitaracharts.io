@@ -130,7 +130,7 @@ Carefully fill in any remaining required information on the Generic Merge Tool w
 
 ### **Step 12:**
 
-Congratulations on successfully downloading the merged Geojson file! The final step involves using this file to create a new map layer. Refer to the Creating New Map Layer[ documentation provided in the tool’s resources. This documentation will guide you through the process of incorporating your downloaded Geojson file into a new map layer.](https://docs.vitaracharts.com/guideMapFeatures/creatingNewMaps.html)\
+Congratulations on successfully downloading the merged Geojson file! The final step involves using this file to create a new map layer. Refer to the [Creating New Map Layer](https://docs.vitaracharts.com/maps-user-guide/creating-new-maps) documentation provided in the tool’s resources. This documentation will guide you through the process of incorporating your downloaded Geojson file into a new map layer.\
 
 
 <figure><img src="../.gitbook/assets/image38 (1).png" alt=""><figcaption></figcaption></figure>
