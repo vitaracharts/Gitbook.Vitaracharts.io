@@ -38,7 +38,7 @@ After downloading, open the file to verify that it encompasses the requisite dat
 
 ### **Step 1: Convert Geojson to Topojson**
 
-* Begin by visiting Mapshaper[ a powerful tool for transforming geojson files into the Topojson format.](https://mapshaper.org/\))
+* Begin by visiting Mapshaper[ a powerful tool for transforming geojson files into the Topojson format.](https://mapshaper.org/)
 * Use the platform to upload your geojson file and seamlessly convert it to Topojson. Below screenshot shows mapshaper webpage.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -73,7 +73,7 @@ Transition to the generic tool webpage and upload the TopoJSON file that you’v
 
 ### **Step 6:**
 
-To obtain the TopoJSON object name from the downloaded file, use jsonviewer.stack.hu. Follow these steps:
+To obtain the TopoJSON object name from the downloaded file, use[ jsonviewer.stack.hu](https://jsonviewer.stack.hu/). Follow these steps:
 
 1. Open jsonviewer.stack.hu.
 2. Paste the content of the downloaded TopoJSON file in the ‘Text’ tab. This process allows you to inspect the file structure and identify the specific TopoJSON object name needed for the next steps in the custom map generation. (https://docs.vitaracharts.com/guideMapFeatures/customizingMapChart.html)
@@ -105,17 +105,17 @@ In this step, you’ll integrate grouping information into the process by upload
 
 In this step, you’ll specify the column on which the grouping will be performed.
 
-* On the Generic Merge Tool webpage, identify the “Group By” field, where you’ll specify the column for grouping.
+* On the[ Generic Merge Tool ](https://cloud.vitaracharts.com/maptools/generic.html)webpage, identify the “Group By” field, where you’ll specify the column for grouping.
 * Enter the column name on which the grouping is to be performed. In this example, use the CBSA column from your uploaded CSV file.
 
 <figure><img src="../.gitbook/assets/image54 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 10:**
 
-In this step, you’ll configure the Data Prop and Shape Prop fields, which play a crucial role in mapping features between the shapefile and data file.
+In this step, you’ll configure the **Data Prop** and **Shape Prop** fields, which play a crucial role in mapping features between the shapefile and data file.
 
-* In the “Data Prop” field, enter the column name from your CSV file that contains the relevant data. In this example, it is the FIPS column.
-* In the “Shape Prop” field, enter the column name from your Topojson file that corresponds to the data. In this case, it is the fips column. By configuring the Data Prop and Shape Prop fields correctly, you establish the link between the CSV file and the Topojson file. This alignment is crucial for the tool to intelligently merge and map the data, ensuring accuracy and consistency in your grouped regions.
+* In the “**Data Prop**” field, enter the column name from your CSV file that contains the relevant data. In this example, it is the **FIPS** column.
+* In the “**Shape Prop**” field, enter the column name from your Topojson file that corresponds to the data. In this case, it is the fips column. By configuring the Data Prop and Shape Prop fields correctly, you establish the link between the CSV file and the Topojson file. This alignment is crucial for the tool to intelligently merge and map the data, ensuring accuracy and consistency in your grouped regions.
 
 <figure><img src="../.gitbook/assets/image56.png" alt=""><figcaption></figcaption></figure>
 

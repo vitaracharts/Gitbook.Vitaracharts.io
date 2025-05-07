@@ -14,7 +14,7 @@ layout:
 
 # Creating New Maps
 
-### Creating New Maps other than US <a href="#creating-new-maps-other-than-us" id="creating-new-maps-other-than-us"></a>
+## Creating New Maps other than US <a href="#creating-new-maps-other-than-us" id="creating-new-maps-other-than-us"></a>
 
 By default, the Vitara map chart displays the US map and World Countries. However, we may create a map of any other country. Consider the following straightforward example: Creating a population map of the United Kingdom’s countries. I have the following information in a data file:
 
@@ -66,11 +66,11 @@ Therefore, exact matching fields in the properties array with our data is the �
 
 <figure><img src="../.gitbook/assets/image24 (1).png" alt=""><figcaption></figcaption></figure>
 
-We must construct synonyms if there is no matching dictionary key field in shapefile and data file. This is described in the ‘Dictionary property’ part of the ‘Customization of the Map chart’ paper.
+We must construct synonyms if there is no matching dictionary key field in shapefile and data file. This is described in the ‘Dictionary property’ part of the ‘[Customization of the Map chart’](https://docs.vitaracharts.com/maps-user-guide/customization-of-the-map-chart) paper.
 
 We can now create a new map layer for our example after determining the dictionary key. To do so, edit the’mappinglayers.txt’ file in the Vitara map chart installation folder at the following address.
 
-_C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\MicroStrategy \plugins\VitaraMaps\custom_
+_**C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\MicroStrategy \plugins\VitaraMaps\custom**_
 
 The following is the screenshot of ‘mappingLayers.txt’ file. There are three predefined mapping layers, world physical, US physical, and US Countries.
 

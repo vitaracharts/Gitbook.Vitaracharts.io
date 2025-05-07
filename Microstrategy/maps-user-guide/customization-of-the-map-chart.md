@@ -1,6 +1,6 @@
 # Customization of the Map chart
 
-### Customization of Map chart (Creating maps other than default maps) <a href="#customization-of-map-chart-creating-maps-other-than-default-maps" id="customization-of-map-chart-creating-maps-other-than-default-maps"></a>
+## Customization of Map chart (Creating maps other than default maps) <a href="#customization-of-map-chart-creating-maps-other-than-default-maps" id="customization-of-map-chart-creating-maps-other-than-default-maps"></a>
 
 Usage scenarios for common customization:
 
@@ -20,7 +20,7 @@ The path to the custom folder in your vitara map chart installation is shown bel
 
 The following section will explain the use of ‘**dictionaries**’ folder, ‘**shapes**’ folder, and ‘**mapping layers**’ text file.
 
-#### Mapping layers text file: <a href="#mapping-layers-text-file" id="mapping-layers-text-file"></a>
+### Mapping layers text file: <a href="#mapping-layers-text-file" id="mapping-layers-text-file"></a>
 
 The following is the screenshot of mapping layers text file which will be in the following path _tomcat/webapps/MicroStratagy/plugins/VitaraMaps/custom/_
 
@@ -38,7 +38,7 @@ The notation ns>.property can be used to add a new map layer.
 * \<ns>. dictionary =
 * \<ns>.groups = The ‘groups’ definition is optional.
 
-#### Name Property: <a href="#name-property" id="name-property"></a>
+### Name Property: <a href="#name-property" id="name-property"></a>
 
 It’s the name we’d want to give our map. For example, if I want to make a map that shows the human population for each continent and name it ‘world continents,’ the name property definition would be as follows:
 
@@ -48,7 +48,7 @@ Now, by using this name we can create a map which shows world continents. You ca
 
 <figure><img src="../.gitbook/assets/image62.png" alt=""><figcaption></figcaption></figure>
 
-**Shape property:**
+### **Shape property:**
 
 This file is in geojson (.json) format.This file contains information on the borders of areas on a map. The needed shape file can be downloaded from online resources or produced using various applications. Download geojson shape-files from this link: http://code.highcharts.com/mapdata/
 
@@ -64,7 +64,7 @@ custom/shapes/world-continents.geo.json = kk.shape
 
 All shape files should be saved in the ‘Shapes’ folder of the custom folder. This is not required, however it is preferable in terms of naming convention.
 
-**‘Dictionary key’ Property:**
+### **‘Dictionary key’ Property:**
 
 Dictionary key is the name given specifically to each map section. With the exception of Antarctica, which is void of human habitation, the world’s continents might be divided into six sections on the globe, one for each of the following: Africa, Asia, Europe, North America, Oceania, and South America. Now, each partition ought to have a unique name that may be used to identify it. The shape file contains information on these unique names.
 
@@ -174,7 +174,7 @@ http://geojson.io/
 
 http://www.qgis.org/en/site/forusers/download.html
 
-**‘Groups’ Property:**
+## **‘Groups’ Property:**
 
 The grouping option’s primary function is to make it easier to arrange individual regions on the map as a single unit, rather than regions with a single boundary. By default, the Vitara Map chart will draw any map for the regions specified in the shapefile. The Vitara Map chart, for example, provides a map of the world’s countries in the screenshot below. To make this map, we must use the world countries shapefile. As a result, this map image will take data at the country level by default.
 

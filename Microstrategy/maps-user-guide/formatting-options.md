@@ -16,21 +16,21 @@ Expand the option ‘**Map layer**’. You can see the three default map layers.
 
 <figure><img src="../.gitbook/assets/image84.png" alt=""><figcaption></figcaption></figure>
 
-#### Map Types - Choropleth map and map bubble <a href="#map-types---choropleth-map-and-map-bubble" id="map-types---choropleth-map-and-map-bubble"></a>
+## Map Types - Choropleth map and map bubble <a href="#map-types---choropleth-map-and-map-bubble" id="map-types---choropleth-map-and-map-bubble"></a>
 
-**Choropleth map:**
+### **Choropleth map:**
 
 A choropleth map displays metric data as color gradients. The metric data will be divided into five ranges: top 20%, 20% to 40%, 40% to 60%, 60% to 80%, and below 20%. For each range, a color is applied. The snapshot for this type of chart, which depicts the human population for each continent, is shown below.
 
 <figure><img src="../.gitbook/assets/image55 (1).png" alt=""><figcaption></figcaption></figure>
 
-**Map bubble:**
+### **Map bubble:**
 
 Map bubble shows a bubble for each attribute element and the size of the bubble is decided by the metric value.
 
 <figure><img src="../.gitbook/assets/image90.png" alt=""><figcaption></figcaption></figure>
 
-#### Play By - Animation: <a href="#play-by---animation" id="play-by---animation"></a>
+### Play By - Animation: <a href="#play-by---animation" id="play-by---animation"></a>
 
 To enable this option two attributes are needed in vitara map. One is for normal ‘Map Attribute’ drop zone which will be related to the Map type, and other is for ‘Play by’ drop zone.Drag and drop the attribute in to ‘**Play Axis**’ drop zone.
 
