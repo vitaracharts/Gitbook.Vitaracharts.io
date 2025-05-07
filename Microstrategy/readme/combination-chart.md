@@ -66,4 +66,4 @@ And below screenshot shows how the chart looks after enabling the series on seco
 
 #### Data Markers <a href="#data-markers" id="data-markers"></a>
 
-From the version 4.4, data markers feature is introduced in the Bar/Column/Line/Area/Sparkline charts. To know about **Data Markers** feature please click Here.
+From the version 4.4, data markers feature is introduced in the Bar/Column/Line/Area/Sparkline charts. To know about **Data Markers** feature please [click Here.](https://docs.vitaracharts.com/readme/data-markers)

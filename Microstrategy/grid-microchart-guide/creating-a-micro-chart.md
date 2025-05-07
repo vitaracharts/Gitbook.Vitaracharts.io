@@ -14,7 +14,7 @@ layout:
 
 # Creating a micro chart
 
-#### iUsing the grid to create a Micro Chart <a href="#using-the-grid-to-create-a-micro-chart" id="using-the-grid-to-create-a-micro-chart"></a>
+### Using the grid to create a Micro Chart <a href="#using-the-grid-to-create-a-micro-chart" id="using-the-grid-to-create-a-micro-chart"></a>
 
 From the 4.1 version of Vitara charts, trendlines feature is added in the Grid chart. With this feature, we can convert the Grid chart into Micro chart.
 

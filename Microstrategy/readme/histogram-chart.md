@@ -36,7 +36,7 @@ We can format the data labels and bin total also. You can see the attached scree
 
 Bins are the towers or bars that make up a histogram. Each bin’s height indicates how many values from the data fall within that range. Below is the screenshot of the property to modify the bin size.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Default bin size:**&#x20;
 

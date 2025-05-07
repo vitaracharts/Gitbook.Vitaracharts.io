@@ -12,7 +12,7 @@ This applies exclusively to report services materials, not dossiers. VitaraChart
 
 ## Fonts in Charts created prior to 4.1 now look different (in 4.2 and newer) <a href="#fonts-in-charts-created-prior-to-41-now-look-different-in-42-and-newer" id="fonts-in-charts-created-prior-to-41-now-look-different-in-42-and-newer"></a>
 
-Please review [this page](https://docs.vitaracharts.com/faqs/revertbackFormattings.html) for details on how to fix this issue.
+Please review [this page](https://docs.vitaracharts.com/faq/after-upgrade-charts-lost-font-style-and-formatting) for details on how to fix this issue.
 
 ## Stack Totals in Stacked Bar/ Column charts <a href="#stack-totals-in-stacked-bar-column-charts" id="stack-totals-in-stacked-bar-column-charts"></a>
 

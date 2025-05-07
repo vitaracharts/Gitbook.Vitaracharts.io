@@ -54,4 +54,4 @@ Below is the example where the Target selected as ‘Wave’ and Source as ‘Pr
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in [backgroundImage](kpi-animation-chart.md#background-image).
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](https://docs.vitaracharts.com/readme/background-images).

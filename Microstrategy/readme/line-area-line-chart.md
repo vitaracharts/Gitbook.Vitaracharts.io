@@ -36,15 +36,7 @@ Markers in line/area charts are symbols or shapes placed at data points along th
 
 By selecting the Series tab and clicking the ‘Edit’ button, you can see the Enable marker, Marker type, and Marker size options to Enable marker properties. There are numerous markers to choose from. Navigate to the marker tab, choose the marker type, and then select the marker. The size of the markings can also be changed. Simply enter a number in the ‘Marker Size’ text input box, or utilise the increase/decrease buttons.
 
-<div>
-
-<figure><img src="../.gitbook/assets/newMarkerLine.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/newMarkerLine1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/newMarkerLine.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/newMarkerLine1.png" alt=""><figcaption></figcaption></figure></div>
 
 In the below example, the line changed to area in series property and ‘Rocket’ marker is applied for the 2015 attribute element. Below is the screenshot with marker applied in the chart.
 
@@ -126,7 +118,7 @@ Line chart supports small multiples feature. Small multiples feature is explaine
 
 ## Data Markers <a href="#data-markers" id="data-markers"></a>
 
-From the version 4.4, data markers feature is introduced in the Line/Area charts. To know about **Data Markers** feature please click Here.
+From the version 4.4, data markers feature is introduced in the Line/Area charts. To know about **Data Markers** feature please [click Here.](https://docs.vitaracharts.com/readme/data-markers)
 
 ## Gradient Color <a href="#gradient-color" id="gradient-color"></a>
 

@@ -34,7 +34,7 @@ Hover the cursor on the grid chart to display “Edit” button. Click on the �
 
 <figure><img src="../.gitbook/assets/formatColumn (1).png" alt=""><figcaption></figcaption></figure>
 
-From 5.2 version User can now an ability to access the custom editor from the hamburger menu by clicking the format button.For more details please refer to the [Custom Editor](https://docs.vitaracharts.com/guideGridFeatures/customeditor.html)
+From 5.2 version User can now an ability to access the custom editor from the hamburger menu by clicking the format button.For more details please refer to the [Custom Editor](https://docs.vitaracharts.com/grid-microchart-guide/custom-editor#id-2.-using-the-hamburger-menu)
 
 **Note:** The properties applied using the ‘Format’ tab for a particular column, will overwrite the properties applied using the “grid Theme’ tab for that column.\
 The ‘Clear Formatting’ tab will delete all the formatting applied on that particular column.
@@ -74,4 +74,4 @@ The user can now apply formatting to horizontal bars and pins as of Version 5.1.
 
 To remove applied formatting, user can access the 'Clear Formatting' option from the hamburger menu.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

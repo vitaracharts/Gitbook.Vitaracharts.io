@@ -102,7 +102,7 @@ Spark Line chart supports small multiples feature. Small multiples feature is ex
 
 ## Data Markers <a href="#data-markers" id="data-markers"></a>
 
-From the version 4.4, data markers feature is introduced in the Sparkline chart. To know about **Data Markers** feature please click Here.
+From the version 4.4, data markers feature is introduced in the Sparkline chart. To know about **Data Markers** feature please [click Here](https://docs.vitaracharts.com/readme/data-markers).
 
 ## Gradient Color <a href="#gradient-color" id="gradient-color"></a>
 

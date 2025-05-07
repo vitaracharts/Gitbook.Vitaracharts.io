@@ -45,7 +45,7 @@ _**Note**_: Starting from version 5.3.5, the animation option has been removed f
 
 Please refer to the screenshots below for references to the Column and Angular Gauge Charts.
 
-![](../.gitbook/assets/image.png)\
+![](<../.gitbook/assets/image (18).png>)\
 \
 
 

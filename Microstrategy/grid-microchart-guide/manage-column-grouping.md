@@ -50,7 +50,7 @@ Close the ‘Manage Column Grouping’ window.Then the groups look like in the b
 
 <figure><img src="../.gitbook/assets/colGroup5.png" alt=""><figcaption></figcaption></figure>
 
-From 5.2 version Users can now an ability to create groups for attributes and metrics by holding the ‘Ctrl’ key on the keyboard and selecting the desired attribute/metric which are to be grouped.For more details please refer to the [Custom Editor](https://docs.vitaracharts.com/guideGridFeatures/customeditor.html)
+From 5.2 version Users can now an ability to create groups for attributes and metrics by holding the ‘Ctrl’ key on the keyboard and selecting the desired attribute/metric which are to be grouped.For more details please refer to the [Custom Editor](https://docs.vitaracharts.com/grid-microchart-guide/custom-editor#id-2.-using-the-hamburger-menu)
 
 ### Deleting Groups <a href="#delete-column-group" id="delete-column-group"></a>
 

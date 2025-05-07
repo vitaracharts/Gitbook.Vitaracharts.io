@@ -70,4 +70,4 @@ As of Vitara charts version 4.9.2, the heatmap chart by default shows vertical a
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in backgroundImage.
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](https://docs.vitaracharts.com/readme/background-images).

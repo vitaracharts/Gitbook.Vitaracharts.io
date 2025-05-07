@@ -17,17 +17,17 @@ layout:
 \
 
 
-### Category Axis <a href="#category-axis" id="category-axis"></a>
+## Category Axis <a href="#category-axis" id="category-axis"></a>
 
 Under Category axis settings, we can format the axis labels, axis title, axis line, hide/unhide axis etc. Let’s see some of them
 
-#### Enabling/Disabling attribute form name in axis labels <a href="#enablingdisabling-attribute-form-name-in-axis-labels" id="enablingdisabling-attribute-form-name-in-axis-labels"></a>
+### Enabling/Disabling attribute form name in axis labels <a href="#enablingdisabling-attribute-form-name-in-axis-labels" id="enablingdisabling-attribute-form-name-in-axis-labels"></a>
 
 When we enable attribute forms for an attribute in the chart, then by default attribute form \[id in particular] will be enabled on the chart as well.\
 In case if we want to turn off the attribute form for axis label, then disable ‘show attribute id’ checkbox in the property editor here: Axis > Category Axis > Label\
 To know more about attribute forms in axis labels click [here](attribute-forms.md)
 
-#### Multi level Axis rotation <a href="#multi-level-axis-rotation" id="multi-level-axis-rotation"></a>
+### Multi level Axis rotation <a href="#multi-level-axis-rotation" id="multi-level-axis-rotation"></a>
 
 Starting with VitaraCharts 4.8, each level can independently rotate the labels on the category axis. This implies that when there are two attributes in the chart, we can individually control the rotation of each level’s axis label. Axis label rotation can also be configured independently for each level when there are 3 attributes. All charts that include horizontal category axis labels are capable of using this feature. Using the example below, let’s examine this. With two attributes \[Quarter, Month] and a measure, we have a column chart. View the resulting screenshot. See the screenshot below
 
@@ -41,11 +41,11 @@ And let’s say we have 3 attributes \[year, quarter, month]. We set the rotatio
 
 <figure><img src="../.gitbook/assets/axisRotation3.png" alt=""><figcaption></figcaption></figure>
 
-### Value Axis <a href="#value-axis" id="value-axis"></a>
+## Value Axis <a href="#value-axis" id="value-axis"></a>
 
 Under value axis settings also, we can format the axis labels, axis title, axis line, hide/unhide axis etc. Let’s see some of them.
 
-#### Use Metric Formatting. <a href="#use-metric-formatting" id="use-metric-formatting"></a>
+### Use Metric Formatting. <a href="#use-metric-formatting" id="use-metric-formatting"></a>
 
 Just like we have ‘use metric formatting’ option for data labels, there is an option added for value axis labels also. This option is available in **Axes > Value axis > Label** tab of the property editor. See the screenshot below
 
@@ -60,13 +60,13 @@ As you can see in the screenshot above, the datalabels and axis labels formats a
 
 <figure><img src="../.gitbook/assets/valueAxisLabelsMetricFormat.png" alt=""><figcaption></figcaption></figure>
 
-#### Flexible Metric Selection for Value Axis Label Formatting
+### Flexible Metric Selection for Value Axis Label Formatting
 
 In version 5.3.2, the "Use Metric Formatting" option, located in Axes -> Value Axis -> Label, has been enhanced for greater flexibility across multiple chart types, including: column, sparkline, column range-stacked bar, bubble, dumbbell, bullet, area, tornado, line, bar, and stacked column charts.
 
 This option enables users to apply metric-based formatting (such as currency, date, time, percentage, etc.) to various labels, including Y-axis labels, data labels, and tooltips. Previously, when multiple metrics with distinct number formats were present, only the first metric in the dropzone would dictate the format, requiring manual reordering to apply a different metric's format.
 
-#### **New Feature Improvement:**
+## **New Feature Improvement:**
 
 To simplify this process, a dropdown menu has been added, listing all available metrics for selection. Users can now easily choose which metric's number formatting to apply, without altering the dropzone order. By default, the first metric is selected to maintain backward compatibility with prior versions.
 
@@ -76,7 +76,7 @@ To simplify this process, a dropdown menu has been added, listing all available 
 
 <figure><img src="../.gitbook/assets/metricFormatting1.png" alt=""><figcaption></figcaption></figure>
 
-#### Tick interval <a href="#tick-interval" id="tick-interval"></a>
+### Tick interval <a href="#tick-interval" id="tick-interval"></a>
 
 The ‘Tick interval’ setting is now available in the Axes tab as of version 4.3. This feature allows you to change the scale of the value axis. This option may be found in Axes > Value axis > Other. This option is available for both the major and secondary axes. See the image below.&#x20;
 
@@ -100,7 +100,7 @@ See the below screenshot which shows the updated tick interval
 
 <figure><img src="../.gitbook/assets/tickIntervalPrcntEditorApplied.png" alt=""><figcaption></figcaption></figure>
 
-#### Start / End Values <a href="#start--end-values" id="start--end-values"></a>
+### Start / End Values <a href="#start--end-values" id="start--end-values"></a>
 
 The value axis can have start and end values set. A metric, fixed value, or percentile basis can be used to specify the start or end value. Axes > Value Axis > \[Start Value, End Value] provides access to these properties. View the property editor in the screenshot.&#x20;
 
@@ -120,7 +120,7 @@ And after specifying the start & end values, the chart looks like the below scre
 
 
 
-Sync Axis
+#### Sync Axis
 
 From version 5.1 , The primary and secondary axes are now synchronized via a new feature that we have added. We must enable the secondary axis for one of the metrics under the series tab in order to enable the new feature.
 
@@ -130,28 +130,28 @@ The primary and secondary axes values are aligned in the screenshot below.
 
 <figure><img src="../.gitbook/assets/Primary12.png" alt=""><figcaption></figcaption></figure>
 
-#### Truncating and Wrapping <a href="#truncating-and-wrapping" id="truncating-and-wrapping"></a>
+### Truncating and Wrapping <a href="#truncating-and-wrapping" id="truncating-and-wrapping"></a>
 
 From version 5.1, We have added new features to the label’s property that allow us to customize the labels by truncating or wrapping them.
 
 <figure><img src="../.gitbook/assets/AxesLabel.png" alt=""><figcaption></figcaption></figure>
 
-Truncating
+#### Truncating
 
 <figure><img src="../.gitbook/assets/Truncate.png" alt=""><figcaption></figcaption></figure>
 
-Wrapping
+#### Wrapping
 
 <figure><img src="../.gitbook/assets/Wrapping.png" alt=""><figcaption></figcaption></figure>
 
 We can also control the labels from the value axis category in case of Bubble and Heatmap Charts.
 
-#### Label interval <a href="#label-interval" id="label-interval"></a>
+## Label interval <a href="#label-interval" id="label-interval"></a>
 
 Version 5.2.8 introduces two significant enhancements in the Axes tab that allow for greater customization of the category axis:
 
-1. Label Interval : This feature enables users to control the scale of their category axis by adjusting the interval between labels. This customization can help in optimizing the readability of charts with densely packed data points.
-2. Label Start Index : This allows users to define the starting point for x-axis labels, giving them more control over how data is presented and enhancing the overall user experience.
+1. **Label Interval** : This feature enables users to control the scale of their category axis by adjusting the interval between labels. This customization can help in optimizing the readability of charts with densely packed data points.
+2. **Label Start Index** : This allows users to define the starting point for x-axis labels, giving them more control over how data is presented and enhancing the overall user experience.
 
 Let’s delve into these new features and explore how they can elevate your user experience.This option is available in Axes > Category axis > Labels tab of the property editor. See the screenshot below:&#x20;
 
@@ -159,10 +159,10 @@ Let’s delve into these new features and explore how they can elevate your user
 
 Here’s an example to illustrate the Label Interval and Label Start Index settings: We have a dataset with 200 data points, and want to ensure that the labels on the x-axis are clearly visible without overcrowding.
 
-Example Settings:
+#### Example Settings:
 
-1. Label Interval: Since we have 200 data points, a suitable label interval would be between 10-15. Setting the interval to 10 means that every 10th label on the x-axis will be displayed.
-2. Label Start Index: If we set the Label Start Index to 5, the labels will start displaying from the 5th data point. With the interval set to 10, the labels would be displayed at data points 5, 15, 25, and so on. The x-axis would start showing labels from the 5th data point and continue at every 10th interval. This configuration ensures that the chart remains clear, and the labels are not overlapping, making it easier to interpret the data.
+1. **Label Interval**: Since we have 200 data points, a suitable label interval would be between 10-15. Setting the interval to 10 means that every 10th label on the x-axis will be displayed.
+2. **Label Start Index**: If we set the Label Start Index to 5, the labels will start displaying from the 5th data point. With the interval set to 10, the labels would be displayed at data points 5, 15, 25, and so on. The x-axis would start showing labels from the 5th data point and continue at every 10th interval. This configuration ensures that the chart remains clear, and the labels are not overlapping, making it easier to interpret the data.
 
 <figure><img src="../.gitbook/assets/interval2.png" alt=""><figcaption></figcaption></figure>
 

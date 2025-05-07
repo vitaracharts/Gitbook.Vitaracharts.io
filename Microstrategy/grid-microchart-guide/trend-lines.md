@@ -54,9 +54,7 @@ After applying trendlines for metrics, we can remove them using the below steps.
 2. Hover onto ‘Display as’ and wait for the submenu to open.
 3. Click on the list item ‘value’. See the screenshot below.
 
-![trendlines4](https://docs.vitaracharts.com/assets/img/gridMicro/trendlines4.png)
-
-\
+![](<../.gitbook/assets/image (1).png>)\
 Then the trendlines will be removed for that metric and value will be shown as in the screenshot attached in Step 1.
 
 ### Formatting the Trendlines: <a href="#format-trendlines" id="format-trendlines"></a>

@@ -66,4 +66,4 @@ Below is the screenshot shown where Total column is shown when ‘Metrics’ col
 
 <figure><img src="../.gitbook/assets/pivotTotal9.png" alt=""><figcaption></figcaption></figure>
 
-Starting from version 5.2.8, the Column Totals option will only be used to display total columns in non-pivoted charts. When using a pivot, this option will be hidden. In version 5.2.8, two new options have been added to the Subtotal tab: Pivot Row Total and Pivot Group Total.[Click here to learn more.](https://docs.vitaracharts.com/guideGridFeatures/subtotal.html)
+Starting from version 5.2.8, the Column Totals option will only be used to display total columns in non-pivoted charts. When using a pivot, this option will be hidden. In version 5.2.8, two new options have been added to the Subtotal tab: Pivot Row Total and Pivot Group Total.[Click here to learn more.](https://docs.vitaracharts.com/grid-microchart-guide/subtotals#enhancements-in-version-528-pivot-row-total-and-pivot-group-total)

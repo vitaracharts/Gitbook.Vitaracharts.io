@@ -52,7 +52,7 @@ To display the title of the dossier or document, we can utilize the Vitara text 
 
 ### 4. IBCS Specific Usage <a href="#id-4-ibcs-specific-usage" id="id-4-ibcs-specific-usage"></a>
 
-_Note: To know the IBCS features and functionalities please refer to the_ [_IBCS user guide_](https://docs.vitaracharts.com/guideIBCSCommonFeatures/about.html)_._
+_Note: To know the IBCS features and functionalities please refer to the_ [_IBCS user guide_](https://docs.vitaracharts.com/ibcs-user-guide/ibcs)_._
 
 To display certain details in the IBCS enabled chart, we can utilize the following macros in the text node chart together with the IBCS enabled Vitara chart. We require at least one IBCS enabled chart in the dossier/document to set IBCS macros in the text node chart. If the dossier contains multiple IBCS-enabled charts, we must select the chart on which we want to display the macro information. When you move your mouse over the chart, the “Edit” button will appear. When you click the “Edit” button, a popup window will appear. Select the chart to which you wish to apply the macro from the “Text Properties” menu’s “Select Chart Type” drop down box.
 
