@@ -30,15 +30,19 @@ Behold, the following snapshot encapsulates the mystique of the Generic Grouping
 
 ## Example of generic aggregation: <a href="#example-of-generic-aggregation" id="example-of-generic-aggregation"></a>
 
-Now, let’s dive into a practical example—creating CBSA regions using a geojson collection of US counties. Before diving into the tutorial, ensure that the VitaraMaps package is installed. Locate the US County level geojson file within the package at /plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json. Or Begin by acquiring the GeoJSON file for US States from the trusted source: [Highmaps.](https://code.highcharts.com/mapdata/)
+Now, let’s dive into a practical example—creating CBSA regions using a geojson collection of **US counties**. Before diving into the tutorial, ensure that the VitaraMaps package is installed.
 
-After downloading, open the file to verify that it encompasses the requisite data corresponding to your Excel sheet. This step ensures alignment between the geographical information in the GeoJSON file and the data you aim to visualize.
+&#x20;Locate the **US County** level geojson file within the package at **/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**. Or&#x20;
+
+Begin by acquiring the GeoJSON file for **US States** from the trusted source: [Highmaps.](https://code.highcharts.com/mapdata/)
+
+After downloading, open the file to verify that it encompasses the requisite data corresponding to your Excel sheet. This step ensures alignment between the geographical information in the **GeoJSON f**ile and the data you aim to visualize.
 
 ## **Step-by-Step Walkthrough:**
 
 ### **Step 1: Convert Geojson to Topojson**
 
-* Begin by visiting Mapshaper[ a powerful tool for transforming geojson files into the Topojson format.](https://mapshaper.org/)
+* Begin by visiting[ Mapshaper](https://mapshaper.org/) a powerful tool for transforming geojson files into the Topojson format.
 * Use the platform to upload your geojson file and seamlessly convert it to Topojson. Below screenshot shows mapshaper webpage.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -47,7 +51,7 @@ After downloading, open the file to verify that it encompasses the requisite dat
 
 Once you’ve successfully converted your geojson file to Topojson using mapshaper.org, the next step involves uploading and visualizing your data on the Generic Merge Tool webpage.Follow these straightforward instructions:
 
-* On the Generic Merge Tool webpage, locate the “Select” button prominently displayed.
+* On the [MapShaper](https://mapshaper.org/) webpage, locate the “Select” button prominently displayed.
 * Clicking on the “Select” button will prompt a file selection dialog. Navigate to the directory where you saved the geojson file on your local machine.
 * Once you’ve chosen the geojson file, the webpage will dynamically display your uploaded file as an interactive map.
 
