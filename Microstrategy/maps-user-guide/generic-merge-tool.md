@@ -30,115 +30,171 @@ Behold, the following snapshot encapsulates the mystique of the Generic Grouping
 
 ## Example of generic aggregation: <a href="#example-of-generic-aggregation" id="example-of-generic-aggregation"></a>
 
-Now, let’s dive into a practical example—creating CBSA regions using a geojson collection of **US counties**. Before diving into the tutorial, ensure that the VitaraMaps package is installed.
+Now, let’s dive into a practical example—creating CBSA regions using a geojson collection of US counties. Before diving into the tutorial, ensure that the VitaraMaps package is installed.
 
 &#x20;Locate the **US County** level geojson file within the package at **/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**. Or&#x20;
 
 Begin by acquiring the GeoJSON file for **US States** from the trusted source: [Highmaps.](https://code.highcharts.com/mapdata/)
 
-After downloading, open the file to verify that it encompasses the requisite data corresponding to your Excel sheet. This step ensures alignment between the geographical information in the **GeoJSON f**ile and the data you aim to visualize.
+After downloading, open the file to verify that it encompasses the requisite data corresponding to your Excel sheet. This step ensures alignment between the geographical information in the GeoJSON file and the data you aim to visualize.
+
+&#x20;1\. **Using Existing County-Level GeoJSON**\
+Locate the US county-level GeoJSON file within the package at the following path:\
+&#xNAN;**/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**.
+
+&#x20;2\. **Acquiring US States GeoJSON**\
+Alternatively, you can begin by downloading the GeoJSON file for US States from a trusted source, such as Highmaps.
+
+After downloading, open the GeoJSON file to verify that it contains the necessary geographical data corresponding to your Excel sheet. This step ensures that the locations in the GeoJSON file align correctly with the data you intend to visualize
 
 ## **Step-by-Step Walkthrough:**
 
 ### **Step 1: Convert Geojson to Topojson**
 
+#### Access Mapshaper
+
 * Begin by visiting[ Mapshaper](https://mapshaper.org/) a powerful tool for transforming geojson files into the Topojson format.
-* Use the platform to upload your geojson file and seamlessly convert it to Topojson. Below screenshot shows mapshaper webpage.
+*   Upload your GeoJSON file through Mapshaper’s intuitive interface for seamless conversion.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-### **Step 2:**
-
-Once you’ve successfully converted your geojson file to Topojson using mapshaper.org, the next step involves uploading and visualizing your data on the Generic Merge Tool webpage.Follow these straightforward instructions:
-
+    The screenshot below illustrates the Mapshaper webpage.
 * On the [MapShaper](https://mapshaper.org/) webpage, locate the “Select” button prominently displayed.
 * Clicking on the “Select” button will prompt a file selection dialog. Navigate to the directory where you saved the geojson file on your local machine.
 * Once you’ve chosen the geojson file, the webpage will dynamically display your uploaded file as an interactive map.
+* On the Generic Merge Tool webpage, locate the “Select” button prominently displayed.
+* Clicking on the “Select” button will prompt a file selection dialog. Navigate to the directory where you saved the geojson file on your local machine.
+* Once you’ve chosen the geojson file, the webpage will dynamically display your uploaded file as an interactive map.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2G9Aa-DV1wpdi_KkgqKKn3JI-ftVuHStz8fgqi_UKW2RSrA6DOKsc5qyH-u6KoT92WPvZtpxNPw8KdZN1RnMFBVsyDeYIRgvp-BD5q-t3DeAtYGdWhnS4Fhz3mqS3xyQS4daXTg?key=2u1XJMuIUIw6RsFR5P3GCQ" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Upload the GeoJSON File
+
+* On the  MapShaper  webpage, locate the “Select” button prominently displayed.
+* Clicking on the “Select” button will prompt a file selection dialog. Navigate to the directory where you saved the GeoJSON file is saved on your local machine.
+* Once you’ve chosen the GeoJSON file, Mapshaper will dynamically render it as an interactive map on the webpage.
 
 <figure><img src="../.gitbook/assets/maps.png" alt=""><figcaption></figcaption></figure>
 
-### **Step 3:**
+### Step 3: Export Options
 
-Subsequently, click on the “Export” button located at the top-left corner of the webpage on mapshaper.
+Next, click the "Export" button, located at the top-left corner of the Mapshaper interface.
 
-<figure><img src="../.gitbook/assets/image60 (2).png" alt=""><figcaption></figcaption></figure>
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXCw5PwXi3Ton7hsbfDegN8AMd19xZ3OCjdPT4ZPlJ2LmhUsGjnMz-fKhmOHiZGsYx_oJDHRkYOEtI4fkTv3y1D4MoFLWxxzVCxz9Kue26h8Qi4wCHJMu3wBj-mUky6jqbYL7-hQ?key=2u1XJMuIUIw6RsFR5P3GCQ)
 
-### **Step 4:**
+\
 
-Choose required/both the layers and set the file format to “TopoJSON”. Execute the export by clicking the designated button, as illustrated in the screenshot. This action will initiate the download of your newly created TopoJSON file.
+
+### Step 4: Convert and Download as TopoJSON
+
+In the export options dialog:
+
+* Select the required layer(s).
+* Set the file format to "TopoJSON".
+* Click the export button to initiate the download of your newly created TopoJSON file
+
+A screenshot is provided below to illustrate this step.
 
 <figure><img src="../.gitbook/assets/image61 (1).png" alt=""><figcaption></figcaption></figure>
 
-### **Step 5:**
+With the TopoJSON file saved to your local machine, the next step is to upload in the Generic Merge Tool webpage.
 
-Transition to the generic tool webpage and upload the TopoJSON file that you’ve just created. Follow the visual reference provided in the accompanying screenshot to guide you through this step.
+### Step 5: Retrieve the TopoJSON Object Name
 
-<figure><img src="../.gitbook/assets/image38.png" alt=""><figcaption></figcaption></figure>
+To identify the TopoJSON object name from the downloaded TopoJSON file, follow these steps using[ jsonviewer.stack.hu](https://jsonviewer.stack.hu):
 
-### **Step 6:**
+1. Open[ jsonviewer.stack.hu](https://jsonviewer.stack.hu).
+2. Paste the content of the downloaded TopoJSON file into the "Text" tab.
+3. Review the file structure to locate the TopoJSON object name required for the next steps in custom map generation.
 
-To obtain the TopoJSON object name from the downloaded file, use[ jsonviewer.stack.hu](https://jsonviewer.stack.hu/). Follow these steps:
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-nO4QoctcX9m7RIvAGBoHEiiYvUmjLAxb-5ok00m51AYB8WMiPnR26qzZ0n8e1SWPeY0-VMctlM8NJRsy9z0j23vS0Ym6a5ClqTyfNk_P6ka6FDnN6nsjcvppp8pYvyqGVAgErQ?key=2u1XJMuIUIw6RsFR5P3GCQ)
 
-1. Open jsonviewer.stack.hu.
-2. Paste the content of the downloaded TopoJSON file in the ‘Text’ tab. This process allows you to inspect the file structure and identify the specific TopoJSON object name needed for the next steps in the custom map generation. (https://docs.vitaracharts.com/guideMapFeatures/customizingMapChart.html)
+This process allows you to inspect the file structure and identify the specific TopoJSON object name needed for the next steps in the custom map generation. For further guidance, refer to the[ Custom Map Chart customization](https://docs.vitaracharts.com/guideMapFeatures/customizingMapChart.html).
 
-<figure><img src="../.gitbook/assets/image26 (1).png" alt=""><figcaption></figcaption></figure>
+### Step 6: Upload TopoJSON to the Generic Merge Tool
 
-### **Step 7:**
+With the TopoJSON file saved to your local machine:
 
-Enter the TopoJSON object name that you’ve retrieved from the JSON viewer into the designated field. This ensures that the generic tool recognizes and utilizes the correct TopoJSON object for the subsequent stages of the custom map generation process.
+1. **Navigate** to the [Generic Merge](https://cloud.vitaracharts.com/maptools/generic.html) Tool.
+2. Upload the **TopoJSON** file you just created.\
+   Use the provided screenshot as a reference to assist you during this process.
 
-<figure><img src="../.gitbook/assets/image40 (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-### **Step 8:**
-
-In this step, you’ll integrate grouping information into the process by uploading a CSV file containing CBSA and FIPS codes.
-
-* Ensure your CSV file is structured with columns corresponding to CBSA and FIPS codes, containing the relevant grouping information.
-* Identify the designated data field on the Generic Merge Tool webpage where you’ll upload your CSV file.
-* Click on the appropriate area, typically labeled “Upload” or “Browse,” to select your prepared CSV file from your local machine.
-* Once selected, confirm the upload to integrate your CSV file into the tool.
-
-<figure><img src="../.gitbook/assets/image64 (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image44.png" alt=""><figcaption></figcaption></figure>
-
-### **Step 9:**
-
-In this step, you’ll specify the column on which the grouping will be performed.
-
-* On the[ Generic Merge Tool ](https://cloud.vitaracharts.com/maptools/generic.html)webpage, identify the “Group By” field, where you’ll specify the column for grouping.
-* Enter the column name on which the grouping is to be performed. In this example, use the CBSA column from your uploaded CSV file.
-
-<figure><img src="../.gitbook/assets/image54 (1).png" alt=""><figcaption></figcaption></figure>
-
-### **Step 10:**
-
-In this step, you’ll configure the **Data Prop** and **Shape Prop** fields, which play a crucial role in mapping features between the shapefile and data file.
-
-* In the “**Data Prop**” field, enter the column name from your CSV file that contains the relevant data. In this example, it is the **FIPS** column.
-* In the “**Shape Prop**” field, enter the column name from your Topojson file that corresponds to the data. In this case, it is the fips column. By configuring the Data Prop and Shape Prop fields correctly, you establish the link between the CSV file and the Topojson file. This alignment is crucial for the tool to intelligently merge and map the data, ensuring accuracy and consistency in your grouped regions.
-
-<figure><img src="../.gitbook/assets/image56.png" alt=""><figcaption></figcaption></figure>
-
-### **Step 11:**
-
-Carefully fill in any remaining required information on the Generic Merge Tool webpage. Ensure all fields are populated with the relevant data, confirming accuracy.
-
-* Click on the “Export” button to commence the merging process. The tool will intelligently merge the specified regions based on your configurations.
-* Once the merging process is complete, the tool will generate and provide a link to download the merged Geojson file.
-
-<figure><img src="../.gitbook/assets/image20.png" alt=""><figcaption></figcaption></figure>
-
-### **Step 12:**
-
-Congratulations on successfully downloading the merged Geojson file! The final step involves using this file to create a new map layer. Refer to the [Creating New Map Layer](https://docs.vitaracharts.com/maps-user-guide/creating-new-maps) documentation provided in the tool’s resources. This documentation will guide you through the process of incorporating your downloaded Geojson file into a new map layer.\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezGqJxcpPzgsunmVGrotdez_yxth62diO-jMnZv9ti4r0JL0DT09i1CCNL4j3vpG_7EpCP3N0GkvzgZFH0SYJ38jBvis1nEpNnW49E_NU_dqvJ0MyID7MHv85NuN0dqAJr3CuJjw?key=2u1XJMuIUIw6RsFR5P3GCQ)\
 
 
-<figure><img src="../.gitbook/assets/image38 (1).png" alt=""><figcaption></figcaption></figure>
+### Step 7: Enter the TopoJSON Object Name
 
-The image below captures the visual culmination of our efforts — a beautifully merged map showcasing the outcome of the grouping process. This output map file elegantly represents the amalgamation of regions based on the specified criteria, providing a comprehensive and visually appealing snapshot of the customized geographical data.
+Enter the TopoJSON object name retrieved in Step 5 into the designated field on the Generic Merge Tool webpage. This ensures that the tool recognizes and utilizes the correct TopoJSON object for the subsequent stages of the custom map generation process.
 
-<figure><img src="../.gitbook/assets/image2 (1).png" alt=""><figcaption></figcaption></figure>
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIRcOT6XpwXDetOXMnb06xdRG0DN7XoVmp0wZoZmFrvfTqWz0ivkwu0pKmKsxdmw5mHA-NbLmTZ3iHdkFmbXQxD1Iz686pLUt4_MrISNh98_r4worHcrEuAt5rj4LCS_w7ULunbQ?key=2u1XJMuIUIw6RsFR5P3GCQ)
+
+### Step 8: Upload Grouping CSV File
+
+In this step, you’ll integrate grouping information into the process by uploading a CSV file containing CBSA and FIPS codes:
+
+1. Ensure your CSV file is structured with columns corresponding to CBSA and FIPS codes, containing the relevant grouping information.
+2. Identify the designated data field on the Generic Merge Tool webpage where you’ll upload your CSV file.
+3. Click on the appropriate area, typically labeled “Upload” or “Browse,” to select your prepared CSV file from your local machine.
+4. Once selected, confirm the upload to integrate your CSV file into the tool.
+
+\
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiwzk-schBYcgew0SyLQPwGsjgoxo6GplA5N44gYvfvoOUnADf4yIak3uurER3hNkfb5Fl2KqW8T6-NrlY7WU1M935tzkac7ztRPkf50pVb4IU-FTAbqxdKNnWJ8cun04JrBcRLw?key=2u1XJMuIUIw6RsFR5P3GCQ" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcreSPpwP_4zMdaf_B0HftGi1rIqu9_spmPsoTp42xCiBVHHyYiGBfnpx9hW6qJkV-4Ferc_D0mgUYV_6z87NHhoG7kxrWoiSQTJA1vbBbu7Gse31o5US-PWvdA7n_ZlinwTvfd1A?key=2u1XJMuIUIw6RsFR5P3GCQ" alt=""><figcaption></figcaption></figure>
+
+### Step 9: Specify Grouping Column
+
+In this step, you’ll specify the column on which the grouping will be performed:
+
+1. On the Generic Merge Tool webpage, identify the “Group By” field.
+2. Enter the column name on which the grouping is to be performed. In this example, use the CBSA column from your uploaded CSV file.\
+   This ensures that the tool correctly groups the geographical features based on the specified column.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKFzuzN110sft8tzfAywKcvKnM3ae23Rxaqglc9jp5-S6Doj_eJTx3dCXs0PToLSIxu5zomLEhWkkYl4-F1PIuE4lDy58pVF3kmXx7zP7PUxS4SlNSCJkgBIpj7g0bgNp93QQ4Yg?key=2u1XJMuIUIw6RsFR5P3GCQ)
+
+### Step 10: Configure Data Prop and Shape Prop Fields
+
+In this step, you’ll configure the Data Prop and Shape Prop fields, which are crucial for mapping features between your shapefile and data file:
+
+* **Data Prop:** In the “Data Prop” field, enter the column name from your CSV file that contains the relevant data. In this example, it is the **FIPS** column.
+* **Shape Prop:** Enter the corresponding column name from your TopoJSON file. If the TopoJSON file uses lowercase for the FIPS codes, such as fips, input **fips** here.\
+  \
+  By accurately configuring these fields, you establish a direct link between the CSV data and the TopoJSON file. This alignment ensures that the Generic Merge Tool can intelligently merge and map the data, maintaining accuracy and consistency in your grouped regions.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfG7lMw7W5eNJRLW90RowJ53J3RPIjy0JJSNULnCH44iD4AoGrvEaw1hP-Go5hcMPcK_vRXPUxFlYZPcnlqLNeyGHGkZ5Auu1hZ6hbMOoNUu8oiVq4dgtvCtCmk8h_XBP9skI7wmg?key=2u1XJMuIUIw6RsFR5P3GCQ)
+
+### Step 11: Finalize and Export the Merged GeoJSON File
+
+1\. **Review and Complete Required Fields**:\
+Carefully fill in any remaining required fields on the Generic Merge Tool webpage. Ensure all inputs, such as the TopoJSON object name, grouping column, Data Prop, and Shape Prop, are accurately populated.
+
+2.**Initiate the Merging Process:**\
+Click on the “Export” button to commence the merging process. The tool will intelligently merge the specified regions based on your configurations.
+
+3.**Download the Merged GeoJSON File**:\
+Once the merging process is complete, the tool will generate and provide a link to download the merged GeoJSON file. This file can be used to create a new map layer in your application.\
+Refer to the screenshot below for visual guidance on this step.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfD77N1Hu5DDzJAjKwmTP_Ji6IWZnD3gN86wFPzmzhEOutJudP9BMnbpD5-bzcmj-xkY9tOXhsjTChYDoLs5I7DGXaMULj2UJpaxzo1YiNAnROpWIjhhkkvSKHw-vu5uXnbQvUZbA?key=2u1XJMuIUIw6RsFR5P3GCQ)
+
+Congratulations on successfully downloading the Merged GeoJSON file!
+
+### Step 12 : Preview Merged Map
+
+1. **Access Mapshaper:**\
+   Open your web browser and navigate to[ https://mapshaper.org/](https://mapshaper.org/)
+2. **Upload the Merged GeoJSON File:**\
+   On the Mapshaper homepage, you'll see an area labeled "Select files." You can either drag and drop your merged GeoJSON file into this area or click to browse and select the file from your local machine.
+3. **Preview the Map:**\
+   Once the file is uploaded, Mapshaper will display an interactive map visualization of your merged regions. This allows you to inspect the merged areas for accuracy and ensure that the grouping has been applied as intended.\
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcibEawyslVVRTLvMLIpmzk11yNQSQxqoHmkzAVDE2APhNw_K2WAT9g-HvtnUZpukSFE_Ldi15MQqMxuSyPVQfD-x1Qwxved3F8dYlcbyvKbZE72IwPmBOPy8GvjXixvtuWbiIsRA?key=2u1XJMuIUIw6RsFR5P3GCQ" alt=""><figcaption></figcaption></figure>
+
+### Step 13: Create a Custom Map Using the Merged GeoJSON File
+
+Congratulations on successfully downloading the Merged GeoJSON file!
+
+The final step is to create a new map layer using this file. To proceed, refer to the "[Creating New Map Layer"](https://docs.vitaracharts.com/maps-user-guide/creating-new-maps) documentation available in the tool’s resources. This guide provides detailed, step-by-step instructions on how to add your downloaded GeoJSON file as a new map layer.
+
+\
