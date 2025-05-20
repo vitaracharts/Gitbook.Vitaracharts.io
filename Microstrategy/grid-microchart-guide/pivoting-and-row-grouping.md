@@ -82,3 +82,5 @@ First, apply ‘Move to rows’ property on any metric, and drag the ‘Metrics�
 For Example, apply ‘Move to rows’ property to Cost metric, then drag the Metrics column to the pivot drop zone, and the attributes Category, Sub-Category, Quarter and Year are grouped, and drag the Year attribute to the pivot drop zone next to the ‘Metrics’ column, here you can see the Year wise Pivot totals in the Vitara Grid chart.
 
 <figure><img src="../.gitbook/assets/grid5.png" alt=""><figcaption></figcaption></figure>
+
+**Enhancement:** Column Totals option will only be used to display total columns in non-pivoted charts.Pivoted charts now include three additional total display options — **Pivot Row Totals**, **Pivot Group** Totals, and **Pivot Group Metric** Totals — providing greater flexibility in data summarization. \[[Click here for more information.\]](https://docs.vitaracharts.com/grid-microchart-guide/subtotals#introducing-pivot-row-total-and-pivot-group-total-for-advanced-subtotaling)

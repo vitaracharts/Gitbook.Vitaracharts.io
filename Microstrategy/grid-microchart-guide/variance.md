@@ -27,3 +27,7 @@ These properties are available in Hamburger menu of the metric column. See the s
 In the same way, enable ‘Variance %’ for a percentage metric/column, then the chart looks like in the below way.
 
 <figure><img src="../.gitbook/assets/gridVariance2.png" alt=""><figcaption></figcaption></figure>
+
+**Enhancement:**\
+The **"Variance"** and **"Variance %"** chart types have been renamed to **"Horizontal Bars"** and **"Horizontal Pins"** respectively.\
+[Click here ](https://docs.vitaracharts.com/grid-microchart-guide/horizontal-bars-pins)for more information.
