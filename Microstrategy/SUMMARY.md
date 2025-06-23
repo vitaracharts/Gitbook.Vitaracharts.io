@@ -2,6 +2,7 @@
 
 * [CHARTS USER GUIDE](README.md)
   * [Introduction](readme/introduction.md)
+  * [Import Data to Visualization](readme/import-data-to-visualization.md)
   * [Angular Gauge Chart](readme/angular-gauge-chart.md)
   * [Bar/Column Chart](readme/bar-column-chart.md)
   * [Bubble Chart](readme/bubble-chart.md)
@@ -153,6 +154,7 @@
   * [How to use Grid Custom Editor?](faq/how-to-use-grid-custom-editor.md)
   * [How can we install subset of charts](faq/how-can-we-install-subset-of-charts.md)
   * [Error while trying to export charts to PDF](faq/error-while-trying-to-export-charts-to-pdf.md)
+  * [How to Import Data and Create Charts with Vitara  ?](faq/how-to-import-data-and-create-charts-with-vitara.md)
   * [How to Customize the Value Axis in Your Chart](faq/how-to-customize-the-value-axis-in-your-chart.md)
 * [INSTALL DOCS](install-docs/README.md)
   * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)

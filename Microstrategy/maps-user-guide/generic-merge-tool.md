@@ -32,21 +32,17 @@ Behold, the following snapshot encapsulates the mystique of the Generic Grouping
 
 Now, let’s dive into a practical example—creating CBSA regions using a geojson collection of US counties. Before diving into the tutorial, ensure that the VitaraMaps package is installed.
 
-&#x20;Locate the **US County** level geojson file within the package at **/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**. Or&#x20;
-
-Begin by acquiring the GeoJSON file for **US States** from the trusted source: [Highmaps.](https://code.highcharts.com/mapdata/)
-
-After downloading, open the file to verify that it encompasses the requisite data corresponding to your Excel sheet. This step ensures alignment between the geographical information in the GeoJSON file and the data you aim to visualize.
-
 ## **Step-by-Step Walkthrough:**
 
 ### **Step 1 : Select GeoJSON**
 
-&#x20;**Using Existing County-Level GeoJSON** \
+* &#x20;**Using Existing County-Level GeoJSON**&#x20;
+
 Locate the US county-level GeoJSON file within the package at the following path:\
 &#xNAN;**/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**.
 
-&#x20; **Acquiring US States GeoJSON :**\
+* &#x20; **Acquiring US States GeoJSON**&#x20;
+
 Alternatively, you can begin by downloading the GeoJSON file for US States from a trusted source, such as Highmaps.
 
 After downloading, open the GeoJSON file to verify that it contains the necessary geographical data corresponding to your Excel sheet. This step ensures that the locations in the GeoJSON file align correctly with the data you intend to visualize

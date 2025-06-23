@@ -22,7 +22,7 @@ The following section will explain the use of ‘**dictionaries**’ folder, ‘
 
 ### Mapping layers text file: <a href="#mapping-layers-text-file" id="mapping-layers-text-file"></a>
 
-The following is the screenshot of mapping layers text file which will be in the following path _tomcat/webapps/MicroStratagy/plugins/VitaraMaps/custom/_
+The following is the screenshot of mapping layers text file which will be in the following path _**tomcat/webapps/MicroStratagy/plugins/VitaraMaps/custom**/_
 
 <figure><img src="../.gitbook/assets/image28 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,23 +52,23 @@ Now, by using this name we can create a map which shows world continents. You ca
 
 This file is in geojson (.json) format.This file contains information on the borders of areas on a map. The needed shape file can be downloaded from online resources or produced using various applications. Download geojson shape-files from this link: http://code.highcharts.com/mapdata/
 
-The shape file for our global continent example can be downloaded straight from the URL below. http://code.highcharts.com/mapdata/custom/world-continents.geo.json
+The shape file for our global continent example can be downloaded straight from the URL below. **http://code.highcharts.com/mapdata/custom/world-continents.geo.json**
 
-A shape file with the name “world-continents.geo” (.geo.json extension) will be obtained by clicking on the preceding link. The downloaded file should be placed in the following directory. VitaraMaps\custom\shapes
+A shape file with the name “world-continents.geo” (.geo.json extension) will be obtained by clicking on the preceding link. The downloaded file should be placed in the following directory. **VitaraMaps\custom\shapes**
 
 The path where we copied our map’s shape file should be specified in the shape property specification.
 
 The shape property definition for globe continents is as follows, as we copied the shape file into VitaraMapscustomshapes folder.
 
-custom/shapes/world-continents.geo.json = kk.shape
+**custom/shapes/world-continents.geo.json = kk.shape**
 
-All shape files should be saved in the ‘Shapes’ folder of the custom folder. This is not required, however it is preferable in terms of naming convention.
+All shape files should be saved in the **‘Shapes’** folder of the custom folder. This is not required, however it is preferable in terms of naming convention.
 
 ### **‘Dictionary key’ Property:**
 
 Dictionary key is the name given specifically to each map section. With the exception of Antarctica, which is void of human habitation, the world’s continents might be divided into six sections on the globe, one for each of the following: Africa, Asia, Europe, North America, Oceania, and South America. Now, each partition ought to have a unique name that may be used to identify it. The shape file contains information on these unique names.
 
-Open the downloaded shapefile “world-continents.geo” in any text editor, such as notepad, for our world continents example. Make a copy of the whole contents of this file.
+Open the downloaded shapefile “**world-continents.geo**” in any text editor, such as notepad, for our world continents example. Make a copy of the whole contents of this file.
 
 Use any online json reader, such as http://jsonviewer.stack.hu/, to open the shapefile in json structure.
 
@@ -104,7 +104,7 @@ For this use case i have to use ‘name’ as dictionary key. Please refer the b
 
 For our world continents example, the following will be the dictionary key definition. _Kk.dictionarykey = name_
 
-**‘Dictionary’ property:**
+### **‘Dictionary’ property:**
 
 To know about this property lets take a look at our world continents map data excel file.
 
@@ -166,7 +166,7 @@ Reference link to download geojson shapefiles: http://code.highcharts.com/mapdat
 
 Reference link to convert existing ESRI maps to geojson file https://mygeodata.cloud/converter/shp-to-geojson
 
-Others:
+**Others:**
 
 http://www.naturalearthdata.com/
 
