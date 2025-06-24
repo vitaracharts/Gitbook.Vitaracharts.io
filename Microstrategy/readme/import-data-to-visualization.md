@@ -4,8 +4,9 @@
 
 ### 1. Add Data :&#x20;
 
-* #### &#x20;Click the “New Data” button to import your dataset. You can either:
-* #### Locate the "Datasets" panel within the dashboard interface. Click "More" at the top of the Datasets panel, then select "Add Data" and "New Data". Here is the screenshot for the reference
+* Click the “New Data” button to import your dataset.
+* Locate the "Datasets" panel within the dashboard interface. Click "More" at the top of the Datasets panel, then select "Add Data" and "New Data".  \
+  Here is the screenshot for the reference
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4WtbhwGV7nlssCGuMyGpiuR0e61q_yVrdVtO9L1XOBBl4XiQrHjSbX6Y40q2tAj2VdGYe31p_fFcupAlMQa5fYglGWnOljSI3Vz3zpVVNBZr-R2OkMXADUTGeuiPkAIgdhgBQ?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
@@ -13,7 +14,7 @@
 
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyRBAjlAmHqfsR4V08E_K78hCz7qmL7reF8G9N4y1fs3RY8cEBZ4LPV2KDePZfdoSpoVkgy_RWINBZ0dQgigLMBbJPM22MnuPN_cHd7mLGip20Uu4VLhAT5M7LkycmBacmA-uijw?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
-### As an alternative to file upload, you can also paste data directly from the clipboard
+#### As an alternative to file upload, you can also paste data directly from the clipboard
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7uF_ISDEU4gJ0MTEAg7hnaoTXETOdZPlnnC9uFHrq6xZGvaTWScXCPpTCc2QzvhFAzKUtcxiuRZrLTkBbBIp5EtN1pOc4NnU77UuJP4PpXD2ihAPODaX6ALMglE60TsiKEmUXAw?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
@@ -47,4 +48,4 @@ The chart will automatically update based on the selected values, rendering the 
 \
 &#xNAN;_**Please refer to the GIF file for reference.**_
 
-{% file src="../.gitbook/assets/Basic rendering (1).gif" %}
+<figure><img src="../.gitbook/assets/Basic rendering (1).gif" alt=""><figcaption></figcaption></figure>
