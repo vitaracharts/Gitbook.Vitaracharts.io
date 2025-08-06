@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Stacked Column/Bar
 
 A stacked bar/column chart is a graphical representation where individual data values are segmented into sections, and each section is stacked on top of another, making up the total value for a specific category. It’s used to illustrate the composition and comparison of data categories while showing their cumulative total.
@@ -155,15 +141,7 @@ To get over this limitation, we need to enable the ‘Identify format across met
 Example:\
 In the below example, all the metrics in the a stacked chart are formated to a number format to show all numbers in Millions, and everything below the million should be ‘0’.
 
-<div>
-
-<figure><img src="../.gitbook/assets/stackedChartFormat4.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/stackedChartFormat3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/stackedChartFormat4.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/stackedChartFormat3.png" alt=""><figcaption></figcaption></figure></div>
 
 In this example, the values of Profit metric are below 1 Million, so all the values of the profit metric become zeros. As a result, stacked chart fails in indentifying the number format that should be applied to the stack totals.\
 Hence chart will display stack total in default number format.

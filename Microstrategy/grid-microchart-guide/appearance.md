@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Appearance
 
 ## Properties Menu - Appearance <a href="#properties-menu---appearance" id="properties-menu---appearance"></a>

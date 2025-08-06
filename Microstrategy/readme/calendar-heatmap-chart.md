@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Calendar Heatmap Chart
 
 A calendar heatmap chart is a graphical representation that displays data across a calendar grid, using color to indicate values. Each cell of the calendar grid represents a day, week, or month, with color intensity corresponding to the data value for that period. This visualization technique is valuable for showing patterns, trends, or seasonal variations in data over time. It is commonly used for tracking events, performance metrics, or any data with temporal aspects, allowing for quick and intuitive data analysis and insights.

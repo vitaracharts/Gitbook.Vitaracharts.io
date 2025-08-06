@@ -1,8 +1,5 @@
 # Custom Editor
 
-\
-
-
 ## Custom Editor <a href="#custom-editor" id="custom-editor"></a>
 
 Welcome to the documentation for the latest feature in the grid chart software, version 5.2. This exciting update empowers users with enhanced chart personalization capabilities, allowing them to tailor their charts to their specific preferences. This guide will walk you through the various steps and options available in this new feature. Enabling Customization To get started with the customization function, follow these steps:
@@ -157,7 +154,7 @@ In today's data-driven world, effective visualization is essential for informed 
 
 **Enhanced Tracking:** Incorporating macros can help in tracking user interactions more effectively, providing valuable insights into user behavior.
 
-### Implementing Macros in URL Links
+## Implementing Macros in URL Links
 
 **Syntax and Structure:** To use a macro, you need to follow a specific syntax. Typically, this involves enclosing the macro name in  braces
 
@@ -173,3 +170,36 @@ Please refer to the attached GIF file for reference.
 .Incorporating macros enhances the functionality of your custom editor and improves user experience in navigating the Grid Chart.
 
 With these instructions, you’re ready to dive into the exciting new world of version 5.2’s grid chart customization. Enjoy tailoring your charts to perfection!
+
+## Macro-Level Threshold Styling Enhancement
+
+Starting from version 5.3.6, threshold rules are now applied individually at the macro level when a cell contains multiple column macros. This ensures precise styling based on each macro’s value and context.
+
+* Thresholds are matched and applied directly to each macro instance (e.g., &\[cost], &\[profit], etc.).
+* The threshold engine scans the cell content, identifies each rendered macro, and applies the corresponding threshold rule to that specific macro's value only.
+
+### **Styling Behavior Based on Cell and Macro Context**
+
+1. **General Cells with Multiple Macros**
+
+* &#x20; Background color is determined by the column the cell belongs to.\
+  Example: If the Macro is in the Cost column and contains \[Cost], \[Profit], etc., the background color is based on the Cost threshold rule.
+* Macros not matching the cell’s column (e.g., \[Profit] in a Cost column) will still have their thresholds applied, but only via text styling (e.g., text color and marker).
+
+2. **Cells Containing Table Structures** : &#x20;
+
+If macros are rendered within a table structure inside the cell:
+
+* Each macro appears in its own table cell.
+* Each macro’s background color is applied independently, based on its own threshold rule, regardless of the outer cell's column.\
+  \
+  **Note** : This logic applies uniformly to both metrics and attribute macros.\
+  Refer to the sample GIF file below for reference
+
+<figure><img src="../.gitbook/assets/CE Macros Doc.gif" alt=""><figcaption></figcaption></figure>
+
+\
+\
+
+
+\

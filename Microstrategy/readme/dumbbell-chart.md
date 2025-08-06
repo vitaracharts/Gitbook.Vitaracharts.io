@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Dumbbell Chart
 
 A dumbbell chart is a data visualization tool that displays the comparison of two data points or values. It consists of two distinct points (represented as circles or dots) connected by a line. One point represents the starting value, while the other represents the ending value. This chart is useful for illustrating changes or differences between two data sets, making it easy to visualize trends, comparisons, or progress over time, such as before-and-after scenarios or performance comparisons between two entities.The chart can also show the difference between the two data points in the form of a percentage.

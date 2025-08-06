@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Table heatmap
 
 A heatmap is a graphical representation of data that shows a metric at the intersection of two attribute values. The custom table heatmap in VitaraCharts allows you to insert numerous attributes on the columns (axis and y-axis) and illustrate the differences in the measures at a glance. Below is an example table heatmap.

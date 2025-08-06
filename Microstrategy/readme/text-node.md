@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Text Node
 
 ## Vitara Text Node <a href="#vitara-text-node" id="vitara-text-node"></a>

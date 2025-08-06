@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Combination Chart
 
 You can create a combination chart to represent multiple series as different chart types. For instance, a chart showing sales and profit can be created with sales shown as bars and profit shown as a line or area chart. In addition each of these metrics can use their own axis.

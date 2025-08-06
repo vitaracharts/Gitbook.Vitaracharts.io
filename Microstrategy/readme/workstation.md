@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Workstation
 
 ### Known Issues in Workstation <a href="#known-issues-in-workstation" id="known-issues-in-workstation"></a>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Slope Chart
 
 The slope graph depicts the change in metric value for a particular attribute value over time. As a result, each (sloping) line is represented by two points, one at the beginning and one at the end of time. When more than two time values are specified, all points are plotted in a line chart fashion. Along the slope-line connecting the points, a label displaying the percentage variation between two successive points is presented (optional).

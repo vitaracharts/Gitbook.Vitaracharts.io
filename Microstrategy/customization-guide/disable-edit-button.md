@@ -1,8 +1,5 @@
 # Disable Edit button
 
-\
-
-
 ## Hide ‘Edit’ button <a href="#hide-edit-button" id="hide-edit-button"></a>
 
 Users can modify Vitara Charts by using the properties box that appears when we click the ‘Edit’ button. Vitara charts will display this ‘Edit’ option when the user hovers the cursor over any of the charts. By deactivating the ‘Edit’ option, we may prevent end users from making changes after the dashboard designer has completed his or her work.
@@ -46,3 +43,6 @@ accessControlLevels=write
 ```
 
 Now only the users who have to write permission on that particular report services document will get the ‘Edit’ button in Vitara Charts.
+
+**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
+For more details, \[click here].

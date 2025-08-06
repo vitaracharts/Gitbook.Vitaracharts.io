@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Creating New Maps
 
 ## Creating New Maps other than US <a href="#creating-new-maps-other-than-us" id="creating-new-maps-other-than-us"></a>

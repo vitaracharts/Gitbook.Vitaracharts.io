@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Multi-tier Column chart
 
 ## Multi-tier column chart <a href="#multi-tier-column-chart" id="multi-tier-column-chart"></a>

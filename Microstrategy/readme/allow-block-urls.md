@@ -1,8 +1,5 @@
 # Allow/Block URLs
 
-\
-
-
 ## Allow/Block URLs in the Vitara Charts <a href="#allowblock-urls-in-the-vitara-charts" id="allowblock-urls-in-the-vitara-charts"></a>
 
 To address the requirement of having URLs in the VitaraCharts, we have made some enhancements in the 5.1.3 release.
@@ -57,3 +54,6 @@ The following function filters href and src attribute values to ensure they comp
 By adhering to these guidelines and implementing the provided function, you can mitigate the risk of XSS attacks through careful validation and filtering of relative URLs.
 
 _**Note: If you do not configure the functioning of URLs using any of the above methods, VitaraCharts will block all the URLs.**_
+
+**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
+For more details, \[click here].

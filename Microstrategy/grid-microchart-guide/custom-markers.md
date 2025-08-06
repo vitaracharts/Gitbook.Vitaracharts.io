@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Custom markers
 
 From the 4.4 version in the Vitara Grid chart, we allow users to represent data markers. Custom Markers popup option will be available in “Display as” menu. Markers can be applied on ‘No grouping’ and ‘Grouped’ rows. The scaling at each aggregation level will be done separately.

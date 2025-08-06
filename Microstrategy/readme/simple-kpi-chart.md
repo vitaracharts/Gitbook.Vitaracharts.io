@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Simple KPI Chart
 
 A simple KPI (Key Performance Indicator) chart is a graphical representation of key performance metrics or indicators, designed to provide a quick and easy-to-understand overview of an organization’s performance. It typically consists of basic visual elements like bars, lines, or numbers, with each KPI displayed individually. Simple KPI charts are often used to track and communicate critical performance data, such as sales revenue, customer satisfaction scores, or production efficiency, in a straightforward and easily digestible format, making it easier for decision-makers to assess performance at a glance and take timely actions when needed.

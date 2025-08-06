@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Custom Color Palette
 
 These features are supported in the release 4.2 (or newer)
@@ -91,3 +77,6 @@ palette.defaultPalette=Corporate3
 * After adding any new color, refresh the dossier/document to reflect the new color in Vitara charts.
 * You can disable any of these custom color palettes, add **#** at the starting of the palette definition.
 * You have to clear your the browser’s cache to reflect this change into any of the Vitara charts.
+
+**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
+For more details, \[click here].

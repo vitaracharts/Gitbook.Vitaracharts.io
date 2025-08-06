@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Small Multiples
 
 ## Small Multiples (column) chart <a href="#small-multiples-column-chart" id="small-multiples-column-chart"></a>

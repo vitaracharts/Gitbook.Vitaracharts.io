@@ -75,3 +75,26 @@ The user can now apply formatting to horizontal bars and pins as of Version 5.1.
 To remove applied formatting, user can access the 'Clear Formatting' option from the hamburger menu.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Column Wrap&#x20;
+
+Starting from version **5.3.6,** the grid now supports text wrapping for both the header and body (cell) of its columns. This enhancement improves readability and layout flexibility—especially useful for displaying long text values or labels without truncation.
+
+### &#x20;How to Enable Text Wrapping?
+
+Users can enable text wrapping using the Wrap text  option available in the Format tab. This option can be applied independently to the header and cell body of each column.
+
+See the screenshot below for reference.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnBrfUSWdYaUHUdnTLuxrXw1YjKGoVz8xz_ezS8sEOAKAVkP39O4YSl3aBvQUn1QHFoWratM4CbnHP-cyYCiqf5_N78ArFrDXOci7765aIwKgzd_epZLu1tgvpEGDuHarSz6eq1Q?key=HG8zy91NAlh2msPjWJsC0g)
+
+\
+
+
+After enabling wrapping, resize the columns by dragging the left or right edge of the column header to adjust the width. This  wraps the text based on your preferred column size, improving readability and preventing content from being truncated.
+
+Refer to the GIF below for a visual example
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZGoDN9qW-9IYUF-G3Wz0HeYzMDk-b8Jf9_XHJKwnkkAfcwDtLILplRWiY67EnnpecFbT1LroI9xmXI1BVHhp_Rv3mjCqVteJRI-QUc5b1SKjzkbVXQ96VAU099FGDAJqFb-sTCA?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
+
+\

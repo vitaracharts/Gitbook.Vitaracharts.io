@@ -130,6 +130,7 @@
   * [Disable Edit button](customization-guide/disable-edit-button.md)
   * [Grid Custom CSS](customization-guide/grid-custom-css.md)
   * [Localization](customization-guide/localization.md)
+  * [Customization Tool](customization-guide/customization-tool.md)
 * [FAQ](faq/README.md)
   * [Contact Us](faq/contact-us.md)
   * [FAQS](faq/faqs/README.md)

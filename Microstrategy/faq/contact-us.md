@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Contact Us
 
 #### Enterprise (paid) support <a href="#enterprise-paid-support" id="enterprise-paid-support"></a>

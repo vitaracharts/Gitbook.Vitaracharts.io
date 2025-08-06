@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Angular Gauge Chart
 
 The Angular Gauge chart is designed to display specific data using a semicircular shape with the pointer. The semicircular shape is created by defining the lower limit and upper limit, using functions like sum, min, max, count. Within that scale, we can create various color ranges in thresholds to classify the data.

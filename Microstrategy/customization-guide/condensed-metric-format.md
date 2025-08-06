@@ -1,9 +1,6 @@
 # Condensed Metric Format
 
-\
-
-
-## Metric suffixes used to shorten high numbers in axis labels and data labels <a href="#metric-suffixes-used-to-shorten-high-numbers-in-axis-labels-and-data-labels" id="metric-suffixes-used-to-shorten-high-numbers-in-axis-labels-and-data-labels"></a>
+## Metric suffixes used to shorten high numbers in axis labels and data labels
 
 Vitara charts will minimize the number in axis and data labels. The shortened metric suffixes can be changed to meet the needs of the user.
 
@@ -29,4 +26,7 @@ Save the ‘global.txt’ file and reopen your document. The below screenshot sh
 
 <figure><img src="../.gitbook/assets/image79.png" alt=""><figcaption></figcaption></figure>
 
-Note: If you still see the older suffix after reloading the dashboard, clear your browser’s cache and reload the dashboard.
+**Note:** If you still see the older suffix after reloading the dashboard, clear your browser’s cache and reload the dashboard.
+
+**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
+For more details, \[click here].

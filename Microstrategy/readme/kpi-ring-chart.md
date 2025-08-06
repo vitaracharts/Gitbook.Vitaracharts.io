@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # KPI Ring Chart
 
 KPI ring charts are a visual tool to display key performance indicators in a circular format, with each segment representing a specific metric. They’re useful for presenting a comprehensive overview of important data, allowing for easy comparisons and tracking of performance. These charts enhance data communication by utilizing colors and labels, making it simpler for stakeholders to assess progress and make informed decisions. KPI ring charts are particularly valuable for summarizing complex data sets and maintaining a sense of completeness and balance in performance assessment.

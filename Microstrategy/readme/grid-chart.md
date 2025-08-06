@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Grid Chart
 
 **Note**: A separate detailed ‘Grid and MicroChart usage document’ is available.[Click here](https://docs.vitaracharts.com/grid-microchart-guide) to access it

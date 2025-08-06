@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Waterfall Chart
 
 A waterfall chart is a type of data visualisation that shows the cumulative effect of consecutively added positive or negative numbers. If the values are not predefined or flexible, such as starting budget, quarterly spend (YTD), and remaining budget, the number of quarters elapsed cannot be predetermined at build time. Vitara provides a waterfall widget version that includes a starting metric and the cumulative sum of all successive metrics, which results in a total bar. The chart provides plot possibilities depending on certain metrics. The property editor provides a list of metrics; each statistic can be extended to select plot settings.We have the Non-Additive option, which means that we cannot include the starting value in the total value, and the Auto compute total option, which means that we can disable the total value in the chart.
@@ -126,15 +112,7 @@ Each group will have its own ‘Group settings’ option and option to create a 
 
 From 4.8.0 version, we’ve introduced plotlines feature to the waterfall chart , plotlines can be added on metric sources in waterfall chart.
 
-<div>
-
-<figure><img src="../.gitbook/assets/plotline.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/plotline1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/plotline.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/plotline1.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 

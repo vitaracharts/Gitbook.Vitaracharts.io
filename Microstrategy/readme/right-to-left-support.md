@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Right-to-left Support
 
 ### Right to Left (RTL) Language Support <a href="#right-to-left-rtl-language-support" id="right-to-left-rtl-language-support"></a>

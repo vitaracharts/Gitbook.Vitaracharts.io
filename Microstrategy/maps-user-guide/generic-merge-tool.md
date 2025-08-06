@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Generic Merge tool
 
 ## Unleashing Custom Grouped Regions with Vitara’s Dynamic Merge Tool

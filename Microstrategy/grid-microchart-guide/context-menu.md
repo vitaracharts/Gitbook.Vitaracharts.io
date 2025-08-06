@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Context Menu
 
 ## Properties Menu - Context Menu <a href="#properties-menu---context-menu" id="properties-menu---context-menu"></a>

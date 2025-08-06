@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Vertical Waterfall
 
 ## Vertical Waterfall chart <a href="#vertical-waterfall-chart" id="vertical-waterfall-chart"></a>

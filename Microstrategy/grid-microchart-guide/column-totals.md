@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Column Totals
 
 ## Properties Menu - Column Total <a href="#properties-menu---column-total" id="properties-menu---column-total"></a>

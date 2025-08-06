@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Bullet Chart
 
 Stephen Few created a bar graph version called a bullet chart. The bullet graph is used as a replacement for dashboard gauges and meters, and it appears to be inspired by the conventional thermometer charts and progress bars present on many dashboards. Since gauges and meter usually display too little information, take up too much space, and are overloaded with unnecessary and distracting accessory, bullet graphs were created to solve these problems. The bullet graph displays a single, major metric (such as total revenue for the current financial year) and compares it with one or more other measurements to clarify its meaning (such as in comparison to a target).

@@ -1,16 +1,5 @@
 ---
 description: Here's the list of all changes in each release (latest release first)
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Release Notes Maps

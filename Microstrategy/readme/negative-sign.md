@@ -1,8 +1,5 @@
 # Negative Sign
 
-\
-
-
 ## Negative Sign Customization in Vitara Charts <a href="#negative-sign-customization-in-vitara-charts" id="negative-sign-customization-in-vitara-charts"></a>
 
 ## Use Metric Formmating in Vitara charts (Tooltip and Data Labels): <a href="#use-metric-formmating-in-vitara-charts-tooltip-and-data-labels" id="use-metric-formmating-in-vitara-charts-tooltip-and-data-labels"></a>
@@ -62,3 +59,6 @@ Fill in the below line of the global.txt file with -1, 0, or 1. “metricNegativ
 For example, in the vitara charts, if I want to show negative numbers in the paranthesis regardless of whatever microstrategy is displayed, I must enter a 1 in the global.txt file. “metricNegativeValueFormat=1”
 
 The global.txt file customizations can be used to regulate the negative indications in all VitaraCharts included in any dossier or document. In contrast, the Use Metric Formatting property in a certain chart’s Data Labels menu is used to control the negative sign in that specific chart in that unique dossier/document.
+
+**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
+For more details, \[click here].

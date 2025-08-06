@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Line/Area line Chart
 
 A line chart is a graphical representation that uses lines to connect data points, making it ideal for displaying trends over time or continuous data. It is commonly used in data analysis and presentations to visualize changes, patterns, or relationships in data. By plotting points on a grid with a horizontal x-axis (usually representing time or categories) and a vertical y-axis (representing values), line charts provide a clear and concise way to interpret data trends, making them valuable tools in various fields, including finance, science, and business analytics.

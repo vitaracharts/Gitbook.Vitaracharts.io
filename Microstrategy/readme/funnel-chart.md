@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Funnel Chart
 
 A funnel chart is a data visualization tool commonly used for displaying stages in a process or a sales pipeline. It resembles an inverted pyramid, with each segment representing a stage or category, and the width of each segment corresponds to the quantity or percentage of data it represents. Funnel charts are particularly useful for illustrating the progressive reduction or conversion of data from one stage to the next.

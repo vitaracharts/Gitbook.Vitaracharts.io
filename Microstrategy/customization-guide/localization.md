@@ -2,9 +2,6 @@
 
 These features are supported in the release 4.2 (or newer)
 
-\
-
-
 ## How to add support for a new language <a href="#how-to-add-support-for-a-new-language" id="how-to-add-support-for-a-new-language"></a>
 
 VitaraCharts editors are accessible in English, German, French, and Spanish out of the box. It is possible to add support for new local languages on your own. The steps are as follows:
@@ -30,3 +27,6 @@ VitaraCharts editors are accessible in English, German, French, and Spanish out 
 * Default (MessageBundle\_en\_us.txt)
 
 **NOTE** : If the translation for some keys are missing in the file then those keys will be displayed in English Language in the Property Editor
+
+**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
+For more details, \[click here].

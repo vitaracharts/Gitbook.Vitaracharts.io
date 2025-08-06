@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Bar/Column Width
 
 The width of bars in a chart is a critical aspect that significantly impacts the visual representation and clarity of the data. Typically, the width of bars is constrained within a range of 1 to 50. This range is carefully selected to maintain a balance between ensuring a clear visualization of the data and preventing the chart from becoming too cluttered or overwhelming.\

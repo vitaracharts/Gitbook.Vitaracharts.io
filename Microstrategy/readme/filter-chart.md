@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Filter Chart
 
 As of version 5.1.2, the Vitara Filter Chart has been added to our collection of Vitara charts. The main function of this chart is to control the play animation of multiple charts by selecting them with the target visualization. The animation speed can be changed by rotating the settings cog wheel to the right of the seek line.

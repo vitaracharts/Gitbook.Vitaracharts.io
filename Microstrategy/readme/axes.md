@@ -1,21 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Axes
-
-\
-
 
 ## Category Axis <a href="#category-axis" id="category-axis"></a>
 
@@ -179,3 +162,20 @@ To ensure clear and effective visualization, it’s recommended to adjust the la
 * Datasets with 100+ categories: Use a label interval of 5-10.
 * Datasets with 200+ categories: Use a label interval of 10-15.
 * Datasets with 300+ categories: Use a label interval of 15-20.and so on
+
+## Label Width
+
+Category axis labels play a key role in helping users interpret the data within a chart. Ensuring the appropriate label width enhances both the clarity and overall visual quality of the chart.
+
+To give you greater control over this, a new setting lets you define the width (in pixels) for category labels. This works alongside the existing display options (truncate, wrap, or auto), so you can fine-tune how much of each label is shown, based on your specific layout and readability needs.
+
+* **Flexible Truncation Control**: When using truncate or wrap modes, this setting lets you decide how much of the label to show. If default truncation feels too aggressive, increase the width to reveal more text as per your preference.\
+
+* **User-Controlled Layout:** Instead of relying on a fixed label width (default is 90px), you get the freedom to fine-tune spacing based on your chart's content density or visual needs.\
+  \
+  This setting can be configured by navigating to:\
+  Axes > Category Axis > Labels in the chart's property editor.
+
+Refer to the screenshots below for a visual reference.
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

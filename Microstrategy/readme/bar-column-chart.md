@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Bar/Column Chart
 
 A bar chart, often known as a bar graph, is a type of chart that displays organized data using rectangular bars with lengths proportionate to the values they represent. The bars can be plotted horizontally or vertically. A vertical bar chart is also known as a column bar chart. Users will separate icons for horizontal and vertical charts in Vitara Charts and will need to switch as needed.

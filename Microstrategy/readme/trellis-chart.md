@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Trellis Chart
 
 Please use the [Small Multiples](small-multiples.md) feature instead. Trellis chart will continue to work for existing use cases but will no longer be enhanced
@@ -86,15 +72,7 @@ It can be enabled by selecting options from the series tab for individual series
 
 It will show the color palette, which will have two selection handles to choose two colors that will render from beginning to end on the series. (From left to right)
 
-<div>
-
-<figure><img src="../.gitbook/assets/Gradient2 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/TrellisGradient.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Gradient2 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/TrellisGradient.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Series based Tooltip and Datalabels <a href="#series-based-tooltip-and-datalabels" id="series-based-tooltip-and-datalabels"></a>
 

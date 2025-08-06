@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Creating a micro chart
 
 ### Using the grid to create a Micro Chart <a href="#using-the-grid-to-create-a-micro-chart" id="using-the-grid-to-create-a-micro-chart"></a>

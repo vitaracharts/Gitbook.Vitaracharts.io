@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Column Range Chart
 
 The Column Range visualization in Vitara Charts can be used to illustrate minimum and maximum values over time or to indicate the acceptable range of deviation for a certain category. It can also be used to show the start and finish dates of a project timeline. This style is also suitable for non-aggregable metric representations such as stock on hand at various times.

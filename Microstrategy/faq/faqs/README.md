@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # FAQS
 
 {% content-ref url="../i-have-trouble-with-installation.md" %}
@@ -97,8 +83,6 @@ layout:
 {% content-ref url="how-to-add-logos-as-axes-labels-in-vitaracharts.md" %}
 [how-to-add-logos-as-axes-labels-in-vitaracharts.md](how-to-add-logos-as-axes-labels-in-vitaracharts.md)
 {% endcontent-ref %}
-
-
 
 {% content-ref url="../how-to-import-data-and-create-charts-with-vitara.md" %}
 [how-to-import-data-and-create-charts-with-vitara.md](../how-to-import-data-and-create-charts-with-vitara.md)

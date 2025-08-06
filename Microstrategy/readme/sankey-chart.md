@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Sankey Chart
 
 A Sankey chart is a data visualization tool used to represent the flow or distribution of resources, energy, or values between multiple entities or stages. It consists of interconnected arrows or flow paths, with the width of each path proportional to the quantity it represents. Sankey charts are commonly used in fields like energy management, economics, and process engineering to illustrate the transfer of resources or information, making it easier to understand complex systems, identify inefficiencies, and optimize processes.
