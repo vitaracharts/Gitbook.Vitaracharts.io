@@ -4,6 +4,21 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.6
+
+* New Feature -New Chart Customization Editor introduced, allowing users to add and edit custom palettes, fonts, translations, and more global preferences.
+* New Feature - Introduced Health Tool to validate plugin setup with checks for version compatibility, file integrity, license, custom files, and mobile configuration.
+* Improvement -Stacked chart: Performance improvement of stacked chart with more than 1000 data points .
+* Improvement - Support for Column Wrap Text Feature in Grid.
+* Improvement - Grid Chart: Macro-Based Threshold Targeting for Macro in Cell Content.
+* Improvement - All Charts (Category Axis): For charts that support label truncation, a width option is now available.
+* Bug Fix - Customer reported issue: Tooltip is overlapping the chart again&#x20;
+* Bug Fix - Customer reported issue:Enabling/disabling Context menu via global.txt.
+* Bug Fix - Customer reported issue: Line chart : Small multiple are not displaying all category axis values (date dataset
+* Bug Fix - Customer reported issue: Bubble Chart: Slope & Horizontal orientation is not working in plotline
+* Bug Fix - Customer reported issue: Line chart : Small multiple are not displaying all category axis values (date dataset)
+* Bug Fix - Customer reported issue: Column Range chart : Plotline not working with Date dataset in metric
+
 ### 5.3.5
 
 * Improvement - Grid Chart: Allow direct resizing of rows and headers using the mouse
