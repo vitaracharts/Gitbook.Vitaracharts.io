@@ -119,3 +119,14 @@ Click on the ‘Add’ tab to apply a new threshold. Select the Category attribu
 In the below screenshot, Month attribute is selected in Source and Target drop downs and applied ‘Starts with’ condition with value ‘J’ and applied .svg marker. The threshold can be displayed as shown in the below screenshot.
 
 <figure><img src="../.gitbook/assets/gridAttribute1.png" alt=""><figcaption></figcaption></figure>
+
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.\
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXchPw42Cg6I5HoBAJWEpF4zkmX1_KD-0NqDkHMMyX5cDieXztEleKmjhbYJAUddti3Eo5H1v6n4eiRrSLriM2reI7sba09sc7G8c-LE-e7xoT7rR6D165psalBZLJgg188-Tmyw?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
+
+\

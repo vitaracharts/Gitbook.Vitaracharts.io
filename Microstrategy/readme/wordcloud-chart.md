@@ -1,8 +1,5 @@
 # Wordcloud Chart
 
-\
-
-
 ## Word Cloud <a href="#word-cloud" id="word-cloud"></a>
 
 Vitara’s Word Cloud chart displays attribute elements on the chart, with larger metric values displayed in larger sizes. You can change the colors and size of the text in Vitara Word Cloud.
@@ -32,6 +29,12 @@ In the threshold editor window apply source, target, threshold condition and the
 <figure><img src="../.gitbook/assets/image534.png" alt=""><figcaption></figcaption></figure>
 
 After giving all the inputs click on ‘Apply’ button.
+
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
 
 ## Word Cloud <a href="#word-cloud-1" id="word-cloud-1"></a>
 

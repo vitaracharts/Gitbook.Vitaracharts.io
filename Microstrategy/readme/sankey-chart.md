@@ -38,6 +38,12 @@ We can set the threshold for either links or nodes. We can also set a threshold 
 
 After entering all of your information, click the ‘Apply’ button.
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 ## Sankey property <a href="#sankey-property" id="sankey-property"></a>
 
 Sankey chart have the ability to set custom colors for links. Links can be given custom color palette using their colors options.

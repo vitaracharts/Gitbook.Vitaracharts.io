@@ -55,5 +55,5 @@ By adhering to these guidelines and implementing the provided function, you can 
 
 _**Note: If you do not configure the functioning of URLs using any of the above methods, VitaraCharts will block all the URLs.**_
 
-**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
-For more details, \[click here].
+**Enhancemen**t: Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface.\
+For more details, [click here](../customization-guide/customization-tool.md).

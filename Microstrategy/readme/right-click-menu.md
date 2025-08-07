@@ -47,9 +47,3 @@ statePresentation.contextMenu=0
 
 📌**Note:** The respective `global.txt` file must be configured **separately** for both **Web** and **Library** applications.\
 After making changes, users must **clear their browser cache** to ensure the updates are reflected in any Vitara charts
-
-\
-\
-
-
-\

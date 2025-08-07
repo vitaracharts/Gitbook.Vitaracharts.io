@@ -28,5 +28,5 @@ Save the ‘global.txt’ file and reopen your document. The below screenshot sh
 
 **Note:** If you still see the older suffix after reloading the dashboard, clear your browser’s cache and reload the dashboard.
 
-**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
-For more details, \[click here].
+**Enhancemen**t: Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface.\
+For more details, [click here](customization-tool.md).

@@ -58,13 +58,19 @@ In the threshold editor window apply source, target, threshold condition and the
 
 After giving all inputs click on ‘Apply’ button.
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 From version 4.9.0, we can use pattern fill in thresholds (Grid/Square/Double Square/Slash), certain part of the chart can be filled with a pattern.
 
 <figure><img src="../.gitbook/assets/slopeThrehold.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/slopeThrehold1.png" alt=""><figcaption></figcaption></figure>
 
-#### Markers <a href="#markers" id="markers"></a>
+### Markers <a href="#markers" id="markers"></a>
 
 At the starting value point and ending value point, the marker is displayed. These markers type and size are customizable.
 

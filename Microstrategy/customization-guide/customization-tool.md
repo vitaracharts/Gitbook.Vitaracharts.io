@@ -1,21 +1,21 @@
 # Customization Tool
 
-## Customization Tool Overview
+## Overview
 
-A new interface has been introduced to simplify editing of key configuration files—global.txt, customStyles.css, and translation files—directly from within the system. This user-friendly tool removes the need for manual file edits, streamlining customization workflows.
+The **Customization Tool** is a newly introduced interface designed to simplify the editing of key configuration—**global.txt, customStyles.css**, and **translation files**—directly from within the system. This user-friendly tool removes the need for manual file edits, streamlining customization workflows.
 
 **Available from Version 5.3.6**\
 This release supports full editing of global.txt and translation files. Partial editing is available for customStyles.css, with full support planned for a future update.
 
 ### &#x20;Key Features
 
-* Add and manage custom palettes
-* Add and manage custom fonts
-* Modify individual settings in global.txt
-* Edit individual translated texts in translation files
-* Switch between available languages
+* Add and manage **custom palettes**
+* Add and manage **custom fonts**
+* Modify individual settings in **global.txt**
+* Edit individual translated texts in **translation files**
+* Switch between available **languages**
 
-📌 **Note**: After configuring your settings, make sure to click Save Changes in the top-right corner.The changes will only reflect in the visualizations once this step is completed.
+📌 **Note**: After configuring your settings, make sure to click Save Changes in the top-right corner. The changes will only reflect in the visualizations once this step is completed.
 
 **Clear your browser cache** to ensure the updated customization appears correctly in the visualizations
 
@@ -46,7 +46,7 @@ Ensure the font file is placed in the following directory:
 * For **MSTR Web** : webapps\MicroStrategy\plugins\VitaraCharts\custom\fonts
 * For **MSTR Library** : webapps\MicroStrategyLibrary\plugins\VitaraCharts\custom\fonts
 
-**Note** : If the fonts folder does not exist under the custom directory, users can manually create it and then add your font files.
+**Note** : If the **fonts** folder does not exist under the custom directory, users can manually create it and then add your font files.
 
 **Steps :**
 
@@ -100,11 +100,3 @@ Access the customization interface from the following locations:
   &#xNAN;**/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**
 
 📌 **Note**: Customizations must be applied separately for Web and Library environments
-
-\
-\
-\
-\
-\
-\
-\

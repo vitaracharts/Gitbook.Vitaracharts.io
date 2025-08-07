@@ -44,5 +44,5 @@ accessControlLevels=write
 
 Now only the users who have to write permission on that particular report services document will get the ‘Edit’ button in Vitara Charts.
 
-**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
-For more details, \[click here].
+**Enhancemen**t: Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface.\
+For more details, [click here](customization-tool.md).

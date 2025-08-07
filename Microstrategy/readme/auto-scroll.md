@@ -1,11 +1,8 @@
 # Auto Scroll
 
-\
 
 
-#### Auto Scroll <a href="#auto-scroll" id="auto-scroll"></a>
-
-Vitara Charts added a new feature, auto scroll, in Version 5.2.5. Which the charts will be able to be scrolled along the category axis.
+Vitara Charts added a new feature, **Auto scroll,** in Version 5.2.5. Which the charts will be able to be scrolled along the category axis.
 
 Users can now view charts that expand the category axis according to the density of data points (in relation to the user-specified size or series width). With this new functionality, the size of the scroll area is calculated so that the data doesn’t overlap. (To avoid overlap padding, group padding is set to have a minimum value.)
 

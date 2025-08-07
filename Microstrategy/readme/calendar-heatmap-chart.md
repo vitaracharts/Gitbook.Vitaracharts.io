@@ -137,6 +137,12 @@ In the threshold editor window apply source, target, threshold condition and the
 
 After giving all the inputs click on ‘Apply’ button.
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 ## Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 
 Play by - animation shows the chart for each element of the first attribute. For more details about the play by feature please refer to [play-by](play-animation.md).

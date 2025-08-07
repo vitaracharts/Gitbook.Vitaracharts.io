@@ -54,6 +54,12 @@ As of Vitara charts version 4.9.2, the heatmap chart by default shows vertical a
 
 <figure><img src="../.gitbook/assets/heatmap_totallabels1.png" alt=""><figcaption></figcaption></figure>
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 ## Background Image <a href="#background-image" id="background-image"></a>
 
 The steps to set a background image for all Vitara charts are explained in [backgroundImage](https://docs.vitaracharts.com/readme/background-images).

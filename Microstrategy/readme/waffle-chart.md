@@ -38,6 +38,12 @@ Apply all the inputs and click on ‘Apply’ button.
 
 <figure><img src="../.gitbook/assets/Waffle3.png" alt=""><figcaption></figcaption></figure>
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 ## Unfilled Color <a href="#unfilled-color" id="unfilled-color"></a>
 
 From version 5.0, the Waffle Chart now has an unfilled Color option that changes the waffle chart’s default colour (grey unused part of grid). An “unfilled color” option in a waffle chart allows users to designate a color that represents empty or unused portions of the chart, typically used to convey a visual representation of data where not all squares or cells in the chart are filled. This helps to maintain clarity and convey information effectively in the absence of data.

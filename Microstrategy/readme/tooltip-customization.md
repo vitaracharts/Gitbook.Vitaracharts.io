@@ -1,8 +1,5 @@
 # Tooltip Customization
 
-\
-
-
 ## Introduction <a href="#introduction" id="introduction"></a>
 
 Starting with the 3.9 release, we can customise what appears in the VitaraCharts tooltip. To edit tooltips, utilise the new HTML editor in the “Tooltip” property menu. The tooltip editing window is seen in the screenshot below.

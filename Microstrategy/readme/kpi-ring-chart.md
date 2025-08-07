@@ -41,6 +41,12 @@ Below is the example of the threshold applied on the KPI Ring chart.\
 
 <figure><img src="../.gitbook/assets/KPIRing6.png" alt=""><figcaption></figcaption></figure>
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 ## Formatting the Ring <a href="#formatting-the-ring" id="formatting-the-ring"></a>
 
 From 4.5 version of vitara charts, a new feature is added in KPI Ring which helps to set the **Ring thickness, start and end angles** and **Unfilled ring color**.\

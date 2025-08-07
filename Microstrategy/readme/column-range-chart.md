@@ -46,6 +46,12 @@ In the threshold editor window apply source, target, threshold condition and the
 
 Apply all the inputs then click on ‘Apply’ button.
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
 ## Displaying stacking bars in a separate row <a href="#displaying-stacking-bars-in-a-separate-row" id="displaying-stacking-bars-in-a-separate-row"></a>
 
 We can also display bars stacked in different rows when using an attribute in the “Color by” drop zone for each category element.

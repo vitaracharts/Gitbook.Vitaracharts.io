@@ -28,6 +28,14 @@ From version 4.9.0, we can use pattern fill in thresholds, certain part of the c
 
 <figure><img src="../.gitbook/assets/barThreshold1.png" alt=""><figcaption></figcaption></figure>
 
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
+<figure><img src="../.gitbook/assets/thresholds bar doc.gif" alt=""><figcaption></figcaption></figure>
+
 ## Axes <a href="#axes" id="axes"></a>
 
 You can do both Category and Value formattings, by using Title, Label, Axis line and other options in the property editor.

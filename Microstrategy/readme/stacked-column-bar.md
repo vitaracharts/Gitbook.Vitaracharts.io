@@ -75,7 +75,7 @@ From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double
 
 <figure><img src="../.gitbook/assets/stackColumnSeries1.png" alt=""><figcaption></figcaption></figure>
 
-#### Polar Mode <a href="#polar-mode" id="polar-mode"></a>
+### Polar Mode <a href="#polar-mode" id="polar-mode"></a>
 
 From the 4.6 version of VitaraCharts, a new feature is added in the Stacked charts where users can enable ‘Polar mode’ i.e, Stacked bar/column chart with a radial value axis. This way of using axes is called Polar coordinate system.
 
@@ -179,6 +179,12 @@ From version 4.9.0, we can use pattern fill in thresholds, certain part of the c
 <figure><img src="../.gitbook/assets/stackColumnThreshold.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/stackColumnThreshold1.png" alt=""><figcaption></figcaption></figure>
+
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 

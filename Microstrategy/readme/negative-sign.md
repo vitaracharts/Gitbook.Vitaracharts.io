@@ -60,5 +60,5 @@ For example, in the vitara charts, if I want to show negative numbers in the par
 
 The global.txt file customizations can be used to regulate the negative indications in all VitaraCharts included in any dossier or document. In contrast, the Use Metric Formatting property in a certain chart’s Data Labels menu is used to control the negative sign in that specific chart in that unique dossier/document.
 
-**Enhancemen**t: _Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface._\
-For more details, \[click here].
+**Enhancemen**t: Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface.\
+For more details, [click here](../customization-guide/customization-tool.md).

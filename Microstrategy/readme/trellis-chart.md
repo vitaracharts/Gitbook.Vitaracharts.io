@@ -24,7 +24,7 @@ In the below example, the profit metric line changed to area in series property 
 
 <figure><img src="../.gitbook/assets/trellisMarker.png" alt=""><figcaption></figcaption></figure>
 
-#### Series <a href="#series" id="series"></a>
+### Series <a href="#series" id="series"></a>
 
 We can turn the line/area chart into the combinational chart by changing the ‘series type’ in the ‘series’ tab.
 
@@ -34,7 +34,7 @@ From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double
 
 <figure><img src="../.gitbook/assets/trellisSeries1.png" alt=""><figcaption></figcaption></figure>
 
-#### Thresholds <a href="#thresholds" id="thresholds"></a>
+### Thresholds <a href="#thresholds" id="thresholds"></a>
 
 In the business point of view, certain part of the chart needs to be highlighted to draw more attention from the desicion makers. For example, highlight the stores where total sales is greater than a specific value or highlight the top 10 products whose sales is high during last year’s winter. Thresholds are very useful objects in these use cases.
 
@@ -58,11 +58,17 @@ From version 4.9.0, we can use pattern fill in thresholds, certain part of the c
 
 <figure><img src="../.gitbook/assets/trellisThreshold1.png" alt=""><figcaption></figcaption></figure>
 
-#### Background Image <a href="#background-image" id="background-image"></a>
+## Thresholds Priority
+
+When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
+
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
+
+### Background Image <a href="#background-image" id="background-image"></a>
 
 The steps to set a background image for all Vitara charts are explained in [_backgroundImage_](background-images.md).
 
-#### Gradient Color <a href="#gradient-color" id="gradient-color"></a>
+### Gradient Color <a href="#gradient-color" id="gradient-color"></a>
 
 From version 5.0, Gradient color fill can be added where the series property is available.
 
