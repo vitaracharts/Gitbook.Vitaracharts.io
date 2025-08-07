@@ -52,3 +52,9 @@ Below is the screenshot of the library configuration page. On this page enter th
 * &#x20;**Note** : _Clear cache in the MicroStrategy library mobile application and restart the MicroStrategy library mobile application on your iPad/iPhone to see the changes._
 * &#x20;For detailed instructions on clearing the cach&#x65;**,**[ **click here.**](https://docs.vitaracharts.com/faq/how-to-fix-mobile-rendering-issues)
 
+#### **Note:** Starting with version 5.3.6, a new utility named Health Tool has been introduced.
+
+This tool provides a centralized interface to verify the correct deployment of the Vitara Charts plugin and helps identify potential configuration or compatibility issues.
+
+👉[ Click here ](health-tool.md)to access the **Health Tool**.
+

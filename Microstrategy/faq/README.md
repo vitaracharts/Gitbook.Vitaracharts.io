@@ -4,7 +4,7 @@
 [contact-us.md](contact-us.md)
 {% endcontent-ref %}
 
-{% content-ref url="faqs/" %}
-[faqs](faqs/)
+{% content-ref url="faqs.md" %}
+[faqs.md](faqs.md)
 {% endcontent-ref %}
 

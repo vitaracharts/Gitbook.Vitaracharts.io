@@ -66,15 +66,15 @@ To apply the newly added font as the default:
 
 The selected font will now be used as the default across all  visualizations.
 
-Refer to the attached GIF below for a demonstration of custom palette and custom font configuration.
+#### Refer to the attached **GIF** below for a demonstration of **custom palette** and **custom font** configuration.
 
 <figure><img src="../.gitbook/assets/Doc customization.gif" alt=""><figcaption></figcaption></figure>
 
 ### Modifying global.txt Settings
 
-Toggle individual settings within the tool to replicate the effects of manual edits to global.txt, presented in a more intuitive format.
+Toggle individual settings within the tool to replicate the effects of manual edits to **global.txt**, presented in a more intuitive format.
 
-### Refer to the attached screenshot for details.
+#### Refer to the attached screenshot for details.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduM56sssc5Mn8Rj40VRJH-MRV0iaXicx7PFKtTnTYIh3bhFKNhN9FNJkkvU_tKRbV2u8nwkwX0oqZZfphDfk3eGkAs2cplAqwhTrhGktKs6cNKiswh8Pn41ifsMOGpZuTXDAkf9g?key=GOHD-Vwdy0sntCqAMUofbw" alt=""><figcaption></figcaption></figure>
 

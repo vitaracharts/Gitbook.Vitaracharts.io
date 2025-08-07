@@ -11,7 +11,7 @@ To add logos as axes labels in VitaraCharts, the dataset must include a column c
 
 Below is a sample dataset with the necessary structure for adding logos as labels:
 
-<figure><img src="../../.gitbook/assets/logo dataset.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo dataset.PNG" alt=""><figcaption></figcaption></figure>
 
 Now, when dataset is being added we need to convert the 'IMG SRC' into an HTML tag format like this:
 

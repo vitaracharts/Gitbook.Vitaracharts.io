@@ -52,3 +52,9 @@ If you are upgrading an existing installation, then please follow the below inst
 If you are using the new export engine on MicroStrategy (available starting 2019 update 2) you have the option of deploying VitaraCharts locally on the export server. The procedure is detailed here [Export engine set up](https://community.microstrategy.com/s/article/New-Customization-Property-for-the-Export-Engine-Service?language=en_US)
 
 Use this web version of VitaraCharts to copy them to the resources folder on the export server. Please do not use the library or mobile version.
+
+#### **Note:** Starting with version 5.3.6, a new utility named Health Tool has been introduced.
+
+This tool provides a centralized interface to verify the correct deployment of the Vitara Charts plugin and helps identify potential configuration or compatibility issues.
+
+👉[ Click here ](health-tool.md)to access the **Health Tool**.

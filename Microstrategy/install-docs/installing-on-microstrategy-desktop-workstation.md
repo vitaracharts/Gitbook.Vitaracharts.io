@@ -62,9 +62,6 @@ http:///MicroStrategyLibrary/plugins/VitaraCharts/config.jsp\
 
 * Below is a screenshot of the library configuration page. On this page, enter the path to the MicroStrategy Web application (not the library) and click submit.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVW5OYXL_qiUU0dZi3QhQrsyol0HCBoRmRsYNEwt4TUsZdnI-x1exySaavgsWJC6sheNGjI-AQ8NrdViq3Jd2G1uMslCKYiSuw_7GeR0FOp8t1itLe3LSXxs49cE3lD2IatIEHgg?key=HG8zy91NAlh2msPjWJsC0g)
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVW5OYXL_qiUU0dZi3QhQrsyol0HCBoRmRsYNEwt4TUsZdnI-x1exySaavgsWJC6sheNGjI-AQ8NrdViq3Jd2G1uMslCKYiSuw_7GeR0FOp8t1itLe3LSXxs49cE3lD2IatIEHgg?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
-\
-
-
-\
+&#x20;

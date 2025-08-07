@@ -123,5 +123,13 @@ Refresh your web browser and open Vitara Charts. Below is the screenshot of the 
 
 <figure><img src="../.gitbook/assets/image10 (2).png" alt=""><figcaption></figcaption></figure>
 
-**Enhancemen**t: Starting from version 5.3.6, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface.\
-For more details, [click here](customization-tool.md).
+#### Enhancements (Introduced in Version 5.3.6)
+
+* A new tool called the **Customization Tool** has been introduced.\
+  It allows users to easily **edit configuration files** such as `global.txt` and `customStyles.css` through a **user-friendly interface**.\
+  👉 [Click here](customization-tool.md) for more details.
+* The **Health Tool** is now available to:
+  * Verify **Vitara Charts plugin** deployment
+  * Detect **configuration or compatibility issues**
+  * Validate presence and structure of **custom configuration files**\
+    👉[ Click here ](../install-docs/health-tool.md)to access the Health Tool.
