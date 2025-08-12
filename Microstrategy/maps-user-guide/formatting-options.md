@@ -39,3 +39,13 @@ To enable this option two attributes are needed in vitara map. One is for normal
 The ‘Play By’ option causes the vitara map chart to display ‘Map Attribute’ elements for each element of the ‘play by’ attribute at a specific time instant. We can halt and restart the game at any moment.The screenshot below is of a dashboard that displays information about US states by area.
 
 <figure><img src="../.gitbook/assets/image67 (1).png" alt=""><figcaption></figcaption></figure>
+
+### Chart Animation Configuration
+
+Starting from version **5.3.6,** the Animation option for charts can now be toggled on or off, giving users more flexibility in customizing chart behavior. This feature allows control over visual transition effects, enhancing the presentation of data..
+
+To configure the animation, navigate to the Maps tab and toggle it on or off, as shown in the screenshots below.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXci3K6Fzmfldd2TkyUqA9XA-RaMA_lXhtwh3MoID9RVeRSjewc_25q5WAr2bsZOKzMm2pdSgpqy3Pt3vLOmA5uNmJ4sq8PyiK9HBX7S_PpViuna1JQf93K4HHYYAuKSrAT23esD8A?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
+
+\

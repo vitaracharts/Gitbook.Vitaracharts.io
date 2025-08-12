@@ -29,7 +29,7 @@ Locate the US county-level GeoJSON file within the package at the following path
 
 * &#x20; **Acquiring US States GeoJSON**&#x20;
 
-Alternatively, you can begin by downloading the GeoJSON file for US States from a trusted source, such as Highmaps.
+Alternatively, you can begin by downloading the GeoJSON file for US States from a trusted source, such as [Highmaps](https://code.highcharts.com/mapdata/).
 
 After downloading, open the GeoJSON file to verify that it contains the necessary geographical data corresponding to your Excel sheet. This step ensures that the locations in the GeoJSON file align correctly with the data you intend to visualize
 
