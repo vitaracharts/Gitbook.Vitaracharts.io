@@ -4,7 +4,16 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes Maps
 
-## 5.3.0
+### 5.3.6
+
+* Improvement: The Maps tab now includes an Animation toggle (on/off).
+* Bugfix : Animation turned off by default.
+* Bugfix : Map visualization appears very small when exported alongside charts.
+* Bugfix : Tooltip Not Showing After Formatting
+* Bugfix : Issue with Invert Functionality After Adding Custom Color to Palette.
+* Bugfix : Legends Not Hiding Maps After Being Disabled.
+
+### 5.3.0
 
 * BugFix: Threshold edit/creation doesn’t work with custom maps.
 * BugFix: Incorrect 'Play by Attribute' Option Displayed in Map's Appearance Tab.
