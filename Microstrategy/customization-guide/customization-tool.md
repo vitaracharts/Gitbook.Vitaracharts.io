@@ -98,5 +98,7 @@ Access the customization interface from the following locations:
   &#xNAN;**/MicroStrategy/plugins/VitaraCharts/utils/customizations.html**
 * For MicroStrategy Library Application:\
   &#xNAN;**/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**
+* For MicroStrategy Mobile Application:\
+  &#xNAN;**/MicroStrategyMobile/plugins/VitaraCharts/utils/customizations.html**
 
-📌 **Note**: Customizations must be applied separately for Web and Library environments
+📌 **Note**: Customizations must be applied separately for Web, Library and Mobile environments.
