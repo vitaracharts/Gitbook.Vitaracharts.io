@@ -30,7 +30,7 @@ Below are the examples shown, where data markers applied on Profit & Revenue met
 
 <figure><img src="../.gitbook/assets/cm4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Below are the examples shown, where data markers are applied on Profit & Revenue metric with Auto scaling having ‘Fill metric’ on ‘Nogrouping’ and ‘Grouped’ rows.
 

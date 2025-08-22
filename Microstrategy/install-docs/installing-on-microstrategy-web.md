@@ -4,7 +4,9 @@
 
 * Download the **web version** of VitaraCharts.
 
-<figure><img src="../.gitbook/assets/web.PNG" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
@@ -20,7 +22,7 @@ Please follow the installation instructions below if this is your first time usi
 * Copy over the new version of the VitaraCharts folder into the plugins folder of your MicroStrategyweb installation. For instance if Web is installed under &#x200B;_**c:\tomcat\webapps\MicroStrategy**_&#x200B;, you will place VitaraCharts under &#x200B;_**c:\tomcat\webapps\MicroStrategy​\​plugins**_
 * If you had done the installation correctly, the folders will loook as shown below.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * REPLACE the license.txt file in the VitaraCharts folder with the license file provided to you
 * Start WebServer.

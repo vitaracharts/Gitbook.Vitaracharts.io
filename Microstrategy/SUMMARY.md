@@ -165,7 +165,6 @@
   * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
   * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
   * [Installing on MicroStrategy Library](install-docs/installing-on-microstrategy-library.md)
-  * [Installing on MicroStrategy Mobile](install-docs/installing-on-microstrategy-mobile.md)
   * [Health Tool](install-docs/health-tool.md)
   * [Release Notes](install-docs/release-notes.md)
   * [Release Notes Maps](install-docs/release-notes-maps.md)

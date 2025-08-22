@@ -12,7 +12,7 @@ hidden: true
 
 * Click on the small “i” icon in the menu bar to add an information window.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Select the Target Information Window:**
 
@@ -20,11 +20,11 @@ hidden: true
 * Choose the “Select Information Window” option.
 * Select “Information Window 1” as the target.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.View Information:**
 
 * Click on any series in the Vitara Chart.
 * A small information window will open, displaying the relevant details.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>

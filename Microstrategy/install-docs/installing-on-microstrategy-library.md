@@ -4,7 +4,9 @@
 
 * Download the **library version** of VitaraCharts.
 
-<figure><img src="../.gitbook/assets/library.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
 
 * You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
@@ -49,8 +51,8 @@ Below is the screenshot of the library configuration page. On this page enter th
 ![library config](https://vitaracharts.github.io/assets/img/libraryConfigPage.png)
 
 * Setting web configuration url also helps to render Vitara Charts without internet access in the ipad/iphone.
-* &#x20;**Note** : _Clear cache in the MicroStrategy library mobile application and restart the MicroStrategy library mobile application on your iPad/iPhone to see the changes._
-* &#x20;For detailed instructions on clearing the cach&#x65;**,**[ **click here.**](https://docs.vitaracharts.com/faq/how-to-fix-mobile-rendering-issues)
+* &#x20;**Note** : _Clear **cache** in the MicroStrategy library mobile application and restart the MicroStrategy library mobile application on your iPad/iPhone to see the changes._
+* &#x20;For detailed instructions on clearing the **cache,**[ **click here.**](https://docs.vitaracharts.com/faq/how-to-fix-mobile-rendering-issues)
 
 #### **Note:** Starting with version 5.3.6, a new utility named Health Tool has been introduced.
 

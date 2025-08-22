@@ -4,7 +4,7 @@
 
 * For both desktop and workstation applications, download the **desktop version** of VitaraCharts.
 
-<figure><img src="../.gitbook/assets/workstation1.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
 
@@ -26,26 +26,26 @@ There are two ways to deploy in Offline Mode:
 * Open an existing MicroStrategy dossier or create a new one.
 * You will see a ​+​ sign to add visualizations.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the ‘+’ sign, and a small import visualization window will open. Select the downloaded zip file.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once the Vitara visualization is successfully imported, you will see a message stating that all custom visualizations have been imported successfully.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **2.Manual Installation- Deployment by Extracting and Pasting the Folder:**
 
 * Download the desktop version zip file from [here](https://www.vitaracharts.com/product-downloads).
 * Once the file is downloaded, extract the zip file to your specified location. You will find that under the Vitara Charts folder, there is another Vitara Charts folder containing several subfolders. Move the inner folder that contains the files.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Paste the extracted folder into the _**\Microstrategy\Workstation\Code\plugins**_ path on your local machine.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Open Workstation and create a new dossier. You should see the Vitara charts in the custom option.
 

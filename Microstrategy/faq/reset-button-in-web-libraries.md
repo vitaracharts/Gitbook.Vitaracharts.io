@@ -16,4 +16,4 @@ The reset button is a simple button that allows you to sync the charts from your
 
 When you make changes to your web, such as updating data or customizing the appearance of charts, those changes may not automatically be reflected in your web library/Ipad library app. This is where the reset button comes in. By clicking on the reset button, you trigger a process that syncs the charts from your web to your web library, ensuring that they are consistent and up-to-date.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

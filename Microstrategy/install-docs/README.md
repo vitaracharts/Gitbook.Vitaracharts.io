@@ -12,7 +12,7 @@
 [installing-on-microstrategy-library.md](installing-on-microstrategy-library.md)
 {% endcontent-ref %}
 
-{% content-ref url="installing-on-microstrategy-mobile.md" %}
-[installing-on-microstrategy-mobile.md](installing-on-microstrategy-mobile.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

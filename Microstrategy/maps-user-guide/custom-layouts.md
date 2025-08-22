@@ -123,13 +123,13 @@ If everything goes as planned, the finished result will look like this.
 
 In an exciting development, starting from version 4.9.2.477, the Vitara Map Tool introduced a game-changing functionality – the ability to seamlessly integrate background images. Let’s take the example of a “Stadium” to illustrate this breakthrough. Previously, when you uploaded a picture and drew shapes in the Vitara Map Tool([ Vitara Map Tool ](https://cloud.vitaracharts.com/maptools/layoutCreator)), you could only see the shapes on the picture. However, with the latest version, the complete background image becomes part of the Vitara map chart, enhancing the overall visualization.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Color Picker with Opacity (Version 5.0.0.484 and Beyond) <a href="#color-picker-with-opacity-version-500484-and-beyond" id="color-picker-with-opacity-version-500484-and-beyond"></a>
 
 Moving forward to version 5.0.0.484, another exciting feature was introduced – the Color Picker with Opacity. This option empowers users to fine-tune the transparency of a selected class by adjusting a slider. This brings a new level of customization, allowing you to control the visual intensity of specific map elements.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Edit Custom SVG Map <a href="#edit-custom-svg-map" id="edit-custom-svg-map"></a>
 

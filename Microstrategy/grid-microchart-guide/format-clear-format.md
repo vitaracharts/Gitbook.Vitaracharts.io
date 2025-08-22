@@ -74,7 +74,7 @@ The user can now apply formatting to horizontal bars and pins as of Version 5.1.
 
 To remove applied formatting, user can access the 'Clear Formatting' option from the hamburger menu.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Column Wrap&#x20;
 
