@@ -86,7 +86,7 @@ http://\<webserver>/MicroStrategy/servlet/mstrWeb?evt=2048001\&documentID=\<Targ
 
 **With example IDs** filled in:
 
-http://\<webserver>/MicroStrategy/servlet/mstrWeb?evt=2048001\&documentID=3C7CB37A11EA1D9732060080EFF5A888\&elementsPromptAnswers=8D679D5111D3E4981000E787EC6DE8A4;8D679D5111D3E4981000E787EC6DE8A4:&\[Year]
+http://\<webserver>/MicroStrategy/servlet/mstrWeb?evt=2048001\&documentID=D5CA3EA5AE493250659893BB56295224\&elementsPromptAnswers=8D679D5111D3E4981000E787EC6DE8A4;8D679D5111D3E4981000E787EC6DE8A4:&\[Year]
 
 #### 6. Add the URL API Link
 
@@ -121,7 +121,7 @@ For example:
 **Steps**
 
 1. Open the Grid Chart Custom Editor in the Source dashboard.
-2. Select the Year column, hold down the Ctrl key and left-click on the attribute header to activate the Custom Editor Panel.
+2. Hold down the Ctrl key and left-click on the header of the Year attribute to activate the Custom Editor Panel.
 3. Click Insert Link and paste the URL API link (created in the earlier steps).
 4. Save the dashboard.
 
