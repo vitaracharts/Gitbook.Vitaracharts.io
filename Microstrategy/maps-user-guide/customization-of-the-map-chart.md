@@ -80,7 +80,7 @@ Now in the notepad copy the entire content of shapefile (.geo.json) and paste it
 
 Now the geojson content will be displayed in json tree structure.
 
-<figure><img src="../.gitbook/assets/image5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image5 (1).png" alt=""><figcaption></figcaption></figure>
 
 The ‘features’ array is one of the objects in the json tree structure. If we expand the ‘features’ array, we get objects for each part of the chart. There are objects numbered 0 to 5 in our globe continents example because there are six partitions in the chart representing each continent (excluding Antarctica).
 
@@ -108,7 +108,7 @@ For our world continents example, the following will be the dictionary key defin
 
 To know about this property lets take a look at our world continents map data excel file.
 
-<figure><img src="../.gitbook/assets/image6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image6 (1).png" alt=""><figcaption></figcaption></figure>
 
 Take a look at the ‘Australia’ continent. Let’s compare this to the shapefile and look for unique names linked with each map segment.
 
@@ -178,7 +178,7 @@ http://www.qgis.org/en/site/forusers/download.html
 
 The grouping option’s primary function is to make it easier to arrange individual regions on the map as a single unit, rather than regions with a single boundary. By default, the Vitara Map chart will draw any map for the regions specified in the shapefile. The Vitara Map chart, for example, provides a map of the world’s countries in the screenshot below. To make this map, we must use the world countries shapefile. As a result, this map image will take data at the country level by default.
 
-<figure><img src="../.gitbook/assets/image4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image4 (1).png" alt=""><figcaption></figcaption></figure>
 
 To build this map at a higher level, for example, countries organizations such as NATO, BRICS, and so on, we must enable ‘Grouping’ in the Vitara Map chart. A screenshot of a sample data file with both country and organization columns is shown below.
 

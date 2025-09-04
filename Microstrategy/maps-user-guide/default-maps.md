@@ -31,7 +31,7 @@ The following sections will explain about the three vitara default maps.
 
 Consider the population density of the five countries listed below: the United States, the Russian Federation, Canada, Australia, and the United Kingdom. The data file is shown in the screenshot below.
 
-<figure><img src="../.gitbook/assets/image7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image7 (2).png" alt=""><figcaption></figcaption></figure>
 
 Insert the data file into the MicroStrategy dashboard or document. Drag and drop the country name attribute and Population Density metrics into the drop zone field’s ‘Map Attribute’ and ‘color by’ fields, respectively. These nations will be displayed on the default global physical map.
 

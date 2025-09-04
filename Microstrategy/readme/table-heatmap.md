@@ -12,7 +12,7 @@ Use as Filter Option - Available
 
 Thresholds Option - Available
 
-<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Heatmap <a href="#heatmap-1" id="heatmap-1"></a>
 

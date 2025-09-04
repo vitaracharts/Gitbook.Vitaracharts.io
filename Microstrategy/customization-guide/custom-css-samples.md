@@ -88,7 +88,7 @@ Applied the background color to be aqua , font family to be Comic Sans MS, Comic
 
 ####
 
-<figure><img src="../.gitbook/assets/image4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Category Axis with title style different from the label style
 
@@ -112,7 +112,7 @@ font-size: 25px
 
 ####
 
-<figure><img src="../.gitbook/assets/image5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image5 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Border around bars/columns with border styling
 
@@ -128,7 +128,7 @@ Applied border to the column, stroke-width to be 2, stroke to be red and stroke-
 
 ####
 
-<figure><img src="../.gitbook/assets/image6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image6 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Line Chart with different line style set
 
@@ -143,7 +143,7 @@ Applied stroke-width to be 2 and the stroke-dasharray to be 4,5,2
 
 ####
 
-<figure><img src="../.gitbook/assets/image7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image7 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Legend Styling
 

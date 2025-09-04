@@ -17,7 +17,7 @@ Each column can be resized by dragging to the right or left side of it’s heade
 
 Hover the cursor on the chart to display the ‘Edit’ button. Click on the ‘Edit’ button to open the properties window.
 
-<figure><img src="../.gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The chart will show ‘✔’ symbol beside the respective property which is currently applied on the chart. When we manually adjust the size of the chart, the chart will not show ‘✔’ mark on any of the tabs.
 

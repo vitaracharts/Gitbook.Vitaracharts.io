@@ -16,7 +16,7 @@ Follow all the installation steps listed in the [install guide for mobile](https
 
 **Note** that after deploying, the plugins folder will have several Vitara related folders (one for each type of chart)
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * In case a cluster of mobile servers are being used, it is critical to ensure Vitaracharts is deployed to all nodes in the cluster.
 * Also please verify that the version of Charts deployed in Mobile and Web both are same.

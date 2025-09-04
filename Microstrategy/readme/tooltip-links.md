@@ -30,26 +30,77 @@ Hover the mouse over the chart to reveal the tooltip, then click on the words fo
 
 <figure><img src="../.gitbook/assets/link5.png" alt=""><figcaption></figcaption></figure>
 
-## Tooltip links support for URL API <a href="#tooltip-links-support-for-url-api" id="tooltip-links-support-for-url-api"></a>
+## Tooltip links support for URL API
 
-Tooltip links can be upgraded to support URL API with dynamically changing urls by using macros.
+The URL API in MicroStrategy allows you to pass parameters, prompts, or filters dynamically through a URL and control how  documents, or dossiers open in MicroStrategy .
 
-To add the links, repeat steps 1, 2, 3, and 4 from the previous section.
+For example, a user may want to pass the Year value from one dashboard to another. By doing so, when a specific Year is selected in the Source dashboard, the Target dashboard will automatically open and display the corresponding quarterly statistics for that Year
 
-For instance, suppose you have a dossier with the attributes year, category, and metrics profit, last year’s profit. And if you want to see the quarterly statistics for a specific year in another document/dossier, the link that needs to be included should be as follows.
+URL API link as follows:
 
-<figure><img src="../.gitbook/assets/link6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image5.png" alt=""><figcaption></figcaption></figure>
 
-\
-In the above URL, macros for the year property are utilized, so that clicking on the tooltip link of a certain data point will transmit the associated year value to answer the ‘year prompt’ in the target document/dossier.
+### Example Scenario: Steps to Create a URL API
 
-When we hovered over the year:2015 tooltip link in the screenshot below, the year in the URL API was also modified to 2015.&#x20;
+#### 1. Create an Element Prompt
 
-<figure><img src="../.gitbook/assets/link7.png" alt=""><figcaption></figcaption></figure>
+* Create an Element Prompt (attribute element list) using the Year attribute.
+* Build a report using this Year element prompt, including all required attributes and metrics
 
-After clicking on the year:2015 tooltip link, the quarterly statistics for 2015 will be displayed in the target document/dossier.&#x20;
+#### 2. Create a ‘Source’ Dashboard
 
-<figure><img src="../.gitbook/assets/link8.png" alt=""><figcaption></figcaption></figure>
+* Create a dashboard from this report and save it as **Source**.
+* Add the Year attribute and any required attributes and metrics.
+* While saving, make sure to select the highlighted option in the screenshot.
+
+This option ensures that prompts are not displayed when navigating between dashboards
+
+<figure><img src="../.gitbook/assets/image6.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Create a ‘Target’ Dashboard
+
+* Using the same report, create another dashboard and save it as **Target**.
+* Add the Quarter attribute and any other required attributes and metrics that should appear in the Target dashboard.
+*   &#x20;From the Target Dashboard:\
+    Right-click → Properties → Copy Document ID\
+
+
+    Below is the screenshot for reference
+
+<figure><img src="../.gitbook/assets/image7 (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 4. Get Object IDs
+
+* Copy the Object ID for the respective attribute (in this example, Year) from the project.
+* This Object ID will be used in the URL API structure to map the selected attribute value to the Target dashboard.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### 5. Form the URL API
+
+**URL API** structure:
+
+http://\<webserver>/MicroStrategy/servlet/mstrWeb?evt=2048001\&documentID=\<TargetDocID>\&elementsPromptAnswers=\<ObjectID>;\<ObjectID>:&\[AttributeName]
+
+**With example IDs** filled in:
+
+http://\<webserver>/MicroStrategy/servlet/mstrWeb?evt=2048001\&documentID=3C7CB37A11EA1D9732060080EFF5A888\&elementsPromptAnswers=8D679D5111D3E4981000E787EC6DE8A4;8D679D5111D3E4981000E787EC6DE8A4:&\[Year]
+
+#### 6. Add the URL API Link
+
+* In the **Source** dashboard, add this **URL API** link to the tooltip link.
+* Save the Source dashboard.\
+
+
+When you hover over the tooltip link for a specific Year (e.g., 2015), the Year value in the URL API is automatically updated to reflect the selected Year. This ensures that the correct filter value is dynamically passed to the Target dashboard.
+
+<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+
+After clicking on the year:2015 tooltip link, the quarterly statistics for 2015 will be displayed in the target document/dossier
+
+<figure><img src="../.gitbook/assets/image4.png" alt=""><figcaption></figcaption></figure>
 
 ## Unlink: <a href="#unlink" id="unlink"></a>
 
@@ -57,3 +108,26 @@ There are two methods for removing the linkages.
 
 1. Select the text on which the link is applied in the tooltip editing box, then click the Unlink icon. This eliminates the link that was applied specifically to that text.
 2. Click the unlink button without first selecting the tooltip text. This removes all of the links that were previously applied. Select the Apply button.
+
+### Define URL API in Column Data
+
+Instead of using a tooltip, you can also configure the URL API link directly on column values in a Grid chart.
+
+For example:
+
+* When a user clicks on the Year "2014" in the Grid chart, they will be redirected to the Target dashboard showing quarterly data for that year.\
+
+
+**Steps**
+
+1. Open the Grid Chart Custom Editor in the Source dashboard.
+2. Select the Year column, hold down the Ctrl key and left-click on the attribute header to activate the Custom Editor Panel.
+3. Click Insert Link and paste the URL API link (created in the earlier steps).
+4. Save the dashboard.
+
+Now, clicking on the Year value in the Grid chart will redirect the user to the Target dashboard, with the selected Year passed as a filter.
+
+&#x20;Refer to the attached GIF file for visual reference.
+
+<figure><img src="../.gitbook/assets/image3.gif" alt=""><figcaption></figcaption></figure>
+
