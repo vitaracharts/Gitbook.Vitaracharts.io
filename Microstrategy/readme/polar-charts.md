@@ -41,7 +41,7 @@ Unlocking the potential of spider web charts with VitaraCharts is a breeze. Foll
 
 _For example,The tick interval is like the spacing between marks on a ruler. For example, if your data goes from 0 to 100 and you set the tick interval to 10, you’ll see marks every 10 units (0, 10, 20, 30, …, 100). This makes it easier to understand the scale of your data. Adjusting the tick interval based on your data’s range helps keep the chart easy to read._
 
-<figure><img src="../.gitbook/assets/polar1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/value.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/PolarM.png" alt=""><figcaption></figcaption></figure>
 
