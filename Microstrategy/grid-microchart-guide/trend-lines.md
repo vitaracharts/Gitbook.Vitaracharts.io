@@ -131,3 +131,70 @@ For example, if we consider the _Cost_ metric, from all the bars of _Books_ cate
 Likewise the minimum and maximum values are calculated for each category of the metric instead of whole metric’s minimum and maximum values.
 
 <figure><img src="../.gitbook/assets/axisSpecificity_5.png" alt=""><figcaption></figcaption></figure>
+
+## Trend Lines — Start & End Value Options
+
+The Trendline scaling feature allows you to adjust the Start and End Values that determine how data is displayed. These values can be defined by specifying a fixed value, or setting them based on a percentile\
+Hamburger Menu >> More options  provides access to these properties.
+
+&#x20;Below is the screenshot for reference.
+
+<figure><img src="../.gitbook/assets/Trend 1.png" alt=""><figcaption></figcaption></figure>
+
+### Example 1: Fixed Value (Start = 30,000)
+
+#### Steps:
+
+1. Navigate to Trendline Settings to a metric
+2. Under Start Value, select Fixed Value.
+3. Enter 30,000 and click Apply.
+4. Leave End Value as Auto (or set another fixed value if required).
+5. Review the chart — bar heights are recalculated from the new baseline of 30,000.\
+   \
+   Before applying Start Value
+
+<figure><img src="../.gitbook/assets/Trend2.png" alt=""><figcaption></figcaption></figure>
+
+After applying Start Value = 30,000
+
+<figure><img src="../.gitbook/assets/Trend3.png" alt=""><figcaption></figcaption></figure>
+
+when a Fixed Start Value (e.g., 30,000) is applied, the following changes are observed:
+
+* **Baseline Adjustment:** The bars no longer start from zero but from the specified start value (30,000). This recalculates the relative height of all bars.
+* **Data Emphasis:** Variations above the start value become more visible, helping in highlighting small differences that might otherwise be hidden when starting from zero.
+* **Comparative Clarity:** It becomes easier to compare values that are closer in range since the unnecessary portion below the baseline is excluded.
+
+#### Example : Using a Fixed End Value
+
+Steps
+
+1. Open the Grid chart and navigate to Trendline Settings.
+2. Under End Value, select Fixed Value.
+3. Enter a desired value (e.g., 70,000) and click Apply.
+4. Keep Start Value (eg : 30,000)
+5. Review the chart — all bars are scaled relative to the fixed maximum of 70,000.\
+
+
+Before applying Fixed End Value
+
+<figure><img src="../.gitbook/assets/Trend_3_1.png" alt=""><figcaption></figcaption></figure>
+
+After applying End Value = 70,000
+
+<figure><img src="../.gitbook/assets/Trend4.png" alt=""><figcaption></figcaption></figure>
+
+**Observation** : When a Fixed End Value (e.g., 70,000) is applied:
+
+* **Consistent Upper Scale**: The chart’s maximum scale remains fixed at 70,000 even if the highest value is lower.
+* **Highlighting Gaps**: Bars may appear shorter if the data values are much lower than the fixed maximum.
+* **Flexibility**: Can be combined with a fixed start value for a fully customized scale range.
+
+Similarly, the Start and End Value settings can also be applied to other display styles, including horizontal bars/pins, line charts, and bullet charts.
+
+## Bullet Chart
+
+For the “Bullet Chart” display style, users can customize the aggregation type and the color of the bands. Refer to the screenshot below for reference.\
+
+
+<figure><img src="../.gitbook/assets/Trend5.png" alt=""><figcaption></figcaption></figure>

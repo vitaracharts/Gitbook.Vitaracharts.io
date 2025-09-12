@@ -40,3 +40,5 @@ Finally, hide the Grid dropzones using below steps
 <figure><img src="../.gitbook/assets/gridMicro4.png" alt=""><figcaption></figcaption></figure>
 
 If you have noticed the above image, the grid dropzones are hidden. Just compare this screenshot with the screenshot in step 3. And the Grid chart is now converted to Micro chart
+
+For detailed information on configuring Trendline settings, refer to the [Trendline](trend-lines.md) documentation
