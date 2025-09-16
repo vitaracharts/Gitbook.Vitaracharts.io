@@ -36,12 +36,6 @@ Click on ‘Add’ tab to apply a new threshold.
 
 <figure><img src="../.gitbook/assets/image103.png" alt=""><figcaption></figcaption></figure>
 
-### **Group:**
-
-If grouping is applied on any row of the grid chart, we can apply a threshold on group rows/cells. Using the ‘Group’ field we can decide on which rows we want to apply thresholds, i.e. on individual rows or grouped rows. Select ‘No grouping’ to apply a threshold on normal rows or select the group row to apply a threshold on group rows.
-
-<figure><img src="../.gitbook/assets/image80 (1).png" alt=""><figcaption></figcaption></figure>
-
 ### **Metric:**
 
 Select the metric on which you want to apply a threshold in ‘Metric’ drop down box.
@@ -76,7 +70,25 @@ If you want to apply another threshold condition on the same metric click on the
 
 <figure><img src="../.gitbook/assets/image68 (1).png" alt=""><figcaption></figcaption></figure>
 
-### **Threshold on ‘Group By’ headers**
+## **Group:**
+
+When grouping is applied in a Grid Chart, thresholds can be set either on individual rows or on grouped rows. The ‘Group’ field determines the level at which thresholds are applied: select _No grouping_ to apply thresholds on normal rows, or choose a grouped attribute to apply thresholds on group rows.
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+## Grouping Level Thresholds in Vitara Grid
+
+In Vitara Grid, thresholds can be applied not only to individual rows but also to grouped rows when attributes are grouped. This allows you to highlight data either at the **detail row level** or at the **aggregation (group) level**.
+
+### How It Works
+
+When grouping is applied on any row of the Grid Chart, you can choose whether thresholds should be applied at the group row level or at the individual row (no grouping) level.
+
+* Use the **Group** field in the Thresholds panel to select the level:
+* **No grouping** → Thresholds are applied on normal (individual) rows.
+* **Group** rows → Thresholds are applied on the grouped rows.
+
+#### Example Use case
 
 Please see the below screenshot of the Vitara grid chart, where grouping is applied on the ‘Product Category’ attribute. The default aggregation function applied is ‘Sum’.
 
@@ -93,6 +105,37 @@ Expand the ‘Group’ drop-down box. It will show two segments, ‘No grouping�
 Select ‘No grouping’ if you want to apply thresholds for normal data rows and select the attribute name, e.g. Product Category, to apply thresholds on group headers.Give all the inputs in the threshold editor window. Below is the screenshot applying thresholds on aggregation values.
 
 <figure><img src="../.gitbook/assets/image37 (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Example Scenarios at Different Levels
+
+In the screenshot below, thresholds are applied at the Year level:
+
+<figure><img src="../.gitbook/assets/Th_level1.png" alt=""><figcaption></figcaption></figure>
+
+The next example shows thresholds applied at the Category level:
+
+<figure><img src="../.gitbook/assets/Th_level2.png" alt=""><figcaption></figcaption></figure>
+
+#### Last Grouping Level
+
+If no additional attribute is grouped beyond the last level:
+
+* The last attribute in the grouping is treated as “No grouping”.
+* Applying thresholds at the Sub-category level or at No grouping produces the same behavior, since both represent the last level of grouping.
+
+<figure><img src="../.gitbook/assets/Th_level3.png" alt=""><figcaption></figcaption></figure>
+
+### 2. Thresholds on Metrics Column
+
+#### How It Works
+
+* When **Metrics → Move to Rows** is enabled, a **Metrics Column** is created.
+* This Metrics Column behaves like an attribute and can be placed in **Row Grouping**.
+* Thresholds can then be defined at the **Metrics grouping level**, just as with any other grouped attribute.
+
+Refer to the attached GIF file for a demonstration of how thresholds work when the Metrics Column is row grouped.
+
+<figure><img src="../.gitbook/assets/Metrics_Th_Doc.gif" alt=""><figcaption></figcaption></figure>
 
 ### Enhancements in 4.6.1 version <a href="#enhancements-in-461-version" id="enhancements-in-461-version"></a>
 

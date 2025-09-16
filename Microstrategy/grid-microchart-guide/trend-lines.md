@@ -132,6 +132,13 @@ Likewise the minimum and maximum values are calculated for each category of the 
 
 <figure><img src="../.gitbook/assets/axisSpecificity_5.png" alt=""><figcaption></figcaption></figure>
 
+## Bullet Chart
+
+For the “Bullet Chart” display style, users can customize the aggregation type and the color of the bands. Refer to the screenshot below for reference.\
+
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 ## Trend Lines — Start & End Value Options
 
 The Trendline scaling feature allows you to adjust the Start and End Values that determine how data is displayed. These values can be defined by specifying a fixed value, or setting them based on a percentile\
@@ -141,7 +148,7 @@ Hamburger Menu >> More options  provides access to these properties.
 
 <figure><img src="../.gitbook/assets/Trend 1.png" alt=""><figcaption></figcaption></figure>
 
-### Example 1: Fixed Value (Start = 30,000)
+### Example : Fixed Start Value&#x20;
 
 #### Steps:
 
@@ -165,7 +172,7 @@ when a Fixed Start Value (e.g., 30,000) is applied, the following changes are ob
 * **Data Emphasis:** Variations above the start value become more visible, helping in highlighting small differences that might otherwise be hidden when starting from zero.
 * **Comparative Clarity:** It becomes easier to compare values that are closer in range since the unnecessary portion below the baseline is excluded.
 
-#### Example : Using a Fixed End Value
+### Example : Using a Fixed End Value
 
 Steps
 
@@ -191,13 +198,6 @@ After applying End Value = 70,000
 * **Flexibility**: Can be combined with a fixed start value for a fully customized scale range.
 
 Similarly, the Start and End Value settings can also be applied to other display styles, including horizontal bars/pins, line charts, and bullet charts.
-
-## Bullet Chart
-
-For the “Bullet Chart” display style, users can customize the aggregation type and the color of the bands. Refer to the screenshot below for reference.\
-
-
-<figure><img src="../.gitbook/assets/Trend5.png" alt=""><figcaption></figcaption></figure>
 
 ## Creating a Bullet Chart in a Grid Chart
 
