@@ -198,3 +198,76 @@ For the “Bullet Chart” display style, users can customize the aggregation ty
 
 
 <figure><img src="../.gitbook/assets/Trend5.png" alt=""><figcaption></figcaption></figure>
+
+## Creating a Bullet Chart in a Grid Chart
+
+The Bullet Chart display style allows you to measure performance against a target, with colored bands indicating qualitative ranges such as Low, Medium, and High
+
+### Example Use Case
+
+To analyze Region-wise Actual Sales  and visualize the performance trend by Channel using  a Bullet Chart , it includes bands to represent performance ranges (Low, Medium, High).
+
+#### Data Setup Requirements
+
+* Category: At least 2 attributes (e.g., Region, Channel).
+* Actual Sales : 1 metric (displayed as a bar).
+* Target: 1 metric (displayed as a tick).
+* Bands: Derived metrics based on the Target, used to define qualitative ranges such as Low, Medium, and High.
+
+### Steps to Configure
+
+#### Step 1: Add Attributes and Metrics
+
+1. Add **Region** and **Channel** as attributes.
+2. Add **Actual Sales** and **Target** as metrics.
+3. Place **Region** as the grouping attribute in the grid.
+
+#### Step 2: Change Display Style to Bullet Chart
+
+* Open the hamburger menu of Actual Sales
+* Select Display Style → Bullet Chart.
+* Configure the Target metric
+
+<figure><img src="../.gitbook/assets/bullet1.png" alt=""><figcaption></figcaption></figure>
+
+#### Step 3: Create Bands for Performance Ranges
+
+Using the Target metric, define derived metrics to represent the qualitative bands:
+
+* Low Band = Target × 0.5
+* Medium Band = Target × 0.8
+* High Band = Target × 1.2
+
+#### How to create Derived Metrics:
+
+1. Right-click on the Target metric.
+2. Select Create Metric.
+3. Define the formula for the band (e.g., Target × 0.5 for Low Band)
+4. Save the metric.
+5. Repeat for Medium and High bands.
+
+Refer to the screenshot below for an example.
+
+<figure><img src="../.gitbook/assets/bullet2.png" alt=""><figcaption></figcaption></figure>
+
+#### Step 4: Add Bands to the Chart
+
+* Add the derived band metrics to the grid.
+* Open Bullet Chart Settings and configure
+* Low Band → Sales below 50% of target
+* Medium Band → Sales between 50% and 80%
+* High Band → Sales above 80% &#x20;
+
+\
+Refer to the screenshot below for an example of the Bullet Chart Settings with the bands configured
+
+<figure><img src="../.gitbook/assets/bullet_3_0.png" alt=""><figcaption></figcaption></figure>
+
+#### Step 5: Hide Band Columns
+
+* Use the Hamburger Menu on each band column → select Hide Column.
+* This keeps the grid clean while preserving the Bullet Chart configuration.
+
+The screenshot below shows the Bullet Chart in Vitara Grid after the bands are configured
+
+<figure><img src="../.gitbook/assets/bullet3.png" alt=""><figcaption></figcaption></figure>
