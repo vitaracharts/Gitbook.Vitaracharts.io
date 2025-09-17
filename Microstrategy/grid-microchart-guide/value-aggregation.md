@@ -83,3 +83,38 @@ When we select ‘Ratio’ as aggregation function a new ratio editor window wil
 <figure><img src="../.gitbook/assets/image83 (1).png" alt=""><figcaption></figcaption></figure>
 
 Apply all the required fields and click on the ‘Apply’ button.
+
+### Column Totals
+
+When Column Totals are enabled, you can configure a separate aggregation for the total column. This aggregation applies only to the total column and does not impact the aggregation settings of the other columns.
+
+Please refer to the attached GIF for a visual reference.
+
+<figure><img src="../.gitbook/assets/Agg_column.gif" alt=""><figcaption></figcaption></figure>
+
+**Note:** The **Ratio** and **Choose Column** functionalities are not supported for **Column Totals** or **Pivot Totals**.
+
+### Pivot Totals
+
+#### Default Behaviour with Pivot
+
+When an aggregation is applied to primary (non-pivoted) columns, the same aggregation is automatically reflected in the row totals when Pivot Mode is enabled—unless a different aggregation is explicitly configured.
+
+#### Pivot Group Metric Totals
+
+**Note**: To enable Pivot Group Metric Totals, at least two attributes must be placed in the Pivot Drop Zone.
+
+* Only the outermost (parent) column in the pivot hierarchy supports custom aggregation for group metric totals.
+* Inner (child) group levels do not support separate aggregation logic.
+
+#### Pivot Group Totals Limitation
+
+No additional aggregation options are available for pivot group totals beyond the configured settings.
+
+Please refer to the attached GIF for a visual reference.
+
+<figure><img src="../.gitbook/assets/pivot_agg.gif" alt=""><figcaption></figcaption></figure>
+
+&#x20;For more details on Pivot Row Totals, Pivot Group Totals, and Pivot Group Metric Totals,[ click here.](subtotals.md)
+
+\
