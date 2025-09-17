@@ -70,15 +70,11 @@ If you want to apply another threshold condition on the same metric click on the
 
 <figure><img src="../.gitbook/assets/image68 (1).png" alt=""><figcaption></figcaption></figure>
 
-## **Group:**
-
-When grouping is applied in a Grid Chart, thresholds can be set either on individual rows or on grouped rows. The ‘Group’ field determines the level at which thresholds are applied: select _No grouping_ to apply thresholds on normal rows, or choose a grouped attribute to apply thresholds on group rows.
-
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
 ## Grouping Level Thresholds in Vitara Grid
 
 In Vitara Grid, thresholds can be applied not only to individual rows but also to grouped rows when attributes are grouped. This allows you to highlight data either at the **detail row level** or at the **aggregation (group) level**.
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### How It Works
 
@@ -125,6 +121,15 @@ If no additional attribute is grouped beyond the last level:
 
 <figure><img src="../.gitbook/assets/Th_level3.png" alt=""><figcaption></figcaption></figure>
 
+### Pivot Behavior
+
+When the chart is pivoted:
+
+* You can still apply thresholds at the row-grouped level.
+* Attributes added in the pivot will not appear in the Group field of the Threshold Editor.
+
+<figure><img src="../.gitbook/assets/pivot_Th.png" alt=""><figcaption></figcaption></figure>
+
 ### 2. Thresholds on Metrics Column
 
 #### How It Works
@@ -162,6 +167,37 @@ Click on the ‘Add’ tab to apply a new threshold. Select the Category attribu
 In the below screenshot, Month attribute is selected in Source and Target drop downs and applied ‘Starts with’ condition with value ‘J’ and applied .svg marker. The threshold can be displayed as shown in the below screenshot.
 
 <figure><img src="../.gitbook/assets/gridAttribute1.png" alt=""><figcaption></figcaption></figure>
+
+### Example Scenarios of Attribute-Related Thresholds
+
+#### Grid Chart Without Grouping
+
+* Thresholds can be applied directly from attributes to metrics.
+* Example: Source → Category, Target → Cost
+
+<figure><img src="../.gitbook/assets/Att0.png" alt=""><figcaption></figcaption></figure>
+
+#### With Row Grouping
+
+When attributes are row grouped, attribute related thresholds can be applied (e.g., Category, Year, or Sub-category).
+
+<figure><img src="../.gitbook/assets/Att1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Att2.png" alt=""><figcaption></figcaption></figure>
+
+#### With Pivot
+
+* When a chart is pivoted, thresholds on pivoted attributes will not work.
+* Only threshold conditions on row-grouped attributes will be applied.
+
+Please refer to the attached screenshots for examples of thresholds when the chart is pivoted.\
+
+
+<figure><img src="../.gitbook/assets/Att3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+**Note**: When using attribute-related thresholds, the **Group** field is inactive because the threshold source and target are using attributes.
 
 ## Thresholds Priority
 
