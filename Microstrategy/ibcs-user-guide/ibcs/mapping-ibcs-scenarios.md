@@ -1,9 +1,6 @@
 # Mapping IBCS Scenarios
 
-\
-
-
-#### Support for Planned, Actual, Previous and Forecast <a href="#support-for-planned-actual-previous-and-forecast" id="support-for-planned-actual-previous-and-forecast"></a>
+### Support for Planned, Actual, Previous and Forecast <a href="#support-for-planned-actual-previous-and-forecast" id="support-for-planned-actual-previous-and-forecast"></a>
 
 According to IBCS, VitaraCharts supports the following scenarios.
 
@@ -21,7 +18,7 @@ Actual data is always given first attention in all of the charts. If actual data
 
 In each of the comparisons above, representing deltas and delta percentages becomes possible.
 
-#### Mapping data to the scenarios <a href="#mapping-data-to-the-scenarios" id="mapping-data-to-the-scenarios"></a>
+### Mapping data to the scenarios <a href="#mapping-data-to-the-scenarios" id="mapping-data-to-the-scenarios"></a>
 
 **Automatic detection**
 
@@ -74,3 +71,35 @@ Once this mapping is done, in all of the charts, whenever this pattern is recogn
 In addition to the ability to configure scenarios globally, you can also reconfigure measurements into scenarios in each particular graphic. This is done in the specific chart’s properties editor. For example, here’s a multi-tier bar chart with scenario mapping that may be altered.
 
 <figure><img src="../../.gitbook/assets/multi-tierBarConfiguration.jpeg" alt=""><figcaption></figcaption></figure>
+
+### Customize IBCS
+
+We provide flexibility to customize the IBCS chart colors according to your reporting standards.
+
+In the file customIBCSStyles.css, you can define custom hex codes for AC (Actual), PL (Planned), PY (Previous Year), and FC (Forecast), as well as for Delta values (positive and negative).
+
+#### Location of the file: 
+
+* **Web:** /MicroStrategy/plugins/VitaraCharts/custom/customIBCSStyles.css
+* **Web Library**: /MicroStrategyLibrary/plugins/VitaraCharts/custom/customIBCSStyles.css
+
+The screenshot shared is an example that demonstrates how Actual (AC) and Planned (PL) colors have been defined. Similarly, you can edit this file and assign your own color palette values for AC, PL, PY, FC, and Delta views.
+
+👉 **Important**: To make the changes effective, please ensure you remove the comment marker (/\*) as highlighted in the screenshot. Otherwise, the styles will remain inactive.
+
+<figure><img src="../../.gitbook/assets/IBCS_1.png" alt="" width="282"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+In the example screenshot below, colors have been defined for Actual (AC) and Planned (PL) data.
+
+Similarly, users can edit and define colors for the Delta view (positive and negative values), as well as for AC, PL, PY, and FC.
+
+<figure><img src="../../.gitbook/assets/IBCS_2.png" alt="" width="302"><figcaption></figcaption></figure>
+
+* Once the file is updated and saved, the charts will automatically reflect the new color assignments. (**Note**: clear your browser cache to ensure the changes are visible.)
+* For example, bars representing Planned and Actual values will display in the newly defined colors instead of the default palette.
+
+This approach ensures that your IBCS visualizations stay consistent with your corporate colors and style guidelines while still following IBCS standards.
+
+<figure><img src="../../.gitbook/assets/IBCS4.png" alt=""><figcaption></figcaption></figure>
