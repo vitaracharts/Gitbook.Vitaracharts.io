@@ -4,6 +4,11 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.7
+
+* IBCS : Renaming IBCS labels AC, FC, PL, PY
+* IBCS : Improved handling of overlapping and missing data labels
+
 ### 5.3.6
 
 * New Feature -New Chart Customization Editor introduced, allowing users to add and edit custom palettes, fonts, translations, and more global preferences.
