@@ -46,6 +46,12 @@ Below screenshot is the example where all the dial and grid line properties are 
 
 <figure><img src="../.gitbook/assets/gauge2.png" alt=""><figcaption></figcaption></figure>
 
+### Thresholds
+
+Thresholds can also be applied to both the pointer and the background arc. A reference screenshot is provided below.
+
+<figure><img src="../.gitbook/assets/Guage1.png" alt=""><figcaption></figcaption></figure>
+
 ## Background Image <a href="#background-image" id="background-image"></a>
 
 The steps to set a background image for all Vitara charts are explained in [backgroundImage](background-images.md).

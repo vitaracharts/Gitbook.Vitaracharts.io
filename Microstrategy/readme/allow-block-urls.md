@@ -27,6 +27,23 @@ The properties window of all the VitaraCharts will now have the option to contro
 
 By default, the _**‘Allow URL Links’**_ is set to the value _**Default**_. This means the functioning of the URLs is governed by the property set in the global.txt file. If global.txt is = 0, then URLs will not work. _**Enable/Disable:**_ Set the ‘Allow URL Links’ option to either Enable/Disable to allow URLs or block URLs in that particular chart.
 
+### Example Use Case
+
+Starting from Version 5.1.3, a new feature has been introduced to enable or disable URLs.
+
+* The dataset must include a column containing HTML tags.
+* Once this column is included, the URLs will automatically display on the chart.
+
+A sample dataset is provided below for reference.
+
+<figure><img src="../.gitbook/assets/url_example.png" alt=""><figcaption></figcaption></figure>
+
+Next, add attributes and metrics to the chosen drop zones, then enable Allow URL Links from the Security tab
+
+.![](../.gitbook/assets/unknown.png)
+
+**Important:** To open a file path, users must press **`Ctrl + Left Click`** on the URL (opens in a new tab). If direct-click access is required within the visualization, the URL must be added to the **whitelist**.
+
 ## Handling Relative URLs for XSS Protection <a href="#handling-relative-urls-for-xss-protection" id="handling-relative-urls-for-xss-protection"></a>
 
 ### **Allowed Relative URL Formats**
