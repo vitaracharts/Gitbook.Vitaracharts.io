@@ -4,8 +4,8 @@
 [installing-vitaramaps-on-microstrategy-web.md](installing-vitaramaps-on-microstrategy-web.md)
 {% endcontent-ref %}
 
-{% content-ref url="installing-on-microstrategy-desktop-workstation.md" %}
-[installing-on-microstrategy-desktop-workstation.md](installing-on-microstrategy-desktop-workstation.md)
+{% content-ref url="installing-vitaramaps-on-microstrategy-desktop-workstation.md" %}
+[installing-vitaramaps-on-microstrategy-desktop-workstation.md](installing-vitaramaps-on-microstrategy-desktop-workstation.md)
 {% endcontent-ref %}
 
 {% content-ref url="installing-vitaramaps-on-microstrategy-library.md" %}

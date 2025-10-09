@@ -3,7 +3,7 @@
 #### Download
 
 * Download the library version of VitaraMaps from the official download page.
-* You can find the latest version links on the VitaraMaps Main Page.
+* You can find the latest version links on the VitaraMaps [Main Page.](https://www.vitaracharts.com/ms-product-downloads)
 
 ![](<../.gitbook/assets/unknown (11).png>)
 
@@ -28,7 +28,7 @@ Follow the steps below to install VitaraMaps on your MicroStrategy Library Serve
 4. **Copy Files**
 
 * Copy the extracted VitaraMapsLibrary folder into the plugins directory of your MicroStrategy Library installation.\
-  Example path: **\tomcat\webapps\MicroStrategyLibrary\plugins**
+  Path: **\tomcat\webapps\MicroStrategyLibrary\plugins**
 
 5. **Apply License** (for MicroStrategy 2021 Update 4 and later)
 
@@ -50,17 +50,11 @@ Starting with VitaraMaps version 4.7, the following configuration is mandatory:
 
 **IIS/Windows Installation:**
 
-https://\<MicroStrategyLibraryServer>/plugins/VitaraMapsLibrary/config.aspx
+<figure><img src="../.gitbook/assets/maps_lib2.png" alt=""><figcaption></figcaption></figure>
 
-* &#x20;Example:\
-  http://example.com/MicroStrategyLibrary/plugins/VitaraMapsLibrary/config.aspx
+**Tomcat/Linux Installation:**
 
-**Tomcat/Linux Installation:**\
-https://\<MicroStrategyLibraryServer>/plugins/VitaraMapsLibrary/config.jsp
-
-* &#x20;Example:\
-  http://example.com/MicroStrategyLibrary/plugins/VitaraMapsLibrary/config.jsp\
-
+<figure><img src="../.gitbook/assets/map_lib1.png" alt=""><figcaption></figcaption></figure>
 
 2. On the configuration page, enter the path to your MicroStrategy Web application (not the Library) and click Submit.
 3. Once successfully configured, the page will confirm the setup with a success message.\

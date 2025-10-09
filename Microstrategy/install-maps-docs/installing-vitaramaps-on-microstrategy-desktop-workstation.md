@@ -1,4 +1,4 @@
-# Installing on MicroStrategy Desktop/Workstation
+# Installing VitaraMaps on MicroStrategy desktop/Workstation
 
 ### Download
 
@@ -80,12 +80,12 @@ In addition to the server installation, the VitaraMaps plugin must also be deplo
 
 &#x20;**https://www.example.com/MicroStrategyLibrary/plugins/VitaraMapsLibrary/config.jsp**
 
-(Replace “example.com” with the actual path of your Library server.)
+(Replace “example.com” with the actual path of your **Library** server.)
 
-2. On the configuration page, enter the path to your **MicroStrategy Web** application (not the Library) and click **Submit**.\
+2. On the configuration page, enter the path to your **MicroStrategy Web** application (not the Library) and click Submit.\
    Example: **https://\[your-web-server-path]/MicroStrategy**
 
-(Replace this with the actual path of your Web server.)
+(Replace this with the actual path of your **Web** server.)
 
 3. Once configured successfully, the page will confirm the configuration status as shown in the screenshot.
 

@@ -57,6 +57,7 @@
     * [Export engine local resource set up](https://www2.microstrategy.com/producthelp/Current/InstallConfig/en-us/Content/export_engine_local_resource_loading.htm)
   * [Formatting metric data](readme/formatting-metric-data.md)
   * [Gradient Threshold](readme/gradient-threshold.md)
+  * [Gradient Color](readme/gradient-color.md)
   * [Legend](readme/legend.md)
   * [Negative Sign](readme/negative-sign.md)
   * [Pattern Fill](readme/pattern-fill.md)
@@ -169,7 +170,7 @@
   * [Release Notes](install-docs/release-notes.md)
 * [INSTALL MAPS DOCS](install-maps-docs/README.md)
   * [Installing VitaraMaps on MicroStrategy Web](install-maps-docs/installing-vitaramaps-on-microstrategy-web.md)
-  * [Installing on MicroStrategy Desktop/Workstation](install-maps-docs/installing-on-microstrategy-desktop-workstation.md)
+  * [Installing VitaraMaps on MicroStrategy desktop/Workstation](install-maps-docs/installing-vitaramaps-on-microstrategy-desktop-workstation.md)
   * [Installing VitaraMaps on MicroStrategy Library](install-maps-docs/installing-vitaramaps-on-microstrategy-library.md)
   * [Release Notes Maps](install-maps-docs/release-notes-maps.md)
 
