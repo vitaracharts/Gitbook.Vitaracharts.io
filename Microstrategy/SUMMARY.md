@@ -167,7 +167,11 @@
   * [Installing on MicroStrategy Library](install-docs/installing-on-microstrategy-library.md)
   * [Health Tool](install-docs/health-tool.md)
   * [Release Notes](install-docs/release-notes.md)
-  * [Release Notes Maps](install-docs/release-notes-maps.md)
+* [INSTALL MAPS DOCS](install-maps-docs/README.md)
+  * [Installing VitaraMaps on MicroStrategy Web](install-maps-docs/installing-vitaramaps-on-microstrategy-web.md)
+  * [Installing on MicroStrategy Desktop/Workstation](install-maps-docs/installing-on-microstrategy-desktop-workstation.md)
+  * [Installing VitaraMaps on MicroStrategy Library](install-maps-docs/installing-vitaramaps-on-microstrategy-library.md)
+  * [Release Notes Maps](install-maps-docs/release-notes-maps.md)
 
 ## SUPPORT
 
