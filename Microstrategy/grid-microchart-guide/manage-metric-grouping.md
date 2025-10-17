@@ -1,11 +1,6 @@
 # Manage Metric Grouping
 
-\
-
-
-## Manage Metric Grouping <a href="#manage-metric-grouping" id="manage-metric-grouping"></a>
-
-From version 5.2.5, we have the ability to do row metric grouping, which means grouping metrics when they are moved to rows. The below screenshot shows the row metric groups created in the grid chart.
+From version **5.2.5**, we have the ability to do row metric grouping, which means grouping metrics when they are moved to rows. The below screenshot shows the row metric groups created in the grid chart.
 
 <figure><img src="../.gitbook/assets/mmg0.png" alt=""><figcaption></figcaption></figure>
 

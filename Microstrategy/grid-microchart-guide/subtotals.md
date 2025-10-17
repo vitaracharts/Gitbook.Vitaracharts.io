@@ -1,9 +1,6 @@
 # Subtotals
 
-\
-
-
-## Subtotals <a href="#subtotals" id="subtotals"></a>
+## Overview
 
 A subtotal lets you see the totals for subgroups of your report data. Vitara Grid chart shows the Subtotals when you group by any column. The subtotal functions include sum, count, minimum, maximum, average, first, last and Ratio in Vitara Grid chart.
 
@@ -46,7 +43,7 @@ Starting with version 5.2.8, the option “Show Pivot Metric Totals” has been 
 * Pivot Group Metric Totals
 * Pivot Group Totals
 
-### Enhancements in Version 5.2.8: Pivot Row Total and Pivot Group Total <a href="#enhancements-in-version-528-pivot-row-total-and-pivot-group-total" id="enhancements-in-version-528-pivot-row-total-and-pivot-group-total"></a>
+## Enhancements in Version 5.2.8: Pivot Row Total and Pivot Group Total <a href="#enhancements-in-version-528-pivot-row-total-and-pivot-group-total" id="enhancements-in-version-528-pivot-row-total-and-pivot-group-total"></a>
 
 Version 5.2.8 introduces two powerful new options within the Subtotal tab: Pivot Row Total and Pivot Group Total. These features significantly elevate the data analysis capabilities, offering users greater flexibility and precision in how subtotals are calculated and presented.
 

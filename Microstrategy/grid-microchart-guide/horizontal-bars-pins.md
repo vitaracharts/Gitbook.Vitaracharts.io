@@ -1,9 +1,6 @@
 # Horizontal Bars/Pins
 
-\
-
-
-## Horizontal Bars/Pin <a href="#horizontal-barspin" id="horizontal-barspin"></a>
+## Overview <a href="#horizontal-barspin" id="horizontal-barspin"></a>
 
 The display style property, which can be accessed from the hamburger menu, allows the user to display any given individual metric as a horizontal bar or horizontal pin’s.
 
@@ -30,3 +27,25 @@ From Version 5.1.2, We have introduced a new Scaling option which can be found f
 <figure><img src="../.gitbook/assets/HP3.png" alt=""><figcaption></figcaption></figure>
 
 The chart scaling is set to ‘Apply at each cell’ by default; to allow scaling, change the Scale option to ‘Same across cells.’
+
+### How Horizontal Bars or Pins Work When All Values Are the Same?
+
+The Horizontal Bars/Pins visualization represents data values using horizontal bars whose lengths and directions reflect the distribution of values within a column. The bar appearance dynamically adjusts depending on whether the column contains positive, negative, or zero values.
+
+**Display Logic**
+
+The visualization adapts based on the type of values present in the column:
+
+* All **Zero** Values:\
+  If all values in the column are zero (e.g., \[0, 0, 0, 0]), the bar appears empty, indicating no positive or negative data distribution.
+* All **Positive** Values:\
+  If all values in the column are positive (e.g., \[1, 1, 1, 1]), the visualization displays a full-length positive bar, representing that all data points are positive.
+* All **Negative** Values:\
+  If all values in the column are negative (e.g., \[-1, -1, -1, -1]), the visualization displays a full-length negative bar, representing that all data points are negative.
+
+The screenshot below illustrates this behavior.
+
+<figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
+
+\
+\

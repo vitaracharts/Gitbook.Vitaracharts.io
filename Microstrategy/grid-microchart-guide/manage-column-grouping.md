@@ -1,8 +1,5 @@
 # Manage Column Grouping
 
-\
-
-
 ## Properties Menu - Manage Column Grouping <a href="#properties-menu---manage-column-grouping" id="properties-menu---manage-column-grouping"></a>
 
 In the vitara grid chart, we can also group the columns which is called ‘column grouping’. Groups can be created with only attributes or only metrics or combination of both. Below screenshot shows the column groups created in the Grid chart.
