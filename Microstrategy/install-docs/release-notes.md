@@ -4,6 +4,16 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.8
+
+* Bug Fix - Customer reported issue: Chart load delay with auto-scroll for large data sets causes wait/exit alert.
+* Bug Fix - Customer reported issue:Grid chart- Pivot header is not sorting.Additionally added option to clear column order(Enhancement)
+* Bug Fix - Customer reported issue:Micro Chart- Column pinning issue.
+* Bug Fix - Customer reported issue: Zero (0) Value on Value Axis Ignores Metric Number Formatting in Charts.
+* Bug Fix - Customer reported issueLine Charts- First and last data labels are not displaying on the chart after enabling the option.
+* Bug Fix - Customer reported issue:Bubble Chart-  Markers in Bubble chart are reflecting after hovering over chart & Not Exporting markers in pdf as well.
+* Bug Fix - Customer reported issue:Bubble chart- Thresholds / Background coloring does not apply for slope plot line.
+
 ### 5.3.7
 
 * IBCS : Renaming IBCS labels AC, FC, PL, PY
