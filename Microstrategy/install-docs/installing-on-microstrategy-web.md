@@ -3,7 +3,7 @@
 ### 1. Download
 
 1. Download the web version of VitaraCharts from the official download site.\
-   (Refer to the main page for the latest links.)\
+   (Refer to the [Main page](https://www.vitaracharts.com/ms-product-downloads) for the latest links.)\
    ![](<../.gitbook/assets/unknown (15).png>)
 
 ### 2. New Installation

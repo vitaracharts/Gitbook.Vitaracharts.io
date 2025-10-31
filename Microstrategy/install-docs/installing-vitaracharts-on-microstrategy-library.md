@@ -1,4 +1,4 @@
-# Installing on MicroStrategy Library
+# Installing VitaraCharts on MicroStrategy Library
 
 **Download**
 
@@ -6,9 +6,6 @@
 * You can find the latest version links on the VitaraCharts[ Main Page.](https://www.vitaracharts.com/ms-product-downloads)
 
 ![](<../.gitbook/assets/unknown (18).png>)
-
-\
-
 
 ### 2. Installation Steps
 
