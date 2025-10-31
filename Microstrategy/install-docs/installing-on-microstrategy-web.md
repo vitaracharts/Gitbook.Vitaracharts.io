@@ -1,55 +1,98 @@
-# Installing on MicroStrategy Web
+# Installing VitaraCharts on MicroStrategy Web
 
-## Download <a href="#download" id="download"></a>
+### 1. Download
 
-* Download the **web version** of VitaraCharts.
+1. Download the web version of VitaraCharts from the official download site.\
+   (Refer to the main page for the latest links.)\
+   ![](<../.gitbook/assets/unknown (15).png>)
+
+### 2. New Installation
+
+Follow the steps below if this is your first time installing VitaraCharts :
+
+1. **Download and Extract**\
 
 
+* Download the VitaraCharts.zip file.
+* Unzip it to extract the VitaraCharts folder.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+&#x20;2\. **Stop the Web Server**
 
-* You can find the latest links for download from our download site at [Main page](https://www.vitaracharts.com/ms-product-downloads)
+* Stop IIS, Tomcat, or the equivalent web server.
 
-## New Installation <a href="#new-installation" id="new-installation"></a>
+**3. Remove Existing Installation**
 
-Please follow the installation instructions below if this is your first time using VitaraCharts.
+* Delete any existing VitaraCharts folder under the plugins directory, if present.
+* Do not keep backup copies of VitaraCharts inside the plugins directory.
 
-* Download the web version from the link above
-* Extract the VitaraCharts folder from the zip
-* Stop WebServer (IIS/Tomcat or equivalent)
-* Delete VitaraCharts folder under plugins directory if one exists.
-* **Please ​do not**​ keep any backup copies of VitaraCharts in the plugins directory
-* Copy over the new version of the VitaraCharts folder into the plugins folder of your MicroStrategyweb installation. For instance if Web is installed under &#x200B;_**c:\tomcat\webapps\MicroStrategy**_&#x200B;, you will place VitaraCharts under &#x200B;_**c:\tomcat\webapps\MicroStrategy​\​plugins**_
-* If you had done the installation correctly, the folders will loook as shown below.
+**4. Copy the New Version**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+* Copy the extracted VitaraCharts folder into the plugins directory of your MicroStrategy Web installation.
+* **path**: \tomcat\webapps\MicroStrategy\plugins
 
-* REPLACE the license.txt file in the VitaraCharts folder with the license file provided to you
-* Start WebServer.
-* Flush any browser caches and access the dossier/documents from a new browser window (to avoid any issues with a previously used license file)
+**5. Verify Folder Structure**
 
-## Upgrading existing installation <a href="#upgrading-existing-installation" id="upgrading-existing-installation"></a>
+* Ensure that the folder structure appears correctly after installation.
 
-If you are upgrading an existing installation, then please follow the below installation steps.
+![](<../.gitbook/assets/unknown (16).png>)
 
-* Take a backup of the customizations applied to the existing VitaraCharts installation. Basically, there are two files where you can customize Vitara charts. The _**global.txt**_ file and _**customStyles.css**_ file.\
-  The _**global.txt**_ file can be used to define custom color palettes, custom fonts, etc. And the _**customStyles.css**_ file can be used to add your own individual styles to the charts.\
-  So, take a backup of these two files before starting the deployment process.\
-  The location of these files would be as shown below:\
-  &#xNAN;_/webapps/MicroStrategy/plugins/VitaraCharts/custom/global.txt_\
-  &#xNAN;_/webapps/MicroStrategy/plugins/VitaraCharts/custom/customStyles.css_\
-  **Note:** The plugins directory should contain only one folder with the name VitaraCharts. So, please ​do not​ keep any backup copies of the VitaraCharts folder in the plugins directory.
-* Download the web version from the link above.
-* Extract the VitaraCharts folder from the zip.
-* Stop WebServer (IIS/Tomcat or equivalent).
-* Delete the VitaraCharts folder under the plugins directory.
-* Copy over the new version of the VitaraCharts folder into the plugins folder of your MicroStrategy web installation.
-* REPLACE the license.txt file in the VitaraCharts folder with the license file provided to you.
-* REPLACE the backup files _**global.txt**_ and _**customStyles.css**_ into the location _/webapps/MicroStrategy/plugins/VitaraCharts/custom/_
-* Start WebServer.
-* Flush any browser caches and access the dossier/documents from a new browser window (to avoid any issues with a previously used license file)
+**6. Validate Version Folders**
 
-## **Important : Set up info for the MicroStrategy export server**
+* Confirm that only one version folder of VitaraCharts exists within both the style and source directories:
+
+**Tomcat/webapps/MicroStrategy/plugins/VitaraCharts/style            Tomcat/webapps/MicroStrategy/plugins/VitaraCharts/javascript/mojo/js/source**
+
+* If multiple version folders are found, delete the entire VitaraCharts folder and redeploy the build.
+
+**7. Apply License**
+
+* Replace the license.txt file in the VitaraCharts folder with the license file provided to you.
+
+**8. Restart the Web Server**
+
+* Start IIS, Tomcat, or your equivalent web service.
+
+**9. Clear Browser Cache**
+
+Clear browser caches and open dossiers/documents in a new incognito window to avoid issues from previously cached license files.
+
+## Upgrading an Existing Installation
+
+If you already have VitaraCharts installed and are upgrading to a newer version, follow these steps carefully.
+
+#### Step 1: Backup Customizations
+
+Before proceeding, take a backup of the following customization files:
+
+* **global.txt** — defines custom color palettes, fonts, etc.
+* **customStyles.css** — contains individual chart style customizations.
+
+**File locations:**
+
+/webapps/MicroStrategy/plugins/VitaraCharts/custom/global.txt
+
+/webapps/MicroStrategy/plugins/VitaraCharts/custom/customStyles.css
+
+⚠️ Ensure that the **plugins** directory contains only one **VitaraCharts** folder.\
+Do not keep any backup copies inside this directory.
+
+### Step 2: Upgrade Procedure
+
+1. **Download** the latest web version of VitaraCharts.
+2. **Extract** the VitaraCharts folder from the ZIP file.
+3. **Stop** the Web Server (IIS, Tomcat, or equivalent).
+4. **Delete** the existing VitaraCharts folder under the plugins directory.
+5. **Copy** the new VitaraCharts folder into the same location.
+6. **Replace** the license.txt file with the new one provided.
+
+**Restore** your backed-up **global.txt** and **customStyles.css** files to:
+
+**/webapps/MicroStrategy/plugins/VitaraCharts/custom/**
+
+7. **Start** the Web Server.
+8. **Clear browser cache** and open dossiers/documents in a new browser window.
+
+#### **Important : Set up info for the MicroStrategy export server**
 
 If you are using the new export engine on MicroStrategy (available starting 2019 update 2) you have the option of deploying VitaraCharts locally on the export server. The procedure is detailed here [Export engine set up](https://community.microstrategy.com/s/article/New-Customization-Property-for-the-Export-Engine-Service?language=en_US)
 

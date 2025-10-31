@@ -163,7 +163,7 @@
   * [How does the Health Tool help in troubleshooting configuration or deployment errors?](faq/how-does-the-health-tool-help-in-troubleshooting-configuration-or-deployment-errors-1.md)
   * [How can we use a customization Tool?](faq/how-can-we-use-a-customization-tool-1.md)
 * [INSTALL DOCS](install-docs/README.md)
-  * [Installing on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
+  * [Installing VitaraCharts on MicroStrategy Web](install-docs/installing-on-microstrategy-web.md)
   * [Installing on MicroStrategy Desktop/Workstation](install-docs/installing-on-microstrategy-desktop-workstation.md)
   * [Installing on MicroStrategy Library](install-docs/installing-on-microstrategy-library.md)
   * [Health Tool](install-docs/health-tool.md)

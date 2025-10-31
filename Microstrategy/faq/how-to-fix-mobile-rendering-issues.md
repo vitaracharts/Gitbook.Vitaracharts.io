@@ -28,12 +28,11 @@ Follow all the installation steps listed in the [install guide for mobile](https
 
 You deployed charts correctly and still you are seeing a blank screen on mobile/library application in IOS or android device, please delete the chache of the application and reload the dossier/document. Generally, you need to do this when you deploy new vitara build or after Setting web configuration url to library/mobile application’s Vitara Charts config file.
 
-### **To clear cache in the library application on iPad please follow the below steps:** ![Mobile Configuration Editor](https://docs.vitaracharts.com/assets/img/faqs/libraryIcon.jpg)
+### **To clear cache in the library application on iPad please follow the below steps:**&#x20;
+
+<figure><img src="../.gitbook/assets/image (29).png" alt="" width="98"><figcaption></figcaption></figure>
 
 #### **Step 1:**
-
-\
-
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 

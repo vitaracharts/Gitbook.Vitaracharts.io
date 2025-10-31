@@ -49,19 +49,43 @@ There are two ways to deploy in Offline Mode:
 
 * Open Workstation and create a new dossier. You should see the Vitara charts in the custom option.
 
-## Connected to MicroStrategyLibrary Server <a href="#connected-to-microstrategylibrary-server" id="connected-to-microstrategylibrary-server"></a>
+### Connected to MicroStrategyLibrary Server
 
-* In order to use the workstation in “connected to environment” mode, you must install the ViaraCharts plugin on the MicroStrategyLibrary server to which workstation is connected. Please follow the MicroStrategyLibrary installation steps here [https://docs.vitaracharts.com/installation/libraryInstallSteps.html](https://docs.vitaracharts.com/install-docs/installing-on-microstrategy-library)
-* In addition to this, you have to deploy the VitaraCharts plugin locally on your machine. Go to the MicroStrategy Workstation installation folder in your local machine. Navigate to _**\Code\plugins**_\ folder and unzip downloaded VitaraCharts.zip file here.\
-  For example, in the Windows machine below is the path of the folder where you have to deploy the VitaraCharts plugin.\
-  &#xNAN;**"**_**C:\Program Files\MicroStrategy\Workstation\Code\plugins\***_
-* **Configure MobileLibrary Server Path**: In any web browser, navigate to the library configuration page. Below is the example URL to open the configuration web page.
+When using MicroStrategy Workstation in Connected to Environment mode, the VitaraCharts plugin must be installed both on the MicroStrategy Library Server and on your local Workstation.
 
-http:///MicroStrategyLibrary/plugins/VitaraCharts/config.jsp\
-(Example: ​http://example.com/MicroStrategyLibrary/plugins/VitaraCharts/config.jsp)
+**1. Deploy VitaraCharts on the MicroStrategy Library Server**
 
-* Below is a screenshot of the library configuration page. On this page, enter the path to the MicroStrategy Web application (not the library) and click submit.
+To use VitaraCharts with MicroStrategy Workstation, ensure that the VitaraCharts plugin is deployed on the MicroStrategy Library Server that your Workstation connects to.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVW5OYXL_qiUU0dZi3QhQrsyol0HCBoRmRsYNEwt4TUsZdnI-x1exySaavgsWJC6sheNGjI-AQ8NrdViq3Jd2G1uMslCKYiSuw_7GeR0FOp8t1itLe3LSXxs49cE3lD2IatIEHgg?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
+Follow the installation steps provided in the documentation:
 
-&#x20;
+[https://docs.vitaracharts.com/install-docs/installing-on-microstrategy-library](https://docs.vitaracharts.com/install-docs/installing-on-microstrategy-library)&#x20;
+
+**2.  VitaraCharts Locally on Workstation**
+
+In addition to the server installation, the VitaraCharts plugin must also be deployed locally on your machine.
+
+* Go to the MicroStrategy Workstation installation folder on your local system.
+* Navigate to the following path:
+
+**"C:\Program Files\MicroStrategy\Workstation\Code\plugins”**
+
+* Unzip the downloaded VitaraCharts.zip file into this folder.
+
+### **Configure MobileLibrary Server Path:**
+
+1\. Open a web browser and navigate to the Library configuration page using the URL format below:
+
+**https://www.example.com/MicroStrategyLibrary/plugins/VitaraCharts/config.jsp**
+
+(Replace “**example.com**” with the actual path of your **Library** server.)
+
+2\. On the configuration page, enter the path to your MicroStrategy Web application (not the Library) and click Submit.
+
+* Example: **https://\[your-web-server-path]/MicroStrategy**
+
+(Replace this with the actual path of your **Web** server.)
+
+* Once configured successfully, the page will confirm the configuration status as shown in the screenshot.
+
+![](<../.gitbook/assets/unknown (17).png>)&#x20;
