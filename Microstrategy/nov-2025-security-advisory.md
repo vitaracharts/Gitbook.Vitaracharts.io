@@ -22,7 +22,7 @@ This aligns with the attack vector publicly described in CVE-2025-57305.
 
 ***
 
-### 2. Fixes Implemented to Mitigate the Vulnerability
+### 2. Fixes in the upcoming patch to Mitigate the Vulnerability
 
 We implemented a multi-layered SSRF defense system across both JSP and ASPX versions of the endpoint.\
 Each layer independently blocks malicious requests.\
