@@ -16,7 +16,7 @@ These endpoints accept a file parameter, which was originally intended to load e
 
 Please note that the file loader is only accessible to users who have access to the MicroStrategy web server; i.e if it is deployed for access only within the enterprise intranet, then only the intranet users will be able to access the file.
 
-Please also note that even in a scenario where the MicroStrategy WebServer is public facing (behind a firewall) if a malicious were to exploit the vulnerability, they can only get access to local static files on the web server. Even to get access to the file they will need to know the path to the files. They will not access to any report or dashboard data.
+Please also note that even in a scenario where the MicroStrategy WebServer is public facing (behind a firewall) if a malicious were to exploit the vulnerability, they can  get access to local static resources and end points on the web server. Even to get access to the static resources they will need to know the specific path of the resources. They will not access to any report or dashboard data.
 
 
 
