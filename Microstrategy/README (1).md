@@ -1,2 +1,0 @@
-# CHARTS USER GUIDE
-

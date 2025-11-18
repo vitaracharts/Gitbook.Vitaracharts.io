@@ -1,7 +1,2 @@
----
-description: test
----
+# CHARTS USER GUIDE
 
-# test
-
-test
