@@ -173,6 +173,7 @@
   * [How to Add Logos as Axes Labels in VitaraCharts?](faq/how-to-add-logos-as-axes-labels-in-vitaracharts.md)
   * [How does the Health Tool help in troubleshooting configuration or deployment errors?](faq/how-does-the-health-tool-help-in-troubleshooting-configuration-or-deployment-errors-1.md)
   * [How can we use a customization Tool?](faq/how-can-we-use-a-customization-tool-1.md)
+* [Nov 2025 Security Patch](nov-2025-security-patch.md)
 * [Nov 2025 Security Advisory](nov-2025-security-advisory.md)
 
 ## SUPPORT

@@ -6,6 +6,10 @@ Nov 2025
 
 ***
 
+**Update** on Nov 18, 2025 : Security patch now available for this vulnerability at&#x20;
+
+[https://docs.vitaracharts.com/nov-2025-security-patch](https://docs.vitaracharts.com/nov-2025-security-patch)
+
 ### 1. Vulnerability Description
 
 A Server-Side Request Forgery (SSRF) vulnerability was identified in the fileLoader.jsp and fileLoader.aspx endpoints used by VitaraCharts and VitaraMaps.
