@@ -34,7 +34,7 @@ These files must overwrite the existing versions of the files in the VitaraChart
 
 ### 2. Where to Apply the Patch
 
-The patch must be applied in all environments where VitaraCharts are used:
+The patch must be applied in all environments where VitaraCharts are used
 
 1. MicroStrategy Web
 2. MicroStrategy Library
