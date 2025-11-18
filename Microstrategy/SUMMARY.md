@@ -1,6 +1,7 @@
 # Table of contents
 
-* [CHARTS USER GUIDE](README.md)
+* [Test](README.md)
+* [CHARTS USER GUIDE](<README (1).md>)
   * [Introduction](readme/introduction.md)
   * [Import Data to Visualization](readme/import-data-to-visualization.md)
   * [Angular Gauge Chart](readme/angular-gauge-chart.md)
