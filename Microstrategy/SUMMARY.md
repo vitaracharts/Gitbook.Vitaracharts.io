@@ -110,6 +110,7 @@
   * [Generic Merge tool](maps-user-guide/generic-merge-tool.md)
   * [US map using counties data](maps-user-guide/us-map-using-counties-data.md)
   * [US Map using ZIP Codes](maps-user-guide/us-map-using-zip-codes.md)
+  * [Nov 2025 Security Patch](maps-user-guide/nov-2025-security-patch.md)
 * [IBCS USER GUIDE](ibcs-user-guide/README.md)
   * [IBCS](ibcs-user-guide/ibcs/README.md)
     * [Why IBCS](ibcs-user-guide/ibcs/why-ibcs.md)
