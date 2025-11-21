@@ -1,7 +1,6 @@
 # Legend
 
-\
-
+<br>
 
 #### Legend <a href="#legend" id="legend"></a>
 

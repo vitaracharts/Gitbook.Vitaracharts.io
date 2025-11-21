@@ -10,8 +10,7 @@
 
 Follow the steps below if this is your first time installing VitaraCharts :
 
-1. **Download and Extract**\
-
+1. **Download and Extract**<br>
 
 * Download the VitaraCharts.zip file.
 * Unzip it to extract the VitaraCharts folder.

@@ -1,7 +1,6 @@
 # Pivoting and Row Grouping
 
-\
-
+<br>
 
 ## Properties Menu - Row Grouping and Pivoting <a href="#properties-menu---row-grouping-and-pivoting" id="properties-menu---row-grouping-and-pivoting"></a>
 

@@ -23,8 +23,7 @@
 After importing your data
 
 * Click "Prepare data"
-*   Then click “Finish” to confirm the dataset is ready for use.\
-
+*   Then click “Finish” to confirm the dataset is ready for use.<br>
 
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0s0O3n1BQt3so7rnssx3vkdyVhY28-0sdTPXAhOQ9Jd2io_klqfo0K2PhCOZtPS8_XtY1gpLXNinFg_i8PtQyzq3IwtBJvFLPcHiRaGuI70Kv2HUrvyqjUzNXvg8Efnr9xgOx?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 

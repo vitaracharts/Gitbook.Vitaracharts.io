@@ -22,8 +22,7 @@ By default, all bands are plotted based on the ‘percentile’ value of the met
 
 <figure><img src="../.gitbook/assets/FixedValue.png" alt=""><figcaption></figcaption></figure>
 
-And the bands should look like this:\
-
+And the bands should look like this:<br>
 
 <figure><img src="../.gitbook/assets/FV1.png" alt=""><figcaption></figcaption></figure>
 

@@ -8,4 +8,4 @@ To learn how to use the Customization Tool, please refer to our [Customization T
 
 Note: This feature is available starting from Version 5.3.6.
 
-\
+<br>

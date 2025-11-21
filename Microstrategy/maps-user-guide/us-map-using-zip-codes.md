@@ -1,7 +1,6 @@
 # US Map using ZIP Codes
 
-\
-
+<br>
 
 ## Creating US map using Zip Codes <a href="#creating-us-map-using-zip-codes" id="creating-us-map-using-zip-codes"></a>
 

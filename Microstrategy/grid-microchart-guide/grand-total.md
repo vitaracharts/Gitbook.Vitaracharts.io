@@ -1,7 +1,6 @@
 # Grand Total
 
-\
-
+<br>
 
 ## Properties Menu - Grand Total <a href="#properties-menu---grand-total" id="properties-menu---grand-total"></a>
 

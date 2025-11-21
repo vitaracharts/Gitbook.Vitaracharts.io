@@ -169,8 +169,7 @@ Category axis labels play a key role in helping users interpret the data within 
 
 To give you greater control over this, a new setting lets you define the width (in pixels) for category labels. This works alongside the existing display options (truncate, wrap, or auto), so you can fine-tune how much of each label is shown, based on your specific layout and readability needs.
 
-* **Flexible Truncation Control**: When using truncate or wrap modes, this setting lets you decide how much of the label to show. If default truncation feels too aggressive, increase the width to reveal more text as per your preference.\
-
+* **Flexible Truncation Control**: When using truncate or wrap modes, this setting lets you decide how much of the label to show. If default truncation feels too aggressive, increase the width to reveal more text as per your preference.<br>
 * **User-Controlled Layout:** Instead of relying on a fixed label width (default is 90px), you get the freedom to fine-tune spacing based on your chart's content density or visual needs.\
   \
   This setting can be configured by navigating to:\

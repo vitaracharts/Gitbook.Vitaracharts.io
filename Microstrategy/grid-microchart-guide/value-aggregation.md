@@ -117,4 +117,4 @@ Please refer to the attached GIF for a visual reference.
 
 &#x20;For more details on Pivot Row Totals, Pivot Group Totals, and Pivot Group Metric Totals,[ click here.](subtotals.md)
 
-\
+<br>

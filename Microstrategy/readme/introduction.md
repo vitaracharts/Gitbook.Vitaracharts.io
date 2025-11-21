@@ -3,8 +3,7 @@
 If you need help with installation, please refer to the [install guides](https://docs.vitaracharts.com/install-docs)
 
 \
-You can use the left navigation bar to see details of each individual chart.\
-
+You can use the left navigation bar to see details of each individual chart.<br>
 
 A live portal for accessing the charts in MicroStrategy and trying out various properties is also available at [VitaraCharts Cloud Play Live](https://cloud.vitara.co/VitaraChartsPlayLive)
 

@@ -12,8 +12,7 @@ To enable small multiples in documents, at least one attribute in the chart must
 
 <figure><img src="../.gitbook/assets/SM9.png" alt=""><figcaption></figcaption></figure>
 
-When small multiples are enabled for a chart, then play animation and drilling cannot be enabled.\
-
+When small multiples are enabled for a chart, then play animation and drilling cannot be enabled.<br>
 
 ## Number of columns <a href="#number-of-columns" id="number-of-columns"></a>
 
@@ -29,8 +28,7 @@ The category axis labels are displayed by default for all tiny multiples in the 
 
 ## Shared value axis <a href="#shared-value-axis" id="shared-value-axis"></a>
 
-All multiples in each column are shared by default, with a common value axis presented at the bottom of the chart. This is due to the ‘shared value axis’ checkbox being selected. Take a look at the screenshot. \
-
+All multiples in each column are shared by default, with a common value axis presented at the bottom of the chart. This is due to the ‘shared value axis’ checkbox being selected. Take a look at the screenshot. <br>
 
 <figure><img src="../.gitbook/assets/SM7.png" alt=""><figcaption></figcaption></figure>
 

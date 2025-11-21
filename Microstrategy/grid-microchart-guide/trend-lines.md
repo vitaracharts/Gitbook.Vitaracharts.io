@@ -89,8 +89,7 @@ See the screenshot below with applied formattings.
 <figure><img src="../.gitbook/assets/trendlines8.png" alt=""><figcaption></figcaption></figure>
 
 **3. Bullet Chart**\
-For Bar charts, we can format the bar colors and negative bar colors. To start with, first apply the ‘Bullet Chart’ trendline for a metric and open the format window. Then set Actual color (e.g, green), Target color (e.g, red) and 3 band colors (e.g, blue, yellow and aqua). Click on ‘Apply’. See the screenshot below with applied formattings.\
-
+For Bar charts, we can format the bar colors and negative bar colors. To start with, first apply the ‘Bullet Chart’ trendline for a metric and open the format window. Then set Actual color (e.g, green), Target color (e.g, red) and 3 band colors (e.g, blue, yellow and aqua). Click on ‘Apply’. See the screenshot below with applied formattings.<br>
 
 <figure><img src="../.gitbook/assets/trendlines9.png" alt=""><figcaption></figcaption></figure>
 
@@ -134,8 +133,7 @@ Likewise the minimum and maximum values are calculated for each category of the 
 
 ## Bullet Chart
 
-For the “Bullet Chart” display style, users can customize the aggregation type and the color of the bands. Refer to the screenshot below for reference.\
-
+For the “Bullet Chart” display style, users can customize the aggregation type and the color of the bands. Refer to the screenshot below for reference.<br>
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
@@ -180,8 +178,7 @@ Steps
 2. Under End Value, select Fixed Value.
 3. Enter a desired value (e.g., 70,000) and click Apply.
 4. Keep Start Value (eg : 30,000)
-5. Review the chart — all bars are scaled relative to the fixed maximum of 70,000.\
-
+5. Review the chart — all bars are scaled relative to the fixed maximum of 70,000.<br>
 
 Before applying Fixed End Value
 

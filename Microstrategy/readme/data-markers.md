@@ -18,8 +18,7 @@ Expand the ‘Type’ drop down box, and select the option ‘Data Markers’. W
 
 <figure><img src="../.gitbook/assets/dm_3.png" alt=""><figcaption></figcaption></figure>
 
-In the below screenshot the basic properties of the data markers like **marker selection, marker color and marker size** are highlighted.\
-
+In the below screenshot the basic properties of the data markers like **marker selection, marker color and marker size** are highlighted.<br>
 
 <figure><img src="../.gitbook/assets/dm_4.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,8 +29,7 @@ Click on the marker icon to open the marker selection window. Please refer to th
 <figure><img src="../.gitbook/assets/dm_5.png" alt=""><figcaption></figcaption></figure>
 
 After selecting the desired marker close the marker selection window. Select the size of the marker and color.\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/dm_6.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,8 +45,7 @@ When we enable data markers, we will see one marker for each data point. The pos
 
 <figure><img src="../.gitbook/assets/dm_8.png" alt=""><figcaption></figcaption></figure>
 
-Below is the screenshot of how the data markers looks when we disable **Keep Aspect ratio** property.\
-
+Below is the screenshot of how the data markers looks when we disable **Keep Aspect ratio** property.<br>
 
 <figure><img src="../.gitbook/assets/dm_9.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,8 +59,7 @@ Enable the check box **Repeat Marker**.
 
 <figure><img src="../.gitbook/assets/dm_11.png" alt=""><figcaption></figcaption></figure>
 
-Select numbber of units per row. Click on apply.\
-
+Select numbber of units per row. Click on apply.<br>
 
 <figure><img src="../.gitbook/assets/dm_12.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,8 +102,7 @@ Below are the steps to implement the scatter chart using the Vitara charts 4.4 v
 
 <figure><img src="../.gitbook/assets/dm_21.png" alt=""><figcaption></figcaption></figure>
 
-**Step 6:** Click on “Apply” button.\
-
+**Step 6:** Click on “Apply” button.<br>
 
 <figure><img src="../.gitbook/assets/dm_22.png" alt=""><figcaption></figcaption></figure>
 
@@ -134,14 +129,12 @@ Lets see how to use custom markers in the below steps. For better understanding 
 Upload an svg file \[**car.svg** in this case] into the server to this path in the plugins folder. {VitaraCharts/custom/images/}
 
 **Step 2:**\
-Create any chart \[line chart for example] that supports custom svg markers. Go to the marker tab, enable marker and click the ‘**marker type**’ icon, then the marker selection window will be opened. See the screenshot below.\
-
+Create any chart \[line chart for example] that supports custom svg markers. Go to the marker tab, enable marker and click the ‘**marker type**’ icon, then the marker selection window will be opened. See the screenshot below.<br>
 
 <figure><img src="../.gitbook/assets/customSvgStep2.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:**\
-Go to the **Custom** tab. Enter the name of the file in the **SVG path** textbox \[e.g, car.svg(name is case sensitive)] and click on ‘Apply’ and close the marked selection window. See the screenshot below\
-
+Go to the **Custom** tab. Enter the name of the file in the **SVG path** textbox \[e.g, car.svg(name is case sensitive)] and click on ‘Apply’ and close the marked selection window. See the screenshot below<br>
 
 <figure><img src="../.gitbook/assets/customSvgStep3.png" alt=""><figcaption></figcaption></figure>
 

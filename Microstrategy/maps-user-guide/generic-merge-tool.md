@@ -58,8 +58,7 @@ Next, click the "Export" button, located at the top-left corner of the Mapshaper
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXCw5PwXi3Ton7hsbfDegN8AMd19xZ3OCjdPT4ZPlJ2LmhUsGjnMz-fKhmOHiZGsYx_oJDHRkYOEtI4fkTv3y1D4MoFLWxxzVCxz9Kue26h8Qi4wCHJMu3wBj-mUky6jqbYL7-hQ?key=2u1XJMuIUIw6RsFR5P3GCQ)
 
-\
-
+<br>
 
 ### Step 5 : Convert and Download as TopoJSON
 
@@ -95,8 +94,7 @@ With the TopoJSON file saved to your local machine:
 2. Upload the **TopoJSON** file you just created.\
    Use the provided screenshot as a reference to assist you during this process.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezGqJxcpPzgsunmVGrotdez_yxth62diO-jMnZv9ti4r0JL0DT09i1CCNL4j3vpG_7EpCP3N0GkvzgZFH0SYJ38jBvis1nEpNnW49E_NU_dqvJ0MyID7MHv85NuN0dqAJr3CuJjw?key=2u1XJMuIUIw6RsFR5P3GCQ)\
-
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezGqJxcpPzgsunmVGrotdez_yxth62diO-jMnZv9ti4r0JL0DT09i1CCNL4j3vpG_7EpCP3N0GkvzgZFH0SYJ38jBvis1nEpNnW49E_NU_dqvJ0MyID7MHv85NuN0dqAJr3CuJjw?key=2u1XJMuIUIw6RsFR5P3GCQ)<br>
 
 ### Step 8: Enter the TopoJSON Object Name
 
@@ -113,8 +111,7 @@ In this step, you’ll integrate grouping information into the process by upload
 3. Click on the appropriate area, typically labeled “Upload” or “Browse,” to select your prepared CSV file from your local machine.
 4. Once selected, confirm the upload to integrate your CSV file into the tool.
 
-\
-
+<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiwzk-schBYcgew0SyLQPwGsjgoxo6GplA5N44gYvfvoOUnADf4yIak3uurER3hNkfb5Fl2KqW8T6-NrlY7WU1M935tzkac7ztRPkf50pVb4IU-FTAbqxdKNnWJ8cun04JrBcRLw?key=2u1XJMuIUIw6RsFR5P3GCQ" alt=""><figcaption></figcaption></figure>
 
@@ -164,8 +161,7 @@ Congratulations on successfully downloading the Merged GeoJSON file!
 2. **Upload the Merged GeoJSON File:**\
    On the Mapshaper homepage, you'll see an area labeled "Select files." You can either drag and drop your merged GeoJSON file into this area or click to browse and select the file from your local machine.
 3. **Preview the Map:**\
-   Once the file is uploaded, Mapshaper will display an interactive map visualization of your merged regions. This allows you to inspect the merged areas for accuracy and ensure that the grouping has been applied as intended.\
-
+   Once the file is uploaded, Mapshaper will display an interactive map visualization of your merged regions. This allows you to inspect the merged areas for accuracy and ensure that the grouping has been applied as intended.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcibEawyslVVRTLvMLIpmzk11yNQSQxqoHmkzAVDE2APhNw_K2WAT9g-HvtnUZpukSFE_Ldi15MQqMxuSyPVQfD-x1Qwxved3F8dYlcbyvKbZE72IwPmBOPy8GvjXixvtuWbiIsRA?key=2u1XJMuIUIw6RsFR5P3GCQ" alt=""><figcaption></figcaption></figure>
 
@@ -175,4 +171,4 @@ Congratulations on successfully downloading the Merged GeoJSON file!
 
 The final step is to create a new map layer using this file. To proceed, refer to the "[Creating New Map Layer"](https://docs.vitaracharts.com/maps-user-guide/creating-new-maps) documentation available in the tool’s resources. This guide provides detailed, step-by-step instructions on how to add your downloaded GeoJSON file as a new map layer.
 
-\
+<br>

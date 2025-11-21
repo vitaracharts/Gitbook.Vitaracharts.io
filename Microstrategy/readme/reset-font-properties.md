@@ -1,7 +1,6 @@
 # Reset font properties
 
-\
-
+<br>
 
 ### Resetting font properties <a href="#resetting-font-properties" id="resetting-font-properties"></a>
 

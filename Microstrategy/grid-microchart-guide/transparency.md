@@ -1,7 +1,6 @@
 # Transparency
 
-\
-
+<br>
 
 ## Grid Transparency <a href="#grid-transparency" id="grid-transparency"></a>
 

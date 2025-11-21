@@ -8,8 +8,7 @@ Some of the charts in VitaraCharts 4.6 can be converted to Polar charts. Line, A
 
 The procedure to enable polar mode in VitaraCharts is described in chart-specific user guide\
 To know how to enable Polar mode in Bar/Column charts, click here.\
-To know how to enable Polar mode in Stacked Bar/Column charts, click here.\
-
+To know how to enable Polar mode in Stacked Bar/Column charts, click here.<br>
 
 ## Unleash the Power of Polar Mode, Creating Spider Web-Like Visuals <a href="#unleash-the-power-of-polar-mode-creating-spider-web-like-visuals" id="unleash-the-power-of-polar-mode-creating-spider-web-like-visuals"></a>
 

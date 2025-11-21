@@ -1,7 +1,6 @@
 # Reset color property
 
-\
-
+<br>
 
 ### Resetting color property <a href="#resetting-color-property" id="resetting-color-property"></a>
 

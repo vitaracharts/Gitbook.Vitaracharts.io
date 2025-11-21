@@ -44,20 +44,17 @@ Open the property editor and go to series tab
 
 ### **Step 3**
 
-Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.\
-
+Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.<br>
 
 <figure><img src="../.gitbook/assets/stackedStep3.png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4**
 
-Select all required options for that series and click on ‘Apply’ See the screenshot below.\
-
+Select all required options for that series and click on ‘Apply’ See the screenshot below.<br>
 
 <figure><img src="../.gitbook/assets/stackedStep4.png" alt=""><figcaption></figcaption></figure>
 
-Then metric series will be applied on the chart in the form of ‘line graph’. See the screenshot below.\
-
+Then metric series will be applied on the chart in the form of ‘line graph’. See the screenshot below.<br>
 
 <figure><img src="../.gitbook/assets/stackedFinal.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,19 +79,16 @@ From the 4.6 version of VitaraCharts, a new feature is added in the Stacked char
 Let’s see how to enable ‘polar mode’ in simple steps.
 
 **Step 1:**\
-Create a Stacked Bar/Column chart with a minimum of one attribute and one metric. See the sample screenshot below.\
-
+Create a Stacked Bar/Column chart with a minimum of one attribute and one metric. See the sample screenshot below.<br>
 
 <figure><img src="../.gitbook/assets/stackedPolar1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:**\
-Open the property editor and go to the ‘Stacked Bar/Column’ tab. Enable the checkbox ‘Enable Polar Mode’. See the screenshot.\
-
+Open the property editor and go to the ‘Stacked Bar/Column’ tab. Enable the checkbox ‘Enable Polar Mode’. See the screenshot.<br>
 
 <figure><img src="../.gitbook/assets/stackedPolar2.png" alt=""><figcaption></figcaption></figure>
 
-Then the value axis of the chart will be converted into Polar coordinates. Below screenshot shows the default behaviour of the chart with Polar coordinates.\
-
+Then the value axis of the chart will be converted into Polar coordinates. Below screenshot shows the default behaviour of the chart with Polar coordinates.<br>
 
 <figure><img src="../.gitbook/assets/stackedPolar3.png" alt=""><figcaption></figcaption></figure>
 
@@ -119,8 +113,7 @@ Start angle : 0\
 End angle : 270\
 Outer Pane Size : 100\
 Inner Pane Size : 15\
-Then chart looks like the below screenshot\
-
+Then chart looks like the below screenshot<br>
 
 <figure><img src="../.gitbook/assets/stackedPolar4.png" alt=""><figcaption></figcaption></figure>
 

@@ -48,4 +48,4 @@ To configure the animation, navigate to the Maps tab and toggle it on or off, as
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXci3K6Fzmfldd2TkyUqA9XA-RaMA_lXhtwh3MoID9RVeRSjewc_25q5WAr2bsZOKzMm2pdSgpqy3Pt3vLOmA5uNmJ4sq8PyiK9HBX7S_PpViuna1JQf93K4HHYYAuKSrAT23esD8A?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

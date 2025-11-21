@@ -88,8 +88,7 @@ See the screenshot below for reference.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnBrfUSWdYaUHUdnTLuxrXw1YjKGoVz8xz_ezS8sEOAKAVkP39O4YSl3aBvQUn1QHFoWratM4CbnHP-cyYCiqf5_N78ArFrDXOci7765aIwKgzd_epZLu1tgvpEGDuHarSz6eq1Q?key=HG8zy91NAlh2msPjWJsC0g)
 
-\
-
+<br>
 
 After enabling wrapping, resize the columns by dragging the left or right edge of the column header to adjust the width. This  wraps the text based on your preferred column size, improving readability and preventing content from being truncated.
 
@@ -97,4 +96,4 @@ Refer to the GIF below for a visual example
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZGoDN9qW-9IYUF-G3Wz0HeYzMDk-b8Jf9_XHJKwnkkAfcwDtLILplRWiY67EnnpecFbT1LroI9xmXI1BVHhp_Rv3mjCqVteJRI-QUc5b1SKjzkbVXQ96VAU099FGDAJqFb-sTCA?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

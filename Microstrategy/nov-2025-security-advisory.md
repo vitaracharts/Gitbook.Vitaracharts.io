@@ -106,4 +106,4 @@ If your environment restricts outbound traffic, ensure that MicroStrategy is all
 
 Only explicitly allowed, public, safe domains can be accessed.
 
-\
+<br>

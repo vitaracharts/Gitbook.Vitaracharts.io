@@ -19,8 +19,7 @@ This release supports full editing of global.txt and translation files. Partial 
 
 **Clear your browser cache** to ensure the updated customization appears correctly in the visualizations
 
-\
-
+<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeDpy5QNGIHTa5oTkFoNxSBaJIhDBvykOw4ccYpaw4Su3AdjMeuPgTjmSc606gI6vQWHvhn94-6oLV6gKUO-NZA_IU0nefPjUFRDo4Pqf8r6tsfXH6EOTbCsl246I3wp4vRd0GT4w?key=GOHD-Vwdy0sntCqAMUofbw" alt=""><figcaption></figcaption></figure>
 
@@ -32,12 +31,10 @@ This release supports full editing of global.txt and translation files. Partial 
 4. Your palette will now appear in the saved list:
 
 * **Enable it** using the checkbox.
-* Use **Set as Default** if needed.\
-
+* Use **Set as Default** if needed.<br>
 
 5. Click **Save Changes** (top-right) to apply it to your charts.\
-   To update an existing palette, click **Edit**, adjust the colors, and hit **Save.**\
-
+   To update an existing palette, click **Edit**, adjust the colors, and hit **Save.**<br>
 
 ### Define and Add a Custom Font
 
@@ -54,8 +51,7 @@ Ensure the font file is placed in the following directory:
 
 * Specify the Font Name.
 * Provide the source font file
-* Click Add Font to save it. The font will now appear in the list of saved fonts.\
-
+* Click Add Font to save it. The font will now appear in the list of saved fonts.<br>
 
 **2. Set the Font as Default**
 
@@ -85,8 +81,7 @@ The Translation tab allows users to:
 * Edit individual entries in the translation files
 * Switch between multiple language options
 
-Below the screenshot for your reference\
-
+Below the screenshot for your reference<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCGZAaak_BaLV_xBJfr_4iVxbBwYO1Bl3E31VeTlf_5BtHlyasif_Q7YoWxvTuXoq_lJ5xn1YhN-UclOrWvipjMtTgh9SuZkFxb53Z5WPNpD-QbM_Jn2XMQOF6nlZadvvFTBpEdw?key=GOHD-Vwdy0sntCqAMUofbw" alt=""><figcaption></figcaption></figure>
 
@@ -97,7 +92,6 @@ Access the customization interface from the following locations:
 * For MicroStrategy Web Application:\
   &#xNAN;**/MicroStrategy/plugins/VitaraCharts/utils/customizations.html**
 * For MicroStrategy Library Application:\
-  &#xNAN;**/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**\
-
+  &#xNAN;**/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**<br>
 
 📌 **Note**: Customizations must be applied separately for Web and Library  environments.

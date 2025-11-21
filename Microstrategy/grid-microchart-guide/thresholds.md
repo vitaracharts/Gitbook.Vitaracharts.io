@@ -190,8 +190,7 @@ When attributes are row grouped, attribute related thresholds can be applied (e.
 * When a chart is pivoted, thresholds on pivoted attributes will not work.
 * Only threshold conditions on row-grouped attributes will be applied.
 
-Please refer to the attached screenshots for examples of thresholds when the chart is pivoted.\
-
+Please refer to the attached screenshots for examples of thresholds when the chart is pivoted.<br>
 
 <figure><img src="../.gitbook/assets/Att3.png" alt=""><figcaption></figcaption></figure>
 
@@ -203,9 +202,8 @@ Please refer to the attached screenshots for examples of thresholds when the cha
 
 When multiple thresholds are applied to the same metric, the most recently added threshold takes precedence—even if the conditions differ.
 
-For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.\
-
+For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXchPw42Cg6I5HoBAJWEpF4zkmX1_KD-0NqDkHMMyX5cDieXztEleKmjhbYJAUddti3Eo5H1v6n4eiRrSLriM2reI7sba09sc7G8c-LE-e7xoT7rR6D165psalBZLJgg188-Tmyw?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

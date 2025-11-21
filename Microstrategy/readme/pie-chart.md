@@ -29,25 +29,21 @@ From Version 5.1.1, we have added the option ‘Show Overlapping Labels’ in th
 ## Format Pie <a href="#format-pie" id="format-pie"></a>
 
 From the 4.5 version of Vitara charts, a feature is introduced in pie chart to customize inner radius, start and end angles.\
-All these customizable properties are available in the ‘Pie’ tab of the property editor. See the screenshot below.\
-
+All these customizable properties are available in the ‘Pie’ tab of the property editor. See the screenshot below.<br>
 
 <figure><img src="../.gitbook/assets/piFormat1.png" alt=""><figcaption></figcaption></figure>
 
 As you can see in the above screenshot, the outer radius is 100% which cannot be changed. And the default inner radius is 70, default both pie start and end angles are set to 90.\
 Now, let us customize the pie chart with some of these settings.\
-Inner radius - 10; Pie start angle - 0; Pie end angle - 90.\
-
+Inner radius - 10; Pie start angle - 0; Pie end angle - 90.<br>
 
 <figure><img src="../.gitbook/assets/piFormat2.png" alt=""><figcaption></figcaption></figure>
 
-Inner radius - 0; Pie start angle - 0; Pie end angle - 360. These settings create a full Pie chart.\
-
+Inner radius - 0; Pie start angle - 0; Pie end angle - 360. These settings create a full Pie chart.<br>
 
 <figure><img src="../.gitbook/assets/piFormat3.png" alt=""><figcaption></figcaption></figure>
 
-Inner radius - 40; Pie start angle - 0; Pie end angle - 180.\
-
+Inner radius - 40; Pie start angle - 0; Pie end angle - 180.<br>
 
 <figure><img src="../.gitbook/assets/piFormat4.png" alt=""><figcaption></figcaption></figure>
 

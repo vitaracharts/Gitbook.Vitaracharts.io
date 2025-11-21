@@ -29,15 +29,13 @@ Thresholds will display some conditional formatting in a chart to highlight cert
 To apply thresholds in vitara charts, hover the cursor on the chart. Vitara chart will display an ‘Edit’ button. When you click on this ‘Edit’ button the properties window will pop out. Select the thresholds tab to open threshold editor. In the window you can add a new threshold or delete any existing threshold or modify the existing threshold.
 
 From the 4.5 version of vitara charts, adding thresholds is possible in KPI Ring chart.\
-This option is available in the thresholds tab of the property editor. See the screenshot below.\
-
+This option is available in the thresholds tab of the property editor. See the screenshot below.<br>
 
 **Note:** From 4.6 version we can apply thresholds using attributes. The source drop down box in the threshold editor window will list all the attributes and metrics in the chart. we can select an attribute as source and define a threshold condition.&#x20;
 
 <figure><img src="../.gitbook/assets/KPIRing5.png" alt=""><figcaption></figcaption></figure>
 
-Below is the example of the threshold applied on the KPI Ring chart.\
-
+Below is the example of the threshold applied on the KPI Ring chart.<br>
 
 <figure><img src="../.gitbook/assets/KPIRing6.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,8 +48,7 @@ For example, if a threshold is applied to the Cost metric with a "greater than" 
 ## Formatting the Ring <a href="#formatting-the-ring" id="formatting-the-ring"></a>
 
 From 4.5 version of vitara charts, a new feature is added in KPI Ring which helps to set the **Ring thickness, start and end angles** and **Unfilled ring color**.\
-All these settings are available in the ‘KPI Ring’ tab. See the screenshot.\
-
+All these settings are available in the ‘KPI Ring’ tab. See the screenshot.<br>
 
 <figure><img src="../.gitbook/assets/KPIRing7.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,13 +57,11 @@ Formattings such as Ring thickness, Start and End angles will be applied in comm
 Below is the screenshot of a KPI Ring chart with ring thickness, start and end angle formattings applied.\
 Thickness - 15\
 Start Angle - 300\
-End Angle - 240\
-
+End Angle - 240<br>
 
 <figure><img src="../.gitbook/assets/KPIRing8.png" alt=""><figcaption></figcaption></figure>
 
-Below is the screenshot of a KPI Ring chart with unfilled color applied as “red” for all rings.\
-
+Below is the screenshot of a KPI Ring chart with unfilled color applied as “red” for all rings.<br>
 
 <figure><img src="../.gitbook/assets/KPIRing9.png" alt=""><figcaption></figcaption></figure>
 

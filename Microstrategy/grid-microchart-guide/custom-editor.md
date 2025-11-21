@@ -199,7 +199,6 @@ If macros are rendered within a table structure inside the cell:
 <figure><img src="../.gitbook/assets/CE Macros Doc.gif" alt=""><figcaption></figcaption></figure>
 
 \
-\
+<br>
 
-
-\
+<br>

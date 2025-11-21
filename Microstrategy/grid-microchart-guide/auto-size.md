@@ -62,4 +62,4 @@ With the introduction of version 5.3.5, users can now easily adjust the height o
 
 Below is a sample GIF file that shows how to adjust the rows and headers height.&#x20;
 
-![](<../.gitbook/assets/Grid altspacing.gif>)\
+![](<../.gitbook/assets/Grid altspacing.gif>)<br>

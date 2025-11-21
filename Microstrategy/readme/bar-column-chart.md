@@ -49,18 +49,15 @@ Example of text formatting and color formatting for labels, title and axis line 
 ## Data Labels <a href="#data-labels" id="data-labels"></a>
 
 From 4.1 version, a new property is introduced in bar and column charts to show the data labels outside the bar/column. The option to enable this feature is added in data labels tab with ‘**Show Label Outside Bar/Column**’ checkbox. See the screenshot below:\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/DLOBC1.png" alt=""><figcaption></figcaption></figure>
 
-By default, this option will be enabled for the charts created from 4.1. Below screenshot shows how the data labels look before and after enabling ‘Show Label Outside Bar/Column’ option\
-
+By default, this option will be enabled for the charts created from 4.1. Below screenshot shows how the data labels look before and after enabling ‘Show Label Outside Bar/Column’ option<br>
 
 <figure><img src="../.gitbook/assets/DLOBC2.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 The feature ‘Show Label Outside Bar/Column’ is tied to horizontal data label positions. If the data label is set to appear outside the bar/column, the horizontal data label positions right, left, and centre have no effect on the chart.
 
@@ -70,7 +67,7 @@ In VitaraCharts 4.7, a new property called ‘Force Outlier Labels Outside’ is
 
 <figure><img src="../.gitbook/assets/dataLabelOutsideBar1.png" alt=""><figcaption></figcaption></figure>
 
-### After: 
+### After:<br>
 
 <figure><img src="../.gitbook/assets/dataLabelOutsideBar2.png" alt=""><figcaption></figcaption></figure>
 

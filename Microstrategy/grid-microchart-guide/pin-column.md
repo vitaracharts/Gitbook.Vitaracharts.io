@@ -1,7 +1,6 @@
 # Pin Column
 
-\
-
+<br>
 
 ## Properties Menu - Pin Column <a href="#properties-menu---pin-column" id="properties-menu---pin-column"></a>
 

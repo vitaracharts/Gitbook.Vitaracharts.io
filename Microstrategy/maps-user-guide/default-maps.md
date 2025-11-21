@@ -1,7 +1,6 @@
 # Default Maps
 
-\
-
+<br>
 
 ## Default Maps in Vitara Map Chart <a href="#default-maps-in-vitara-map-chart" id="default-maps-in-vitara-map-chart"></a>
 

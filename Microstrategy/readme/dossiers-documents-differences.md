@@ -1,7 +1,6 @@
 # Dossiers/Documents differences
 
-\
-
+<br>
 
 ### Functional Differences using Vitara Charts in Dossiers and Report Service Documents <a href="#functional-differences-using-vitara-charts-in-dossiers-and-report-service-documents" id="functional-differences-using-vitara-charts-in-dossiers-and-report-service-documents"></a>
 

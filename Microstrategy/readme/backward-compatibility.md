@@ -30,8 +30,7 @@ In the below screenshot, the StackTotals are not enabled by default in 4.4.2.618
 
 <figure><img src="../.gitbook/assets/BCStacktotals3.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 ## Data Labels Contrast color in XY charts <a href="#data-labels-contrast-color-in-xy-charts" id="data-labels-contrast-color-in-xy-charts"></a>
 
@@ -110,8 +109,7 @@ In the below Pie chart, the center text is showing the element ‘Books 2015 Q1�
 
 <figure><img src="../.gitbook/assets/BCPie4.0_1 (1).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 In the pie chart, the center text is showing the element ‘Cost 22M’ value and the show total is in enabled state.
 

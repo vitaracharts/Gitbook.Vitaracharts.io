@@ -37,8 +37,7 @@ Edit the ‘global.txt file and insert the flag _“statePresentation.contextMen
 
 #### From latest version  onwards, the right-click menu is enabled by default across all visualizations. This menu allows users to enable or disable features as needed.
 
-Below is a screenshot showing this property in the global.txt file:\
-
+Below is a screenshot showing this property in the global.txt file:<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLP6LP4qT9vXOicETnSJ13V2D4rtaCioUMeMLP3Uu8Wdzvc-6OWPFvvEI1JiutXvIT6ja30KXE6BwTlLHvewSMBpihVVvCiWA8w45D0ou8w9TjyhcJ7ri9IFNMwLhykYrO3Hlr6Q?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 

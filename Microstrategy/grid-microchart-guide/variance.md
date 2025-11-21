@@ -1,15 +1,13 @@
 # Variance
 
-\
-
+<br>
 
 ## Variance (Delta Charts) <a href="#variance-delta-charts" id="variance-delta-charts"></a>
 
 From 4.7 version of VitaraCharts, a feature called **‘Variance’** is introduced in the Grid chart. This feature allows to plot a variance chart for a particular metric/column. For this type of chart, the scenarios are mapped using metrics. So the user will need to define separate metrics (for the same set of category elements) representing each scenario. There are two kinds of functional properties in this feature
 
 1. Variance
-2. Variance %\
-
+2. Variance %<br>
 
 These properties are available in Hamburger menu of the metric column. See the screenshot below
 

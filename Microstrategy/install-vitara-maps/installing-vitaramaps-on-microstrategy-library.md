@@ -64,4 +64,4 @@ Starting with VitaraMaps version 4.7, the following configuration is mandatory:
 
 * Setting the Web configuration URL enables VitaraMaps to render without internet access on iPad/iPhone.
 * Clear the cache and restart the MicroStrategy Library Mobile App on your device to apply changes.
-* For detailed instructions on clearing cache [Click here](https://docs.vitaracharts.com/faq/how-to-fix-mobile-rendering-issues#id-2.-clear-mobile-library-application-cache)\
+* For detailed instructions on clearing cache [Click here](https://docs.vitaracharts.com/faq/how-to-fix-mobile-rendering-issues#id-2.-clear-mobile-library-application-cache)<br>

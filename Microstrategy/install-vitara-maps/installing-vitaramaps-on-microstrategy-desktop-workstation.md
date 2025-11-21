@@ -43,8 +43,7 @@ There are two ways to deploy in Offline Mode:
 * Once the file is downloaded, extract the zip file to your specified location. You will find that under the Vitara Maps folder, there is another Vitara Maps folder containing several subfolders. Move the inner folder that contains the files.
 * ![](<../.gitbook/assets/unknown (8).png>)
 
-\
-
+<br>
 
 * Paste the extracted folder into the **\Microstrategy\Workstation\Code\plugins** path on your local machine.
 
@@ -91,4 +90,4 @@ In addition to the server installation, the VitaraMaps plugin must also be deplo
 
 ![](<../.gitbook/assets/unknown (10).png>)
 
-\
+<br>

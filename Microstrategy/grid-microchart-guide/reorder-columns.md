@@ -30,4 +30,4 @@ This method uses the grid’s column settings for manual reordering.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdpxGFa8EaDq0g7kV-RfrQA281-7HYRj0mz6KBiCvb-PQ_3WvJ23qadu-vWsQG3jJFtuWsnHwDLeGZOZhg2tz42r8hWbnMqfoJr4kG5D4p73CdTlvEL3zbXihGuDFzHIjPH_W8Hg?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

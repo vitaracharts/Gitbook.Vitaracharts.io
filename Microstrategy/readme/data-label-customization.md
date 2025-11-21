@@ -1,7 +1,6 @@
 # Data label customization
 
-\
-
+<br>
 
 ## Use Metric Formatting <a href="#use-metric-formatting" id="use-metric-formatting"></a>
 
@@ -19,13 +18,11 @@ Lets consider the data as shown in the below screenshot. Here the metric **Sales
 
 <figure><img src="../.gitbook/assets/useMetricFormatting1.png" alt=""><figcaption></figcaption></figure>
 
-If we wish to display this data using vitara charts and include the dollar symbol in the data labels, we must first add the dollar sign to the data. Edit the metric’s number format in the MicroStartegy and select the appropriate format.\
-
+If we wish to display this data using vitara charts and include the dollar symbol in the data labels, we must first add the dollar sign to the data. Edit the metric’s number format in the MicroStartegy and select the appropriate format.<br>
 
 <figure><img src="../.gitbook/assets/useMetricFormatting2.png" alt=""><figcaption></figcaption></figure>
 
-Below is the screenshot of the data after selecting currency number format with dollar sign.\
-
+Below is the screenshot of the data after selecting currency number format with dollar sign.<br>
 
 <figure><img src="../.gitbook/assets/useMetricFormatting3.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,13 +30,11 @@ Now apply vitara chart, for example, vitara column chart.
 
 <figure><img src="../.gitbook/assets/useMetricFormatting4.png" alt=""><figcaption></figcaption></figure>
 
-When we enable data labels, by default vitara chart will display data labels in its own format i.e. short format. If we want to the values in the MicroStrategy format we have to enable the _use metric formatting_ option.\
-
+When we enable data labels, by default vitara chart will display data labels in its own format i.e. short format. If we want to the values in the MicroStrategy format we have to enable the _use metric formatting_ option.<br>
 
 <figure><img src="../.gitbook/assets/useMetricFormatting5.png" alt=""><figcaption></figcaption></figure>
 
-Below is the screenshot of the vitara column chart after enabling the _use metric formatting_. Now we can see the dollar sign in the data labels.\
-
+Below is the screenshot of the vitara column chart after enabling the _use metric formatting_. Now we can see the dollar sign in the data labels.<br>
 
 <figure><img src="../.gitbook/assets/useMetricFormatting6.png" alt=""><figcaption></figcaption></figure>
 

@@ -20,13 +20,11 @@ To acquire the desired appearance and feel for the VI dashboard, add to dossier 
 
 Vitara text node chart can be used to display the filter selection when we utilize the filter panel to filter the data in the dossier. Drag and drag the identical property that you used in the filter panel into the Vitara text node chart’s “Editor” panel. When you move the cursor over the chart, a “Edit” button will appear. When you click the “Edit” button, a pop-up window appears. In the macro editor window, enter “&” in the “Text Properties” menu. All potential macros, or the properties applied to the text node, will be displayed in the popup window.
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/textNode14.png" alt=""><figcaption></figcaption></figure>
 
-In the below screenshot vitara text node chart is showing the filter selection used in the dossier.\
-
+In the below screenshot vitara text node chart is showing the filter selection used in the dossier.<br>
 
 <figure><img src="../.gitbook/assets/textNode13.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,15 +42,13 @@ To display certain details in the IBCS enabled chart, we can utilize the followi
 
 <figure><img src="../.gitbook/assets/textNode12.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 #### **&\[chart.list]:**
 
 This macro lists the sub graphs used to display series data types in the selected chart.\
 Data Types: Actual data (AC), Planned data (PL), Delta planned data, Percentage delta planned data.\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/textNode4.png" alt=""><figcaption></figcaption></figure>
 
@@ -61,8 +57,7 @@ Data Types: Actual data (AC), Planned data (PL), Delta planned data, Percentage 
 #### **&\[chart.count]:**
 
 This macro will display number of sub graphs used in the IBCS mode.\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/textNode6 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,8 +66,7 @@ This macro will display number of sub graphs used in the IBCS mode.\
 #### **&\[chart.dataTypes]:**
 
 This macro will display the data types used in the chart: AC, PL, Delta PL, Percentage Delta PL.\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/textNode8.png" alt=""><figcaption></figcaption></figure>
 
@@ -85,16 +79,14 @@ This macro provides information about the series used to Sort the IBCS enabled c
 <figure><img src="../.gitbook/assets/textNode2.png" alt=""><figcaption></figcaption></figure>
 
 \
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/textNode3.png" alt=""><figcaption></figcaption></figure>
 
 #### **&\[category.range]:**
 
 This macro will list starting and ending element in the category axis and the series used to draw those category elements.\
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/textNode10.png" alt=""><figcaption></figcaption></figure>
 

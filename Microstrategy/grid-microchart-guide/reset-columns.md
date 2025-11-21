@@ -23,7 +23,6 @@ In the screenshot below, the **Clear Column Order** option is displayed in the R
 
 ![](<../.gitbook/assets/unknown (14).png>)
 
-\
+<br>
 
-
-\
+<br>

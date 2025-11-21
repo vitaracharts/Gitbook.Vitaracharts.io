@@ -1,7 +1,6 @@
 # Scaling Multiple Charts
 
-\
-
+<br>
 
 #### Configure multiple charts to use the same scaling <a href="#configure-multiple-charts-to-use-the-same-scaling" id="configure-multiple-charts-to-use-the-same-scaling"></a>
 

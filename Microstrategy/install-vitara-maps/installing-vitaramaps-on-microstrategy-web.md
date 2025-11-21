@@ -36,8 +36,7 @@ Follow the steps below if this is your first time installing VitaraMaps:
 
 * Ensure that the folder structure appears correctly after installation.
 
-![](<../.gitbook/assets/unknown (2).png>)\
-
+![](<../.gitbook/assets/unknown (2).png>)<br>
 
 6. **Validate Version Folders**
 
@@ -108,4 +107,4 @@ If you are using the new Export Engine in MicroStrategy (available from version 
 * &#x20;Use the web version of VitaraMaps to copy files into the resources folder on the export server.
 * Do not use the library or Workstation versions for export setup.
 
-\
+<br>

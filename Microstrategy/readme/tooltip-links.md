@@ -62,8 +62,7 @@ This option ensures that prompts are not displayed when navigating between dashb
 * Using the same report, create another dashboard and save it as **Target**.
 * Add the Quarter attribute and any other required attributes and metrics that should appear in the Target dashboard.
 *   &#x20;From the Target Dashboard:\
-    Right-click → Properties → Copy Document ID\
-
+    Right-click → Properties → Copy Document ID<br>
 
     Below is the screenshot for reference
 
@@ -91,8 +90,7 @@ http://\<webserver>/MicroStrategy/servlet/mstrWeb?evt=2048001\&documentID=D5CA3E
 #### 6. Add the URL API Link
 
 * In the **Source** dashboard, add this **URL API** link to the tooltip link.
-* Save the Source dashboard.\
-
+* Save the Source dashboard.<br>
 
 When you hover over the tooltip link for a specific Year (e.g., 2015), the Year value in the URL API is automatically updated to reflect the selected Year. This ensures that the correct filter value is dynamically passed to the Target dashboard.
 
@@ -115,8 +113,7 @@ Instead of using a tooltip, you can also configure the URL API link directly on 
 
 For example:
 
-* When a user clicks on the Year "2014" in the Grid chart, they will be redirected to the Target dashboard showing quarterly data for that year.\
-
+* When a user clicks on the Year "2014" in the Grid chart, they will be redirected to the Target dashboard showing quarterly data for that year.<br>
 
 **Steps**
 

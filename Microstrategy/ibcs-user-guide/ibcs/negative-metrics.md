@@ -1,7 +1,6 @@
 # Negative Metrics
 
-\
-
+<br>
 
 #### Mapping metrics as negative <a href="#mapping-metrics-as-negative" id="mapping-metrics-as-negative"></a>
 

@@ -2,21 +2,18 @@
 description: Security patch for potentiall SSRF vulnerability
 ---
 
-# Nov 2025 Security Patch
+# Nov 2025 Security Patch for VitaraMaps
 
 ### VitaraMaps SSRF Security Patch Drop-IN –Deployment Instructions
 
-
+It is designed as a drop-in replacement for VitaraMaps versions **5.3.1 through 5.3.6**.
 
 Download URL: [https://vchost.vitaracharts.com/distributions/Maps/5.3.6.175/dropIn/VitaraMaps.zip](https://vchost.vitaracharts.com/distributions/Maps/5.3.6.175/dropIn/VitaraMaps.zip)
 
 [https://vchost.vitaracharts.com/distributions/Maps/5.3.6.175/dropIn/VitaraMapsLibrary.zip](https://vchost.vitaracharts.com/distributions/Maps/5.3.6.175/dropIn/VitaraMapsLibrary.zip)
 
-
-
 This patch provides the updated security-hardened versions of\
-fileLoader.jsp, fileLoader.aspx.\
-It is designed as a drop-in replacement for VitaraMaps versions 5.3.1 through 5.3.6.
+fileLoader.jsp, fileLoader.aspx.<br>
 
 Follow the steps below to deploy the patch in all required MicroStrategy components.
 

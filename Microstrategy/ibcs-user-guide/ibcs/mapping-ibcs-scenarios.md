@@ -78,7 +78,7 @@ We provide flexibility to customize the IBCS chart colors according to your repo
 
 In the file customIBCSStyles.css, you can define custom hex codes for AC (Actual), PL (Planned), PY (Previous Year), and FC (Forecast), as well as for Delta values (positive and negative).
 
-#### Location of the file: 
+#### Location of the file:<br>
 
 * **Web:** /MicroStrategy/plugins/VitaraCharts/custom/customIBCSStyles.css
 * **Web Library**: /MicroStrategyLibrary/plugins/VitaraCharts/custom/customIBCSStyles.css

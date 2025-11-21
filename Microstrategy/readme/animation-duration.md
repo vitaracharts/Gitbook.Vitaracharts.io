@@ -24,8 +24,7 @@ Starting from version **5.3.4**, an **Animation Duration** option has been intro
 
 This option is available in the Gauge tab of the Property Editor. Please refer to the screenshot below for more details.
 
-&#x20;\
-
+&#x20;<br>
 
 <figure><img src="../.gitbook/assets/Guage.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,8 +45,7 @@ _**Note**_: Starting from version 5.3.5, the animation option has been removed f
 Please refer to the screenshots below for references to the Column and Angular Gauge Charts.
 
 ![](<../.gitbook/assets/image (18).png>)\
-\
-
+<br>
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf15mC1wPLluEBiexuou5fnGAbCjFTLyVJfjNbCF2sfCRK9td7_LBzGL7xfpRYZaACfPs5ETOER2hNBd4UD_56CRJCm9_WfheC8coacATLjv-wAUA-SZdJfRMs1K21EUb7sik1dvw?key=HG8zy91NAlh2msPjWJsC0g)
 
@@ -70,8 +68,7 @@ Below is the screenshot of this property from the global.txt file.
 * For **MSTR Web** Application:\
   webapps\MicroStrategy\plugins\VitaraCharts\custom
 * For **MSTR Library** Application:\
-  webapps\MicroStrategyLibrary\plugins\VitaraCharts\custom\
-
+  webapps\MicroStrategyLibrary\plugins\VitaraCharts\custom<br>
 
 📌 **Note**: The respective global.txt file must be configured separately for both web and library applications.
 
@@ -81,10 +78,9 @@ In the global.txt file, set the following property:
 
 **Default Setting:** chart.animation=1 (Animation is enabled by default.)
 
-* This ensures that all charts display animation automatically, without requiring manual activation in each chart’s editor menu.\
-
+* This ensures that all charts display animation automatically, without requiring manual activation in each chart’s editor menu.<br>
 
 **To Disable Animation**: Set chart.animation=0 to turn off animation globally.
 
 **Enhancemen**t: Starting from version **5.3.6**, a new tool called the Customization Tool has been introduced. This tool allows users to easily edit configuration files such as global.txt and customStyles.css through a user-friendly interface.\
-For more details, [click here](../customization-guide/customization-tool.md).\
+For more details, [click here](../customization-guide/customization-tool.md).<br>

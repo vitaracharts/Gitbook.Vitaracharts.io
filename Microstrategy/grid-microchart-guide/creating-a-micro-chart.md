@@ -11,22 +11,19 @@ From the 4.1 version of Vitara charts, trendlines feature is added in the Grid c
 
 Follow the below procedure to convert the Grid chart into Micro chart.\
 **Step 1:**\
-Create a Grid chart with 2 or more attributes and minimum of 1 metric. For example, we have a grid chart created with 2 attributes and 3 metrics. See the screenshot\
-
+Create a Grid chart with 2 or more attributes and minimum of 1 metric. For example, we have a grid chart created with 2 attributes and 3 metrics. See the screenshot<br>
 
 <figure><img src="../.gitbook/assets/gridMicro1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:**\
 Group by the attribute ‘Year’. In the Micro chart, we have two drop zones for attributes called Category axis and Trend By. In this example, ‘year’ will be the category axis attribute and ‘Category’ will be the Trend By attribute.\
-See the screenshot which shows the year attribute in grouped state.\
-
+See the screenshot which shows the year attribute in grouped state.<br>
 
 <figure><img src="../.gitbook/assets/gridMicro2.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:**\
 Now we will apply 3 different trend lines for the 3 different metrics. To know about trend lines click here\
-See the screenshot which shows the trendlines applied.\
-
+See the screenshot which shows the trendlines applied.<br>
 
 <figure><img src="../.gitbook/assets/gridMicro3.png" alt=""><figcaption></figcaption></figure>
 

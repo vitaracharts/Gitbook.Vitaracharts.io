@@ -2,8 +2,7 @@
 title: 'After importing your data: ...'
 ---
 
-*   After importing your data:\
-
+*   After importing your data:<br>
 
     Click “Prepare Data”\
     \
