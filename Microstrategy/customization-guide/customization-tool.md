@@ -95,3 +95,126 @@ Access the customization interface from the following locations:
   &#xNAN;**/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**<br>
 
 📌 **Note**: Customizations must be applied separately for Web and Library  environments.
+
+## Available from Version 5.3.10
+
+The customization interface can be accessed from the following locations starting from version **5.3.10**.
+
+**For MicroStrategy Web Application:**\
+`/MicroStrategy/plugins/VitaraCharts/utils/customizations.jsp`
+
+**For MicroStrategy Library Application:**\
+`/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.jsp`
+
+#### IBCS Settings and Chart Styles
+
+IBCS Settings and Chart Styles have been introduced in this version.
+
+* The **IBCS Settings** option is available under the **Settings** tab.
+* A new **Styles** tab has been added to support customization of **Chart Styles**.
+
+Detailed information about both features is provided below.
+
+## IBCS Settings&#x20;
+
+The Customization Tool allows you to define keyword mappings for identifying IBCS scenarios such as Actual, Forecast, Planned, and Previous. These keywords help VitaraCharts automatically detect and classify metrics into the correct scenario.
+
+**Enable IBCS by Default**
+
+Turn this on to apply IBCS formatting automatically to charts.
+
+**IBCS Metric Mappings (AC, PL, FC, PY)**
+
+The configuration file defines how VitaraCharts detects which metric belongs to which IBCS scenario based on the metric name. These mappings are also used for automatic metric identification.
+
+Examples:
+
+* AC = AC, Actual
+* PL = PL, Planned
+* FC = FC, Forecast
+* PY = PY, Previous Year
+
+**Meaning:**\
+If a metric name contains the defined keywords (e.g., AC or Actual), it will automatically be classified under the corresponding scenario.
+
+**Purpose:**\
+Used for scenario detection and metric identification across Actual, Planned, Forecast, and Previous Year.\
+<br>
+
+<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+
+![](<../.gitbook/assets/unknown (1).png>)
+
+**Note:**\
+We currently have the capability to rename data labels for IBCS deltas. This feature will soon be added to the Customization Tool. For now, you can add these mappings directly using the IBCSglobal.txt file.
+
+For more details and examples of these mappings, please refer to the official VitaraCharts documentation:[ IBCS User Guide – Mapping IBCS Scenarios](https://docs.vitaracharts.com/ibcs-user-guide/ibcs/mapping-ibcs-scenarios).
+
+#### Applying IBCS Custom Styles in the Customization Tool
+
+To apply IBCS styling to your charts using the Customization Tool, follow these steps:
+
+1. **Open the Style tab** in the Customization Tool.
+2. Under **Scope & Chart Component**, choose **Change Customization.**
+3. Select **IBCS Custom Styles** from the list.
+
+Once selected, you will see two options available under Scope:
+
+* IBCS Standard View
+* Waterfall
+
+#### Chart Component Options
+
+Depending on the component you choose, several IBCS styling options will be available, such as:
+
+* Actual Data
+* Forecast Data
+* Previous Data
+* Planned Data
+* Delta View (Positive/Negative)
+
+For some components, you can configure background color and line color, while others include only line styling options, as defined by IBCS guidelines.
+
+After customizing the styles, simply save your changes. The chart will update immediately, reflecting the enhanced IBCS-compliant visual appearance.
+
+#### **Example for Reference:**
+
+To help you understand how IBCS styling works, the image below shows a customized Planned Data element. The line stroke color has been modified to match the IBCS guidelines, giving the chart a cleaner and more standardized appearance.
+
+<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+
+![](<../.gitbook/assets/unknown (3).png>)
+
+## Custom CSS Styling in Vitara Charts&#x20;
+
+Starting from version **5.3.10**, users can apply **custom CSS styles** to Vitara Charts directly through the Customization Tool. This enhancement replicates the functionality previously achieved through manual edits in the global.txt and **CustomCSS** files, but now provides a more intuitive and user-friendly interface. A new Style tab has been introduced in the Customization Tool to support this capability.
+
+Within the Style tab, users can choose between Chart Custom Styles depending on their requirements.
+
+Once a style type is selected (for example, Custom Styles), users can define the scope by selecting the specific charts to which the custom styles should apply.\
+In the Scope ,we can see all the chart names&#x20;
+
+Additionally, under the Chart Component section, users can customize individual elements such as axes, data labels, legends, and more. The available styling options include:
+
+* Text color
+* Font size
+* Text formatting
+* Letter spacing
+* And other visual properties<br>
+
+After configuring the desired styles, users must save the changes using the Save button located in the top-right corner of the tool.
+
+To ensure the updated styles are applied, clear your browser cache. Once done, the chart will refresh and immediately display the enhanced visual appearance.\
+Example for Reference:
+
+To illustrate how custom styling works, the screenshots below demonstrate how to customize a id/Micro chart by applying a subtotal header.<br>
+
+<figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+<figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+<br>

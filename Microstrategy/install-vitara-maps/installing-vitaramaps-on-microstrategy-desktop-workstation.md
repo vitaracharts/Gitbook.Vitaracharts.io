@@ -5,7 +5,7 @@
 * For both desktop and workstation applications, download the desktop version of VitaraMaps.
 * You can find the latest links for download from our download site at[ Main page](https://www.vitaracharts.com/ms-product-downloads)
 
-![](<../.gitbook/assets/unknown (3).png>)
+![](<../.gitbook/assets/unknown (3) (1).png>)
 
 ### License
 
@@ -27,11 +27,11 @@ There are two ways to deploy in Offline Mode:
 * Open an existing MicroStrategy dossier or create a new one.
 * You will see a ​+​ sign to add visualizations.
 
-![](../.gitbook/assets/unknown.jpeg)
+![](<../.gitbook/assets/unknown (1).jpeg>)
 
 * Click on the ‘+’ sign, and a small import visualization window will open. Select the downloaded zip file.
 
-![](<../.gitbook/assets/unknown (5).png>)
+![](<../.gitbook/assets/unknown (5) (1).png>)
 
 * Once the Vitara visualization is successfully imported, you will see a message stating that all custom visualizations have been imported successfully.
 
@@ -41,13 +41,13 @@ There are two ways to deploy in Offline Mode:
 
 * Download the desktop version zip file from[ here](https://www.vitaracharts.com/product-downloads).
 * Once the file is downloaded, extract the zip file to your specified location. You will find that under the Vitara Maps folder, there is another Vitara Maps folder containing several subfolders. Move the inner folder that contains the files.
-* ![](<../.gitbook/assets/unknown (8).png>)
+* ![](<../.gitbook/assets/unknown (8) (1).png>)
 
 <br>
 
 * Paste the extracted folder into the **\Microstrategy\Workstation\Code\plugins** path on your local machine.
 
-![](<../.gitbook/assets/unknown (9).png>)
+![](<../.gitbook/assets/unknown (9) (1).png>)
 
 * Open Workstation and create a new dossier. You should see the **Vitara Maps** in the custom option.
 
@@ -88,6 +88,6 @@ In addition to the server installation, the VitaraMaps plugin must also be deplo
 
 3. Once configured successfully, the page will confirm the configuration status as shown in the screenshot.
 
-![](<../.gitbook/assets/unknown (10).png>)
+![](<../.gitbook/assets/unknown (10) (1).png>)
 
 <br>

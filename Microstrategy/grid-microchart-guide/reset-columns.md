@@ -21,7 +21,7 @@ When users apply formatting options—such as **Sorting, Pinned Columns, Groupin
 
 In the screenshot below, the **Clear Column Order** option is displayed in the Reset tab because the columns were previously reordered. Users can select this option to remove the applied column order.
 
-![](<../.gitbook/assets/unknown (14).png>)
+![](<../.gitbook/assets/unknown (14) (1).png>)
 
 <br>
 

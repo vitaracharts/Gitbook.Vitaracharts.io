@@ -5,7 +5,7 @@
 * Download the library version of VitaraMaps from the official download page.
 * You can find the latest version links on the VitaraMaps [Main Page.](https://www.vitaracharts.com/ms-product-downloads)
 
-![](<../.gitbook/assets/unknown (11).png>)
+![](<../.gitbook/assets/unknown (11) (1).png>)
 
 ### New Installation
 
@@ -58,7 +58,7 @@ Starting with VitaraMaps version 4.7, the following configuration is mandatory:
 
 2. On the configuration page, enter the path to your MicroStrategy Web application (not the Library) and click Submit.
 3. Once successfully configured, the page will confirm the setup with a success message.\
-   ![](<../.gitbook/assets/unknown (12).png>)
+   ![](<../.gitbook/assets/unknown (12) (1).png>)
 
 **Notes:**
 

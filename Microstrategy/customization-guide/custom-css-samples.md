@@ -205,3 +205,57 @@ Applied fill to be palegreen for Pie chart background color
 ```
 
 <figure><img src="../.gitbook/assets/image15.png" alt=""><figcaption></figcaption></figure>
+
+## Changes in Custom CSS Starting from Version 5.3.10
+
+Beginning with version 5.3.10, a “vitara” namespace has been introduced in the default styling to avoid conflicts with CSS originating from MicroStrategy (MSTR) or other external plugins.
+
+To ensure that custom CSS continues to work as expected, the “**.vitara**” class must now be added to relevant **CSS** selectors, as outlined below.
+
+#### Example Scenario: Styling Chart Elements
+
+When styling chart elements, add “**.vitara**” followed by a **space** before the element class
+
+**Existing Style:**
+
+```
+
+.vitara-chart-background {
+    fill: rgb(117, 245, 66);
+    background-color: rgb(117, 245, 66);
+}
+```
+
+**Updated Style:**
+
+```
+
+.vitara .vitara-chart-background {
+    fill: rgb(117, 245, 66);
+    background-color: rgb(117, 245, 66);
+}
+```
+
+#### Styling Using Chart Classes
+
+Add “**.vitara**” directly before the chart class name.\
+Note: There should be no space between “.vitara” and the chart class (e.g., VitaraHCAngularGaugeChart).
+
+**Existing Style:**
+
+```
+.VitaraHCAngularGaugeChart .vitara-chart-background {
+    fill: red;
+}
+```
+
+**Updated Style:**
+
+```
+
+.vitara.VitaraHCAngularGaugeChart .vitara-chart-background {
+    fill: red;
+}
+```
+
+<br>

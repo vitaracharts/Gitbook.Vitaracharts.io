@@ -7,7 +7,7 @@ Overview of the VitaraMaps installation process for MicroStrategy Web environmen
 * Download the web version of VitaraMaps from the official download page.
 * &#x20;You can find the latest version links on the VitaraMaps [ Main page](https://www.vitaracharts.com/ms-product-downloads).
 
-![](<../.gitbook/assets/unknown (1).png>)
+![](<../.gitbook/assets/unknown (1) (1).png>)
 
 ### New Installation
 
@@ -36,7 +36,7 @@ Follow the steps below if this is your first time installing VitaraMaps:
 
 * Ensure that the folder structure appears correctly after installation.
 
-![](<../.gitbook/assets/unknown (2).png>)<br>
+![](<../.gitbook/assets/unknown (2) (1).png>)<br>
 
 6. **Validate Version Folders**
 

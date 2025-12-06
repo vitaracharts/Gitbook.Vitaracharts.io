@@ -23,3 +23,11 @@ Vitara grid chart will be updated with the data applying filter condition.
 From version 5.1 ,In the hamburger menu, we’ve added group filtering for attribute grouped elements. In the example below, we grouped the attributes ‘Year’ and ‘Category,’ and group filtering was applied from the hamburger menu where we filtered books, and it shows value from both years.
 
 <figure><img src="../.gitbook/assets/GridFilter.png" alt=""><figcaption></figcaption></figure>
+
+#### Beginning with version **5.3.10**, the filter menu has been refreshed with a new design. All  functionalities continue to work as in previous versions. Please refer to the screenshots below.
+
+![](<../.gitbook/assets/unknown (6).png>)
+
+![](<../.gitbook/assets/unknown (7).png>)
+
+<br>

@@ -40,7 +40,7 @@ A sample dataset is provided below for reference.
 
 Next, add attributes and metrics to the chosen drop zones, then enable Allow URL Links from the Security tab
 
-.![](../.gitbook/assets/unknown.png)
+.![](<../.gitbook/assets/unknown (14).png>)
 
 **Important:** To open a file path, users must press **`Ctrl + Left Click`** on the URL (opens in a new tab). If direct-click access is required within the visualization, the URL must be added to the **whitelist**.
 

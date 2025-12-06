@@ -58,6 +58,13 @@ Then metric series will be applied on the chart in the form of ‘line graph’.
 
 <figure><img src="../.gitbook/assets/stackedFinal.png" alt=""><figcaption></figcaption></figure>
 
+### Enhancements to Stacked Bar/Column Charts in Version 5.3.10
+
+In version **5.3.10** of Vitara Charts, stacked bar /column charts have been enhanced to offer greater flexibility in creating metric series as bar/column on secondary axes. Previously, users could build metric series by stacking attribute values on secondary axes, but this capability was limited to area, line, and data marker chart types.
+
+With this update, metric series can now be created as **columns** on the secondary axis in stacked column charts, allowing for clearer and more structured data representation. Additionally, a **bar** option has been introduced for stacked bar charts, enabling metric series to be plotted on secondary axes. These enhancements facilitate easier comparison of multiple metrics simultaneously and provide improved control over chart visualization, particularly when working with complex datasets\
+![](<../.gitbook/assets/unknown (11).png>)![](<../.gitbook/assets/unknown (12).png>)
+
 ## **Remove the Metric Series**
 
 The applied series can be removed if the metric respective to that series is removed from the metric dropzone.

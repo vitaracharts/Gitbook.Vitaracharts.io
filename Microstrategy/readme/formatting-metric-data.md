@@ -60,3 +60,35 @@ In all of the above instances, regardless of the metric’s Number Format, a for
 <figure><img src="../.gitbook/assets/formatting_Metric_Data_6 (2).png" alt=""><figcaption></figcaption></figure>
 
 In all the above screenshot, Formatted value(as shown in Grid Chart) shows ‘%’ even though the data is not in percentage form. Metric values in Data labels, Axis labels and Tooltips are incorrectly formatted as percentage.
+
+## Time Formatting&#x20;
+
+Starting from version **5.3.10**, VitarCharts supports **Time Metrics.**\
+Metrics which represent  durations stored in seconds, minutes, milliseconds, or fractional days to be formatted and displayed as time values.
+
+#### How to Apply
+
+1. In the dossier’s Dataset Panel, right-click the metric name.
+2. Select **Number Format**.
+3. Choose a Time format (such as hh:mm, hh:mm:ss, mm:ss, etc.) based on your display requirements.\
+   \
+   ![](<../.gitbook/assets/unknown (8).png>)
+
+**Examples:**
+
+* A value like **0.31** is interpreted as a fraction of a day and formatted as **07:26**.
+* A value like **95** (seconds) is displayed as **01:35** when using the mm:ss format.<br>
+
+By default, Vitara Charts will reflect the applied Time Format. If the expected Number Format is not displayed, the user must select Use Metric Formatting from the Data Labels and Axis Labels tab the user must select Use Metric Formatting from the Data Labels and Axis Labels tab.
+
+&#x20;Once enabled, all chart elements—including data labels, axis labels, totals, subtotals, and tooltips—automatically adopt the applied time format and are displayed in the same format as defined in MicroStrategy.
+
+#### Reference Screenshot
+
+![](<../.gitbook/assets/unknown (9).png>)
+
+After applying time format below is the screeenshot
+
+![](<../.gitbook/assets/unknown (10).png>)
+
+<br>

@@ -30,4 +30,12 @@ This method uses the grid’s column settings for manual reordering.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdpxGFa8EaDq0g7kV-RfrQA281-7HYRj0mz6KBiCvb-PQ_3WvJ23qadu-vWsQG3jJFtuWsnHwDLeGZOZhg2tz42r8hWbnMqfoJr4kG5D4p73CdTlvEL3zbXihGuDFzHIjPH_W8Hg?key=HG8zy91NAlh2msPjWJsC0g" alt=""><figcaption></figcaption></figure>
 
+#### Pivot column reorder&#x20;
+
+* In Pivot Charts, you can reorder pivot groups and save the customized order. However, when Pivot Group Totals or Pivot Group Metric Totals are enabled, the column order cannot be stored.
+* The pivot order is saved only when these options are disabled. If either option is turned on, the chart will automatically revert to the default column order.
+
+<figure><img src="../.gitbook/assets/pivot order doc.gif" alt=""><figcaption></figcaption></figure>
+
+\
 <br>

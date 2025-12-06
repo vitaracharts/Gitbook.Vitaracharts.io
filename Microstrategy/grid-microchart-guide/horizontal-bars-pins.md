@@ -45,7 +45,7 @@ The visualization adapts based on the type of values present in the column:
 
 The screenshot below illustrates this behavior.
 
-<figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 <br>
