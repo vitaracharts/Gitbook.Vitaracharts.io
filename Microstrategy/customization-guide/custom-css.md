@@ -1,8 +1,13 @@
 # Custom CSS
 
-These features are supported in the release 4.2 (or newer)
+These features are supported in the release 5.3.10 (or newer)
 
-**Important Note:** **After making any changes, you must clear your browser’s cache to ensure the updates are reflected in Vitara Charts.**
+#### Important Note :&#x20;
+
+* For versions **older than 5.3.10**, do NOT include the .vitara namespace.\
+  The new .vitara prefix should be used **only from version 5.3.10 onward**
+
+&#x20;**After making any changes, you must clear your browser’s cache to ensure the updates are reflected in Vitara Charts.**
 
 ## Custom CSS in Vitara Charts <a href="#custom-css-in-vitara-charts" id="custom-css-in-vitara-charts"></a>
 
@@ -21,73 +26,72 @@ The following is an overview of the CSS rules which are internally set on the Vi
 ## CSS Rules <a href="#css-rules" id="css-rules"></a>
 
 ```
-.vitara-chart-background
+.vitara .vitara-chart-background
 ```
 
 The chart area background. Use this to set the chart area background fills.
 
 ```
-.vitara-plot-background
+.vitara .vitara-plot-background
 ```
 
 The plot area background. Use this to set the plot area background fills.
 
-```
-.vitara-category-axis
-```
+<pre><code><strong>.vitara .vitara-category-axis
+</strong></code></pre>
 
 Class for the category axis. Use this to set the category axis labels text style.
 
 ```
-.vitara-value-axis
+.vitara .vitara-value-axis
 ```
 
 Class for the value axis. Use this to set the value axis labels' text style.
 
 ```
-.vitara-axis-title
+.vitara .vitara-axis-title
 ```
 
 The title of the axis. Set the axis title text style with this. To set the title of a given axis, use this class in conjunction with the category or value axis. Text characteristics such as font-family, font-style, color, text-decoration, text-transform, and letter-spacing can be changed.
 
 ```
-.vitara-axis-line
+.vitara .vitara-axis-line
 ```
 
 The axis line is a straight line. Set the width and color of the axis line with this. To set the axis line attributes of a certain axis, use this class in conjunction with the category or value axis.
 
 ```
-.vitara-line-display
+.vitara .vitara-line-display
 ```
 
 The line series. Use this to set the default line style in any line series. Use this class in conjunction with the chart's class name to specifically set the line properties of that particular chart. Line properties like stroke-dasharray, stroke and stroke-width can be set.
 
 ```
-.vitara-grid-line
+.vitara .vitara-grid-line
 ```
 
 The grid line. Use this to set the grid line properties. Line properties like stroke-dasharray, stroke and stroke-width can be set.
 
 ```
-.vitara-legend-text
+.vitara .vitara-legend-text
 ```
 
 The legend item text. Use this to set the legend item text style. Can change text properties like font-family, font-style, color, text-decoration, text-transform, letter-spacing.
 
 ```
-.vitara-marker
+.vitara .vitara-marker
 ```
 
 Can change the fills and strokes and sizes of markers on VitaraCharts selected from the Marker tab in the property editor.
 
 ```
-.vitara-datalabel
+.vitara .vitara-datalabel
 ```
 
 The datalabel. Use this to change the text style of datalabels. Can change text properties like font-family, font-style, color, text-decoration, text-transform, letter-spacing.
 
 ```
-.vitara-point
+.vitara .vitara-point
 ```
 
 * The default class for any data element on the chart.
@@ -96,35 +100,35 @@ The datalabel. Use this to change the text style of datalabels. Can change text 
 
 #### ### CSS Class Names of charts
 
-| **Chart Name**               | **Class Name**              |
-| ---------------------------- | --------------------------- |
-| Vitara Bar Chart             | .VitaraHCBarChart           |
-| Vitara Stacked Bar Chart     | .VitaraHCStackedBarChart    |
-| Vitara Column Chart          | .VitaraHCColumnChart        |
-| Vitara Stacked Column Chart  | .VitaraHCStackedColumnChart |
-| Vitara Pie Chart             | .VitaraHCPieChart           |
-| Vitara KPI Ring Chart        | .VitaraHCKPIRingChart       |
-| Vitara Line Chart            | .VitaraHCLineChart          |
-| Vitara Area Chart            | .VitaraHCAreaChart          |
-| Vitara Bubble Chart          | .VitaraHCBubbleChart        |
-| Vitara Tornado Chart         | .VitaraHCTornadoChart       |
-| Vitara Sparkline Chart       | .VitaraHCSparklineChart     |
-| Vitara Heatmap Chart         | .VitaraHCHeatmapChart       |
-| Vitara Funnel Chart          | .VitaraHCFunnelChart        |
-| Vitara Column Range Chart    | .VitaraHCColumnRangeChart   |
-| Vitara Bullet Chart          | .VitaraHCBulletChart        |
-| Vitara Waterfall Chart       | .VitaraHCWaterfallChart     |
-| Vitara KPI Animation Chart   | .VitaraD3KPIAnimationChart  |
-| Vitara Calendar Heatmap      | .VitaraD3CalHeatMapChart    |
-| Vitara Simple KPI Chart      | .VitaraSimpleKPIChart       |
-| Vitara Mekko Chart           | .VitaraHCMekkoChart         |
-| Vitara Word Cloud            | .VitaraHCWordCloud          |
-| Vitara Waffle Chart          | .VitaraD3WaffleChart        |
-| Vitara Histogram Chart       | .VitaraHCHistogramChart     |
-| Vitara Dumbbell Chart        | .VitaraHCDumbbellChart      |
-| Vitara Slope Chart           | .VitaraHCSlopeChart         |
-| Vitara Circle Packing Chart  | .VitaraD3CirclePackingChart |
-| Vitara Angular Gauge Chart   | .VitaraHCAngularGaugeChart  |
-| Vitara Sankey Chart          | .VitaraHCSankeyChart        |
+| **Chart Name**               | **Class Name**                     |
+| ---------------------------- | ---------------------------------- |
+| Vitara Bar Chart             | .vitara.VitaraHCBarChart           |
+| Vitara Stacked Bar Chart     | .vitara.VitaraHCStackedBarChart    |
+| Vitara Column Chart          | .vitara.VitaraHCColumnChart        |
+| Vitara Stacked Column Chart  | .vitara.VitaraHCStackedColumnChart |
+| Vitara Pie Chart             | .vitara.VitaraHCPieChart           |
+| Vitara KPI Ring Chart        | .vitara.VitaraHCKPIRingChart       |
+| Vitara Line Chart            | .vitara.VitaraHCLineChart          |
+| Vitara Area Chart            | .vitara.VitaraHCAreaChart          |
+| Vitara Bubble Chart          | .vitara.VitaraHCBubbleChart        |
+| Vitara Tornado Chart         | .vitara.VitaraHCTornadoChart       |
+| Vitara Sparkline Chart       | .vitara.VitaraHCSparklineChart     |
+| Vitara Heatmap Chart         | .vitara.VitaraHCHeatmapChart       |
+| Vitara Funnel Chart          | .vitara.VitaraHCFunnelChart        |
+| Vitara Column Range Chart    | .vitara.VitaraHCColumnRangeChart   |
+| Vitara Bullet Chart          | .vitara.VitaraHCBulletChart        |
+| Vitara Waterfall Chart       | .vitara.VitaraHCWaterfallChart     |
+| Vitara KPI Animation Chart   | .vitara.VitaraD3KPIAnimationChart  |
+| Vitara Calendar Heatmap      | .vitara.VitaraD3CalHeatMapChart    |
+| Vitara Simple KPI Chart      | .vitara.VitaraSimpleKPIChart       |
+| Vitara Mekko Chart           | .vitara.VitaraHCMekkoChart         |
+| Vitara Word Cloud            | .vitara.VitaraHCWordCloud          |
+| Vitara Waffle Chart          | .vitara.VitaraD3WaffleChart        |
+| Vitara Histogram Chart       | .vitara.VitaraHCHistogramChart     |
+| Vitara Dumbbell Chart        | .vitara.VitaraHCDumbbellChart      |
+| Vitara Slope Chart           | .vitara.VitaraHCSlopeChart         |
+| Vitara Circle Packing Chart  | .vitara.VitaraD3CirclePackingChart |
+| Vitara Angular Gauge Chart   | .vitara.VitaraHCAngularGaugeChart  |
+| Vitara Sankey Chart          | .vitara.VitaraHCSankeyChart        |
 
 Click here to  [View sample implementations](custom-css-samples.md)

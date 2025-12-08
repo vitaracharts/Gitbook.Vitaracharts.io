@@ -36,6 +36,3 @@ This method uses the grid’s column settings for manual reordering.
 * The pivot order is saved only when these options are disabled. If either option is turned on, the chart will automatically revert to the default column order.
 
 <figure><img src="../.gitbook/assets/pivot order doc.gif" alt=""><figcaption></figcaption></figure>
-
-\
-<br>

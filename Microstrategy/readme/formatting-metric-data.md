@@ -81,6 +81,8 @@ Metrics which represent  durations stored in seconds, minutes, milliseconds, or 
 
 By default, Vitara Charts will reflect the applied Time Format. If the expected Number Format is not displayed, the user must select Use Metric Formatting from the Data Labels and Axis Labels tab the user must select Use Metric Formatting from the Data Labels and Axis Labels tab.
 
+![](<../.gitbook/assets/unknown (19).png>)
+
 &#x20;Once enabled, all chart elements—including data labels, axis labels, totals, subtotals, and tooltips—automatically adopt the applied time format and are displayed in the same format as defined in MicroStrategy.
 
 #### Reference Screenshot

@@ -204,17 +204,11 @@ Additionally, under the Chart Component section, users can customize individual 
 
 After configuring the desired styles, users must save the changes using the Save button located in the top-right corner of the tool.
 
-To ensure the updated styles are applied, clear your browser cache. Once done, the chart will refresh and immediately display the enhanced visual appearance.\
-Example for Reference:
+To ensure the updated styles are applied, clear your browser cache. Once done, the chart will refresh and immediately display the enhanced visual appearance.
 
-To illustrate how custom styling works, the screenshots below demonstrate how to customize a id/Micro chart by applying a subtotal header.<br>
+#### **Example for Reference:**
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
-
-<br>
+To illustrate how custom styling works, the screenshots below demonstrate how to customize a Grid/Micro chart by applying a subtotal header.\
+<img src="../.gitbook/assets/image (31).png" alt="" data-size="original">
 
 <figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
-<br>

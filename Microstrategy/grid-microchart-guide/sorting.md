@@ -63,3 +63,9 @@ If we don’t want to display the attribute form on which we applied sorting we 
 Below is the result of Vitara grid chart, in which we enabled two attribute forms “Customer First Name” and “Customer Last Name” and the chart is sorted based on the attribute form “Customer First Name” and finally the attribute form “Customer First Name” is not showing in the chart.
 
 <figure><img src="../.gitbook/assets/att_form5.png" alt=""><figcaption></figcaption></figure>
+
+## Pivot Sort
+
+When a chart is pivoted, users can apply sorting to the pivot attributes. In the example below, the Year and Quarter attributes are pivoted, and applying sort to these attributes updates the order in the pivot header accordingly.
+
+<figure><img src="../.gitbook/assets/pivot sort.gif" alt=""><figcaption></figcaption></figure>

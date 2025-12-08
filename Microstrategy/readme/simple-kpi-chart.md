@@ -85,6 +85,8 @@ It can be found in the property editor’s below Data Labels tab, where users ca
 
 <figure><img src="../.gitbook/assets/SimpleKPI.png" alt=""><figcaption></figcaption></figure>
 
+### Tooltip Visibility Enhancement (5.3.10)
+
 Starting with version **5.3.10,** the **tooltip** has been enhanced to improve readability. The tooltip size has been increased, allowing users to view information more clearly.
 
 Furthermore, the tooltip is now displayed outside the chart area, preventing it from overlapping with chart elements or data points. This improvement ensures better visibility and a smoother user experience. Refer to the screenshot below for further details.
@@ -92,5 +94,3 @@ Furthermore, the tooltip is now displayed outside the chart area, preventing it 
 .
 
 <figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
-
-<br>

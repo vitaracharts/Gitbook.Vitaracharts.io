@@ -1,19 +1,66 @@
 ---
-description: These features are supported in the release 4.2 (or newer)
+description: These features are supported in the release 5.3.10 (or newer)
 ---
 
 # Custom CSS Samples
+
+#### Important Note :&#x20;
+
+For versions **older than 5.3.10**, do NOT include the .vitara namespace.\
+The new .vitara prefix should be used **only from version 5.3.10 onward**
+
+#### Example Scenario: Styling Chart Elements
+
+When styling chart elements, add “**.vitara**” followed by a **space** before the element class
+
+**Before 5.3.10 (older versions):**
+
+```
+.vitara-chart-background {
+    fill: rgb(117, 245, 66);
+    background-color: rgb(117, 245, 66);
+}
+```
+
+**From 5.3.10 onward:**
+
+```
+.vitara .vitara-chart-background {
+    fill: rgb(117, 245, 66);
+    background-color: rgb(117, 245, 66);
+}
+```
+
+#### Styling Using Chart Classes
+
+Add “**.vitara**” directly before the chart class name.\
+**Note:** There should be no space between “**.vitara**” and the chart class (e.g., VitaraHCAngularGaugeChart).
+
+**Before 5.3.10 (older versions):**
+
+```
+.VitaraHCAngularGaugeChart .vitara-chart-background {
+    fill: red;
+}
+```
+
+**From 5.3.10 onward:**
+
+```
+.vitara.VitaraHCAngularGaugeChart .vitara-chart-background {
+    fill: red;
+}
+```
 
 ## Chart Area Background
 
 Applied chart area background color to be rgb(117, 245, 66)&#x20;
 
-```
-.vitara-chart-background{
-  fill: rgb(117, 245, 66);
+<pre><code><strong>.vitara .vitara-chart-background{
+</strong>  fill: rgb(117, 245, 66);
   background-color: rgb(117, 245, 66)
 }
-```
+</code></pre>
 
 ####
 
@@ -24,7 +71,7 @@ Applied chart area background color to be rgb(117, 245, 66)&#x20;
 Applied plot area background color to be #f5ad42
 
 ```
-.vitara-plot-background{
+.vitara .vitara-plot-background{
     fill: #f5ad42;
     background-color: #f5ad42
 }
@@ -45,25 +92,25 @@ Both Category and Value axes labels font-size to be 15px, color fill to be red ,
 For datalabels, the font-size to be 25px, color fill to be green and font-family to be Courier New
 
 ```
-.vitara-chart-background{
+.vitara .vitara-chart-background{
     fill: rgb(117, 245, 66);
     background-color: rgb(117, 245, 66)
 
 }
 
-.vitara-plot-background{
+.vitara .vitara-plot-background{
     fill: #f5ad42;
     background-color: #f5ad42
 }
 
-.vitara-category-axis, .vitara-value-axis {
+.vitara .vitara-category-axis, .vitara-value-axis {
     font-size: 15px;
     fill: red;
     font-family: Impact;
     font-style: italic;
 }
 
-.vitara-datalabel{
+.vitara .vitara-datalabel{
     font-size: 25px;
     color: green;
     font-family: 'Courier New';
@@ -79,7 +126,7 @@ For datalabels, the font-size to be 25px, color fill to be green and font-family
 Applied the background color to be aqua , font family to be Comic Sans MS, Comic Sans, cursive and font size to be 35px
 
 ```
-.vitara-tooltip{
+.vitara .vitara-tooltip{
     font-family: "Comic Sans MS, Comic Sans", cursive;
     font-size: 35px;
     background-color: aqua;
@@ -94,21 +141,20 @@ Applied the background color to be aqua , font family to be Comic Sans MS, Comic
 
 For labels, the color fill was rgb(197, 66, 245), the font family was Impact, the text decoration was underline, and the font size was 18px. The color fill for the title was #f56c42, the font family was Helvetica, the text decoration was underline, the font size was 25px, and the font style was italic.
 
-```
-.vitara-category-axis{
-    fill: rgb(197, 66, 245);
+<pre><code><strong>.vitara .vitara-category-axis{
+</strong>    fill: rgb(197, 66, 245);
     text-decoration: underline;
     font-family: Impact;
     font-size: 18px
 }
-.vitara-category-axis .vitara-axis-title{
+.vitara .vitara-category-axis .vitara-axis-title{
 fill: #f56c42;
 text-decoration: underline;
 font-style: italic;
 font-family: Helvetica;
 font-size: 25px
 }
-```
+</code></pre>
 
 ####
 
@@ -119,7 +165,7 @@ font-size: 25px
 Applied border to the column, stroke-width to be 2, stroke to be red and stroke-dasharray to be 5,5
 
 ```
-.vitara-point{
+.vitara .vitara-point{
     stroke-width: 2;
     stroke: red !important;
     stroke-dasharray: 5,5;
@@ -135,7 +181,7 @@ Applied border to the column, stroke-width to be 2, stroke to be red and stroke-
 Applied stroke-width to be 2 and the stroke-dasharray to be 4,5,2
 
 ```
-.vitara-line-display{
+.vitara .vitara-line-display{
     stroke-width: 2;
     stroke-dasharray: 4,5,2;
 }
@@ -150,7 +196,7 @@ Applied stroke-width to be 2 and the stroke-dasharray to be 4,5,2
 Applied font-size to be 20px, the font-family to be Impact and fill to be red
 
 ```
-.vitara-legend-text{
+.vitara .vitara-legend-text{
     fill: red;
     font-family: Impact;
     font-size: 20px;
@@ -166,7 +212,7 @@ Applied font-size to be 20px, the font-family to be Impact and fill to be red
 Applied font-size to be 14px, fill to be teal , stroke to be red , stroke-width to be 2
 
 ```
-.vitara-marker{
+.vitara .vitara-marker{
 	fill:teal;
 	font-size: 14px;
 	stroke:red;
@@ -183,7 +229,7 @@ Applied font-size to be 14px, fill to be teal , stroke to be red , stroke-width 
 ### Applied stroke to be black , opacity to be 0.2, stroke-dasharray to be 6,6
 
 ```
-.vitara-grid-line{
+.vitara .vitara-grid-line{
     stroke: black;
     opacity: 0.2;
     stroke-dasharray: 6,6;
@@ -199,63 +245,11 @@ Applied font-size to be 14px, fill to be teal , stroke to be red , stroke-width 
 Applied fill to be palegreen for Pie chart background color
 
 ```
-.VitaraHCPieChart .vitara-chart-background{
+.vitara.VitaraHCPieChart .vitara-chart-background{
 	fill: palegreen;
 }
 ```
 
 <figure><img src="../.gitbook/assets/image15.png" alt=""><figcaption></figcaption></figure>
-
-## Changes in Custom CSS Starting from Version 5.3.10
-
-Beginning with version 5.3.10, a “vitara” namespace has been introduced in the default styling to avoid conflicts with CSS originating from MicroStrategy (MSTR) or other external plugins.
-
-To ensure that custom CSS continues to work as expected, the “**.vitara**” class must now be added to relevant **CSS** selectors, as outlined below.
-
-#### Example Scenario: Styling Chart Elements
-
-When styling chart elements, add “**.vitara**” followed by a **space** before the element class
-
-**Existing Style:**
-
-```
-
-.vitara-chart-background {
-    fill: rgb(117, 245, 66);
-    background-color: rgb(117, 245, 66);
-}
-```
-
-**Updated Style:**
-
-```
-
-.vitara .vitara-chart-background {
-    fill: rgb(117, 245, 66);
-    background-color: rgb(117, 245, 66);
-}
-```
-
-#### Styling Using Chart Classes
-
-Add “**.vitara**” directly before the chart class name.\
-Note: There should be no space between “.vitara” and the chart class (e.g., VitaraHCAngularGaugeChart).
-
-**Existing Style:**
-
-```
-.VitaraHCAngularGaugeChart .vitara-chart-background {
-    fill: red;
-}
-```
-
-**Updated Style:**
-
-```
-
-.vitara.VitaraHCAngularGaugeChart .vitara-chart-background {
-    fill: red;
-}
-```
 
 <br>
