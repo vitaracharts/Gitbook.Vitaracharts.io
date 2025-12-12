@@ -4,6 +4,19 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.10
+
+* Improvement – Simple KPI tooltip can now be displayed outside the chart for better visibility.
+* Improvement – Stacked charts now support metrics with numeric values displayed as time using number formatting.
+* Improvement – Customer requested enhancement: Added support for Secondary Axis in Stacked Column charts.
+* Bug Fix – Customer reported issue: Error / Cannot read properties of undefined (reading 'type') in Tornado chart.
+* Bug Fix – Customer reported issue: Legend interaction issue with single data point in dataset.
+* Bug Fix – Customer reported issue: German locale – row total from original grid was getting added again in Vitara Grid.
+
+### 5.3.9
+
+* Security Patch merged : Server side request forgery related issue fixed
+
 ### 5.3.8
 
 * Bug Fix - Customer reported issue: Chart load delay with auto-scroll for large data sets causes wait/exit alert.
