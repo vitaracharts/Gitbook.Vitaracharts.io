@@ -1,7 +1,5 @@
 # Grand Total
 
-<br>
-
 ## Properties Menu - Grand Total <a href="#properties-menu---grand-total" id="properties-menu---grand-total"></a>
 
 Vitara grid chart by default shows ‘Grand Total’ row at the bottom of the visualization. The default function applied is ‘Sum’. However, we can modify the default aggregation function to other functions in the list.

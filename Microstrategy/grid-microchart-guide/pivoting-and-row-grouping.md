@@ -1,7 +1,5 @@
 # Pivoting and Row Grouping
 
-<br>
-
 ## Properties Menu - Row Grouping and Pivoting <a href="#properties-menu---row-grouping-and-pivoting" id="properties-menu---row-grouping-and-pivoting"></a>
 
 There are grouping and pivoting drop zones now in the grid chart, which are introduced in the 4.1 version of Vitara charts. You can now drag and drop the attributes into the drop zones. Below is the screenshot of drop zones.
