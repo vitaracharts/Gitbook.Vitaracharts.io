@@ -8,19 +8,26 @@ There are two attributes in the sample below: Category and Quarter. The quarter 
 
 Metric inputs: 1 metric Attribute: A minimum of two attributes. Available Use as Filter Option.
 
-Inputs Metrics: 1 metric Attribute: At least 2 attributes. Use as Filter Option - Available
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image73.png" alt=""><figcaption></figcaption></figure>
+## Stack by :  <a href="#stack-by-percentage" id="stack-by-percentage"></a>
+
+Users can create a chart using a single attribute. When an attribute is added to the Stacked by field:
+
+* The chart automatically renders as a stacked chart.
+* Data is stacked based on the values of the selected attribute<br>
+
+<div><figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Stack by Percentage <a href="#stack-by-percentage" id="stack-by-percentage"></a>
 
-By default, stacked bar/column charts stack the bars based on their values. Using the ‘Stack by %’ option, we can adjust the height of the stacked bars based on their % contribution to the total stack value.
+By default, stacked bar and column charts stack bars based on their actual values. When the **Stack by %** option is enabled, the height of each bar segment is calculated based on its percentage contribution to the total stack value.
 
 <figure><img src="../.gitbook/assets/stack by percentage.png" alt=""><figcaption></figcaption></figure>
 
 ## Stack by Metrics <a href="#stack-by-metrics" id="stack-by-metrics"></a>
 
-In 4.2 release the major change in stacked bar/column is, in **web documents** now we can stack using metrics. Please refer the below screenshot to enable this feature.
+**A key enhancement to stacked bar and column charts is the ability to stack by metrics in web documents.** This update allows users to create metric-based stacks directly. Refer to the screenshot below to see how to enable and use this feature.
 
 <figure><img src="../.gitbook/assets/Stack by metric.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,39 +35,37 @@ In 4.2 release the major change in stacked bar/column is, in **web documents** n
 
 With the 4.5 edition of the Vitara charts, a new feature in the Stacked bar/column charts allows the user to build a metric series by stacking the attribute values on the same or separate axes. Metric series can be created in three ways: line, area, and data markers. The screenshot below shows a layered Column chart with attributes layered on one axis and a metric series \[line] produced on the other.&#x20;
 
-<figure><img src="../.gitbook/assets/stackedSample.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/step0 (1).png" alt=""><figcaption></figcaption></figure>
 
-To utilize metric series, the chart must have two attributes \[one as a category and the other as a break by] and at least two metrics \[the first metric is always used to establish the value of the bars/columns, and other metrics can be used to make the metric series]. Let’s look at how to make a metric series in the basic steps below.
+To utilize metric series, the chart must have two attributes \[one as a **category** and the other as a **Stack by]** and at least two metrics \[the first metric is always used to establish the value of the bars/columns, and other metrics can be used to make the metric series]. Let’s look at how to make a metric series in the basic steps below.
+
+## Example: Creating a Metric Series on the Secondary Axis in a Stacked Bar Chart
+
+This example demonstrates how to add a metric-based series to a stacked bar chart and display it on the secondary axis.
 
 ### **Step 1**
 
-Create a stacked bar/column chart with 2 attributes and metrics. Stack by attribute values \[i.e drag an attribute into ‘break by’ dropzone]. See the sample screenshot below.
+Create a stacked bar/column chart with 2 attributes and metrics. Stack by attribute values \[i.e drag an attribute into ‘**stack by**’ dropzone]. See the sample screenshot below.
 
-<figure><img src="../.gitbook/assets/stackedStep1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
 
-### **Step 2**
+### Step 2
 
-Open the property editor and go to series tab
-
-### **Step 3**
-
-Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.
+Open the **Property Editor**, navigate to the **Series** tab, and scroll to the bottom to find the **Metric Selection** drop-down. Select the required metric and click **Add** to create the series; this opens the series options menu. Refer to the screenshot for details.
 
 <figure><img src="../.gitbook/assets/Stacked_step3_1.png" alt=""><figcaption></figcaption></figure>
 
-### **Step 4**
+### **Step 3**
 
-Select all required options for that series and click on ‘Apply’ See the screenshot below.
+Select the required options for the series and click **Apply**. Refer to the screenshot below for guidance.
 
-<figure><img src="../.gitbook/assets/Stacked_step3_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stacked_step3_2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<br>
+The selected metric is now displayed as a **line series on the secondary axis**,. Refer to the screenshot below for an example.
 
-Then metric series will be applied on the chart in the form of ‘line graph’. See the screenshot below.<br>
+<figure><img src="../.gitbook/assets/step4_2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/stackedFinal.png" alt=""><figcaption></figcaption></figure>
-
-### Enhancements to Stacked Bar/Column Charts in Version 5.3.10
+## Stacked Bar/Column Chart Enhancements: Secondary Axis
 
 In version **5.3.10** of Vitara Charts, stacked bar /column charts have been enhanced to offer greater flexibility in creating metric series as bar/column on secondary axes. Previously, users could build metric series by stacking attribute values on secondary axes, but this capability was limited to area, line, and data marker chart types.
 

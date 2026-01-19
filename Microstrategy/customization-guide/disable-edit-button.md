@@ -6,9 +6,12 @@ Users can modify Vitara Charts by using the properties box that appears when we 
 
 ## VI Dashboards or Dossiers <a href="#vi-dashboards-or-dossiers" id="vi-dashboards-or-dossiers"></a>
 
-When the VI Dashboard/Dossier is run in “Presentation Mode,” the Vitara Charts do not display the ‘Edit’ button.
+For **VI Dashboards and Dossiers,** the **Edit** button is automatically disabled when the dashboard or dossier is run in “**Presentation Mode**.”\
+This behavior is default system behavior and cannot be configured using privileges or file permissions.
 
 ## Report Services Documents <a href="#report-services-documents" id="report-services-documents"></a>
+
+> **Note** : The option to disable or control the Vitara Charts ‘Edit’ button using configuration settings, user privileges, or file permissions applies to **Report Services Documents** only.
 
 In MicroStrategy, the concepts of “User Privileges” and “File Permissions” are used to implement security at various levels of users. Vitaracharts can be configured using the security model so that only developers or document designers, not end users, can change the Vitara charts. Depending on the privileges or file permissions that a user has in MicroStrategy, we can allow or limit a user from editing or modifying Vitara charts.
 
