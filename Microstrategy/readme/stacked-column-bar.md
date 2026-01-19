@@ -16,13 +16,13 @@ Inputs Metrics: 1 metric Attribute: At least 2 attributes. Use as Filter Option 
 
 By default, stacked bar/column charts stack the bars based on their values. Using the ‘Stack by %’ option, we can adjust the height of the stacked bars based on their % contribution to the total stack value.
 
-<figure><img src="../.gitbook/assets/image664.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stack by percentage.png" alt=""><figcaption></figcaption></figure>
 
 ## Stack by Metrics <a href="#stack-by-metrics" id="stack-by-metrics"></a>
 
-In 4.2 release the major change in stacked bar/column is, in web documents now we can stack using metrics. Please refer the below screenshot to enable this feature.
+In 4.2 release the major change in stacked bar/column is, in **web documents** now we can stack using metrics. Please refer the below screenshot to enable this feature.
 
-<figure><img src="../.gitbook/assets/image665.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stack by metric.png" alt=""><figcaption></figcaption></figure>
 
 ## Adding a line series along with stacked bars/columns <a href="#adding-a-line-series-along-with-stacked-barscolumns" id="adding-a-line-series-along-with-stacked-barscolumns"></a>
 
@@ -44,15 +44,17 @@ Open the property editor and go to series tab
 
 ### **Step 3**
 
-Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.<br>
+Scroll down to see metric selection drop-down at the bottom of the editor. Select a metric with which the series needs to be formed and click on the ‘add’ button next to it, then the series options menu will be opened. See the screenshot.
 
-<figure><img src="../.gitbook/assets/stackedStep3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stacked_step3_1.png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4**
 
-Select all required options for that series and click on ‘Apply’ See the screenshot below.<br>
+Select all required options for that series and click on ‘Apply’ See the screenshot below.
 
-<figure><img src="../.gitbook/assets/stackedStep4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stacked_step3_2.png" alt=""><figcaption></figcaption></figure>
+
+<br>
 
 Then metric series will be applied on the chart in the form of ‘line graph’. See the screenshot below.<br>
 
@@ -75,7 +77,7 @@ Pattern fill feature in a stacked bar/column chart is utilized to enhance data d
 
 From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double Square/Slash) in the Series tab, which allows us to display data in a more presentable manner.
 
-<figure><img src="../.gitbook/assets/stackColumnSeries.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stacked_patternfill.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/stackColumnSeries1.png" alt=""><figcaption></figcaption></figure>
 

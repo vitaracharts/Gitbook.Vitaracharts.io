@@ -20,7 +20,7 @@ Below are the screenshots with the marker options.
 
 <figure><img src="../.gitbook/assets/marker.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/marker1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sparkline_marker.png" alt=""><figcaption></figcaption></figure>
 
 In the below example, the Profit metric’s line changed to line secondary axis in series property and ‘Tree’ marker is applied for the profit metric. Below is the screenshot with the marker applied in the chart.
 

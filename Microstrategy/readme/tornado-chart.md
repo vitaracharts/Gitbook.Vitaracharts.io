@@ -16,7 +16,7 @@ We can make the sparkline chart as a combinational chart by changing the series 
 
 From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double Square/Slash) in the Series tab, which allows us to display data in a more presentable manner.
 
-<figure><img src="../.gitbook/assets/tornadoSeries.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/tornadoSeries1.png" alt=""><figcaption></figcaption></figure>
 

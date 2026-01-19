@@ -79,7 +79,7 @@ We can turn the bar/column chart into the combinational chart by changing the �
 
 From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double Square/Slash) in the Series tab, which allows us to display data in a more presentable manner.
 
-<figure><img src="../.gitbook/assets/barSeries.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bar_pattern.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/barSeries1.png" alt=""><figcaption></figcaption></figure>
 
@@ -87,7 +87,7 @@ From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double
 
 From Version 5.1.1, we have added a new feature that allows us to add markers to bar and column charts using image addresses (links). This functionality can be enabled under the series tab with name ‘Set DataMarker (link),’ where we must enter the URL and press the Apply button.
 
-<figure><img src="../.gitbook/assets/BarMarker1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bar_datamarkerlink.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/BarMarker2.png" alt=""><figcaption></figcaption></figure>
 
@@ -97,11 +97,11 @@ From 4.6 version, the markers in bar/column charts provide a visual means to hig
 
 Open the property editor by clicking on the ‘Edit’ button and select the Series tab you can see the Enable marker, Marker type and Marker size options to Enable marker properties. Below are the screenshots with the marker options.
 
-<figure><img src="../.gitbook/assets/newMarker1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bar_markers.png" alt=""><figcaption></figcaption></figure>
 
 In the below example, the bar changed to line in series property and ‘Thumbs-up’ marker is applied for the ‘2015 Q2’ attribute element. Below is the screenshot with the marker applied in the chart.
 
-<figure><img src="../.gitbook/assets/barColumnMarker1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bar_markers1.png" alt=""><figcaption></figcaption></figure>
 
 ## **Data Marker from Attribute Form**
 
@@ -271,25 +271,22 @@ Here is a screenshot of a bar fill using a percentage dataset.
 
 #### Delta Bar <a href="#delta-bar" id="delta-bar"></a>
 
-From version 5.0, Delta Bar/Column feature added to chart, which can be enabled by selecting options from the series tab for individual series. The delta bar feature in a bar chart is a visual element used to represent the difference or change between two data points or categories. It typically consists of vertical bars or lines that connect two bars, highlighting the variance between them. This feature is useful for emphasizing trends, comparisons, or deviations in data, making it easier for viewers to understand shifts or developments over time. Delta bars can be color-coded to indicate positive or negative changes, aiding in the interpretation of data and enabling quick insights into the data’s dynamics.
+From version 5.0, Delta Bar/Column feature added to chart, which can be enabled by selecting options from the series tab for individual series. The delta bar feature in a bar chart is a visual element used to represent the difference or change between two data points or categories. It typically consists of vertical bars or lines that connect two bars, highlighting the variance between them. This feature is useful for emphasizing trends, comparisons, or deviations in data, making it easier for viewers to understand shifts or developments over time. Delta bars can be color-coded to indicate positive or negative changes, aiding in the interpretation of data and enabling quick insights into the data’s dynamics.\
+**Note** : DeltaBar has been disabled for Bar Fill, Polarmode, Dynamic width, Overlay, IBCS view & Play-Axis, and color by.
 
-<figure><img src="../.gitbook/assets/DeltaBar1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bar_delta.png" alt=""><figcaption></figcaption></figure>
 
-There are also options to enable delta Labels, set delta Bar width, and invert delta Bar colors.
-
-<figure><img src="../.gitbook/assets/DeltaBar2.png" alt=""><figcaption></figcaption></figure>
-
-The delta Bar feature completely disables error bars and vice versa.
-
-<figure><img src="../.gitbook/assets/DeltaBar3.png" alt=""><figcaption></figcaption></figure>
+* There are also options to enable delta Labels, set delta Bar width, and invert delta Bar colors.
 
 The image below shows how the Profit of the financial years 2020 and 2021 will be compared, showing both negative and positive deltas.
 
 <figure><img src="../.gitbook/assets/DeltaResult.png" alt=""><figcaption></figcaption></figure>
 
-This feature is also available with small multiples and bar variance properties.
+* This feature is also available with small multiples and bar variance properties.
 
-**Note** : DeltaBar has been disabled for Bar Fill, Polarmode, Dynamic width, Overlay, IBCS view & Play-Axis, and color by.
+**Note :** The delta Bar feature completely disables error bars and vice versa.
+
+<figure><img src="../.gitbook/assets/Bar_error_bars.png" alt=""><figcaption></figcaption></figure>
 
 ## **Secondary Delta Feature**
 
@@ -349,11 +346,11 @@ The “Show Aggregate” feature will be accessible from the “Series” tab in
 
 Within the “Series” tab, a new option named “Show Aggregate” will be added, accompanied by a dropdown menu that allows users to select the desired aggregate function (e.g., sum, average), by default it will be none.
 
-<figure><img src="../.gitbook/assets/ShowAggregate.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/ShowAggregate1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ba_aggregate.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ShowAggregate2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ShowTop.png" alt=""><figcaption></figcaption></figure>
 

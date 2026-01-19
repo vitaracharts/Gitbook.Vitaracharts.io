@@ -22,11 +22,13 @@ Markers in line/area charts are symbols or shapes placed at data points along th
 
 By selecting the Series tab and clicking the ‘Edit’ button, you can see the Enable marker, Marker type, and Marker size options to Enable marker properties. There are numerous markers to choose from. Navigate to the marker tab, choose the marker type, and then select the marker. The size of the markings can also be changed. Simply enter a number in the ‘Marker Size’ text input box, or utilise the increase/decrease buttons.
 
-<div><figure><img src="../.gitbook/assets/newMarkerLine.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/newMarkerLine1.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/newMarkerLine.png" alt=""><figcaption></figcaption></figure>
 
-In the below example, the line changed to area in series property and ‘Rocket’ marker is applied for the 2015 attribute element. Below is the screenshot with marker applied in the chart.
+<figure><img src="../.gitbook/assets/line_marker.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/lineMarker.png" alt=""><figcaption></figcaption></figure>
+
+
+In the above example, the line changed to area in series property and ‘Rocket’ marker is applied for the 2015 attribute element. Below is the screenshot with marker applied in the chart.
 
 ## Series <a href="#series" id="series"></a>
 
@@ -40,7 +42,7 @@ Pattern fill in line and area charts employs various designs to fill the space u
 
 From version 4.9.0, this charts have the Pattern fill option (Grid/Square/Double Square/Slash) in the Series tab, which allows us to display data in a more presentable manner.
 
-<figure><img src="../.gitbook/assets/areaSeries.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/line_pattern.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/areaSeries1.png" alt=""><figcaption></figcaption></figure>
 
