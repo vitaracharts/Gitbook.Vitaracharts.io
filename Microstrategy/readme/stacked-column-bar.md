@@ -4,8 +4,6 @@ A stacked bar/column chart is a graphical representation where individual data v
 
 In stacked bar and column charts, the second attribute groups on the first attribute instead of the traditional bar and column charts, which display a separate bar or column for each element of the attribute.
 
-There are two attributes in the sample below: Category and Quarter. The quarter attribute is grouped on the category attribute; as a result, all the quarter attribute elements are shown one above the other for each element of the Category attribute.
-
 Metric inputs: 1 metric Attribute: A minimum of two attributes. Available Use as Filter Option.
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
