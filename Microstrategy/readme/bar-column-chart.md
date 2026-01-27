@@ -6,6 +6,14 @@ A bar chart, often known as a bar graph, is a type of chart that displays organi
 
 Metrics - 1 or more metrics Attributes - 1 or more attributes Use as Filter Option - Available
 
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+### Color By:
+
+Users can also create a chart using the Color By drop zone. Refer to the screenshot below for guidance.
+
+<figure><img src="../.gitbook/assets/unknown (21).png" alt=""><figcaption></figcaption></figure>
+
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 
 In terms of business, specific parts of the chart should be highlighted to attract the attention of decision makers. For example, highlight the stores with total sales greater than a certain amount, or the top ten products with high sales over the previous winter. Thresholds are extremely valuable items in these scenarios.

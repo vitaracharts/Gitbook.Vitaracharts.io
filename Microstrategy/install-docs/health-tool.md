@@ -60,8 +60,15 @@ Validates the presence and status of the license file.
   /MicroStrategy/plugins/VitaraCharts/utils/health.html
 * **Web Library:**\
   /MicroStrategyLibrary/plugins/VitaraCharts/utils/health.html
-* **Mobile:**\
-  /MicroStrategyMobile/plugins/VitaraCharts/utils/health.html
+
+### Available from Version 5.3.10
+
+Starting from version **5.3.10**, the Health Tool interface can be accessed from the following locations:
+
+* **Web:**\
+  /MicroStrategy/plugins/VitaraCharts/utils/health.jsp
+* **Web Library:**\
+  /MicroStrategyLibrary/plugins/VitaraCharts/utils/health.jsp
 
 #### Example Scenario: Custom Files Validation Messages
 
