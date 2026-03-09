@@ -14,7 +14,7 @@ Metrics - 1 or more metrics Attributes - 1 attributes Use as Filter Option - Ava
 
 Starting with version 5.3.2, the Funnel chart supports simultaneous analysis of multiple metrics without requiring an attribute. This enhancement streamlines data evaluation, providing businesses with comprehensive insights from multiple metrics within a single view.
 
-<figure><img src="../.gitbook/assets/Funnel.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (26).png" alt=""><figcaption></figcaption></figure>
 
 ## Play-by Animation <a href="#play-by-animation" id="play-by-animation"></a>
 

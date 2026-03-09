@@ -73,7 +73,7 @@ For a specific category axis attribute element, a line will be created between t
 
 <figure><img src="../.gitbook/assets/BubbleTransition.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/BubbleLine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (24).png" alt=""><figcaption></figcaption></figure>
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 

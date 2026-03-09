@@ -16,7 +16,7 @@ By default, the animation duration is set to **1001ms**, but users can modify it
 
 Additionally, users can customize the animation duration for individual series or apply a uniform duration (e.g., 1ms) across all series, ensuring the best possible performance for their specific use case.
 
-<figure><img src="../.gitbook/assets/Animation.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Animation (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Introducing Animation Duration in Angular Gauge Chart
 

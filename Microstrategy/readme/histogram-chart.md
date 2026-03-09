@@ -64,4 +64,4 @@ This feature can be enabled under the “Histogram” tabs, where it can be used
 
 <figure><img src="../.gitbook/assets/HistogramZero1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/HistogramZero2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (27).png" alt=""><figcaption></figcaption></figure>

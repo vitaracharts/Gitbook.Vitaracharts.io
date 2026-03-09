@@ -28,9 +28,9 @@ We have an option to enable/disable the All, Value and Variation Data labels.
 
 We can now display data labels inside the marker starting with version 5.2. A slope chart’s readability and clarity can be improved by adding labels inside the markers by directly connecting the values to the corresponding data points. Viewers can more easily recognize and relate data points to their relevant categories by using labels inside markers. This is particularly helpful in slope charts, where the comparison of changes between two points for various categories is the main focus. This functionality can be enabled by going to the editor’s data labels property and checking the “Label inside the marker” check box.
 
-<figure><img src="../.gitbook/assets/Slope3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Slope4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (32).png" alt=""><figcaption></figcaption></figure>
 
 ## Line Width and Line Style <a href="#line-width-and-line-style" id="line-width-and-line-style"></a>
 
@@ -38,7 +38,7 @@ With version 5.2, a new tab called ‘Slope’ was added, allowing us to customi
 
 <figure><img src="../.gitbook/assets/Slope5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Slope6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (33).png" alt=""><figcaption></figcaption></figure>
 
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 

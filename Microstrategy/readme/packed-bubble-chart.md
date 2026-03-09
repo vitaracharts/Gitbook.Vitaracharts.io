@@ -59,4 +59,4 @@ Starting from version 5.1.1, we can now choose to manage the bubble’s size usi
 
 <figure><img src="../.gitbook/assets/BubbleSize1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/BubbleSize2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (28).png" alt=""><figcaption></figcaption></figure>

@@ -135,7 +135,7 @@ Now, when dataset is being added we have to follow certain steps:
 
 * Finally, add attributes and metrics to the chosen dropzones to see markers appear on the charts.&#x20;
 
-<figure><img src="../.gitbook/assets/MarkerOutput (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (22).png" alt=""><figcaption></figcaption></figure>
 
 ## Column/Bar Property <a href="#columnbar-property" id="columnbar-property"></a>
 
@@ -186,7 +186,7 @@ Vertical polar mode in a column chart merges the vertical layout of columns with
 
 <figure><img src="../.gitbook/assets/polarC1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/polarC2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (23).png" alt=""><figcaption></figcaption></figure>
 
 ### **Polar Mode settings**
 

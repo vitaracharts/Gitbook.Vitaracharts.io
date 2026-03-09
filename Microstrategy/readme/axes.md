@@ -147,11 +147,11 @@ Here’s an example to illustrate the Label Interval and Label Start Index setti
 1. **Label Interval**: Since we have 200 data points, a suitable label interval would be between 10-15. Setting the interval to 10 means that every 10th label on the x-axis will be displayed.
 2. **Label Start Index**: If we set the Label Start Index to 5, the labels will start displaying from the 5th data point. With the interval set to 10, the labels would be displayed at data points 5, 15, 25, and so on. The x-axis would start showing labels from the 5th data point and continue at every 10th interval. This configuration ensures that the chart remains clear, and the labels are not overlapping, making it easier to interpret the data.
 
-<figure><img src="../.gitbook/assets/interval2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (36).png" alt=""><figcaption></figcaption></figure>
 
 Refer to the screenshot below ,after applying the specified Label Interval and Label Start Index settings.&#x20;
 
-<figure><img src="../.gitbook/assets/interval3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (37).png" alt=""><figcaption></figcaption></figure>
 
 #### Impact of Label Interval on Category Label Rendering in Charts <a href="#impact-of-label-interval-on-category-label-rendering-in-charts" id="impact-of-label-interval-on-category-label-rendering-in-charts"></a>
 

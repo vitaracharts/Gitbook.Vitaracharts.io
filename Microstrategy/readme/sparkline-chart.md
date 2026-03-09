@@ -24,7 +24,7 @@ Below are the screenshots with the marker options.
 
 In the below example, the Profit metric’s line changed to line secondary axis in series property and ‘Tree’ marker is applied for the profit metric. Below is the screenshot with the marker applied in the chart.
 
-<figure><img src="../.gitbook/assets/Marker12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (34).png" alt=""><figcaption></figcaption></figure>
 
 ## Series <a href="#series" id="series"></a>
 

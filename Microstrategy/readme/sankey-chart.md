@@ -76,11 +76,11 @@ Navigate to the Sankey tab in the property editor and enter the desired range in
 
 <figure><img src="../.gitbook/assets/sankey12.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/sankey13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (29).png" alt=""><figcaption></figcaption></figure>
 
 ## Background Image <a href="#background-image" id="background-image"></a>
 
-The steps to set a background image for all Vitara charts are explained in [backgroundImage](bar-column-chart.md).
+The steps to set a background image for all Vitara charts are explained in [backgroundImage](https://docs.vitaracharts.com/readme/background-images).
 
 ## New data model - Introduced in 4.5 release <a href="#new-data-model---introduced-in-45-release" id="new-data-model---introduced-in-45-release"></a>
 
@@ -247,7 +247,7 @@ To use this function, navigate to the series tab in the editor and choose the se
 
 <figure><img src="../.gitbook/assets/sankey10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/sankey11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (31).png" alt=""><figcaption></figcaption></figure>
 
 #### Sankey Visualization Enhancement: Support for Negative Values <a href="#sankey-visualization-enhancement-support-for-negative-values" id="sankey-visualization-enhancement-support-for-negative-values"></a>
 

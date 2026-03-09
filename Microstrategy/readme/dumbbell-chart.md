@@ -20,7 +20,7 @@ We can modify the data labels format for the data labels and variation also. You
 
 We can now display data labels inside the marker starting with version 5.2. Labels inside markers in a dumbbell chart improve data comprehension and context. The objective of the chart is clarified by inserting labels within markers, which generally reflect the chart’s initial and final values. This approach allows for the instant identification of data points, allowing viewers to directly compare numbers and understand changes. Labels provide additional information, such as background or explanations, that helps to clarify the relevance of the data being displayed. This method saves space and reduces visual clutter because labels are confined within markers. This functionality can be enabled by going to the editor’s data labels property and checking the “Label inside the marker” check box.
 
-<figure><img src="../.gitbook/assets/Dumbbell.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (25).png" alt=""><figcaption></figcaption></figure>
 
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 
