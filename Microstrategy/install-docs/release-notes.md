@@ -4,14 +4,22 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.11
+
+* **Enhancement** - Added support for percentage-based threshold coloring in the Column Range Chart, allowing thresholds to be configured using percentage values.
+* Bug Fix – Column Range Chart was not rendering when attribute values contained null values along with start and end metric values.
+* Bug Fix –  Incorrect plugin version was displayed in the Health Check tool.
+* Bug Fix – Threshold formatting in Grid Chart incorrectly highlighted values equal to 0.
+* Bug Fix –  Stack By functionality in Stacked Bar and Column charts was not working as expected.
+
 ### 5.3.10
 
 * Improvement – Simple KPI tooltip can now be displayed outside the chart for better visibility.
 * Improvement – Stacked charts now support metrics with numeric values displayed as time using number formatting.
 * Improvement – Customer requested enhancement: Added support for Secondary Axis in Stacked Column charts.
-* Bug Fix – Customer reported issue: Error / Cannot read properties of undefined (reading 'type') in Tornado chart.
-* Bug Fix – Customer reported issue: Legend interaction issue with single data point in dataset.
-* Bug Fix – Customer reported issue: German locale – row total from original grid was getting added again in Vitara Grid.
+* Bug Fix –  Error / Cannot read properties of undefined (reading 'type') in Tornado chart.
+* Bug Fix –  Legend interaction issue with single data point in dataset.
+* Bug Fix –  German locale – row total from original grid was getting added again in Vitara Grid.
 
 ### 5.3.9
 
@@ -19,13 +27,13 @@ description: Here's the list of all changes in each release (latest release firs
 
 ### 5.3.8
 
-* Bug Fix - Customer reported issue: Chart load delay with auto-scroll for large data sets causes wait/exit alert.
-* Bug Fix - Customer reported issue:Grid chart- Pivot header is not sorting.Additionally added option to clear column order(Enhancement)
-* Bug Fix - Customer reported issue:Micro Chart- Column pinning issue.
+* Bug Fix -  Chart load delay with auto-scroll for large data sets causes wait/exit alert.
+* Bug Fix - Grid chart- Pivot header is not sorting.Additionally added option to clear column order(Enhancement)
+* Bug Fix -Micro Chart- Column pinning issue.
 * Bug Fix - Customer reported issue: Zero (0) Value on Value Axis Ignores Metric Number Formatting in Charts.
-* Bug Fix - Customer reported issueLine Charts- First and last data labels are not displaying on the chart after enabling the option.
-* Bug Fix - Customer reported issue:Bubble Chart-  Markers in Bubble chart are reflecting after hovering over chart & Not Exporting markers in pdf as well.
-* Bug Fix - Customer reported issue:Bubble chart- Thresholds / Background coloring does not apply for slope plot line.
+* Bug Fix -Line Charts- First and last data labels are not displaying on the chart after enabling the option.
+* Bug Fix - Bubble Chart-  Markers in Bubble chart are reflecting after hovering over chart & Not Exporting markers in pdf as well.
+* Bug Fix - Bubble chart- Thresholds / Background coloring does not apply for slope plot line.
 
 ### 5.3.7
 
@@ -40,25 +48,25 @@ description: Here's the list of all changes in each release (latest release firs
 * Improvement - Support for Column Wrap Text Feature in Grid.
 * Improvement - Grid Chart: Macro-Based Threshold Targeting for Macro in Cell Content.
 * Improvement - All Charts (Category Axis): For charts that support label truncation, a width option is now available.
-* Bug Fix - Customer reported issue: Tooltip is overlapping the chart again&#x20;
-* Bug Fix - Customer reported issue:Enabling/disabling Context menu via global.txt.
-* Bug Fix - Customer reported issue: Line chart : Small multiple are not displaying all category axis values (date dataset
-* Bug Fix - Customer reported issue: Bubble Chart: Slope & Horizontal orientation is not working in plotline
-* Bug Fix - Customer reported issue: Line chart : Small multiple are not displaying all category axis values (date dataset)
-* Bug Fix - Customer reported issue: Column Range chart : Plotline not working with Date dataset in metric
+* Bug Fix - Tooltip is overlapping the chart again&#x20;
+* Bug Fix - Enabling/disabling Context menu via global.txt.
+* Bug Fix - Line chart : Small multiple are not displaying all category axis values (date dataset
+* Bug Fix - Bubble Chart: Slope & Horizontal orientation is not working in plotline
+* Bug Fix - Line chart : Small multiple are not displaying all category axis values (date dataset)
+* Bug Fix - Column Range chart : Plotline not working with Date dataset in metric
 
 ### 5.3.5
 
 * Improvement - Grid Chart: Allow direct resizing of rows and headers using the mouse
 * Improvement - Animation option added  now be toggled on or off for supported charts Angular Gauge, Column/Bar Chart ,Stacked Column/Bar, Sparkline/Line/Area and Tornado.
-* Bug Fix - Customer reported issue: Column range chart -Tooltip is reflecting outside of chart. &#x20;
-* Bug Fix - Customer reported issue: Issue with total labels in Vitara Stacked Bar /Stacked Column Chart with Reversed Direction of the Data.&#x20;
-* BugFix - Customer reported issue: Turning off animation in editor doesn’t turn off animation for Gauge chart.
-* BugFix - Customer Reported issue : Sankey chart Tooltip Border Colour Mismatch
-* BugFix - Customer reported issue : IBCS bar chart animation duration is not working.
-* BugFix  - Customer reported issue : Sankey chart Metric Formatting in Data Labels.
-* BugFix - Customer reported issue : Getting Maximum Call Stack Size Exceeded error message when running a Dashboard non-stop for 10+ hrs .
-* BugFix - Customer issue : Vitara Sankey Chart Popup Issue: Incorrect Data Filtering.
+* Bug Fix - Column range chart -Tooltip is reflecting outside of chart. &#x20;
+* Bug Fix - Issue with total labels in Vitara Stacked Bar /Stacked Column Chart with Reversed Direction of the Data.&#x20;
+* BugFix - Turning off animation in editor doesn’t turn off animation for Gauge chart.
+* BugFix - Sankey chart Tooltip Border Colour Mismatch
+* BugFix - IBCS bar chart animation duration is not working.
+* BugFix  - Sankey chart Metric Formatting in Data Labels.
+* BugFix - Getting Maximum Call Stack Size Exceeded error message when running a Dashboard non-stop for 10+ hrs .
+* BugFix - Vitara Sankey Chart Popup Issue: Incorrect Data Filtering.
 * BugFix - Grid Chart: No Grouping Thresholds are not working when attributes are moved to pivot.
 * BugFix - Grid Column Order not saving in Pivot Mode.
 * BugFix - Auto-scroll default opacity shows incorrect value in editor.
@@ -69,7 +77,7 @@ description: Here's the list of all changes in each release (latest release firs
 * BugFIx - Bar, Column chart Animation Duration resetting to (1001)ms.
 * BugFix -  Legend on-off functionality .
 * BugFix - Export issue with Auto scroll enable
-* BugFix - Customer reported issue : IBCS bar chart / data labels are cutting off.
+* BugFix - IBCS bar chart / data labels are cutting off.
 * BugFix -  Stacked column chart- Dataset with star sign is not displaying in chart with small multiple.
 * BugFix -  All charts (Arabic), axis labels Ellipsis(dots) alignment issue.
 * BugFix - Issue with Size Consistency in Vitara Pie Chart with Small Multiples and Data Labels Enabled.
@@ -77,19 +85,19 @@ description: Here's the list of all changes in each release (latest release firs
 
 ### 5.3.3
 
-* BugFix - Customer Reported Issue: Documents showing edit button for all users
+* BugFix - Documents showing edit button for all users
 
 ### 5.3.2
 
 * Improvement - Support Multiple Metrics in Funnel Chart.
 * Improvement - Flexible Metric Selection for Value Axis Label Formatting.
 * Improvement - revert to default Colour Customization in Data labels  macros.
-* BugFix - GRID /Customer issue/Error Message in Vitara Grid Chart with Time Month Filte .
-* BugFix - Customer issue- Column range doesn’t work with start/ end metric values.
+* BugFix - GRID /Error Message in Vitara Grid Chart with Time Month Filte .
+* BugFix - Column range doesn’t work with start/ end metric values.
 * BugFix - MSTR(Customer Reported Issue): Arabic axis labels.
 * BugFix - Grid chart : Right-click menu now have option for the contextual link.
 * BugFix - Grid (MSTR) :Information window and target filter doesn't work when row grouped & drop zone attributes don't follow the same order.
-* BugFix - Customer Reported Issue : Export from library shows error on last page.
+* BugFix - Export from library shows error on last page.
 
 ### 5.3.1
 
@@ -103,17 +111,17 @@ description: Here's the list of all changes in each release (latest release firs
 * Enhancement - Grid : Ability to hide the pivot column groups totals while column totals are enabled.
 * Enhancement - Feature enhancement in Line chart visualization (X- axis Label interval).
 * Enhancement - Show Pivot Metric Totals' has been renamed to 'Pivot Group Metric Totals' for improved clarity.
-* Bug Fix - Customer Reported Issue: Overlapping data labels in Waterfall graphs.
-* Bug Fix - Customer Reported Issue:Data Label Shift After Release.
-* Bug Fix - Customer Reported Issue: Issues with Thresholds Vitara Line Chart.
-* Bug Fix - Customer Reported Issue:Vitara Column Charts with IBCS - missing options.
-* Bug Fix - Customer Reported Issue:Export to pdf : While exporting “Vitara Text” – the page in the dashboard to PDF an error appears.
-* Bug Fix - Customer Reported Issue:Overlapping data labels in Waterfall graphs.
-* Bug Fix - Customer Reported Issue:Not able to rename the header of the group in Non -English Locale.
-* Bug Fix - Customer Reported Issue:If we apply column Grouping, then color are not changing for horizontal bars.
-* Bug Fix - Customer Reported Issue:Ipad (Pie Chart) : If we enable "show Total in center label " and apply Element/Value Filter ,then total in center lable is not working according to the filter.
-* Bug Fix - Customer Reported Issue:Waterfall Chart : Category Axis Label Shift After Release.
-* Bug Fix - Customer Reported Issue:The marker icon in the legend shows a line at the center of the marker.
+* Bug Fix - Overlapping data labels in Waterfall graphs.
+* Bug Fix - Data Label Shift After Release.
+* Bug Fix - Issues with Thresholds Vitara Line Chart.
+* Bug Fix - Vitara Column Charts with IBCS - missing options.
+* Bug Fix - Export to pdf : While exporting “Vitara Text” – the page in the dashboard to PDF an error appears.
+* Bug Fix - Overlapping data labels in Waterfall graphs.
+* Bug Fix - Not able to rename the header of the group in Non -English Locale.
+* Bug Fix - If we apply column Grouping, then color are not changing for horizontal bars.
+* Bug Fix - Ipad (Pie Chart) : If we enable "show Total in center label " and apply Element/Value Filter ,then total in center lable is not working according to the filter.
+* Bug Fix - Waterfall Chart : Category Axis Label Shift After Release.
+* Bug Fix - The marker icon in the legend shows a line at the center of the marker.
 
 ### **5.2.7**
 
@@ -122,12 +130,12 @@ description: Here's the list of all changes in each release (latest release firs
 * Enhancement - Stacked Bar Chart: Increase Bar Width limit
 * Enhancement - New Macros for Sankey Chart Tooltips: node.source and node.target
 * BugFix - Waterfall chart : Decimals not showing on mobile iOS/iPadOS.(Locale)
-* BugFix - Customer Issue: sorting percentages
+* BugFix - Sorting percentages
 * BugFix - Grid chart : The tooltip takes a few seconds to appear when you hover the mouse over.
 * BugFix - Issue regarding target visualization not working for Vitara Sankey Plot
 * BugFix - Tooltip not showing attributes values of all source nodes in Vitara Sankey Chart.
 * BugFix - Calendar Heat Map is not working in hungarian locale.
-* BugFix - Customer Issue: Information Window tooltip and vitara line chart tooltip overlapping
+* BugFix - Information Window tooltip and vitara line chart tooltip overlapping
 * BugFix - Backward Compatibility : Category Axis Label Alignment in Bar chart.
 * BugFix - Value axis not showing correct format in swiss user.
 * BugFix - Custom SVG Marker from URLs not working in Web.
@@ -422,11 +430,7 @@ description: Here's the list of all changes in each release (latest release firs
 
 ### **4.9.0** <a href="#user-content-4.9" id="user-content-4.9"></a>
 
-
-
 #### New Features/Enhancements:
-
-
 
 * New Feature: Pattern fill option (Grid/Square/Double Square) in the series tab.
 * Enhancement: Rotation Option for data labels.
@@ -435,8 +439,6 @@ description: Here's the list of all changes in each release (latest release firs
 * Enhancement: Custom data markers support in the data labels applied from thresholds.
 
 #### Bug fixes:
-
-
 
 * Bug fix: Column chart: If we enable drill target, tooltip is showing like "Undefined".
 * Bug fix: Column chart : If we Varience, then the already applied series 'line' is not showing properly in the properties tab.
