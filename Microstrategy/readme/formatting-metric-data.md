@@ -72,7 +72,7 @@ Metrics which represent  durations stored in seconds, minutes, milliseconds, or 
 2. Select **Number Format**.
 3. Choose a Time format (such as hh:mm, hh:mm:ss, mm:ss, etc.) based on your display requirements.\
    \
-   ![](<../.gitbook/assets/unknown (8).png>)
+   ![](<../.gitbook/assets/unknown (8) (1).png>)
 
 **Examples:**
 

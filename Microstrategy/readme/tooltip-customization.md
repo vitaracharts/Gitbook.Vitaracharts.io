@@ -24,6 +24,10 @@ The macro suggestion box is seen in the screenshot below. Hover the pointer over
 
 <figure><img src="../.gitbook/assets/image52.png" alt=""><figcaption></figcaption></figure>
 
+Starting from version 5.3.10, macro suggestions are displayed with a new look. Refer to the screenshot below.
+
+![](<../.gitbook/assets/unknown (2).png>)
+
 The new tooltip editor component will give all possible element names that should be supported as macros (through invocation configuration options). For example, if a report has attributes Country, Category, and Sales, Profit Margin, then all of the following macros are possible in the tooltip editor:
 
 Country
@@ -63,3 +67,11 @@ We can opt to display the macros for all attribute forms for all attributes in t
 For example, there are two attributes with attribute forms: ‘category’ and’subcategory’. Then, in tooltip macros, we may select macros for both attributes’ attribute forms. Take a look at the screenshot.&#x20;
 
 <figure><img src="../.gitbook/assets/Attr_forms_Tooltip.png" alt=""><figcaption></figcaption></figure>
+
+### Tooltip on Line/Area:
+
+A new option is available for Line and Area series. By default, when the series type is Line or Area, the tooltip appears even when hovering over empty space in the visualization.
+
+To improve this behavior, a new option called “Show only on Hover” has been introduced in the tooltip tab. When this option is enabled, the tooltip is displayed only when hovering directly over the line or area, and not when hovering over empty spaces in the chart.
+
+<figure><img src="../.gitbook/assets/image1.gif" alt=""><figcaption></figcaption></figure>

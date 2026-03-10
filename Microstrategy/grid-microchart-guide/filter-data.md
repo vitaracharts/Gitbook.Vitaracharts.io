@@ -26,6 +26,6 @@ From version 5.1 ,In the hamburger menu, we’ve added group filtering for attri
 
 #### Beginning with version **5.3.10**, the filter menu has been refreshed with a new design. All  functionalities continue to work as in previous versions. Please refer to the screenshots below.
 
-![](<../.gitbook/assets/unknown (6).png>)
+![](<../.gitbook/assets/unknown (6) (1).png>)
 
-![](<../.gitbook/assets/unknown (7).png>)
+![](<../.gitbook/assets/unknown (7) (1).png>)

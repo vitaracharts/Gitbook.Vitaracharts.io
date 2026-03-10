@@ -123,7 +123,7 @@ Now, when dataset is being added we have to follow certain steps:
 
 * First, change the ‘Category URL’ datatype to URL or HTML tags as shown below:&#x20;
 
-<figure><img src="../.gitbook/assets/MarkerDatatype.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * The next step is to create a multi-form attribute using two columns, that can be combined using the Ctrl key, as shown below:&#x20;
 

@@ -22,6 +22,12 @@ You can add a title in Angular gauge chart and can do text formattings to the ti
 
 From the 4.5 version of Vitara Charts, the new features added to the Gauge chart where there are some implementations in the Gauge property editor. Now, we have Dial, Gauge and Grid Line properties in the Gauge property.
 
+### Data Labels:
+
+Using the Data Labels tab, you can control how data labels and metric formats are displayed on the chart. It allows you to adjust the label style, formatting, and position. Refer to the screenshot below for guidance.
+
+<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+
 ## Gauge <a href="#gauge" id="gauge"></a>
 
 Users can see the pointer at any aggregation level of metrics with start and end values. We can apply Start and End angles for the gauge from the 4.5 version of Vitara charts.

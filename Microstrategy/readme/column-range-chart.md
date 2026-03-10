@@ -52,6 +52,23 @@ When multiple thresholds are applied to the same metric, the most recently added
 
 For example, if a threshold is applied to the Cost metric with a "greater than" condition and sets a background color, and then another threshold is added to the same Cost metric with a different condition that includes a text color and a marker, the chart will reflect only the styling from the most recently applied threshold.
 
+### Enhanced Threshold Coloring with Color By Metric Option
+
+\
+Starting from version **5.3.11,** bar coloring was introduced to support percentage-based threshold visualization by using an additional percentage metric along with the start and end date metrics. Although this enables threshold display, the behavior remains dependent on the dataset configuration.\
+To address this limitation, a new threshold condition called “Color By Metric” has been introduced (applicable only to the Column Range chart).\
+**Behavior:**
+
+* When the selected metric is a percentage, each target value is filled according to the corresponding source metric percentage.
+* When the selected metric is a numeric value, the percentage is calculated based on the source value within the target range.
+* The feature uses two colors: one for the filled portion and another for the unfilled (remaining) portion of the bar
+
+#### Below is the reference screenshots
+
+![](<../.gitbook/assets/unknown (6).png>)
+
+<figure><img src="../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
+
 ## Displaying stacking bars in a separate row <a href="#displaying-stacking-bars-in-a-separate-row" id="displaying-stacking-bars-in-a-separate-row"></a>
 
 We can also display bars stacked in different rows when using an attribute in the “Color by” drop zone for each category element.

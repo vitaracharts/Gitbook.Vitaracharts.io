@@ -4,7 +4,13 @@
 
 Under Category axis settings, we can format the axis labels, axis title, axis line, hide/unhide axis etc. Let’s see some of them
 
-### Enabling/Disabling attribute form name in axis labels <a href="#enablingdisabling-attribute-form-name-in-axis-labels" id="enablingdisabling-attribute-form-name-in-axis-labels"></a>
+**Others** :&#x20;
+
+Additional options are available to modify the axis display. For example, you can enable Reverse Direction to display the axis in the opposite direction, or enable Display Axis on Top to position the axis at the top of the chart. By enabling these options, the axis and data can be adjusted according to the required display.
+
+<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+
+### Enabling/Disabling attribute form name in axis labels
 
 When we enable attribute forms for an attribute in the chart, then by default attribute form \[id in particular] will be enabled on the chart as well.\
 In case if we want to turn off the attribute form for axis label, then disable ‘show attribute id’ checkbox in the property editor here: Axis > Category Axis > Label\

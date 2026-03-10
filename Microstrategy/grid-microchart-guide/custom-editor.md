@@ -8,15 +8,13 @@ Welcome to the documentation for the latest feature in the grid chart software, 
 
 Hold down the “Ctrl” key on your keyboard and left-click on any metric or attribute header to activate the customization feature.
 
-<figure><img src="../.gitbook/assets/griddoc1.gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/CE - Ctrl.gif" alt=""><figcaption></figcaption></figure>
 
 ### **2. Using the Hamburger Menu:**
 
 Alternatively, access the hamburger menu and choose the “Format” button. This will also open the custom editor.
 
-<figure><img src="../.gitbook/assets/griddoc2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE_Hamburger.gif" alt=""><figcaption></figcaption></figure>
 
 ## **Custom Editor Overview**
 
@@ -30,13 +28,13 @@ Once the custom editor is enabled, the custom editor will be your tool for makin
 
 Apply formatting to the content area of a selected element’s corresponding column (attribute or metric). Changes are displayed within the column’s content.&#x20;
 
-<figure><img src="../.gitbook/assets/griddoc3.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE -Column content.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Header Content Tab:**
 
 Apply formatting to the header of a selected element’s corresponding column. Changes are reflected in the column header.&#x20;
 
-<figure><img src="../.gitbook/assets/griddoc4.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE - Header content (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## **Custom Editor Menu:**
 
@@ -62,11 +60,11 @@ To add URL links to an attribute or metric, select the “Insert” property tab
 
 <figure><img src="../.gitbook/assets/link4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/link5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 To unlink the set link right click on the added link and click the remove link option.
 
-<figure><img src="../.gitbook/assets/link6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Table Menu:**
 
@@ -78,11 +76,11 @@ To add tables to the chart, go to the “Insert” tab and arrange the rows and 
 
 <figure><img src="../.gitbook/assets/link8 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/link9 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Furthermore, we can individually customize each cell individually by going to that specific cell and then right clicking to open a menu where we can further customize the cell properties and set border color, style, width, and similar for the table properties.&#x20;
 
-<figure><img src="../.gitbook/assets/griddoc8.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE-table1.gif" alt=""><figcaption></figcaption></figure>
 
 We can also add, merge and delete row/columns from table itself with the below table property
 
@@ -96,7 +94,7 @@ The format box provides an abundance of options, including bold, italics, underl
 
 To apply the formatting head to the metric/attribute where we want to make formatting and select the formatting and hit submit button to apply changes.&#x20;
 
-<figure><img src="../.gitbook/assets/griddoc5.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE-Format.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Toolbox Panel:**
 
@@ -118,7 +116,9 @@ The custom editor empowers you to insert various elements into your chart: Emoji
 
 After making the desired formatting and modifications, simply hit the “Submit” button to see the changes take effect. To exit the custom editor, click anywhere on the grid chart. This will return you to the default view.&#x20;
 
-<figure><img src="../.gitbook/assets/griddoc6.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE-Format1.gif" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### **Creating Metric/Attribute Groups**
 
@@ -136,7 +136,7 @@ Left-click on the metric or attribute headers you want to group.
 
 In the custom editor, you’ll find the “Column Grouping” button. Clicking it will create the group for you.
 
-<figure><img src="../.gitbook/assets/griddoc7.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE- column grouping.gif" alt=""><figcaption></figcaption></figure>
 
 ## Using Macros in the URL Link of the Custom Editor
 
@@ -165,9 +165,9 @@ To add this URL link to an attribute or metric, select the “Insert” property
 
 Please refer to the attached GIF file for reference.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0l4Hq1f78R9Shpdi2xM0lfPboOZZQ-B-RBNW2gVj2-E9bkziGDPJ2Hz-bmYB13tAOoxZqolG916MUoIS8p1k7FD5yIl94wKRIqW80_Rbwz3O6DTNaFLBCav8W8BBRc5hfEiBuaw?key=HG8zy91NAlh2msPjWJsC0g)
+<figure><img src="../.gitbook/assets/CE-Links.gif" alt=""><figcaption></figcaption></figure>
 
-.Incorporating macros enhances the functionality of your custom editor and improves user experience in navigating the Grid Chart.
+Incorporating macros enhances the functionality of your custom editor and improves user experience in navigating the Grid Chart.
 
 With these instructions, you’re ready to dive into the exciting new world of version 5.2’s grid chart customization. Enjoy tailoring your charts to perfection!
 
@@ -197,8 +197,3 @@ If macros are rendered within a table structure inside the cell:
   Refer to the sample GIF file below for reference
 
 <figure><img src="../.gitbook/assets/CE Macros Doc.gif" alt=""><figcaption></figcaption></figure>
-
-\
-<br>
-
-<br>

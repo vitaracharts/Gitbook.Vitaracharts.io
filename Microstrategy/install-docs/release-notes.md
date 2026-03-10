@@ -30,7 +30,7 @@ description: Here's the list of all changes in each release (latest release firs
 * Bug Fix -  Chart load delay with auto-scroll for large data sets causes wait/exit alert.
 * Bug Fix - Grid chart- Pivot header is not sorting.Additionally added option to clear column order(Enhancement)
 * Bug Fix -Micro Chart- Column pinning issue.
-* Bug Fix - Customer reported issue: Zero (0) Value on Value Axis Ignores Metric Number Formatting in Charts.
+* Bug Fix - Zero (0) Value on Value Axis Ignores Metric Number Formatting in Charts.
 * Bug Fix -Line Charts- First and last data labels are not displaying on the chart after enabling the option.
 * Bug Fix - Bubble Chart-  Markers in Bubble chart are reflecting after hovering over chart & Not Exporting markers in pdf as well.
 * Bug Fix - Bubble chart- Thresholds / Background coloring does not apply for slope plot line.
@@ -94,7 +94,7 @@ description: Here's the list of all changes in each release (latest release firs
 * Improvement - revert to default Colour Customization in Data labels  macros.
 * BugFix - GRID /Error Message in Vitara Grid Chart with Time Month Filte .
 * BugFix - Column range doesn’t work with start/ end metric values.
-* BugFix - MSTR(Customer Reported Issue): Arabic axis labels.
+* BugFix - (MSTR) Arabic axis labels.
 * BugFix - Grid chart : Right-click menu now have option for the contextual link.
 * BugFix - Grid (MSTR) :Information window and target filter doesn't work when row grouped & drop zone attributes don't follow the same order.
 * BugFix - Export from library shows error on last page.
