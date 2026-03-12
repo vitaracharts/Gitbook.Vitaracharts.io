@@ -14,6 +14,12 @@ Example: Mekko chart with Sales by Customer Segment & Province values. The width
 
 <figure><img src="../.gitbook/assets/image16.png" alt=""><figcaption></figcaption></figure>
 
+## Data labels:   <a href="#pointpercentage-macro" id="pointpercentage-macro"></a>
+
+Users can apply styling to the Data Label and Total Label using the options available in the Data Label tab under the Format section.
+
+![](<../.gitbook/assets/unknown (9).png>)
+
 ## \&point.percentage macro <a href="#pointpercentage-macro" id="pointpercentage-macro"></a>
 
 We now have the ability to incorporate a new macro in version 5.2 that displays the % value of the specified category as well as the overall percentage of the specific element in that chart.

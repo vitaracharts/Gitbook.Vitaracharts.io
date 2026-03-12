@@ -4,11 +4,25 @@
 
 Under Category axis settings, we can format the axis labels, axis title, axis line, hide/unhide axis etc. Let’s see some of them
 
-**Others** :&#x20;
+### Others :&#x20;
 
-Additional options are available to modify the axis display. For example, you can enable Reverse Direction to display the axis in the opposite direction, or enable Display Axis on Top to position the axis at the top of the chart. By enabling these options, the axis and data can be adjusted according to the required display.
+Users can hide the axis by enabling the Hide Axis option. They can also adjust the grid line width and enable or disable grid lines using the options available in the Axes tab.
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+Additional options are available to modify the axis display. For example, users can enable Reverse Direction to display the axis in the opposite direction, or enable Display Axis on Top to position the axis at the top of the chart. These options allow the axis and data to be displayed according to the required layout.
+
+<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+
+**Note :** Similarly, these options are also available for the Value Axis.
+
+### Force sort axis data :&#x20;
+
+The Force Sort Axis option allows users to manually control the sorting order of data displayed on a chart axis. By enabling this option, the order of attributes on the Category Axis can be explicitly defined, overriding the default sorting or MSTR Advanced Sorting applied to the visualization.
+
+This feature allows users to sort the axis data based on the Category Axis attribute, ensuring that the chart displays categories in the required order.\
+This option is available under the Axis tab for Category Axis\
+![](<../.gitbook/assets/unknown (2).png>)
+
+<figure><img src="../.gitbook/assets/Force sort.gif" alt=""><figcaption></figcaption></figure>
 
 ### Enabling/Disabling attribute form name in axis labels
 

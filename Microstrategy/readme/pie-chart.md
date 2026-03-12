@@ -22,6 +22,17 @@ We have an option to enable/disable the Show total in Center label in the Pie ch
 
 <figure><img src="../.gitbook/assets/Pie1.png" alt=""><figcaption></figcaption></figure>
 
+From **version 4.0 onward**, the **Pie chart** supports displaying the **Metric Total** in the center when the **Show Total in Center Label** option is enabled.
+
+Styling for the **Data Label**, **Center Label**, and **Metric Label** can be configured using the options available in the **Data Label** tab under the **Format** section.\
+![](<../.gitbook/assets/unknown (7).png>)
+
+To format the Metric Label, first enable the Show Total in Center Label option. After enabling this option, select Metric Label from the Format section and apply the required styling as needed.
+
+<figure><img src="../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
 From Version 5.1.1, we have added the option ‘Show Overlapping Labels’ in the data labels menu.
 
 <figure><img src="../.gitbook/assets/PieChart (1).png" alt=""><figcaption></figcaption></figure>

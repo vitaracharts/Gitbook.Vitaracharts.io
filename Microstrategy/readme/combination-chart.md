@@ -12,7 +12,7 @@ Use as Filter Option - Available
 
 From 4.4 version, ‘Scatter’ is removed from series types. It is now replaced by data markers. And also width property is added in series tab to independently adjust the width of each series. See the screenshot below
 
-<figure><img src="../.gitbook/assets/CC (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/unknown (42).png>)
 
 ## Steps to create a Combination chart <a href="#steps-to-create-a-combination-chart" id="steps-to-create-a-combination-chart"></a>
 
@@ -34,7 +34,7 @@ Now open the property editor and go to the series tab. Click on the edit button 
 
 Select the series type for revenue metric as ‘Line’, width as ‘2’ and click on apply as shown in the below screenshot.
 
-<figure><img src="../.gitbook/assets/CC1 (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/unknown (43).png>)
 
 And the combination chart will now be created as shown in the screenshot below.
 
@@ -44,7 +44,7 @@ And the combination chart will now be created as shown in the screenshot below.
 
 We can aslo set the series to be on the secondary axis for one of the metric. See the screenshot
 
-<figure><img src="../.gitbook/assets/CC2 (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/unknown (44).png>)
 
 And below screenshot shows how the chart looks after enabling the series on secondary axis
 

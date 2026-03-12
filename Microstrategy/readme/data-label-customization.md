@@ -1,7 +1,5 @@
 # Data label customization
 
-<br>
-
 ## Use Metric Formatting <a href="#use-metric-formatting" id="use-metric-formatting"></a>
 
 When we activate data labels in any of the Vitara charts, the data labels are displayed in shortened format by default.
@@ -58,6 +56,10 @@ Hover the cursor over the ‘i’ symbol to see the available macros for any par
 
 <figure><img src="../.gitbook/assets/dataLabels2.png" alt=""><figcaption></figcaption></figure>
 
+&#x20;Starting from version 5.3.10, macro suggestions are displayed with a new look. Refer to the screenshot below.
+
+![](<../.gitbook/assets/unknown (3).png>)
+
 In the editor window type ‘&’ character and you will see macro suggestions. Select the macros and click on ‘“Apply” tab.
 
 For example, the default macros in the above screenshot is &\[point.value], So the chart shows the metric value at each data-point. See the screenshot below:
@@ -83,6 +85,12 @@ For example, in line chart when you enable data labels, only few labels are show
 Now, the new feature allows to forcefully show all the data labels. To do this, go to data labels tab and enable the ‘Show Overlapping Labels’ checkbox. See the screenshot below:
 
 <figure><img src="../.gitbook/assets/Overlap_labels3.png" alt=""><figcaption></figcaption></figure>
+
+### Label display Format <a href="#attribute-forms-in-data-labels" id="attribute-forms-in-data-labels"></a>
+
+Three label display formats are available. The reference screenshot is provided below
+
+![](<../.gitbook/assets/unknown (4).png>)
 
 ## Attribute forms in Data labels <a href="#attribute-forms-in-data-labels" id="attribute-forms-in-data-labels"></a>
 

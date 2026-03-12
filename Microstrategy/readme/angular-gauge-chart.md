@@ -26,7 +26,7 @@ From the 4.5 version of Vitara Charts, the new features added to the Gauge chart
 
 Using the Data Labels tab, you can control how data labels and metric formats are displayed on the chart. It allows you to adjust the label style, formatting, and position. Refer to the screenshot below for guidance.
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Gauge <a href="#gauge" id="gauge"></a>
 

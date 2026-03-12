@@ -141,9 +141,9 @@ If a metric name contains the defined keywords (e.g., AC or Actual), it will aut
 Used for scenario detection and metric identification across Actual, Planned, Forecast, and Previous Year.\
 <br>
 
-<figure><img src="../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/unknown (1) (1).png>)
+![](<../.gitbook/assets/unknown (1) (1) (1).png>)
 
 **Note:**\
 We currently have the capability to rename data labels for IBCS deltas. This feature will soon be added to the Customization Tool. For now, you can add these mappings directly using the IBCSglobal.txt file.
@@ -181,9 +181,9 @@ After customizing the styles, simply save your changes. The chart will update im
 
 To help you understand how IBCS styling works, the image below shows a customized Planned Data element. The line stroke color has been modified to match the IBCS guidelines, giving the chart a cleaner and more standardized appearance.
 
-<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/unknown (3) (1).png>)
+![](<../.gitbook/assets/unknown (3) (1) (1).png>)
 
 ## Custom CSS Styling in Vitara Charts&#x20;
 
@@ -211,4 +211,4 @@ To ensure the updated styles are applied, clear your browser cache. Once done, t
 To illustrate how custom styling works, the screenshots below demonstrate how to customize a Grid/Micro chart by applying a subtotal header.\
 <img src="../.gitbook/assets/image (31).png" alt="" data-size="original">
 
-<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1) (1).png" alt=""><figcaption></figcaption></figure>

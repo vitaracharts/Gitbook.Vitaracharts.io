@@ -16,6 +16,12 @@ The level of display in the calendar can be changed to show year-week, month-day
 
 <figure><img src="../.gitbook/assets/image14.png" alt=""><figcaption></figcaption></figure>
 
+#### &#x20;Data Label :&#x20;
+
+Users can configure the **Header** and **Data Label** formatting from the **Data Label** tab using the available formatting options.
+
+![](<../.gitbook/assets/unknown (16).png>)
+
 ## Custom date formats <a href="#built-in-date-formats" id="built-in-date-formats"></a>
 
 By default Vitara Calendar heatmap will recognize the below listed date formats.\

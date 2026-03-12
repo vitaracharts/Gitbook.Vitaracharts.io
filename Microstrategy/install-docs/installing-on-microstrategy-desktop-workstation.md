@@ -88,4 +88,4 @@ In addition to the server installation, the VitaraCharts plugin must also be dep
 
 * Once configured successfully, the page will confirm the configuration status as shown in the screenshot.
 
-![](<../.gitbook/assets/unknown (17).png>)&#x20;
+![](<../.gitbook/assets/unknown (17) (1).png>)&#x20;

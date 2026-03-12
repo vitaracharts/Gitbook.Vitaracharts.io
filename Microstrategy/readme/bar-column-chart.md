@@ -54,6 +54,14 @@ Example of text formatting and color formatting for labels, title and axis line 
 
 <figure><img src="../.gitbook/assets/BarCol2.png" alt=""><figcaption></figcaption></figure>
 
+### Category Axes  Label Styling:
+
+For Column and Bar charts, an option is available to add markers to the category labels. This feature allows users to apply the required styling—such as changing colors and adding markers—to customize the appearance of the labels..<br>
+
+<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
 ## Data Labels <a href="#data-labels" id="data-labels"></a>
 
 From 4.1 version, a new property is introduced in bar and column charts to show the data labels outside the bar/column. The option to enable this feature is added in data labels tab with ‘**Show Label Outside Bar/Column**’ checkbox. See the screenshot below:\
@@ -157,7 +165,7 @@ From 4.6 version of Vitara charts, there are two enhancements to the Bar/Column 
 
 Variwide chart can be used to visualize a second dimension in a column chart. Each data point is given a weight, in addition to its value, determining the width of the column. It computes the width for the stack to fill the whole plot area, and simply lets the column widths reflect a value.
 
-For more details about the Variwide feature please refer to vari\_wide.
+For more details about the Variwide feature please refer to [vari\_wide](https://docs.vitaracharts.com/readme/variwide-chart).
 
 ## **2. Polar Mode**
 
@@ -293,6 +301,10 @@ The image below shows how the Profit of the financial years 2020 and 2021 will b
 * This feature is also available with small multiples and bar variance properties.
 
 **Note :** The delta Bar feature completely disables error bars and vice versa.
+
+#### Error bars :&#x20;
+
+* For detailed steps on creating Error Bars, [click here.](https://docs.vitaracharts.com/readme/error-bars)
 
 <figure><img src="../.gitbook/assets/Bar_error_bars.png" alt=""><figcaption></figcaption></figure>
 

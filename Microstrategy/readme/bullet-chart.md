@@ -8,7 +8,7 @@ Metrics- At Least 2 metrics are required for this visualization to be meaningful
 
 <figure><img src="../.gitbook/assets/image66.png" alt=""><figcaption></figcaption></figure>
 
-## Plot Bands <a href="#plot-bands" id="plot-bands"></a>
+## Plot Bands - Bullet <a href="#plot-bands" id="plot-bands"></a>
 
 The plot band feature in a bullet chart is used to highlight specific ranges of data within the chart. It consists of colored bands that can be placed at predefined intervals along the chart’s axis. This helps users quickly identify whether data points fall within or outside desired target ranges, making bullet charts effective for assessing performance or progress towards goals in a visually informative manner.
 
@@ -51,6 +51,14 @@ In the threshold editor window apply source, target, threshold condition and the
 <figure><img src="../.gitbook/assets/image513.png" alt=""><figcaption></figcaption></figure>
 
 After giving all the inputs click on ‘Apply’ button.
+
+#### Attribute Threshold&#x20;
+
+The Source and Target drop-down lists in the Threshold Editor window display all the attributes and metrics available in the chart. Users can select an attribute as the source and a metric as the target, and then define a threshold condition.
+
+The following conditions are available for attributes: Equal To, Not Equal To, Contains, Not Contains, Starts With, Not Starts With, Ends With, and Not Ends With. These conditions can be applied to define the required threshold logic.
+
+![](<../.gitbook/assets/unknown (14).png>)
 
 ## Thresholds Priority
 

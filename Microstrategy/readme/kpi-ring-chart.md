@@ -20,6 +20,12 @@ We can compare 2 metrics M1 and M2, like, how much percentage contribution of M1
 
 <figure><img src="../.gitbook/assets/KPIRing2.png" alt=""><figcaption></figcaption></figure>
 
+## Data Labels:
+
+Display formats are available under the Label Format properties, as shown in the reference screenshot below. To apply formatting, the required formats can be added as macros in the Format section and the desired styling can then be applied.
+
+![](<../.gitbook/assets/unknown (11).png>)<br>
+
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 
 In the business point of view, certain part of the chart needs to be highlighted to draw more attention from the desicion makers. For example, highlight the stores where total sales is greater than a specific value or highlight the top 10 products whose sales is high during last year’s winter. Thresholds are very useful objects in these use cases.

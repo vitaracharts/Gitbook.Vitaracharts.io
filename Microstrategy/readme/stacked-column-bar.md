@@ -29,6 +29,12 @@ By default, stacked bar and column charts stack bars based on their actual value
 
 <figure><img src="../.gitbook/assets/Stack by metric.png" alt=""><figcaption></figcaption></figure>
 
+## Data label :  <a href="#adding-a-line-series-along-with-stacked-barscolumns" id="adding-a-line-series-along-with-stacked-barscolumns"></a>
+
+Users can apply styling to the **Data Label** and **Stack Totals** using the options available in the **Data Label** tab under the **Format** section
+
+![](<../.gitbook/assets/unknown (6).png>)<br>
+
 ## Adding a line series along with stacked bars/columns <a href="#adding-a-line-series-along-with-stacked-barscolumns" id="adding-a-line-series-along-with-stacked-barscolumns"></a>
 
 With the 4.5 edition of the Vitara charts, a new feature in the Stacked bar/column charts allows the user to build a metric series by stacking the attribute values on the same or separate axes. Metric series can be created in three ways: line, area, and data markers. The screenshot below shows a layered Column chart with attributes layered on one axis and a metric series \[line] produced on the other.&#x20;
@@ -68,7 +74,7 @@ The selected metric is now displayed as a **line series on the secondary axis**,
 In version **5.3.10** of Vitara Charts, stacked bar /column charts have been enhanced to offer greater flexibility in creating metric series as bar/column on secondary axes. Previously, users could build metric series by stacking attribute values on secondary axes, but this capability was limited to area, line, and data marker chart types.
 
 With this update, metric series can now be created as **columns** on the secondary axis in stacked column charts, allowing for clearer and more structured data representation. Additionally, a **bar** option has been introduced for stacked bar charts, enabling metric series to be plotted on secondary axes. These enhancements facilitate easier comparison of multiple metrics simultaneously and provide improved control over chart visualization, particularly when working with complex datasets\
-![](<../.gitbook/assets/unknown (11).png>)![](<../.gitbook/assets/unknown (12).png>)
+![](<../.gitbook/assets/unknown (11) (1).png>)![](<../.gitbook/assets/unknown (12) (1).png>)
 
 ## **Remove the Metric Series**
 

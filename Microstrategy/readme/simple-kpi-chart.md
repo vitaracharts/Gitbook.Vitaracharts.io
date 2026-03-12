@@ -93,4 +93,4 @@ Furthermore, the tooltip is now displayed outside the chart area, preventing it 
 
 .
 
-<figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (13) (1).png" alt=""><figcaption></figcaption></figure>

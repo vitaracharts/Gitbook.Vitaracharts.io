@@ -65,9 +65,9 @@ To address this limitation, a new threshold condition called â€œColor By Metricâ
 
 #### Below is the reference screenshots
 
-![](<../.gitbook/assets/unknown (6).png>)
+![](<../.gitbook/assets/unknown (6) (1).png>)
 
-<figure><img src="../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Displaying stacking bars in a separate row <a href="#displaying-stacking-bars-in-a-separate-row" id="displaying-stacking-bars-in-a-separate-row"></a>
 

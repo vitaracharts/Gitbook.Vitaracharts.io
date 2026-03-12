@@ -109,7 +109,7 @@ From version 5.2.4 we have intrdocued a new feature in a bubble chart, the “ma
 
 This feature will be accessible from the “Bubble” tab in the chart editor menu. Users can access this tab when adding a new marker type with the size required in a bubble chart.
 
-<figure><img src="../.gitbook/assets/BubbleMarker.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/unknown (13).png>)
 
 <figure><img src="../.gitbook/assets/BubbleMarker1.png" alt=""><figcaption></figcaption></figure>
 

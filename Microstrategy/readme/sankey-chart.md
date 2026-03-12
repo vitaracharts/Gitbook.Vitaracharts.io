@@ -10,6 +10,10 @@ Metrics: 1 metric Attributes: 2 or more attribute Use as Filter Option - Availab
 
 ## Data labels <a href="#data-labels" id="data-labels"></a>
 
+&#x20; Users can apply styling to the Links and Nodes Label using the options available in the Data Label tab under the Format section.\
+\
+![](<../.gitbook/assets/unknown (12).png>)
+
 We can enable or disable the node labels and link labels. You can see the attached screenshots below.
 
 <figure><img src="../.gitbook/assets/Sankey1.png" alt=""><figcaption></figcaption></figure>

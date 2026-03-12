@@ -114,9 +114,13 @@ Line chart supports small multiples feature. Small multiples feature is explaine
 
 From the version 4.4, data markers feature is introduced in the Line/Area charts. To know about **Data Markers** feature please [click Here.](https://docs.vitaracharts.com/readme/data-markers)
 
-### Tooltip <a href="#gradient-color" id="gradient-color"></a>
+## Tooltip <a href="#gradient-color" id="gradient-color"></a>
 
-The ‘Show only on Hover’ option is now available in the Tooltip tab for Line and Area series. [Click here](https://docs.vitaracharts.com/readme/tooltip-customization) for more information<br>
+The ‘Show only on Hover’ option is now available in the Tooltip tab for Line and Area series. [Click here](https://docs.vitaracharts.com/readme/tooltip-customization) for more information
+
+## Error Bars :  <a href="#gradient-color" id="gradient-color"></a>
+
+For detailed steps on creating Error Bars, [click here.](https://docs.vitaracharts.com/readme/error-bars)
 
 ### Gradient Color <a href="#gradient-color" id="gradient-color"></a>
 

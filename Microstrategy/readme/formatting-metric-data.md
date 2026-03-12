@@ -72,7 +72,7 @@ Metrics which represent  durations stored in seconds, minutes, milliseconds, or 
 2. Select **Number Format**.
 3. Choose a Time format (such as hh:mm, hh:mm:ss, mm:ss, etc.) based on your display requirements.\
    \
-   ![](<../.gitbook/assets/unknown (8) (1).png>)
+   ![](<../.gitbook/assets/unknown (8) (1) (1).png>)
 
 **Examples:**
 
@@ -87,10 +87,10 @@ By default, Vitara Charts will reflect the applied Time Format. If the expected 
 
 #### Reference Screenshot
 
-![](<../.gitbook/assets/unknown (9).png>)
+![](<../.gitbook/assets/unknown (9) (1).png>)
 
 After applying time format below is the screeenshot
 
-![](<../.gitbook/assets/unknown (10).png>)
+![](<../.gitbook/assets/unknown (10) (1).png>)
 
 <br>

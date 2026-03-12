@@ -4,7 +4,7 @@
 
 1. Download the web version of VitaraCharts from the official download site.\
    (Refer to the [Main page](https://www.vitaracharts.com/ms-product-downloads) for the latest links.)\
-   ![](<../.gitbook/assets/unknown (15).png>)
+   ![](<../.gitbook/assets/unknown (15) (1).png>)
 
 ### 2. New Installation
 
@@ -33,7 +33,7 @@ Follow the steps below if this is your first time installing VitaraCharts :
 
 * Ensure that the folder structure appears correctly after installation.
 
-![](<../.gitbook/assets/unknown (16).png>)
+![](<../.gitbook/assets/unknown (16) (1).png>)
 
 **6. Validate Version Folders**
 

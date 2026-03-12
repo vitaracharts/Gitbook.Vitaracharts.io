@@ -26,7 +26,7 @@ The macro suggestion box is seen in the screenshot below. Hover the pointer over
 
 Starting from version 5.3.10, macro suggestions are displayed with a new look. Refer to the screenshot below.
 
-![](<../.gitbook/assets/unknown (2).png>)
+![](<../.gitbook/assets/unknown (2) (1).png>)
 
 The new tooltip editor component will give all possible element names that should be supported as macros (through invocation configuration options). For example, if a report has attributes Country, Category, and Sales, Profit Margin, then all of the following macros are possible in the tooltip editor:
 

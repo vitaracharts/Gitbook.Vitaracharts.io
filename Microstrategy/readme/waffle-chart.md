@@ -4,11 +4,11 @@ A waffle chart is a visual representation that uses a grid of small squares to d
 
 ## Inputs <a href="#inputs" id="inputs"></a>
 
-Metrics: 1 metric
-
-Attributes: 1 attribute.
+Metrics: 1 metric , Attributes: 1 attribute.
 
 Use as Filter Option - Available
+
+![](<../.gitbook/assets/unknown (41).png>)
 
 The screenshot below showcases all the three modes of waffle chart.
 

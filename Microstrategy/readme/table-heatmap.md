@@ -14,7 +14,18 @@ Thresholds Option - Available
 
 <figure><img src="../.gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
 
-## Heatmap <a href="#heatmap-1" id="heatmap-1"></a>
+### Data Label <a href="#heatmap-1" id="heatmap-1"></a>
+
+&#x20;Users can apply styling to the Data Label and Total Labels using the options available in the Data Label tab under the Format section
+
+
+
+<figure><img src="../.gitbook/assets/unknown (5).png" alt="" width="292"><figcaption></figcaption></figure>
+
+&#x20;<a href="#heatmap-1" id="heatmap-1"></a>
+----------------------------------------------
+
+## Heatmap
 
 From the 4.5 version of Vitara charts, the cell border properties are added to the heatmap chart. Border width, Border radius and Border color are the three options added in the cell border properties.
 
