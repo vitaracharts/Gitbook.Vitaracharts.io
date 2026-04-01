@@ -6,17 +6,64 @@ A packed bubble chart is a data visualization that displays information in a hie
 
 Metrics: 1 metrics Attributes: 1 attribute. Use as Filter Option - Available
 
-<figure><img src="../.gitbook/assets/PB1.png" alt=""><figcaption></figcaption></figure>
+## **Single Attribute Behavior**
 
-## UnGroup Bubble <a href="#ungroup-bubble" id="ungroup-bubble"></a>
+When a packed bubble chart uses only one attribute:
 
-The “ungroup bubble” feature in a bubble chart separates grouped bubbles into distinct, unconnected entities. This is valuable for achieving data precision and enhancing data comparison, as individual data points can be more accurately represented and compared without visual overlap. It aids in highlighting specific data elements, conducting detailed data analysis, and customizing each bubble independently for better clarity and aesthetics. Ungrouping bubbles offers versatility in visualizing and working with data, making it an essential tool for gaining insights and presenting complex datasets with greater accuracy and detail.
+* The chart displays individual bubbles without any hierarchical grouping.
+* Bubble sizes are determined solely by the selected metric.
 
-We can enable/disable the ‘UnGroup’ option. Below is the screenshot where we enabled ‘Un Group’ option.
+**Note:** Bubble size is directly proportional to the metric value—larger values result in larger bubbles.
 
-<figure><img src="../.gitbook/assets/PB3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (45).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/PB2.png" alt=""><figcaption></figcaption></figure>
+### **Hierarchical Grouping**
+
+To enable hierarchical grouping in a packed bubble chart, include at least two attributes along with a metric:
+
+* Attribute 1: Category
+* Attribute 2: Subcategory
+* Metric: Value (e.g., Cost or Profit)
+
+**How it works:**
+
+* The Category attribute defines the primary (outer) grouping.
+* The Subcategory attribute is represented as individual bubbles within each Category group.
+
+Refer to the screenshot below for an example.<br>
+
+<figure><img src="../.gitbook/assets/unknown (47).png" alt=""><figcaption></figcaption></figure>
+
+### Ungroup Bubble
+
+The Ungroup option removes hierarchical grouping from the chart and displays all bubbles as independent entities. This feature separates grouped bubbles into distinct, unconnected elements, improving clarity and enabling more precise data analysis.
+
+**Behavior:**
+
+* All bubbles are displayed independently
+* No grouping structure is applied
+
+**Key Benefits:**
+
+* Enhances data comparison by eliminating visual overlap
+* Improves representation of individual data points
+* Highlights specific data elements more effectively
+* Allows independent customization of each bubble
+* Increases overall readability and clarity of complex datasets
+
+You can enable or disable the Ungroup option as needed. Refer to the screenshot below for an example where the option is enabled.
+
+<figure><img src="../.gitbook/assets/unknown (49).png" alt=""><figcaption></figcaption></figure>
+
+### Data Labels
+
+Users can customize data labels using the available options under the **Data Labels** section, including text wrapping, label display format, metric format, and other formatting features.
+
+The default data labels can be modified using custom text and dynamic macros to display relevant data values within the Format section.
+
+Refer to the screenshot below for the Data Labels Editor window. [Click here](https://docs.vitaracharts.com/readme/data-label-customization#data-label-customization) for more information.
+
+![](<../.gitbook/assets/unknown (50).png>)
 
 ## Thresholds <a href="#thresholds" id="thresholds"></a>
 
