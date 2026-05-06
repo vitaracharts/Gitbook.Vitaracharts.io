@@ -4,6 +4,14 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+### 5.3.13
+
+* Bug Fix – Waterfall chart shrinking when “Force Label Outside” is enabled in Data Labels, causing extra empty space
+
+### 5.3.12
+
+* Bug Fix - Grid performance improvement in rendering.
+
 ### 5.3.11
 
 * **Enhancement** - Added support for percentage-based threshold coloring in the Column Range Chart, allowing thresholds to be configured using percentage values.
