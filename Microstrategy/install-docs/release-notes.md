@@ -6,13 +6,13 @@ description: Here's the list of all changes in each release (latest release firs
 
 ### 5.3.14
 
-* Bug Fix: Column Range Chart Gradient colors were applied instead of the configured solid color\
+* Bug Fix - Column Range Chart Gradient colors were applied instead of the configured solid color\
   when using Color by Metric condition.
-* Bug Fix: Column Range Chart inconsistent handling of NULL values between attribute-based\
+* Bug Fix - Column Range Chart inconsistent handling of NULL values between attribute-based\
   and metric based datasets.
-* Bug Fix: Column Range Chart Threshold specific data labels caused floating markers to appear\
+* Bug Fix - Column Range Chart Threshold specific data labels caused floating markers to appear\
   incorrectly.
-* Bug Fix: Stacked Bar Chart zooming with Auto Scroll enabled caused unnecessary blank space\
+* Bug Fix - Stacked Bar Chart zooming with Auto Scroll enabled caused unnecessary blank space\
   to appear after zoom operations
 
 ### 5.3.13
