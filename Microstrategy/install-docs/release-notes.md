@@ -4,6 +4,19 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
+## 5.4
+
+* Improvement : usability improvements to the customization tool
+* Bug Fix: Stacked Bar Chart Zoom issue causing blank space with auto scroll enabled.
+* Bug Fix: Column Range Chart threshold-specific data labels causing floating markers.
+* Bug Fix: Column Range Chart inconsistent error message for NULL values between attributes\
+  and metrics.
+* Bug Fix: Sankey Chart node colors not reflecting across all levels.
+* Bug Fix: Sankey Chart nodes with the same name in different attributes not being colored\
+  correctly.
+* Bug Fix: Bar Chart IBCS scaling issue.
+* Bug Fix: Data Marker size and label positioning issue
+
 ### 5.3.14
 
 * Bug Fix - Column Range Chart Gradient colors were applied instead of the configured solid color\
@@ -25,7 +38,7 @@ description: Here's the list of all changes in each release (latest release firs
 
 ### 5.3.11
 
-* **Enhancement** - Added support for percentage-based threshold coloring in the Column Range Chart, allowing thresholds to be configured using percentage values.
+* Improvement - Added support for percentage-based threshold coloring in the Column Range Chart, allowing thresholds to be configured using percentage values.
 * Bug Fix – Column Range Chart was not rendering when attribute values contained null values along with start and end metric values.
 * Bug Fix –  Incorrect plugin version was displayed in the Health Check tool.
 * Bug Fix – Threshold formatting in Grid Chart incorrectly highlighted values equal to 0.
