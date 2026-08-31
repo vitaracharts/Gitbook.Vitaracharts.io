@@ -4,7 +4,7 @@ description: Here's the list of all changes in each release (latest release firs
 
 # Release Notes
 
-## 5.4
+## 5.4.0
 
 * Improvement : usability improvements to the customization tool
 * Bug Fix: Stacked Bar Chart Zoom issue causing blank space with auto scroll enabled.
