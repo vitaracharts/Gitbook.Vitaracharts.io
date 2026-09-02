@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Polar Charts
 
 Some of the charts in VitaraCharts 4.6 can be converted to Polar charts. Line, Area, Bar, Column, Stacked Bar, and Stacked Column charts are available. Polar charts are also known as radar charts due to their usage of a radial value/category axis. When you convert a chart to a Polar chart, the X-axis becomes a circular/radial axis, and the axis values are shown along the circle. Here are some screenshots of Polar charts.&#x20;

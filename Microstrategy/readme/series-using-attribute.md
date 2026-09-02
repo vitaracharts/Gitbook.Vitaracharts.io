@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Series using Attribute
 
 ## Draw Chart Series Using Attribute <a href="#draw-chart-series-using-attribute" id="draw-chart-series-using-attribute"></a>

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Sparkline Chart
 
 A Sparkline is a short graphic that displays trend information and is aligned with rows of some tabular data. Without taking up a lot of room, sparklines (also known as micro-charts) can provide sophisticated visualisation capabilities to tabular data.

@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Packed Bubble Chart
 
 A packed bubble chart is a data visualization that displays information in a hierarchical, circular format. It uses circles, or “bubbles,” to represent data points. Each bubble’s size represents a data value, and the bubbles are grouped hierarchically, with smaller bubbles nested within larger ones. Packed bubble charts are effective for showing data relationships and hierarchies, allowing users to visualize data clusters and compare values within them. They are often used in data analytics, finance, and project management to depict complex data structures and identify trends and patterns.

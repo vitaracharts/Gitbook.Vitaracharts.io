@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Sankey Chart
 
 A Sankey chart is a data visualization tool used to represent the flow or distribution of resources, energy, or values between multiple entities or stages. It consists of interconnected arrows or flow paths, with the width of each path proportional to the quantity it represents. Sankey charts are commonly used in fields like energy management, economics, and process engineering to illustrate the transfer of resources or information, making it easier to understand complex systems, identify inefficiencies, and optimize processes.
@@ -160,7 +181,7 @@ In the current example, the attribute ‘Navigation Source’ represents the sou
 The Sankey chart will appear in the row data flow model as soon as we choose the source and target properties. The Sankey chart with source and target attributes configured is shown in the screenshot below.
 
 In the Sankey chart, we can see the branch that was previously mentioned.\
-&#xNAN;_&#x4F;nline Order → Order Submitted → Payment Verification → Credit approved/Credit Denied/Credit Review/Order Prepaid/Payment Denied/Processing Payment_
+_&#x4F;nline Order → Order Submitted → Payment Verification → Credit approved/Credit Denied/Credit Review/Order Prepaid/Payment Denied/Processing Payment_
 
 <figure><img src="../.gitbook/assets/sankeyNewModel7.png" alt=""><figcaption></figcaption></figure>
 

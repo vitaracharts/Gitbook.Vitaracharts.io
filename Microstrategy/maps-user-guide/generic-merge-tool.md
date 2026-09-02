@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Generic Merge tool
 
 ## Unleashing Custom Grouped Regions with Vitara’s Dynamic Merge Tool
@@ -25,7 +46,7 @@ Now, let’s dive into a practical example—creating CBSA regions using a geojs
 * &#x20;**Using Existing County-Level GeoJSON**&#x20;
 
 Locate the US county-level GeoJSON file within the package at the following path:\
-&#xNAN;**/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**.
+**/plugins/VitaraMaps/custom/shapes/us-all-admin2.geo.json**.
 
 * &#x20; **Acquiring US States GeoJSON**&#x20;
 

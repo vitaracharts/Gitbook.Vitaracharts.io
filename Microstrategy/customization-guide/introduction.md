@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Introduction
 
 **Please note that several of these features (linked to on the left) require a specific version (or higher) of VitaraCharts. These requirements are noted on each the page. Please pay attention to this prior to trying out these features**

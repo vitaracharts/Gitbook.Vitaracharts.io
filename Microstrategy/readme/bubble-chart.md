@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Bubble Chart
 
 A Bubble chart is a type of chart that displays three dimensions of data. The size of the bubble, the color of the bubble and the location can all be used to represent information in an intuitive manner.

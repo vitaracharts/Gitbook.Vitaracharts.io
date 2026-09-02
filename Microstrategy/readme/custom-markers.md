@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Custom Markers
 
 ## The Power of Custom Markers in Charts <a href="#the-power-of-custom-markers-in-charts" id="the-power-of-custom-markers-in-charts"></a>

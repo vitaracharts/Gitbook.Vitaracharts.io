@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Trellis Chart
 
 Please use the [Small Multiples](small-multiples.md) feature instead. Trellis chart will continue to work for existing use cases but will no longer be enhanced

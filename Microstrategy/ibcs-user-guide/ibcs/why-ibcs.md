@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Why IBCS
 
 #### Why IBCS and what is it used for <a href="#why-ibcs-and-what-is-it-used-for" id="why-ibcs-and-what-is-it-used-for"></a>

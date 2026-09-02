@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Stacked Column/Bar
 
 A stacked bar/column chart is a graphical representation where individual data values are segmented into sections, and each section is stacked on top of another, making up the total value for a specific category. It’s used to illustrate the composition and comparison of data categories while showing their cumulative total.

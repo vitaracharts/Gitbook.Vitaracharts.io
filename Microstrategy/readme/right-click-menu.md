@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Right Click Menu
 
 ## Right Click Menu in MicroStrategy 2020 Presentation Mode <a href="#right-click-menu-in-microstrategy-2020-presentation-mode" id="right-click-menu-in-microstrategy-2020-presentation-mode"></a>

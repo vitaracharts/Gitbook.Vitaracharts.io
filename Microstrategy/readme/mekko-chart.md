@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Mekko Chart
 
 The Mekko chart uses a two-dimensional axis to display data. It is comparable to a stack bar chart, but it also displays, by changing the width of the bars, how the various stack categories relate to one another. This will make it easier to determine how a given category contributed.

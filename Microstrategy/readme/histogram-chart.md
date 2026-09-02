@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Histogram Chart
 
 To categorise values of a metric into predetermined bins, a histogram is utilized. Data is shown graphically using bars of various heights. A histogram groups metric values into ranges (bin size), similar to a bar chart, but you may choose which ranges to use. You can adjust the bin size to meet your needs. The values under each bin’s cumulative sum line can also be displayed.

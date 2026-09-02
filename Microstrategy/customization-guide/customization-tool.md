@@ -90,9 +90,9 @@ Below the screenshot for your reference<br>
 Access the customization interface from the following locations:
 
 * For MicroStrategy Web Application:\
-  &#xNAN;**/MicroStrategy/plugins/VitaraCharts/utils/customizations.html**
+  **/MicroStrategy/plugins/VitaraCharts/utils/customizations.html**
 * For MicroStrategy Library Application:\
-  &#xNAN;**/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**<br>
+  **/MicroStrategyLibrary/plugins/VitaraCharts/utils/customizations.html**<br>
 
 📌 **Note**: Customizations must be applied separately for Web and Library  environments.
 
@@ -212,3 +212,19 @@ To illustrate how custom styling works, the screenshots below demonstrate how to
 <img src="../.gitbook/assets/image (31).png" alt="" data-size="original">
 
 <figure><img src="../.gitbook/assets/unknown (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Customization Tool: Download Files Option
+
+Starting from version **5.4**, the Customization Tool provides a Download  option that allows users to download all customization files from the server and save/copy them locally.
+
+This is useful when the local and server customization files are out of sync, which can otherwise result in users losing their changes.
+
+Expected Behavior:
+
+* The Download Files option should download all files available in the custom folder from the server.
+* Both modified and unmodified files should be included in the downloaded package.
+* The downloaded files should preserve the server-side customization files so users can use them as a local backup or synchronize their local environment.
+
+<img src="../.gitbook/assets/unknown (51).png" alt="" height="284" width="624">
+
+<br>

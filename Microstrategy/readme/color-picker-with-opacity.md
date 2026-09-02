@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Color Picker with Opacity
 
 In Version 5.1, a new slider is included that allows users to vary the transparency of any specific colour applied to regions where colour opacity can be adjusted as desired. The legends, thresholds, data labels, appearance, tooltip, series, and axes tabs all have this feature.

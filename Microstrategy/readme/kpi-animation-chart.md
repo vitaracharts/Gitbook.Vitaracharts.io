@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # KPI Animation Chart
 
 Gauges are often used in business to show critical measurements. They typically display a single essential performance metric and are prominently displayed on the dashboard. Custom gauges in VitaraCharts include animated views to increase aesthetics while also drawing the user’s attention to the KPI. A VI dashboard developed with Vitara’s custom visualizations, including the animated gauge, is shown below.

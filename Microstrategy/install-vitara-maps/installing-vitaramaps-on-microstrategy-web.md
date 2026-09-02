@@ -41,7 +41,7 @@ Follow the steps below if this is your first time installing VitaraMaps:
 6. **Validate Version Folders**
 
 * Confirm that only one version folder of VitaraMaps exists within both the style and source directories:\
-  &#xNAN;**/Tomcat/webapps/MicroStrategy/plugins/VitaraMaps/style**
+  **/Tomcat/webapps/MicroStrategy/plugins/VitaraMaps/style**
 
 &#x20;     **/Tomcat/webapps/MicroStrategy/plugins/VitaraMaps/javascript/mojo/js/source**
 
@@ -95,7 +95,7 @@ _**Note**: The plugins directory should contain only one folder named **VitaraMa
 6. **Replace** the license.txt file in the new VitaraMaps folder with the license file provided to you.
 
 **Restore** your backup files (**global.txt, customStyles.css, mappingLayers.txt**, and all its dependent files) to the following location:\
-&#xNAN;**/webapps/MicroStrategy/plugins/VitaraMaps/custom/**
+**/webapps/MicroStrategy/plugins/VitaraMaps/custom/**
 
 7. **Start** the Web Server.
 8. **Clear** browser caches and access dossiers/documents from a new browser or incognito window to avoid issues related to previously cached license files.

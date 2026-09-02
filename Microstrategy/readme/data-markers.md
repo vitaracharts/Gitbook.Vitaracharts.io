@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Data Markers
 
 1. In traditional charts, data points are represented by bars and lines. Users of Vitara charts will be able to utilise markers to indicate the data points starting with version 4.4.

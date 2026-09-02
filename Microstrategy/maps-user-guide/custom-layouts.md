@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Custom Layouts
 
 ## Creating Custom Map chart from Images <a href="#creating-custom-map-chart-from-images" id="creating-custom-map-chart-from-images"></a>

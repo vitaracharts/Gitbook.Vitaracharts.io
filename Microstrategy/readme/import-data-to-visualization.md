@@ -45,6 +45,6 @@ Select the desired Vitara chart type from the available options.
 
 The chart will automatically update based on the selected values, rendering the Vitara visualization.\
 \
-&#xNAN;_**Please refer to the GIF file for reference.**_
+_**Please refer to the GIF file for reference.**_
 
 <figure><img src="../.gitbook/assets/Basic rendering (1).gif" alt=""><figcaption></figcaption></figure>
