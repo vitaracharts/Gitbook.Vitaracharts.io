@@ -22,6 +22,13 @@ layout:
 
 # Release Notes Maps
 
+### 5.3.10
+
+* Bug Fix: Misaligned threshold value boxes in the Maps Editor.
+* Bug Fix: Charts failing to render due to dependency loading errors.
+* Bug Fix: Tooltip background box not rendering correctly.
+* Bug Fix: Configured tooltip background color not being applied.
+
 ### 5.3.6
 
 * Improvement: The Maps tab now includes an Animation toggle (on/off).
