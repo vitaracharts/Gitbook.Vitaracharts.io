@@ -32,3 +32,8 @@ layout:
 {% content-ref url="installing-vitaracharts-on-strategy-library.md" %}
 [installing-vitaracharts-on-strategy-library.md](installing-vitaracharts-on-strategy-library.md)
 {% endcontent-ref %}
+
+{% content-ref url="installing-on-strategy-mobile-no-longer-supported.md" %}
+[installing-on-strategy-mobile-no-longer-supported.md](installing-on-strategy-mobile-no-longer-supported.md)
+{% endcontent-ref %}
+
