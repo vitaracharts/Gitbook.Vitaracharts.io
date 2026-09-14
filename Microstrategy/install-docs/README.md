@@ -29,6 +29,6 @@ layout:
 [installing-on-microstrategy-desktop-workstation.md](installing-on-microstrategy-desktop-workstation.md)
 {% endcontent-ref %}
 
-{% content-ref url="installing-vitaracharts-on-microstrategy-library.md" %}
-[installing-vitaracharts-on-microstrategy-library.md](installing-vitaracharts-on-microstrategy-library.md)
+{% content-ref url="installing-vitaracharts-on-strategy-library.md" %}
+[installing-vitaracharts-on-strategy-library.md](installing-vitaracharts-on-strategy-library.md)
 {% endcontent-ref %}
