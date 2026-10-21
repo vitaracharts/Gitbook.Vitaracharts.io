@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Appearance
@@ -39,7 +41,7 @@ Grid theme from right click property window:
 
 <figure><img src="../.gitbook/assets/image31.png" alt=""><figcaption></figcaption></figure>
 
-From 4.5 version of VitaraCharts, grid chart supports custom themes. To know more about Custom themes, click [here](about:/customization/GridCustomCSS#custom-themes.html).
+From 4.5 version of VitaraCharts, grid chart supports custom themes. To know more about Custom themes, click [here](https://docs.vitaracharts.com/customization-guide/grid-custom-css).
 
 ## Layout <a href="#layout" id="layout"></a>
 

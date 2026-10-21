@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Creating a micro chart
@@ -43,7 +45,7 @@ See the screenshot which shows the year attribute in grouped state.<br>
 <figure><img src="../.gitbook/assets/gridMicro2.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:**\
-Now we will apply 3 different trend lines for the 3 different metrics. To know about trend lines click here\
+Now we will apply 3 different trend lines for the 3 different metrics. To know about trend lines [click here](https://docs.vitaracharts.com/grid-microchart-guide/trend-lines)\
 See the screenshot which shows the trendlines applied.<br>
 
 <figure><img src="../.gitbook/assets/gridMicro3.png" alt=""><figcaption></figcaption></figure>

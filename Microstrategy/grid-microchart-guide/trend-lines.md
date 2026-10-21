@@ -13,7 +13,7 @@ Attributes: 2 or more\
 Metrics: 1 or more\
 In the Grid chart, the **trendlines are always applied for the second level grouped attribute** in the chart irrespective of the number of attributes. And that attribute is called the **‘trend by’** attribute.
 
-To use trendlines in a grid chart, **the grid should be either in grouped mode or pivoted**. To know about Grouping and Pivoting in Grid chart, click here
+To use trendlines in a grid chart, **the grid should be either in grouped mode or pivoted**. To know about Grouping and Pivoting in Grid chart,[ click here](https://docs.vitaracharts.com/grid-microchart-guide/pivoting-and-row-grouping)
 
 There are **three types of trendlines** in the Vitara Grid chart. They are
 
